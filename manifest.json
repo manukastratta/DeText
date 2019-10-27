@@ -1,0 +1,15 @@
+{
+    "manifest_version": 2,
+    "name": "DeText",
+    "version": "1.0",
+    "description": "Browser extension for automating content warnings",
+    "icons": {
+        "128": "icon-128x128.png",
+        "48": "icon-48x48.png",
+        "16": "icon-16x16.png"
+    },
+    "browser_action": {
+        "default_icon": "icon-48x48.png",
+        "default_popup": "popup.html"
+    }
+}
