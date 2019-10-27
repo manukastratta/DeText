@@ -11,5 +11,10 @@
     "browser_action": {
         "default_icon": "images/logo/icon-48x48.png",
         "default_popup": "popup.html"
-    }
+    },
+    "options_page": "options.html",
+    
+    "permissions": [
+        "storage" 
+    ]
 }
