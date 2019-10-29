@@ -15,6 +15,8 @@
     "options_page": "options.html",
     
     "permissions": [
-        "storage" 
+        "storage" , 
+        "tabs",
+        "<all_urls>"
     ]
 }
