@@ -1,6 +1,6 @@
+import requests
 from bs4 import BeautifulSoup
 from bs4.element import Comment
-import requests
 
 
 def tag_visible(element):
@@ -18,14 +18,15 @@ def text_from_html(body):
     return " ".join(text.strip() for text in visible_texts)
 
 
-response = requests.get("https://www.crummy.com/software/BeautifulSoup/")
+def get_response():
+    response = requests.get("https://www.crummy.com/software/BeautifulSoup/")
 
-# Check for valid response
-if response.status_code > 300 or response.status_code < 200:
-    print("Possible Error, response code:", response.status_code)
-    exit()
-else:
-    print("Received Valid Response from website")
-    print("Processing...")
+    # Check for valid response
+    if response.status_code > 300 or response.status_code < 200:
+        print("Possible Error, response code:", response.status_code)
+        exit()
+    else:
+        print("Received Valid Response from website")
+        print("Processing...")
+    print(text_from_html(response.content))
 
-print(text_from_html(response.content))
