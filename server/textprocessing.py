@@ -18,8 +18,8 @@ def text_from_html(body):
     return " ".join(text.strip() for text in visible_texts)
 
 
-def get_response():
-    response = requests.get("https://www.crummy.com/software/BeautifulSoup/")
+def get_response(web_url):
+    response = requests.get(web_url)
 
     # Check for valid response
     if response.status_code > 300 or response.status_code < 200:
@@ -28,5 +28,5 @@ def get_response():
     else:
         print("Received Valid Response from website")
         print("Processing...")
-    print(text_from_html(response.content))
+    return text_from_html(response.content)
 
