@@ -11,7 +11,10 @@ def output():
         if request.method == "GET":
             return textprocessing.get_response("http://www.google.com")
         if request.method == "POST":
-            return textprocessing.text_from_html(request.values.get('html'))
+            # return "<h4>hello</h4>"
+            return {
+                "text": textprocessing.text_from_html(request.values.get('html'))
+            }
     except Exception as e:
         return flash(e)
 

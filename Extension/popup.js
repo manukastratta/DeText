@@ -1,19 +1,3 @@
-chrome.runtime.onMessage.addListener(function(request, sender) {
-    if (request.action == "getSource") {
-//       //message.innerText = request.source;
-//       console.log("http://127.0.0.1:5000/")
-//       $.post("http://127.0.0.1:5000/", {html:request.source},
-//           function (response) {
-//              // send response to the content script to be displayed
-//              chrome.runtime.sendMessage({
-//                 method: "contentWarning",
-//                 meaning: response
-//              });
-//           });
-      message.innerText = request.source
-    }
-});
-
 //Injects script into tab to extract HTML
 function onWindowLoad() {
   var message = document.querySelector('#message');
@@ -26,17 +10,24 @@ function onWindowLoad() {
       message.innerText = 'There was an error injecting script : \n' + chrome.runtime.lastError.message;
     }
   });
+  // chrome.tabs.executeScript(null, {file: "app.js"})
 }
 
 window.onload = onWindowLoad;
 
-// listen for a response from the app.js script
-chrome.runtime.onMessage.addListener(function(request, sender) {
-     if (request.action == "contentWarning") {
-       //Recieves response from server that can be used to modify popup.html
 
+// listen for a message from the app.js script
+if (!chrome.runtime.onMessage.hasListener(appListener)) {
+    chrome.runtime.onMessage.addListener(appListener);
+    // console.log("event heard around the world")
+}
+
+// listen for a response from the app.js script
+function appListener(request, sender) {
+     if (request.action == "contentWarning") {
+        message.innerText = request.source;
      }
-});
+}
 
 // $(function() {
 //     $('#name').keyup(function() {
