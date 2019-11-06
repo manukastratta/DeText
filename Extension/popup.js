@@ -28,7 +28,13 @@ function appListener(request, sender) {
         message.innerText = request.source;
      }
 }
-
+// async function serverResponse() {
+//   console.log("yes")
+//   const response = await fetch('http://127.0.0.1:5000/');
+//   console.log("response recieved")
+//   const myJson = await response.json();
+//   console.log(JSON.stringify(myJson));
+// }
 // $(function() {
 //     $('#name').keyup(function() {
 //         $('#greet').text('Hello ' + $('#name').val());

@@ -1,4 +1,4 @@
-from flask import Flask, render_template, flash, request
+from flask import Flask, render_template, flash, request, redirect
 import textprocessing
 
 
@@ -9,11 +9,11 @@ app = Flask(__name__)
 def output():
     try:
         if request.method == "GET":
-            return textprocessing.get_response("http://www.google.com")
+            return redirect("https://github.com/manukastratta/DeText", code=303)
         if request.method == "POST":
-            # return "<h4>hello</h4>"
+            text = textprocessing.text_from_html(request.values.get('html'))
             return {
-                "text": textprocessing.text_from_html(request.values.get('html'))
+                "text": text
             }
     except Exception as e:
         return flash(e)
