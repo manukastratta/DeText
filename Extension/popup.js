@@ -1,6 +1,6 @@
 //Injects script into tab to extract HTML
 function onWindowLoad() {
-  var message = document.querySelector('#message');
+  const message = document.querySelector('#message');
 
   chrome.tabs.executeScript(null, {
     file: "getPagesSource.js"
@@ -24,6 +24,7 @@ if (!chrome.runtime.onMessage.hasListener(appListener)) {
 
 // listen for a response from the app.js script
 function appListener(request, sender) {
+  console.log("heard request", request.action)
      if (request.action == "contentWarning") {
         message.innerText = request.source;
      }
