@@ -3,11 +3,11 @@ chrome.runtime.onMessage.addListener(function(request, sender) {
       message.innerText = request.source;
     }
   });
-  
+
   function onWindowLoad() {
-  
+
     var message = document.querySelector('#message');
-  
+
     chrome.tabs.executeScript(null, {
       file: "getPagesSource.js"
     }, function() {
@@ -16,9 +16,9 @@ chrome.runtime.onMessage.addListener(function(request, sender) {
         message.innerText = 'There was an error injecting script : \n' + chrome.runtime.lastError.message;
       }
     });
-  
+
   }
-  
+
   window.onload = onWindowLoad;
 
 $(function() {
@@ -26,3 +26,16 @@ $(function() {
         $('#greet').text('Hello ' + $('#name').val());
     })
 })
+
+// sends HTML string to server
+function lookUpAcronym(info) {
+    // pass selected text to gunicorn server
+    $.post("http://127.0.0.1:5000/", {selection:info.selectionText},
+        function (response) {
+	         chrome.tabs.query({active:true, currentWindow: true},
+				   function(tabs) {
+				         // send response to the content script to be displayed
+				         chrome.tabs.sendMessage(tabs[0].id, {method: "displayMeaning", meaning: response});
+				   });
+	      });
+}
