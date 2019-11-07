@@ -8,9 +8,9 @@ app = Flask(__name__)
 @app.route("/", methods=["GET", "POST"])
 def output():
     try:
-        # # Handles GET request (likely from browser) by redirecting to github
-        # if request.method == "GET":
-        #     return redirect("https://github.com/manukastratta/DeText", code=303)
+        # Handles GET request (likely from browser) by redirecting to github
+        if request.method == "GET":
+            return redirect("https://github.com/manukastratta/DeText", code=303)
 
         # Handles POST request (from extension)
         if request.method == "POST":
@@ -22,10 +22,10 @@ def output():
                 "text": text
             }
 
-        # For testing purposes, make request to server from browser to compare with request to server from extension
-        elif request.method == "GET":
-            url = "https://github.com/manukastratta/DeText2"
-            return textprocessing.get_response(url)
+        # # For testing purposes, make request to server from browser to compare with request to server from extension
+        # elif request.method == "GET":
+        #     url = "https://github.com/manukastratta/DeText2"
+        #     return textprocessing.get_response(url)
 
     # In case of server error
     except Exception as e:
