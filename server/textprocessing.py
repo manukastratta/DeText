@@ -17,6 +17,9 @@ def text_from_html(body):
     soup = BeautifulSoup(body, 'html.parser')
     texts = soup.findAll(text=True)
     visible_texts = filter(tag_visible, texts)  # Filters out non-visible segments
+    # print("visible_texts: {}".format(visible_texts))
+    # for text in visible_texts:
+    #     print(text)
     return " ".join(text.strip() for text in visible_texts)
 
 

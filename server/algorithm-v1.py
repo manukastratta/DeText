@@ -43,12 +43,12 @@ def getRawTextFromTrainingSet():
 def getCleanText(raw_training_set):
     cleaned_training_set = []
     for page_text in raw_training_set:
-        cleanTxt = textprocessing.text_from_html(page_text)
-        cleanList = list(cleanTxt.split(" ")) 
-        cleanList = list(set(cleanList)) #remove duplicates
-        cleanList = [x.lower() for x in cleanList] #lower case everything
+        clean_txt = textprocessing.text_from_html(page_text)
+        clean_list = list(clean_txt.split(" "))
+        clean_list = list(set(clean_list)) # remove duplicates
+        clean_list = [x.lower() for x in clean_list] # lower case everything
         # TODO: remove punctuation
-        cleaned_training_set.append(cleanList)
+        cleaned_training_set.append(clean_list)
     return cleaned_training_set
 
 
@@ -74,16 +74,17 @@ def shouldDisplayContentWarning(page_text):
     # print("implicit present: ", implicit_present)
 
     if len(explicit_present) >= 2 and len(implicit_present) >= 2:
-        return True # TODO: define thresholds
+        return True  # TODO: define thresholds
     else:
         return False
+
 
 def test_function():
     # Parse text files and extract clean html without tags
     raw_training_set, names = getRawTextFromTrainingSet()
     clean_training_set = getCleanText(raw_training_set)
-    print(clean_training_set)
-    return
+    # print(clean_training_set)
+    # return
 
     shouldDisplayContentWarning(clean_training_set[12])
 
@@ -92,7 +93,7 @@ def test_function():
         if shouldDisplayContentWarning(clean_training_set[i]):
             print("Should display content warning!")
         else:
-            print("Should not display content warning.")
+            print("Should NOT display content warning.")
 
 
 test_function()
