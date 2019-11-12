@@ -10,19 +10,19 @@ function onWindowLoad() {
       message.innerText = 'There was an error injecting script : \n' + chrome.runtime.lastError.message;
     }
   });
-  // chrome.tabs.executeScript(null, {file: "app.js"})
+  // chrome.tabs.executeScript(null, {file: "background.js"})
 }
 
 window.onload = onWindowLoad;
 
 
-// listen for a message from the app.js script
+// listen for a message from the background.js script
 if (!chrome.runtime.onMessage.hasListener(appListener)) {
     chrome.runtime.onMessage.addListener(appListener);
     // console.log("event heard around the world")
 }
 
-// listen for a response from the app.js script
+// listen for a response from the background.js script
 function appListener(request, sender) {
   console.log("heard request", request.action)
      if (request.action == "contentWarning") {

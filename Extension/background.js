@@ -10,10 +10,10 @@ chrome.runtime.onMessage.addListener(function(request, sender) {
       $.post("http://127.0.0.1:5000/", {html:request.source},
         function (response) {
           console.log("resp: " + JSON.stringify(response));
-          // chrome.runtime.sendMessage({
-          //     action: "contentWarning",
-          //     source: "hello"
-          // });
+          chrome.runtime.sendMessage({
+              action: "contentWarning",
+              source: "hello"
+          });
           // message.innerText = JSON.stringify(response);
          // chrome.tabs.query({active:true, currentWindow: true},
          //  function(tabs) {
