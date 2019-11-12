@@ -1,0 +1,826 @@
+
+<!DOCTYPE html><!-- HTML 5 -->
+<html lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://www.westernfrontonline.com/xmlrpc.php" />
+
+
+<!-- MapPress Easy Google Maps Version:2.53.3 (http://www.mappresspro.com/mappress) -->
+<script type='text/javascript'>mapp = window.mapp || {}; mapp.data = [];</script>
+<title>Western expels second student for sexual misconduct in five years, but too late &ndash; The Western Front</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v12.4 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1"/>
+<link rel="canonical" href="http://www.westernfrontonline.com/2018/08/03/western-expels-second-student-for-sexual-misconduct-in-five-years-but-too-late/" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Content warning: This story contains descriptions of sexual assault. By Haley Ausbun, Asia Fields and Rebekah Way On June 12, Nickolas (Nick) Tadashi Vitalis was sanctioned with expulsion after a Western investigation found him responsible for sexual misconduct and dating and domestic violence. Four days later, Vitalis was [...]" />
+<meta name="twitter:title" content="Western expels second student for sexual misconduct in five years, but too late &ndash; The Western Front" />
+<meta name="twitter:site" content="@TheFrontOnline" />
+<meta name="twitter:image" content="http://www.westernfrontonline.com/wp-content/uploads/2018/08/protest4-e1533351046560.jpg" />
+<meta name="twitter:creator" content="@TheFrontOnline" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"http://www.westernfrontonline.com/#organization","name":"The Western Front","url":"http://www.westernfrontonline.com/","sameAs":["https://www.facebook.com/westernfrontonline/","https://www.instagram.com/thefrontonline/","https://www.youtube.com/user/westernfrontonline","https://twitter.com/TheFrontOnline"],"logo":{"@type":"ImageObject","@id":"http://www.westernfrontonline.com/#logo","url":"http://www.westernfrontonline.com/wp-content/uploads/2018/01/cropped-Logo-with-shade-of-Western-blue-2.png","width":512,"height":512,"caption":"The Western Front"},"image":{"@id":"http://www.westernfrontonline.com/#logo"}},{"@type":"WebSite","@id":"http://www.westernfrontonline.com/#website","url":"http://www.westernfrontonline.com/","name":"The Western Front","publisher":{"@id":"http://www.westernfrontonline.com/#organization"},"potentialAction":{"@type":"SearchAction","target":"http://www.westernfrontonline.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"ImageObject","@id":"http://www.westernfrontonline.com/2018/08/03/western-expels-second-student-for-sexual-misconduct-in-five-years-but-too-late/#primaryimage","url":"http://www.westernfrontonline.com/wp-content/uploads/2018/08/protest4-e1533351046560.jpg","width":864,"height":341},{"@type":"WebPage","@id":"http://www.westernfrontonline.com/2018/08/03/western-expels-second-student-for-sexual-misconduct-in-five-years-but-too-late/#webpage","url":"http://www.westernfrontonline.com/2018/08/03/western-expels-second-student-for-sexual-misconduct-in-five-years-but-too-late/","inLanguage":"en-US","name":"Western expels second student for sexual misconduct in five years, but too late &ndash; The Western Front","isPartOf":{"@id":"http://www.westernfrontonline.com/#website"},"primaryImageOfPage":{"@id":"http://www.westernfrontonline.com/2018/08/03/western-expels-second-student-for-sexual-misconduct-in-five-years-but-too-late/#primaryimage"},"datePublished":"2018-08-04T02:51:46+00:00","dateModified":"2019-04-28T00:33:47+00:00"},{"@type":"Article","@id":"http://www.westernfrontonline.com/2018/08/03/western-expels-second-student-for-sexual-misconduct-in-five-years-but-too-late/#article","isPartOf":{"@id":"http://www.westernfrontonline.com/2018/08/03/western-expels-second-student-for-sexual-misconduct-in-five-years-but-too-late/#webpage"},"author":{"@id":"http://www.westernfrontonline.com/#/schema/person/a8d7aec0f1dde2d454348c49671f25d6"},"headline":"Western expels second student for sexual misconduct in five years, but too late","datePublished":"2018-08-04T02:51:46+00:00","dateModified":"2019-04-28T00:33:47+00:00","commentCount":0,"mainEntityOfPage":{"@id":"http://www.westernfrontonline.com/2018/08/03/western-expels-second-student-for-sexual-misconduct-in-five-years-but-too-late/#webpage"},"publisher":{"@id":"http://www.westernfrontonline.com/#organization"},"image":{"@id":"http://www.westernfrontonline.com/2018/08/03/western-expels-second-student-for-sexual-misconduct-in-five-years-but-too-late/#primaryimage"},"keywords":"dating violence,domestic violence,EOO,expel,expelled,expulsion,Office of Student Life,OSL,sexual assault,sexual misconduct,slider,survivors,Title IX","articleSection":"News,Western Watchdog"},{"@type":["Person"],"@id":"http://www.westernfrontonline.com/#/schema/person/a8d7aec0f1dde2d454348c49671f25d6","name":"westernfrontonline@gmail.com","image":{"@type":"ImageObject","@id":"http://www.westernfrontonline.com/#authorlogo","url":"http://1.gravatar.com/avatar/dedadf5eb4044569c4fcfd3ccfed86a4?s=96&d=mm&r=g","caption":"westernfrontonline@gmail.com"},"sameAs":[]}]}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="The Western Front &raquo; Feed" href="http://www.westernfrontonline.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Western Front &raquo; Comments Feed" href="http://www.westernfrontonline.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Western Front &raquo; Western expels second student for sexual misconduct in five years, but too late Comments Feed" href="http://www.westernfrontonline.com/2018/08/03/western-expels-second-student-for-sexual-misconduct-in-five-years-but-too-late/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.westernfrontonline.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.1.3"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='login-with-ajax-css'  href='http://www.westernfrontonline.com/wp-content/plugins/login-with-ajax/widget/widget.css?ver=3.1.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='dynamicnews-custom-fonts-css'  href='http://www.westernfrontonline.com/wp-content/themes/dynamic-news-lite/css/custom-fonts.css?ver=20180413' type='text/css' media='all' />
+<link rel='stylesheet' id='sb_instagram_styles-css'  href='http://www.westernfrontonline.com/wp-content/plugins/instagram-feed/css/sb-instagram-2-1.min.css?ver=2.1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='http://www.westernfrontonline.com/wp-includes/css/dist/block-library/style.min.css?ver=5.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='mappress-leaflet-css'  href='http://www.westernfrontonline.com/wp-content/plugins/mappress-google-maps-for-wordpress/css/leaflet/leaflet.css?ver=1.4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='mappress-css'  href='http://www.westernfrontonline.com/wp-content/plugins/mappress-google-maps-for-wordpress/css/mappress.css?ver=2.53.3' type='text/css' media='all' />
+<link rel='stylesheet' id='photospace-styles-css'  href='http://www.westernfrontonline.com/wp-content/plugins/photospace/gallery.css?ver=5.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-polls-css'  href='http://www.westernfrontonline.com/wp-content/plugins/wp-polls/polls-css.css?ver=2.75.3' type='text/css' media='all' />
+<style id='wp-polls-inline-css' type='text/css'>
+.wp-polls .pollbar {
+	margin: 1px;
+	font-size: 6px;
+	line-height: 8px;
+	height: 8px;
+	background-image: url('http://www.westernfrontonline.com/wp-content/plugins/wp-polls/images/default/pollbg.gif');
+	border: 1px solid #c8c8c8;
+}
+
+</style>
+<link rel='stylesheet' id='dynamicnewslite-stylesheet-css'  href='http://www.westernfrontonline.com/wp-content/themes/dynamic-news-lite/style.css?ver=1.6' type='text/css' media='all' />
+<style id='dynamicnewslite-stylesheet-inline-css' type='text/css'>
+.site-title {
+	position: absolute;
+	clip: rect(1px, 1px, 1px, 1px);
+}
+</style>
+<link rel='stylesheet' id='genericons-css'  href='http://www.westernfrontonline.com/wp-content/plugins/jetpack/_inc/genericons/genericons/genericons.css?ver=3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='themezee-related-posts-css'  href='http://www.westernfrontonline.com/wp-content/themes/dynamic-news-lite/css/themezee-related-posts.css?ver=20160421' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.westernfrontonline.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.westernfrontonline.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var LWA = {"ajaxurl":"http:\/\/www.westernfrontonline.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.westernfrontonline.com/wp-content/plugins/login-with-ajax/widget/login-with-ajax.js?ver=3.1.8.1'></script>
+<script type='text/javascript' src='http://www.westernfrontonline.com/wp-content/plugins/photospace/jquery.galleriffic.js?ver=5.1.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpgmza_google_api_status = {"message":"Enqueued","code":"ENQUEUED"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.westernfrontonline.com/wp-content/plugins/wp-google-maps/wpgmza_data.js?ver=5.1.3'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='http://www.westernfrontonline.com/wp-content/themes/dynamic-news-lite/js/html5shiv.min.js?ver=3.7.3'></script>
+<![endif]-->
+<script type='text/javascript'>
+/* <![CDATA[ */
+var dynamicnews_menu_title = "Menu";
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.westernfrontonline.com/wp-content/themes/dynamic-news-lite/js/navigation.js?ver=20160719'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var dynamicnews_sidebar_title = "Sidebar";
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.westernfrontonline.com/wp-content/themes/dynamic-news-lite/js/sidebar.js?ver=20160421'></script>
+<link rel='https://api.w.org/' href='http://www.westernfrontonline.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.westernfrontonline.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.westernfrontonline.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.1.3" />
+<link rel='shortlink' href='http://www.westernfrontonline.com/?p=26615' />
+<link rel="alternate" type="application/json+oembed" href="http://www.westernfrontonline.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.westernfrontonline.com%2F2018%2F08%2F03%2Fwestern-expels-second-student-for-sexual-misconduct-in-five-years-but-too-late%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.westernfrontonline.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.westernfrontonline.com%2F2018%2F08%2F03%2Fwestern-expels-second-student-for-sexual-misconduct-in-five-years-but-too-late%2F&#038;format=xml" />
+
+		<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+			ga('create', 'UA-1642045-9', 'auto');
+			
+			ga('send', 'pageview');
+		</script>
+
+	          <style>
+          .has-post-thumbnail img.wp-post-image, 
+          .attachment-twentyseventeen-featured-image.wp-post-image { display: none !important; }          
+          </style><script type='text/javascript' data-cfasync='false'>var _mmunch = {'front': false, 'page': false, 'post': false, 'category': false, 'author': false, 'search': false, 'attachment': false, 'tag': false};_mmunch['post'] = true; _mmunch['postData'] = {"ID":26615,"post_name":"western-expels-second-student-for-sexual-misconduct-in-five-years-but-too-late","post_title":"Western expels second student for sexual misconduct in five years, but too late","post_type":"post","post_author":"1","post_status":"publish"}; _mmunch['postCategories'] = [{"term_id":4,"name":"News","slug":"news","term_group":0,"term_taxonomy_id":4,"taxonomy":"category","description":"","parent":0,"count":1614,"filter":"raw","cat_ID":4,"category_count":1614,"category_description":"","cat_name":"News","category_nicename":"news","category_parent":0},{"term_id":2695,"name":"Western Watchdog","slug":"western-watchdog","term_group":0,"term_taxonomy_id":2695,"taxonomy":"category","description":"","parent":4,"count":42,"filter":"raw","cat_ID":2695,"category_count":42,"category_description":"","cat_name":"Western Watchdog","category_nicename":"western-watchdog","category_parent":4}]; _mmunch['postTags'] = [{"term_id":4366,"name":"dating violence","slug":"dating-violence","term_group":0,"term_taxonomy_id":4366,"taxonomy":"post_tag","description":"","parent":0,"count":1,"filter":"raw"},{"term_id":2993,"name":"domestic violence","slug":"domestic-violence","term_group":0,"term_taxonomy_id":2993,"taxonomy":"post_tag","description":"","parent":0,"count":3,"filter":"raw"},{"term_id":2298,"name":"EOO","slug":"eoo","term_group":0,"term_taxonomy_id":2298,"taxonomy":"post_tag","description":"","parent":0,"count":6,"filter":"raw"},{"term_id":4368,"name":"expel","slug":"expel","term_group":0,"term_taxonomy_id":4368,"taxonomy":"post_tag","description":"","parent":0,"count":1,"filter":"raw"},{"term_id":4367,"name":"expelled","slug":"expelled","term_group":0,"term_taxonomy_id":4367,"taxonomy":"post_tag","description":"","parent":0,"count":1,"filter":"raw"},{"term_id":3042,"name":"expulsion","slug":"expulsion","term_group":0,"term_taxonomy_id":3042,"taxonomy":"post_tag","description":"","parent":0,"count":2,"filter":"raw"},{"term_id":4360,"name":"Office of Student Life","slug":"office-of-student-life","term_group":0,"term_taxonomy_id":4360,"taxonomy":"post_tag","description":"","parent":0,"count":3,"filter":"raw"},{"term_id":4361,"name":"OSL","slug":"osl","term_group":0,"term_taxonomy_id":4361,"taxonomy":"post_tag","description":"","parent":0,"count":2,"filter":"raw"},{"term_id":763,"name":"sexual assault","slug":"sexual-assault","term_group":0,"term_taxonomy_id":763,"taxonomy":"post_tag","description":"","parent":0,"count":26,"filter":"raw"},{"term_id":3041,"name":"sexual misconduct","slug":"sexual-misconduct","term_group":0,"term_taxonomy_id":3041,"taxonomy":"post_tag","description":"","parent":0,"count":6,"filter":"raw"},{"term_id":3052,"name":"slider","slug":"slider","term_group":0,"term_taxonomy_id":3052,"taxonomy":"post_tag","description":"","parent":0,"count":264,"filter":"raw"},{"term_id":2915,"name":"survivors","slug":"survivors","term_group":0,"term_taxonomy_id":2915,"taxonomy":"post_tag","description":"","parent":0,"count":3,"filter":"raw"},{"term_id":1228,"name":"Title IX","slug":"title-ix","term_group":0,"term_taxonomy_id":1228,"taxonomy":"post_tag","description":"","parent":0,"count":12,"filter":"raw"}]; _mmunch['postAuthor'] = {"name":"<a href=\"http:\/\/www.westernfrontonline.com\/byline\/asia-fields\/\" rel=\"tag\">Asia Fields<\/a>, <a href=\"http:\/\/www.westernfrontonline.com\/byline\/haley-ausbun\/\" rel=\"tag\">Haley Ausbun<\/a>, <a href=\"http:\/\/www.westernfrontonline.com\/byline\/rebekah-way\/\" rel=\"tag\">Rebekah Way<\/a>","ID":1};</script><script data-cfasync="false" src="//a.mailmunch.co/app/v1/site.js" id="mailmunch-script" data-plugin="mc_mm" data-mailmunch-site-id="468984" async></script><!--	photospace [ START ] --> 
+<style type="text/css">
+			/* reset */ 
+			.photospace img,
+			.photospace ul.thumbs,
+			.photospace ul.thumbs li,
+			.photospace ul.thumbs li a{
+				padding:0;
+				margin:0;
+				border:none !important;
+				background:none !important;
+				height:auto !important;
+				width:auto !important;
+			}
+			.photospace span{
+				padding:0; 
+				margin:0;
+				border:none !important;
+				background:none !important;
+			}
+			
+			.photospace .thumnail_col a.pageLink {
+				width:50px;
+				height:50px;
+			}
+			.photospace .gal_content,
+				.photospace .loader,
+				.photospace .slideshow a.advance-link{
+					width:865px;
+				}
+			.photospace{
+					width:1046px;
+				}
+			.photospace{
+					height:575px;
+				}
+			.photospace ul.thumbs li {
+					margin-bottom:10px !important;
+					margin-right:10px !important; 
+				}
+			.photospace .loader {
+					height: 287.5px;
+				}
+			.photospace .loader {
+					width: 865px;
+				}
+			.photospace .slideshow a.advance-link,
+				.photospace .slideshow span.image-wrapper {
+					height:575px;
+				}
+			.photospace .slideshow-container {
+					height:575px;
+				}
+		</style><!--	photospace [ END ] --> 
+      <meta name="onesignal" content="wordpress-plugin"/>
+        <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async></script>    <script>
+
+      window.OneSignal = window.OneSignal || [];
+
+      OneSignal.push( function() {
+        OneSignal.SERVICE_WORKER_UPDATER_PATH = "OneSignalSDKUpdaterWorker.js.php";
+        OneSignal.SERVICE_WORKER_PATH = "OneSignalSDKWorker.js.php";
+        OneSignal.SERVICE_WORKER_PARAM = { scope: '/' };
+
+        OneSignal.setDefaultNotificationUrl("http://www.westernfrontonline.com");
+        var oneSignal_options = {};
+        window._oneSignalInitOptions = oneSignal_options;
+
+        oneSignal_options['wordpress'] = true;
+oneSignal_options['appId'] = '';
+oneSignal_options['autoRegister'] = false;
+oneSignal_options['httpPermissionRequest'] = { };
+oneSignal_options['httpPermissionRequest']['enable'] = true;
+oneSignal_options['welcomeNotification'] = { };
+oneSignal_options['welcomeNotification']['title'] = "";
+oneSignal_options['welcomeNotification']['message'] = "";
+oneSignal_options['path'] = "https://www.westernfrontonline.com/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/";
+oneSignal_options['promptOptions'] = { };
+oneSignal_options['notifyButton'] = { };
+oneSignal_options['notifyButton']['enable'] = true;
+oneSignal_options['notifyButton']['position'] = 'bottom-right';
+oneSignal_options['notifyButton']['theme'] = 'default';
+oneSignal_options['notifyButton']['size'] = 'medium';
+oneSignal_options['notifyButton']['prenotify'] = true;
+oneSignal_options['notifyButton']['showCredit'] = true;
+oneSignal_options['notifyButton']['text'] = {};
+              OneSignal.init(window._oneSignalInitOptions);
+                    });
+
+      function documentInitOneSignal() {
+        var oneSignal_elements = document.getElementsByClassName("OneSignal-prompt");
+
+        var oneSignalLinkClickHandler = function(event) { OneSignal.push(['registerForPushNotifications']); event.preventDefault(); };        for(var i = 0; i < oneSignal_elements.length; i++)
+          oneSignal_elements[i].addEventListener('click', oneSignalLinkClickHandler, false);
+      }
+
+      if (document.readyState === 'complete') {
+           documentInitOneSignal();
+      }
+      else {
+           window.addEventListener("load", function(event){
+               documentInitOneSignal();
+          });
+      }
+    </script>
+
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #eeeeee; }
+</style>
+	
+<!-- WordPress Facebook Open Graph protocol plugin (WPFBOGP v2.0.13) http://rynoweb.com/wordpress-plugins/ -->
+<meta property="fb:admins" content="https://www.facebook.com/westernfrontonline"/>
+<meta property="fb:app_id" content="https://www.facebook.com/westernfrontonline"/>
+<meta property="og:url" content="http://www.westernfrontonline.com/2018/08/03/western-expels-second-student-for-sexual-misconduct-in-five-years-but-too-late/"/>
+<meta property="og:title" content="Western expels second student for sexual misconduct in five years, but too late"/>
+<meta property="og:site_name" content="The Western Front"/>
+<meta property="og:description" content="  Content warning: This story contains descriptions of sexual assault.  By Haley Ausbun, Asia Fields and Rebekah Way  On June 12, Nickolas (Nick) Tadashi "/>
+<meta property="og:type" content="article"/>
+<meta property="og:image" content="http://www.westernfrontonline.com/wp-content/uploads/2018/01/1506564_10151778256675870_1243052357_n-e1515984724947.png"/>
+<meta property="og:image" content="http://www.westernfrontonline.com/wp-content/uploads/2017/04/Western-Watchdog-7-300x232.jpg"/>
+<meta property="og:image" content="http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.58.53-PM-658x1024.png"/>
+<meta property="og:image" content="http://www.westernfrontonline.com/wp-content/uploads/2017/05/RAsitin5.jpg"/>
+<meta property="og:image" content="http://www.westernfrontonline.com/wp-content/uploads/2017/12/TakeBackTheNight_10-1-1024x683.jpg"/>
+<meta property="og:image" content="http://www.westernfrontonline.com/wp-content/uploads/2018/03/Screen-Shot-2018-03-07-at-6.38.50-AM-197x300.png"/>
+<meta property="og:image" content="http://www.westernfrontonline.com/wp-content/uploads/2018/06/Sexual-Assault.2.0-01-1-1024x995.png"/>
+<meta property="og:image" content="http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-9.37.43-PM-e1533185252730.png"/>
+<meta property="og:image" content="http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.45.09-PM-1-1024x676.png"/>
+<meta property="og:image" content="http://www.westernfrontonline.com/wp-content/uploads/2018/08/Resource-2-e1533179328588.jpg"/>
+<meta property="og:image" content="http://www.westernfrontonline.com/wp-content/uploads/2018/08/protest4.jpg"/>
+<meta property="og:image" content="http://www.westernfrontonline.com/wp-content/uploads/2018/08/protest4-e1533351046560.jpg"/>
+<meta property="og:locale" content="en_us"/>
+<!-- // end wpfbogp -->
+<link rel="icon" href="http://www.westernfrontonline.com/wp-content/uploads/2018/01/cropped-Logo-with-shade-of-Western-blue-2-32x32.png" sizes="32x32" />
+<link rel="icon" href="http://www.westernfrontonline.com/wp-content/uploads/2018/01/cropped-Logo-with-shade-of-Western-blue-2-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://www.westernfrontonline.com/wp-content/uploads/2018/01/cropped-Logo-with-shade-of-Western-blue-2-180x180.png" />
+<meta name="msapplication-TileImage" content="http://www.westernfrontonline.com/wp-content/uploads/2018/01/cropped-Logo-with-shade-of-Western-blue-2-270x270.png" />
+		<style type="text/css" id="wp-custom-css">
+			a, a:link, a:visited{
+	color: #003f87;
+	text-decoration: none;
+}
+input[type="submit"] {
+	border: none;
+	color: #fff;
+	background: #001936;
+}
+#logo .site-title {
+	display: inline-block;
+	font-size: 2.5em;
+	font-weight: bold;
+	color: #001936;
+	font-family: 'Francois One', Tahoma, Arial;
+}
+#logo .site-title a:link,
+#logo .site-title a:visited {
+	color: #001936;
+}
+#topnavi-wrap {
+	background: #001936;
+	position: relative;
+}
+.main-navigation-menu a:hover {
+	background: #001936;
+}
+.main-navigation-menu ul a:hover {
+	color: #fff;
+	background: #001936;
+}
+
+.entry-title a:hover, .entry-title a:active{
+	color: #001936;
+}
+.postinfo .meta-category a:hover, .postinfo .meta-category a:active {
+	background: #001936;
+	text-decoration: none;
+}
+.more-link {
+	display: inline-block;
+	margin: 0.5em 0;
+	padding: 0.6em 1em;
+	text-decoration: none;
+	color: #fff;
+	text-transform: uppercase;
+	background-color: #001936;
+}
+.archive-title span{
+	color: #001936;
+}
+.post-pagination a:hover {
+	color: #001936;
+}
+.post-pagination .current {
+	padding: 0.5em 0.9em;
+	margin-right: 0.2em;
+	color: #001936;
+	text-decoration: underline;
+}
+.infinite-scroll #infinite-handle span {
+	display: inline-block;
+	margin-bottom: 1.5em;
+	padding: 0.6em 1em;
+	line-height: 1.5;
+	font-size: 1em;
+	text-align: center;
+	text-decoration: none;
+	text-transform: uppercase;
+	color: #fff;
+	background-color: #001936;
+}
+#image-nav .nav-previous a, #image-nav .nav-next a {
+	font-size: 0.9em;
+	text-decoration: none;
+	color: #001936;
+}
+.social-icons-menu li a {
+	position: relative;
+	display: inline-block;
+	padding: 0.8em;
+	background: #001936;
+	text-decoration: none;
+	color: #fff;
+}
+.bypostauthor .fn, .comment-author-admin .fn {
+	background: #001936;
+}
+#commentform #submit {
+	display: block;
+	border: none;
+	margin-top: 1em;
+	padding: 1em 4em;
+	text-decoration: none;
+	color: #fff;
+	background: #001936;
+}
+	#mainnav-toggle:hover {
+		cursor: pointer;
+		background: #001936;
+	}
+	.main-navigation-menu .submenu-dropdown-toggle:hover {
+		cursor: pointer;
+		background: #001936;
+	}
+	.sidebar-navigation-toggle:hover,
+	.sidebar-navigation-toggle:active,
+	.sidebar-navigation-toggle:focus {
+		cursor: pointer;
+		background: #001936;
+	}
+	.sidebar-closing-toggle {
+		display: block;
+		width: 100%;
+		margin: 0 0 1.5em;
+		padding: 0.5em;
+		text-align: left;
+		text-transform: uppercase;
+		text-decoration: none;
+		font-size: 1.0em;
+		font-family: 'Francois One', Tahoma, Arial;
+		color: #fff;
+		background: #001936;
+		border: none;
+		-webkit-transition: all 0.1s ease-out;
+		-moz-transition: all 0.1s ease-out;
+		-ms-transition: all 0.1s ease-out;
+		-o-transition: all 0.1s ease-out;
+		transition: all 0.1s ease-out;
+	}
+.frontpage-slider-controls .zeeflex-control-paging li a.zeeflex-active {
+    background: #001936;
+    cursor: default;
+}
+#frontpage-slider .zeeslide .slide-entry {
+    line-height: 1.6em;
+    -ms-word-wrap: break-word;
+    word-wrap: break-word;
+    margin-top: 1px;
+    padding: 1em 1.5em;
+    color: #fff;
+    background: #333;
+    border-top: 10px solid #001936;
+}		</style>
+		
+<!-- START - Open Graph and Twitter Card Tags 2.2.7.2 -->
+ <!-- Facebook Open Graph -->
+  <meta property="og:locale" content="en_US"/>
+  <meta property="og:site_name" content="The Western Front"/>
+  <meta property="og:title" content="Western expels second student for sexual misconduct in five years, but too late"/>
+  <meta property="og:url" content="http://www.westernfrontonline.com/2018/08/03/western-expels-second-student-for-sexual-misconduct-in-five-years-but-too-late/"/>
+  <meta property="og:type" content="article"/>
+  <meta property="og:description" content="Content warning: This story contains descriptions of sexual assault.
+
+By Haley Ausbun, Asia Fields"/>
+  <meta property="og:image" content="http://www.westernfrontonline.com/wp-content/uploads/2018/08/protest4-e1533351046560.jpg"/>
+  <meta property="og:image:url" content="http://www.westernfrontonline.com/wp-content/uploads/2018/08/protest4-e1533351046560.jpg"/>
+  <meta property="article:published_time" content="2018-08-03T19:51:46-08:00"/>
+  <meta property="article:modified_time" content="2019-04-27T17:33:47-08:00" />
+  <meta property="og:updated_time" content="2019-04-27T17:33:47-08:00" />
+  <meta property="article:section" content="News"/>
+  <meta property="article:section" content="Western Watchdog"/>
+  <meta property="article:publisher" content="Facebook.com/WesternFrontOnline"/>
+ <!-- Google+ / Schema.org -->
+  <meta itemprop="name" content="Western expels second student for sexual misconduct in five years, but too late"/>
+  <meta itemprop="headline" content="Western expels second student for sexual misconduct in five years, but too late"/>
+  <meta itemprop="description" content="Content warning: This story contains descriptions of sexual assault.
+
+By Haley Ausbun, Asia Fields"/>
+  <meta itemprop="image" content="http://www.westernfrontonline.com/wp-content/uploads/2018/08/protest4-e1533351046560.jpg"/>
+  <meta itemprop="datePublished" content="2018-08-03"/>
+  <meta itemprop="dateModified" content="2019-04-27T17:33:47-08:00" />
+  <meta itemprop="author" content="&lt;a href=&quot;http://www.westernfrontonline.com/byline/asia-fields/&quot; rel=&quot;tag&quot;&gt;Asia Fields&lt;/a&gt;, &lt;a href=&quot;http://www.westernfrontonline.com/byline/haley-ausbun/&quot; rel=&quot;tag&quot;&gt;Haley Ausbun&lt;/a&gt;, &lt;a href=&quot;http://www.westernfrontonline.com/byline/rebekah-way/&quot; rel=&quot;tag&quot;&gt;Rebekah Way&lt;/a&gt;"/>
+  <!--<meta itemprop="publisher" content="The Western Front"/>--> <!-- To solve: The attribute publisher.itemtype has an invalid value -->
+ <!-- Twitter Cards -->
+  <meta name="twitter:title" content="Western expels second student for sexual misconduct in five years, but too late"/>
+  <meta name="twitter:url" content="http://www.westernfrontonline.com/2018/08/03/western-expels-second-student-for-sexual-misconduct-in-five-years-but-too-late/"/>
+  <meta name="twitter:description" content="Content warning: This story contains descriptions of sexual assault.
+
+By Haley Ausbun, Asia Fields"/>
+  <meta name="twitter:image" content="http://www.westernfrontonline.com/wp-content/uploads/2018/08/protest4-e1533351046560.jpg"/>
+  <meta name="twitter:card" content="summary_large_image"/>
+ <!-- SEO -->
+ <!-- Misc. tags -->
+ <!-- is_singular -->
+<!-- END - Open Graph and Twitter Card Tags 2.2.7.2 -->
+	
+</head>
+
+<body class="post-template-default single single-post postid-26615 single-format-standard custom-background wp-custom-logo wide-layout sliding-sidebar mobile-header-none">
+
+<div id="wrapper" class="hfeed">
+
+	<div id="topnavi-wrap">
+		
+	<div id="topnavi" class="container clearfix">
+
+		
+	</div>
+	</div>
+
+	<div id="header-wrap">
+
+		<header id="header" class="container clearfix" role="banner">
+
+			<div id="logo" class="clearfix">
+
+				<a href="http://www.westernfrontonline.com/" class="custom-logo-link" rel="home" itemprop="url"><img width="5833" height="462" src="http://www.westernfrontonline.com/wp-content/uploads/2018/02/cropped-logo-2-1.png" class="custom-logo" alt="The Western Front" itemprop="logo" srcset="http://www.westernfrontonline.com/wp-content/uploads/2018/02/cropped-logo-2-1.png 5833w, http://www.westernfrontonline.com/wp-content/uploads/2018/02/cropped-logo-2-1-300x24.png 300w, http://www.westernfrontonline.com/wp-content/uploads/2018/02/cropped-logo-2-1-768x61.png 768w, http://www.westernfrontonline.com/wp-content/uploads/2018/02/cropped-logo-2-1-1024x81.png 1024w, http://www.westernfrontonline.com/wp-content/uploads/2018/02/cropped-logo-2-1-865x69.png 865w, http://www.westernfrontonline.com/wp-content/uploads/2018/02/cropped-logo-2-1-1366x108.png 1366w" sizes="(max-width: 5833px) 100vw, 5833px" /></a>				
+		<p class="site-title"><a href="http://www.westernfrontonline.com/" rel="home">The Western Front</a></p>
+
+					
+			</div>
+
+			<div id="header-content" class="clearfix">
+							</div>
+
+		</header>
+
+	</div>
+
+	<div id="navi-wrap">
+		<nav id="mainnav" class="container clearfix" role="navigation">
+			<ul id="mainnav-menu" class="main-navigation-menu"><li id="menu-item-12061" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12061"><a href="http://westernfrontonline.com/">Home</a></li>
+<li id="menu-item-14" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-item-14"><a href="http://www.westernfrontonline.com/category/news/">News</a>
+<ul class="sub-menu">
+	<li id="menu-item-18091" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18091"><a href="http://www.westernfrontonline.com/category/news/associated-students/">Associated Students</a></li>
+	<li id="menu-item-18090" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18090"><a href="http://www.westernfrontonline.com/category/news/administration/">Administration</a></li>
+	<li id="menu-item-18105" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18105"><a href="http://www.westernfrontonline.com/category/news/campus/">Campus</a></li>
+	<li id="menu-item-18085" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18085"><a href="http://www.westernfrontonline.com/category/news/court-watch/">Courts</a></li>
+	<li id="menu-item-18109" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18109"><a href="http://www.westernfrontonline.com/category/news/environment/">Environment</a></li>
+	<li id="menu-item-18092" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18092"><a href="http://www.westernfrontonline.com/category/news/local-government/">Local Government</a></li>
+	<li id="menu-item-18102" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-18102"><a href="http://www.westernfrontonline.com/category/news/western-watchdog/">Western Watchdog</a></li>
+</ul>
+</li>
+<li id="menu-item-12" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-12"><a href="http://www.westernfrontonline.com/category/features/">Features</a>
+<ul class="sub-menu">
+	<li id="menu-item-18087" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18087"><a href="http://www.westernfrontonline.com/category/features/arts/">Arts</a></li>
+	<li id="menu-item-18088" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18088"><a href="http://www.westernfrontonline.com/category/features/music/">Music</a></li>
+	<li id="menu-item-18086" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18086"><a href="http://www.westernfrontonline.com/category/features/around-town/">Around Town</a></li>
+	<li id="menu-item-18111" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18111"><a href="http://www.westernfrontonline.com/category/features/travel/">Travel</a></li>
+	<li id="menu-item-18108" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18108"><a href="http://www.westernfrontonline.com/category/features/health-and-wellness/">Health &#038; Wellness</a></li>
+	<li id="menu-item-18089" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18089"><a href="http://www.westernfrontonline.com/category/features/people/">People</a></li>
+</ul>
+</li>
+<li id="menu-item-16" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-16"><a href="http://www.westernfrontonline.com/category/sports/">Sports</a>
+<ul class="sub-menu">
+	<li id="menu-item-18098" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18098"><a href="http://www.westernfrontonline.com/category/sports/varsity/">Varsity</a></li>
+	<li id="menu-item-18096" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18096"><a href="http://www.westernfrontonline.com/category/sports/club/">Club</a></li>
+	<li id="menu-item-18116" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18116"><a href="http://www.westernfrontonline.com/category/sports/professional/">Professional</a></li>
+	<li id="menu-item-18097" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18097"><a href="http://www.westernfrontonline.com/category/sports/recreation/">Recreation</a></li>
+</ul>
+</li>
+<li id="menu-item-15" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-15"><a href="http://www.westernfrontonline.com/category/opinion/">Opinion</a>
+<ul class="sub-menu">
+	<li id="menu-item-29316" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-29316"><a href="http://www.westernfrontonline.com/category/life-arts/blogs/">Blogs</a></li>
+	<li id="menu-item-18094" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18094"><a href="http://www.westernfrontonline.com/category/opinion/frontline/">Frontline</a></li>
+	<li id="menu-item-18101" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18101"><a href="http://www.westernfrontonline.com/category/opinion/guest/">Guest</a></li>
+	<li id="menu-item-18095" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18095"><a href="http://www.westernfrontonline.com/category/opinion/letters-to-the-editor/">Letters to the Editor</a></li>
+</ul>
+</li>
+<li id="menu-item-23428" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-23428"><a href="#">Projects</a>
+<ul class="sub-menu">
+	<li id="menu-item-23438" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23438"><a href="http://westernfrontonline.com/listen/index.html">Listen</a></li>
+	<li id="menu-item-31397" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-31397"><a href="http://projects.westernfrontonline.com/vote.php">AS Voter Guide</a></li>
+</ul>
+</li>
+<li id="menu-item-387" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-387"><a href="http://www.westernfrontonline.com/archives/">Archives</a></li>
+<li id="menu-item-11" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-11"><a href="http://www.westernfrontonline.com/about/">About</a>
+<ul class="sub-menu">
+	<li id="menu-item-31580" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31580"><a href="http://www.westernfrontonline.com/about/">Contact</a></li>
+	<li id="menu-item-31170" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31170"><a href="http://www.westernfrontonline.com/about/give-us-feedback/">Give Us Feedback</a></li>
+	<li id="menu-item-31578" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31578"><a href="http://www.westernfrontonline.com/about/pronoun-and-name-change-form/">Pronoun and Name Change Form</a></li>
+	<li id="menu-item-14665" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14665"><a href="http://www.westernfrontonline.com/advertising-info/">Advertising</a></li>
+</ul>
+</li>
+<li id="menu-item-27440" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-27440"><a href="http://www.westernfrontonline.com/category/multimedia/">Photo and Video</a>
+<ul class="sub-menu">
+	<li id="menu-item-27441" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-27441"><a href="http://www.westernfrontonline.com/category/multimedia/videos/">Videos</a></li>
+	<li id="menu-item-27442" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-27442"><a href="http://www.westernfrontonline.com/category/photos/">Photos</a></li>
+</ul>
+</li>
+</ul>		</nav>
+	</div>
+
+	
+	<div id="wrap" class="container clearfix">
+		
+		<section id="content" class="primary" role="main">
+		
+					
+		
+	<article id="post-26615" class="post-26615 post type-post status-publish format-standard has-post-thumbnail hentry category-news category-western-watchdog tag-dating-violence tag-domestic-violence tag-eoo tag-expel tag-expelled tag-expulsion tag-office-of-student-life tag-osl tag-sexual-assault tag-sexual-misconduct tag-slider tag-survivors tag-title-ix byline-asia-fields byline-haley-ausbun byline-rebekah-way">
+	
+		<h1 class="entry-title post-title">Western expels second student for sexual misconduct in five years, but too late</h1>		
+		<div class="entry-meta postmeta clearfix"><span class="meta-date sep"><a href="http://www.westernfrontonline.com/2018/08/03/western-expels-second-student-for-sexual-misconduct-in-five-years-but-too-late/" title="7:51 pm" rel="bookmark"><time class="entry-date published updated" datetime="2018-08-03T19:51:46-08:00">August 3, 2018</time></a></span>
+	<span class="meta-comments">
+		<a href="http://www.westernfrontonline.com/2018/08/03/western-expels-second-student-for-sexual-misconduct-in-five-years-but-too-late/#respond">Leave a comment</a>	</span>
+
+	</div>
+		
+		<img src="http://www.westernfrontonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://www.westernfrontonline.com/wp-content/uploads/2018/08/protest4-e1533351046560-860x280.jpg" width="860" height="280" class="attachment-featured_image size-featured_image wp-post-image" alt><noscript><img width="860" height="280" src="http://www.westernfrontonline.com/wp-content/uploads/2018/08/protest4-e1533351046560-860x280.jpg" class="attachment-featured_image size-featured_image wp-post-image" alt="" /></noscript>		
+		<div class="entry clearfix">
+			<div class='mailmunch-forms-before-post' style='display: none !important;'></div><div id="attachment_26637" style="width: 874px" class="wp-caption aligncenter"><img src="http://www.westernfrontonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://www.westernfrontonline.com/wp-content/uploads/2018/08/protest4.jpg" aria-describedby="caption-attachment-26637" class="wp-image-26637" alt width="864" height="628"><noscript><img aria-describedby="caption-attachment-26637" class="wp-image-26637" src="http://www.westernfrontonline.com/wp-content/uploads/2018/08/protest4.jpg" alt="" width="864" height="628" /></noscript><p id="caption-attachment-26637" class="wp-caption-text"><em>Students protest in Red Square May 2017 in response to news that a student found responsible for sexual misconduct and convicted of sexual assault was readmitted. // Photo by Hannah Wong</em></p></div>
+<p><strong>Content warning: This story contains descriptions of sexual assault.</strong></p>
+<p><strong>By <a href="http://www.westernfrontonline.com/byline/haley-ausbun">Haley Ausbun</a>, <a href="http://www.westernfrontonline.com/byline/asia-fields/">Asia Fields</a> and <a href="http://www.westernfrontonline.com/byline/rebekah-way">Rebekah Way</a></strong></p>
+<p><span style="font-weight: 400;">On June 12, Nickolas (Nick) Tadashi Vitalis was sanctioned with expulsion after a <a href="http://www.westernfrontonline.com/2018/08/02/sexual-assault-survivors-frustrated-with-western-investigations-despite-changes-to-process/">Western investigation</a> found him responsible for sexual misconduct and dating and domestic violence. Four days later, Vitalis was allowed to walk at graduation.</span></p>
+<p><span style="font-weight: 400;">It took Western administrators <a href="http://www.westernfrontonline.com/2018/08/02/sexual-assault-survivors-frustrated-with-western-investigations-despite-changes-to-process/">four months to investigate</a>. By the time they decided to expel Vitalis, they couldn’t prevent him from graduating, as decisions aren’t considered final until a ten-day appeal period has passed.</span></p>
+<div id="attachment_26542" style="width: 305px" class="wp-caption alignright"><img src="http://www.westernfrontonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://www.westernfrontonline.com/wp-content/uploads/2018/08/Resource-2-e1533179328588.jpg" aria-describedby="caption-attachment-26542" class="wp-image-26542" alt width="295" height="392" srcset="http://www.westernfrontonline.com/wp-content/uploads/2018/08/Resource-2-e1533179328588.jpg 324w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Resource-2-e1533179328588-226x300.jpg 226w" sizes="(max-width: 295px) 100vw, 295px"><noscript><img aria-describedby="caption-attachment-26542" class="wp-image-26542" src="http://www.westernfrontonline.com/wp-content/uploads/2018/08/Resource-2-e1533179328588.jpg" alt="" width="295" height="392" srcset="http://www.westernfrontonline.com/wp-content/uploads/2018/08/Resource-2-e1533179328588.jpg 324w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Resource-2-e1533179328588-226x300.jpg 226w" sizes="(max-width: 295px) 100vw, 295px" /></noscript><p id="caption-attachment-26542" class="wp-caption-text"><em>Note: CASAS is referring students to DVSAS for the summer.</em></p></div>
+<p><span style="font-weight: 400;">The Office of Student Life, which handles student conduct cases and determines sanctions, has shown a pattern of reluctance to expel students found responsible for sexual misconduct. Vitalis is the second such student to be expelled in the past five years and the first to be expelled by the Office of Student Life itself, instead of an appeals board.</span></p>
+<p><span style="font-weight: 400;">“In cases where we’ve found someone in violation of the sexual misconduct code for raping someone, that’s been a suspension,” Assistant Dean of Students Michael </span><a href="http://www.westernfrontonline.com/2017/12/05/records-show-expulsion-rare-for-sexual-misconduct-perpetrators/"><span style="font-weight: 400;">Sledge was quoted as saying in a December 2017 article in The Western Front</span></a><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;">Western’s </span><a href="https://policy.wwu.edu/POL-U1600.04-Preventing-and-Responding-to-Sex-Discrimination-Including-Sexual-Misconduct.pdf"><span style="font-weight: 400;">policy</span></a><span style="font-weight: 400;"> states it does not tolerate sexual misconduct and takes action against students found responsible for it. But administrators say the conduct process is</span><span style="font-weight: 400;"> designed to be </span><a href="https://catalog.wwu.edu/content.php?catoid=13&amp;navoid=2781"><span style="font-weight: 400;">educational</span></a><span style="font-weight: 400;">, and students have protested what they see as light sanctions for sexual misconduct. </span></p>
+<p><span style="font-weight: 400;">Mieke Doezema, the student who reported Vitalis,<a href="http://www.westernfrontonline.com/2018/08/02/sexual-assault-survivors-frustrated-with-western-investigations-despite-changes-to-process/"> said the long and frustrating investigation</a> she went through didn’t end in justice. </span></p>
+<p><span style="font-weight: 400;">Vitalis, now a journalism alumnus and former reporter for The Western Front, said he believes the university is making an example of him to make up for criticism that sanctions are light for sexual misconduct. He appealed the sanctions, but the appeals board disagreed and upheld the expulsion on Aug. 1. Vitalis has submitted a request for review by the dean of students.</span></p>
+<p><span style="font-weight: 400;">The Equal Opportunity Office took over investigations in fall 2016, after survivors </span><a href="https://www.bellinghamherald.com/news/local/article42031710.html"><span style="font-weight: 400;">spoke publicly</span></a><span style="font-weight: 400;"> about how they felt the Office of Student Life was mishandling cases and faculty applied behind-the-scenes pressure on administrators.</span></p>
+<p>But the Office of Student Life maintained control of determining discipline. While Sledge oversees the conduct process as assistant dean of students, conduct officer Jessica Stillwell began handling cases in fall 2016.</p>
+<p>Office of Student Life documents dating back to 2010 obtained through multiple public records requests show several instances where survivors were not given their desired outcome after the student they reported was found responsible for sexual misconduct.</p>
+<p><span style="font-weight: 400;"><img src="http://www.westernfrontonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.45.09-PM-1-1024x676.png" class="wp-image-26584 alignleft" alt width="288" height="190" srcset="http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.45.09-PM-1-1024x676.png 1024w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.45.09-PM-1-300x198.png 300w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.45.09-PM-1-768x507.png 768w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.45.09-PM-1-865x571.png 865w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.45.09-PM-1-1164x768.png 1164w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.45.09-PM-1.png 1294w" sizes="(max-width: 288px) 100vw, 288px"><noscript><img class="wp-image-26584 alignleft" src="http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.45.09-PM-1-1024x676.png" alt="" width="288" height="190" srcset="http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.45.09-PM-1-1024x676.png 1024w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.45.09-PM-1-300x198.png 300w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.45.09-PM-1-768x507.png 768w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.45.09-PM-1-865x571.png 865w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.45.09-PM-1-1164x768.png 1164w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.45.09-PM-1.png 1294w" sizes="(max-width: 288px) 100vw, 288px" /></noscript></span><span style="font-weight: 400;">Experts on prevention, survivor advocates and mental health professionals said they are concerned the university system isn’t responding strongly enough to sexual assault to serve as a deterrent, respecting survivors’ wishes or properly educating and rehabilitating perpetrators.</span></p>
+<p><span style="font-weight: 400;">Since March, administrators have been discussing students’ concern with Western’s sanctions for students found responsible of sexual misconduct, <a href="http://www.westernfrontonline.com/2018/08/08/western-sexual-assault-prevention-efforts-lacking/">meeting minutes from the work group</a> on sexual violence prevention and response show.</span></p>
+<p>President Sabah Randhawa has made public statements about addressing concerns with sanctions for sexual misconduct. He ordered an internal audit of how cases have been handled, which he said was expected to be complete by mid-July in <a href="https://wp.wwu.edu/theasreview/2018/06/04/president-randhawa-talks-sexual-misconduct-accessibility-and-more/">a May 31 interview with the AS Review.</a> As of Aug. 3, the internal audit has not been released.</p>
+<p>Sledge did not respond to requests for comment and questions sent multiple times over the course of three weeks. Director of Communications and Marketing Paul Cocke said in an email on June 11 that Sledge was too busy to answer questions. Attempts to contact him in the following weeks were unsuccessful, as were attempts to contact Stillwell.</p>
+<p>Only <a href="http://cdpsdocs.state.co.us/safeschools/Resources/BJS/Campus_Climate_Survey_Validation_Study.pdf">12.5 percent of rapes</a> that occur in college are reported to officials and campus or community resources, according to a 2016 Department of Justice study. Survivors may fear not being believed, due to <a href="https://www.nsvrc.org/sites/default/files/Publications_NSVRC_Overview_False-Reporting.pdf">misconceptions</a> about false reports, which are no higher for sexual assault than other crimes. <a href="http://journals.sagepub.com/doi/pdf/10.1177/1077801210387747">A 2010 study</a> found the prevalence of false reports to be 5.9 percent.</p>
+<p>The Western Front does not name survivors of sexual violence without their consent. Doezema said she wanted her name used so she could be a resource for other survivors on campus.</p>
+<hr />
+<p><strong>Read the other stories in this series</strong><br />
+<span style="text-decoration: underline;"><a href="http://www.westernfrontonline.com/2018/08/02/sexual-assault-survivors-frustrated-with-western-investigations-despite-changes-to-process/">Sexual assault survivors frustrated with Western investigations despite changes to process</a></span><br />
+<span style="text-decoration: underline;"><a href="http://www.westernfrontonline.com/2018/08/08/western-sexual-assault-prevention-efforts-lacking">Current and former staff say Western isn’t doing enough to prevent sexual assault<br />
+</a><a href="http://www.westernfrontonline.com/2018/08/13/behind-the-series-on-how-western-handles-sexual-misconduct-cases/">Behind the series: Unresponsive administrators, incomplete records</a></span></p>
+<hr />
+<h4><b>Two expulsions for sexual misconduct in past five years</b></h4>
+<p><span style="font-weight: 400;">On June 12, Vitalis <a href="http://www.westernfrontonline.com/2018/08/02/sexual-assault-survivors-frustrated-with-western-investigations-despite-changes-to-process/">was found responsible for sexual misconduct</a>, conduct that harms or threatens health or safety, dating violence and domestic violence, according to disciplinary records. He was sanctioned with expulsion and trespassed from the university for seven years, due to Western’s record retention policy, according to disciplinary records.</span></p>
+<p><span style="font-weight: 400;">Vitalis participated in the investigation by the Equal Opportunity Office, but he did not meet with the Office of Student Life, which scheduled two meetings with him. Vitalis said this is because the office sent emails to his student account, which he did not see until after the scheduled meeting dates had passed.</span></p>
+<p><span style="font-weight: 400;">The Equal Opportunity Office found sufficient evidence that Vitalis’ behavior on one occasion in November 2015 constituted sexual assault due to a lack of consent, according to investigation records. In Vitalis’ written statement to the Equal Opportunity Office, he wrote that when he asked for consent, Doezema said she was unsure, which the investigator pointed to as evidence it was not consensual.</span></p>
+<p><span style="font-weight: 400;">Doezema responded to this in her appeal statement, saying “since I was not experienced, meek, and scared, I may not have violently said no, but my actions showed I was not wanting to engage and I never gave any verbal consent.”</span></p>
+<p><span style="font-weight: 400;">Vitalis said he believes what happened was consensual or a misunderstanding.</span></p>
+<p><span style="font-weight: 400;">The office also found him responsible for dating and domestic violence, finding sufficient evidence that he blocked Doezema from passing around him and later shoved her away while he was experiencing a personal crisis to get her to leave the room in February 2017, according to the Equal Opportunity Office report. The report also said the investigator found evidence Vitalis “showed anger and violence toward himself in front of [Doezema], causing [Doezema] to be fearful of him turning his anger and violence on her.”</span></p>
+<p><span style="font-weight: 400;">Vitalis said he did shove her, but that it was after repeated attempts to get her to leave his room, and that he never engaged in violent conduct toward her, but did punch a wall during an argument.</span></p>
+<p><span style="font-weight: 400;">Vitalis is the first student to receive expulsion as a sanction directly from the Office of Student Life for sexual misconduct in the past five years, according to expulsion records and Cocke. But decisions are not considered final until the deadline for appealing them has passed, and Vitalis’ appeals deadline was June 26, after graduation.</span></p>
+<p><img src="http://www.westernfrontonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-9.37.43-PM-e1533185252730.png" class="alignleft wp-image-26599 size-full" alt width="2330" height="1071" srcset="http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-9.37.43-PM-e1533185252730.png 2330w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-9.37.43-PM-e1533185252730-300x138.png 300w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-9.37.43-PM-e1533185252730-768x353.png 768w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-9.37.43-PM-e1533185252730-1024x471.png 1024w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-9.37.43-PM-e1533185252730-865x398.png 865w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-9.37.43-PM-e1533185252730-1366x628.png 1366w" sizes="(max-width: 2330px) 100vw, 2330px"><noscript><img class="alignleft wp-image-26599 size-full" src="http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-9.37.43-PM-e1533185252730.png" alt="" width="2330" height="1071" srcset="http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-9.37.43-PM-e1533185252730.png 2330w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-9.37.43-PM-e1533185252730-300x138.png 300w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-9.37.43-PM-e1533185252730-768x353.png 768w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-9.37.43-PM-e1533185252730-1024x471.png 1024w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-9.37.43-PM-e1533185252730-865x398.png 865w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-9.37.43-PM-e1533185252730-1366x628.png 1366w" sizes="(max-width: 2330px) 100vw, 2330px" /></noscript></p>
+<p><span style="font-weight: 400;">The other case of expulsion for sexual misconduct in the past five years came from an appeals board, not the Office of Student Life. </span></p>
+<p><span style="font-weight: 400;">Sledge found the student in this case responsible for forced penetration and genital-oral contact, constituting sexual misconduct, and initially sanctioned him with suspension in November 2015. The suspension was to start after his final exam of the quarter (which was around a month away at that time) and last for seven quarters or until the survivor was no longer attending Western, according to disciplinary records.</span></p>
+<p><span style="font-weight: 400;">The student found responsible appealed the decision in November 2015, saying he thought the sanction was disproportionate to the findings.</span></p>
+<p><span style="font-weight: 400;">The survivor prepared for the worst and made plans to transfer to a school across the country in case he was allowed back while she attended Western, she said in a May interview.</span></p>
+<p><span style="font-weight: 400;">At the appeals hearing, she had to sit in the same room as the student found to have sexually assaulted her. </span><span style="font-weight: 400;">The survivor</span><span style="font-weight: 400;"> said Sledge told her it was optional to attend, but encouraged her to be there so the appeals board could put a face to her case.</span></p>
+<p><span style="font-weight: 400;">Alumna Melissa Luper, the survivor’s resident advisor at the time,</span><span style="font-weight: 400;"> went with the survivor to the hearing. Luper said the accused wasn’t supposed to be able to look at the survivor, but they were able to see each other. </span></p>
+<p><span style="font-weight: 400;">“Under what circumstances is that acceptable if you have other options?” Luper said. “She didn’t have a choice. Of course she wants the appeals board to side with her.”</span></p>
+<p><span style="font-weight: 400;">Sledge did not respond to requests for comment regarding this case.</span></p>
+<p><span style="font-weight: 400;">In April 2016, the appeals board made up of students, faculty and staff agreed the suspension wasn’t proportionate to the investigation findings—but because it thought the sanctions were too light given the “egregiousness” of the case, according to the findings letter written by the board chair. The sanctions were increased to expulsion.</span></p>
+<p><span style="font-weight: 400;">In his appeals hearing statement, Sledge said that while the student conduct process is educational, he had strongly considered expulsion.</span></p>
+<p><span style="font-weight: 400;">“I think that shows Sledge isn’t really the best person to handle these cases when everyone agrees he should have been expelled,” the survivor said.</span></p>
+<p><span style="font-weight: 400;">The survivor said she might have gone to the police instead if she had known earlier that Western’s educational focus would affect the results of her case to such a large degree. She originally didn’t go to the police because she didn’t want her parents to find out and was worried about how her mutual friends would react, she said.</span></p>
+<p><span style="font-weight: 400;">“I had so many reasons not to go to the police that I didn&#8217;t, but it would have been nice to have that opportunity because I was under the impression the school would have handled it better,” she said.</span></p>
+<p><span style="font-weight: 400;">She also questioned if the process <a href="http://www.westernfrontonline.com/2018/08/08/western-sexual-assault-prevention-efforts-lacking/">is having the educational impact</a> it hopes for, as she doesn’t feel like the student she reported learned anything about consent.</span></p>
+<p><span style="font-weight: 400;">Luper said she thinks it’s a problem that expulsions aren’t more common in cases where students do report.</span></p>
+<p><img src="http://www.westernfrontonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://www.westernfrontonline.com/wp-content/uploads/2018/06/Sexual-Assault.2.0-01-1-1024x995.png" class="alignleft size-large wp-image-25113" alt width="860" height="836" srcset="http://www.westernfrontonline.com/wp-content/uploads/2018/06/Sexual-Assault.2.0-01-1-1024x995.png 1024w, http://www.westernfrontonline.com/wp-content/uploads/2018/06/Sexual-Assault.2.0-01-1-300x292.png 300w, http://www.westernfrontonline.com/wp-content/uploads/2018/06/Sexual-Assault.2.0-01-1-768x746.png 768w, http://www.westernfrontonline.com/wp-content/uploads/2018/06/Sexual-Assault.2.0-01-1-50x50.png 50w, http://www.westernfrontonline.com/wp-content/uploads/2018/06/Sexual-Assault.2.0-01-1-592x575.png 592w, http://www.westernfrontonline.com/wp-content/uploads/2018/06/Sexual-Assault.2.0-01-1-790x768.png 790w, http://www.westernfrontonline.com/wp-content/uploads/2018/06/Sexual-Assault.2.0-01-1-1111x1080.png 1111w" sizes="(max-width: 860px) 100vw, 860px"><noscript><img class="alignleft size-large wp-image-25113" src="http://www.westernfrontonline.com/wp-content/uploads/2018/06/Sexual-Assault.2.0-01-1-1024x995.png" alt="" width="860" height="836" srcset="http://www.westernfrontonline.com/wp-content/uploads/2018/06/Sexual-Assault.2.0-01-1-1024x995.png 1024w, http://www.westernfrontonline.com/wp-content/uploads/2018/06/Sexual-Assault.2.0-01-1-300x292.png 300w, http://www.westernfrontonline.com/wp-content/uploads/2018/06/Sexual-Assault.2.0-01-1-768x746.png 768w, http://www.westernfrontonline.com/wp-content/uploads/2018/06/Sexual-Assault.2.0-01-1-50x50.png 50w, http://www.westernfrontonline.com/wp-content/uploads/2018/06/Sexual-Assault.2.0-01-1-592x575.png 592w, http://www.westernfrontonline.com/wp-content/uploads/2018/06/Sexual-Assault.2.0-01-1-790x768.png 790w, http://www.westernfrontonline.com/wp-content/uploads/2018/06/Sexual-Assault.2.0-01-1-1111x1080.png 1111w" sizes="(max-width: 860px) 100vw, 860px" /></noscript></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Katie Plewa Olvera, a former CASAS coordinator who now has her own private practice as a psychologist and teaches courses at Western, said not all survivors will want expulsion. But when they do, she said they should be listened to.</span></p>
+<p><span style="font-weight: 400;">“If [survivors] want expulsion, they have the right to pursue that and the fact that they’re not getting that is certainly concerning,” she said. “The question arises of whose needs are you really prioritizing?”</span></p>
+<p><span style="font-weight: 400;">Plewa Olvera said the university and legal systems are <a href="http://www.westernfrontonline.com/2018/08/02/sexual-assault-survivors-frustrated-with-western-investigations-despite-changes-to-process/">not fit to handle sexual violence </a>and trauma. Survivors have to navigate imperfect systems that try to determine if something happened based on evidence, she said, which is difficult since sexual assault is hard to talk about and prove. </span></p>
+<p><span style="font-weight: 400;">“For those reasons, these systems inevitably end up failing survivors,” Plewa Olvera said. </span></p>
+<p><span style="font-weight: 400;">She said she thinks another reason for the lack of expulsions is risk aversion and not wanting to be sued.</span></p>
+<p><span style="font-weight: 400;">At a March meeting, <a href="http://www.westernfrontonline.com/2018/08/08/western-sexual-assault-prevention-efforts-lacking/">Western’s work group on sexual violence</a> response and prevention heard from Planned Parenthood Generation, a student club that organized a postcard campaign to get Western to stand against sexual assault.</span></p>
+<p><span style="font-weight: 400;">&#8220;We want to make sure Western is a place where students can report these things and where perpetrators don’t just get off with a slap on the wrist,” they said, according to meeting minutes. “There is a general feeling among students that perpetrators aren’t getting punishments that match the severity of the crime.”</span></p>
+<p><span style="font-weight: 400;">The representatives told the work group students would be more likely to report their cases if they felt going through <a href="http://www.westernfrontonline.com/2018/08/02/sexual-assault-survivors-frustrated-with-western-investigations-despite-changes-to-process/">the process was worth it</a>.</span></p>
+<p><span style="font-weight: 400;">Incidents of sexual assault are underreported and perpetrators of sexual assault often receive minimal to no legal or social consequences for their actions, said Sarah DeGue, </span><span style="font-weight: 400;">senior health scientist in the research and evaluation branch of Center for Disease Control’s division of violence prevention, in an email</span><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;">Stronger consequences, or even just more cases that resulted in some kind of consequence, could enforce that sexual violence is seen as unacceptable and criminal behavior, DeGue said.</span></p>
+<p><span style="font-weight: 400;">In a June interview, Melynda Huskey, who has overseen the Office of Student Life since she assumed the role of vice president for enrollment and student services last summer, </span><span style="font-weight: 400;">said she’s concerned hearing students’ frustration that sanctions haven’t reflected the seriousness of findings.</span></p>
+<p><span style="font-weight: 400;">Huskey said she feels strongly that it is appropriate to consider expulsion as a sanction when the respondent has caused harm to an individual and to the community, and she has told this to her staff. But since every case is different, she said, and they can’t implement the same sanction in each case.</span></p>
+<p><span style="font-weight: 400;">When asked what she hopes for going forward, one survivor said, “A zero-tolerance policy, making an example of people who are punished and actually punishing them so people know they can’t just do whatever and get away with it.”</span></p>
+<p><span style="font-weight: 400;">Bellingham attorney Larry Hildes, who has represented survivors at Western in the past, agreed.</span></p>
+<p><span style="font-weight: 400;">“It’s wrong. It needs to be punished,” he said. “Everybody has a right to an education but nobody has the right to sexually assault someone.”</span></p>
+<p><span style="font-weight: 400;">Plewa Olvera said justice looks different for all survivors and can look different depending on what system survivors are interacting with. She said universities should be handling these cases, but need to listen to what survivors want.</span></p>
+<p><span style="font-weight: 400;">“They really do need to be prioritizing the survivor’s needs and prioritizing the survivor’s desired outcome, and it starts with them taking it seriously from the very beginning,” Plewa Olvera said.</span></p>
+<h4><b>Not giving survivors their desired outcome</b></h4>
+<p><span style="font-weight: 400;">As part of the conduct process, survivors are asked what their desired outcome is. But records show survivors don’t always receive them.</span></p><div class='mailmunch-forms-in-post-middle' style='display: none !important;'></div>
+<p><span style="font-weight: 400;">In 2015, a student reported that she blacked out from drinking and woke up to find herself on the floor, with a male student on top of her groping her. The survivor’s uncertainty of that night caused her to worry for months, Sledge told the accused student in an email. </span></p>
+<p><span style="font-weight: 400;">The student admitted to kissing and groping the survivor while she was intoxicated and was found responsible for sexual misconduct. Sledge sanctioned him with conditional status, meaning further violations of university policy “may result in his suspension.” Sledge also required him to write an apology letter at the survivor’s request, complete an alcohol education course and follow a no-contact order.<img src="http://www.westernfrontonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://www.westernfrontonline.com/wp-content/uploads/2018/03/Screen-Shot-2018-03-07-at-6.38.50-AM-197x300.png" class="alignright size-medium wp-image-22992" alt width="197" height="300" srcset="http://www.westernfrontonline.com/wp-content/uploads/2018/03/Screen-Shot-2018-03-07-at-6.38.50-AM-197x300.png 197w, http://www.westernfrontonline.com/wp-content/uploads/2018/03/Screen-Shot-2018-03-07-at-6.38.50-AM.png 288w" sizes="(max-width: 197px) 100vw, 197px"><noscript><img class="alignright size-medium wp-image-22992" src="http://www.westernfrontonline.com/wp-content/uploads/2018/03/Screen-Shot-2018-03-07-at-6.38.50-AM-197x300.png" alt="" width="197" height="300" srcset="http://www.westernfrontonline.com/wp-content/uploads/2018/03/Screen-Shot-2018-03-07-at-6.38.50-AM-197x300.png 197w, http://www.westernfrontonline.com/wp-content/uploads/2018/03/Screen-Shot-2018-03-07-at-6.38.50-AM.png 288w" sizes="(max-width: 197px) 100vw, 197px" /></noscript></span></p>
+<p><span style="font-weight: 400;">Emails show the survivor was confused about what was happening with the case and said she got the apology letter in an email before Sledge had even sent her the final decision. The survivor’s father also emailed Sledge saying the survivor was stressed out and further hurt by the process.</span></p>
+<p><span style="font-weight: 400;">After receiving the final decision, the survivor filed an appeal because she felt the punishment was too light for the findings. In the appeal, she said she researched state law and thought what happened to her was similar to the definition for an indecent liberties charge, which she wrote is a class B felony and could result in up to 10 years in prison and $20,000 in fines.</span></p>
+<p><span style="font-weight: 400;">The survivor said that sexual misconduct is a serious violation of local, state and federal law that the conduct code allows suspension for.</span></p>
+<p><span style="font-weight: 400;">“It took a lot of courage for me to come forward and report what [he] did to me. For eight months I struggled between remaining a silent victim or standing up and obtaining justice for myself,” she wrote in the appeal, calling Sledge’s decision “half-served” justice.</span></p>
+<p><span style="font-weight: 400;">It took three weeks for the Office of Student Life to respond to the survivor’s request for an appeal.</span></p>
+<p><span style="font-weight: 400;">The appeals board agreed the sanctions were not proportionate to the violations committed, but didn’t change the sanction to suspension like the survivor hoped. Instead, the board placed increased the student’s sanction to deferred suspension. This meant another violation of the student code would immediately, rather than possibly, result in suspension. The board also added a requirement that the student complete a written education assignment about consent.</span></p>
+<p><span style="font-weight: 400;">In a different case from 2013, Western found a student responsible for sexual misconduct after the survivor reported he groped her. The student found responsible received a deferred one-year suspension, which meant he was not actually suspended so long as he didn’t violate campus policy again, and was given a no-contact order for one year. The survivor wanted the no-contact order to continue until she graduated, but Sledge told her no-contact orders have no set amount of time and directed her to seek a court-ordered protection order instead, email records show.</span></p>
+<p><span style="font-weight: 400;">In a case from 2015, Sledge found the accused student responsible for sexual misconduct and conduct that threatens health or safety and suspended him for one year. The accused and his lawyers filed an appeal. Dean of Students Ted Pratt acted as the appeal board, because the full board did not convene in the summer, according to an email Pratt sent the accused.</span></p>
+<div id="attachment_20379" style="width: 870px" class="wp-caption alignleft"><img src="http://www.westernfrontonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://www.westernfrontonline.com/wp-content/uploads/2017/12/TakeBackTheNight_10-1-1024x683.jpg" aria-describedby="caption-attachment-20379" class="wp-image-20379 size-large" alt width="860" height="574" srcset="http://www.westernfrontonline.com/wp-content/uploads/2017/12/TakeBackTheNight_10-1-1024x683.jpg 1024w, http://www.westernfrontonline.com/wp-content/uploads/2017/12/TakeBackTheNight_10-1-300x200.jpg 300w, http://www.westernfrontonline.com/wp-content/uploads/2017/12/TakeBackTheNight_10-1-768x512.jpg 768w, http://www.westernfrontonline.com/wp-content/uploads/2017/12/TakeBackTheNight_10-1-863x575.jpg 863w, http://www.westernfrontonline.com/wp-content/uploads/2017/12/TakeBackTheNight_10-1-1152x768.jpg 1152w" sizes="(max-width: 860px) 100vw, 860px"><noscript><img aria-describedby="caption-attachment-20379" class="wp-image-20379 size-large" src="http://www.westernfrontonline.com/wp-content/uploads/2017/12/TakeBackTheNight_10-1-1024x683.jpg" alt="" width="860" height="574" srcset="http://www.westernfrontonline.com/wp-content/uploads/2017/12/TakeBackTheNight_10-1-1024x683.jpg 1024w, http://www.westernfrontonline.com/wp-content/uploads/2017/12/TakeBackTheNight_10-1-300x200.jpg 300w, http://www.westernfrontonline.com/wp-content/uploads/2017/12/TakeBackTheNight_10-1-768x512.jpg 768w, http://www.westernfrontonline.com/wp-content/uploads/2017/12/TakeBackTheNight_10-1-863x575.jpg 863w, http://www.westernfrontonline.com/wp-content/uploads/2017/12/TakeBackTheNight_10-1-1152x768.jpg 1152w" sizes="(max-width: 860px) 100vw, 860px" /></noscript><p id="caption-attachment-20379" class="wp-caption-text"><em>Signs from the Take Back the Night march on Western&#8217;s campus Dec. 1, 2017, where students protested sexual violence. Some speakers at the protest criticized what they saw as light sanctions for students found responsible for sexual misconduct. // File photo by Paul Kelly</em></p></div>
+<p><span style="font-weight: 400;">During the appeal process, a counselor and multiple friends sent Pratt testimonies about the toll the accused’s presence had taken on the survivor, asking him not to be readmitted. Multiple testimonies also said he was a repeat offender.</span></p>
+<p><span style="font-weight: 400;">But Pratt decreased the student’s sanctions, finding him only in violation for choking the survivor but not in violation for sexual misconduct. His sex offender evaluation was reduced to a psychological evaluation of his threat to campus safety and completion of any recommended treatments, and his suspension was decreased from one year to just one quarter. </span></p>
+<p><span style="font-weight: 400;">Hildes, the survivor’s defense attorney, said he felt the dean didn’t listen to the survivor or what she wanted. He said <a href="http://www.westernfrontonline.com/2018/08/02/sexual-assault-survivors-frustrated-with-western-investigations-despite-changes-to-process/">Western’s process could be more empowering</a>.</span></p>
+<p><span style="font-weight: 400;">“When we take on clients, part of the goal of what we do is win or lose, the client comes out stronger at the end of the case,” he said. “This is a process that should be empowering [survivors] to feel like they have control, that they have the say in what happens.”</span></p>
+<p><span style="font-weight: 400;">Three months after Pratt lowered the sanctions, Sledge re-increased the suspension because the student violated the no-contact order.</span></p>
+<p><span style="font-weight: 400;">By that time, the survivor graduated, ending an almost year-long process.</span></p>
+<p><span style="font-weight: 400;">Questions sent to Cocke for Pratt about this case were not answered. Since this case, the the conduct code added a level of appeal, meaning that appeals go to the appeal board and then can be reviewed by the dean of students, instead of just one or the other.</span></p>
+<h4><b>Schools aren’t educating or rehabilitating perpetrators</b></h4>
+<p><span style="font-weight: 400;">Plewa Olvera said universities need to think about what happens after expulsion, as she doesn’t want students put into another community to sexually assault someone again. She said this isn’t something for survivors should have to worry about, but that society needs to get better about holding perpetrators accountable and treating them.</span></p>
+<p><span style="font-weight: 400;">“I think the problem is thinking we’ve done our job and this person can&#8217;t be here for this period of time and that alone is enough, when its not. All we&#8217;ve done is said you can&#8217;t be here anymore,” she said. “So were teaching that person nothing.”</span></p>
+<div id="attachment_16442" style="width: 296px" class="wp-caption alignleft"><img src="http://www.westernfrontonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://www.westernfrontonline.com/wp-content/uploads/2017/05/RAsitin5.jpg" aria-describedby="caption-attachment-16442" class=" wp-image-16442" alt width="286" height="374" srcset="http://www.westernfrontonline.com/wp-content/uploads/2017/05/RAsitin5.jpg 576w, http://www.westernfrontonline.com/wp-content/uploads/2017/05/RAsitin5-230x300.jpg 230w, http://www.westernfrontonline.com/wp-content/uploads/2017/05/RAsitin5-440x575.jpg 440w" sizes="(max-width: 286px) 100vw, 286px"><noscript><img aria-describedby="caption-attachment-16442" class=" wp-image-16442" src="http://www.westernfrontonline.com/wp-content/uploads/2017/05/RAsitin5.jpg" alt="" width="286" height="374" srcset="http://www.westernfrontonline.com/wp-content/uploads/2017/05/RAsitin5.jpg 576w, http://www.westernfrontonline.com/wp-content/uploads/2017/05/RAsitin5-230x300.jpg 230w, http://www.westernfrontonline.com/wp-content/uploads/2017/05/RAsitin5-440x575.jpg 440w" sizes="(max-width: 286px) 100vw, 286px" /></noscript><p id="caption-attachment-16442" class="wp-caption-text"><em>Dean of Student Life Ted Pratt looks at posters left at his door by protesters against university handling of sexual assault in May 2017. // Photo by Erasmus Baxter</em></p></div>
+<p><span style="font-weight: 400;">In two cases that have been reported on, students have been <a href="http://www.westernfrontonline.com/2017/05/16/student-convicted-of-sexual-assault-readmitted/">readmitted to Western</a> after being found responsible for sexual misconduct and suspended. In <a href="http://www.westernfrontonline.com/2018/04/16/suspended-for-sexual-assault-readmitted-one-year-later/">one case</a>, a student had to go through sex offender treatment before re-enrolling, which <a href="http://www.westernfrontonline.com/2018/04/16/suspended-for-sexual-assault-readmitted-one-year-later/">Cocke said was rare</a>.</span></p>
+<p><span style="font-weight: 400;">Administrators have said they evaluate students before readmitting them to make sure they aren’t a threat to student safety, which can include staff from the counseling center, university police and the dean of students.</span></p>
+<p><span style="font-weight: 400;">Plewa Olvera said she’s concerned because there isn’t anyone at Western she knows of who has special knowledge in working with perpetrators and changing that behavior. She thinks an expert should be brought in.</span></p>
+<p><span style="font-weight: 400;">Julie Reimann, a counselor in Bellingham and a previous counselor at Western, agreed that the topic of consequences is complicated. She said while some perpetrators are unlikely to be rehabilitated, and maybe should be banished from campus, others are capable of learning and growth and should have the opportunity to contribute to society. </span></p>
+<p><span style="font-weight: 400;">“There definitely need to be consequences for those behaviors. But ultimately, I don’t think it benefits anybody for someone to not finish their education,” she said.</span></p>
+<p><span style="font-weight: 400;">She said differentiating between the two groups is difficult, and she is concerned that therapy is not always required as a sanction by the Office of Student Life when there is a finding of sexual misconduct.</span></p>
+<h4><b>Administrators discuss change</b></h4>
+<p><span style="font-weight: 400;">Huskey, who assumed her role as vice president last summer, said she has been auditing the offices under her position to fully understand their processes before making any changes. She said she’s concerned students are frustrated with sanctions, but doesn’t feel this requires an immediate change.</span></p>
+<p>“I don’t see an immediate challenge with the idea that the Office of Student Conduct would issue sanctions in cases,” Huskey said in a June interview.</p>
+<p>Huskey said one idea she does want to work on in the long-term is involving students more in the conduct process.</p>
+<p>Allison Giffen, past faculty senate president, said Huskey has talked to her about making changes and evaluating the Office of Student Life, but the process is moving slowly.</p>
+<p>“The question is: Is she going to walk the talk?” Giffen said.</p>
+<p><span style="font-weight: 400;">Giffen said she told Huskey about her concerns with the Office of Student Life before she assumed her role of vice president.</span></p>
+<p><span style="font-weight: 400;">While the Office of Student Life no longer handles investigations, some feel its reputation of handling cases in the past keeps students from wanting to report to the university at all.</span></p>
+<p><img src="http://www.westernfrontonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.58.53-PM-658x1024.png" class="wp-image-26589 alignright" alt width="388" height="603" srcset="http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.58.53-PM-658x1024.png 658w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.58.53-PM-193x300.png 193w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.58.53-PM-768x1194.png 768w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.58.53-PM-370x575.png 370w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.58.53-PM-494x768.png 494w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.58.53-PM-694x1080.png 694w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.58.53-PM-1157x1800.png 1157w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.58.53-PM.png 1214w" sizes="(max-width: 388px) 100vw, 388px"><noscript><img class="wp-image-26589 alignright" src="http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.58.53-PM-658x1024.png" alt="" width="388" height="603" srcset="http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.58.53-PM-658x1024.png 658w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.58.53-PM-193x300.png 193w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.58.53-PM-768x1194.png 768w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.58.53-PM-370x575.png 370w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.58.53-PM-494x768.png 494w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.58.53-PM-694x1080.png 694w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.58.53-PM-1157x1800.png 1157w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.58.53-PM.png 1214w" sizes="(max-width: 388px) 100vw, 388px" /></noscript></p>
+<p><span style="font-weight: 400;">Giffen and Vicki Hsueh, director of the women, gender and sexuality studies program, were among a group of faculty who urged the former vice president for enrollment and student services, Eileen Coughlin, to respond to survivors’ concerns with the Office of Student Life in 2016.</span></p>
+<p><span style="font-weight: 400;">“I don’t undertake the task of criticizing someone else’s job performance lightly,” Hsueh said. “But so many students had come to talk to me about how inhospitable and unheard they felt when they went to that office.”</span></p>
+<p><span style="font-weight: 400;">Giffen and Hsueh said the office’s reputation is still salient, although more focus now seems to be on what students perceive as light sanctions.</span></p>
+<p><span style="font-weight: 400;">“Students are really really good at assessing how institutions don’t live up to their commitments,” Hsueh said.</span></p>
+<p><span style="font-weight: 400;">In an email sent to staff on June 19, Randhawa said administrators would focus on accountability and “more serious consequences for proven violations” in cases of sexual misconduct.</span></p>
+<p><span style="font-weight: 400;">At a work group meeting in May, Guenter-Schlesinger said by providing the Western community with transparent criteria and levels of sanctions, such as low-, mid- and high-level sanctions, Western could create a guidance that documents how discipline is determined, according to meeting minutes. This could create consistency, she said.</span></p>
+<p><span style="font-weight: 400;">“It is important to ensure we are doing what’s appropriate and in everyone’s best interest, and that it’s consistent,” Guenter-Schlesinger said, according to meeting minutes. “We learn a lot from the criminal justice system, but the criminal process in onerous. We hope more students will come to us for an administrative remedy.”</span></p>
+<p><span style="font-weight: 400;">Huskey also said there is value in having parallel judicial and campus processes available to students that can respond to the circumstances differently, and she is not prepared to make any part of the conduct investigation similar to the criminal process.</span></p>
+<h4><b>Legal and university systems</b></h4>
+<p><span style="font-weight: 400;">Some other Washington universities have turned to outsourcing their investigations to a more judicial approach. </span></p>
+<p><span style="font-weight: 400;">WSU contracts administrative law judges, who oversee all cases that could result in expulsions or suspensions of 10 days or more. This change followed a court decision prompted by a </span><a href="https://www.seattletimes.com/seattle-news/education/court-college-students-facing-expulsion-need-chance-to-defend-themselves/"><span style="font-weight: 400;">lawsuit</span></a><span style="font-weight: 400;"> from a student, which </span><a href="https://studentaffairs.wsu.edu/initiatives/student-conduct-process/recap/"><span style="font-weight: 400;">required WSU</span></a><span style="font-weight: 400;"> and other public universities use a full adjudication process in student conduct hearings when suspension or expulsion were possible sanctions. </span></p>
+<p><span style="font-weight: 400;">From the January 2017 to April 20, 2018, Washington State University expelled 10 of 20 students found responsible for sexual misconduct, according to public records.</span></p>
+<p><span style="font-weight: 400;">Eastern Washington University adopted a full adjudicative process in September 2017 and contracts administrative law judges, Timothy Orton, Eastern’s director of student rights and responsibilities, said in an email. These judges have experience with sensitive and complex hearings involving attorneys, he said. </span></p>
+<p><span style="font-weight: 400;">Eastern’s old procedure had resulted in five expulsions and eight suspensions leading up to this policy change between September 2015 and November 2017, Orton said. Since the first sexual misconduct case heard by an administrative law judge in December 2017, there have been three suspensions at Eastern, with one reversed on appeal, he said.</span></p>
+<p><span style="font-weight: 400;">Currently, both parties are allowed to have a support person during the appeal hearing at Western, but lawyers are not allowed to talk for their client during hearings. </span></p>
+<p><span style="font-weight: 400;">Huskey said the appeals process at Western is what most closely resembles the judicial system. Currently, all appeals follow guidelines set up by Washington’s Administrative Procedures Act.</span></p>
+<p><span style="font-weight: 400;">Title IX coordinators from across the state are discussing making university appeals processes exempt from the act, Huskey said, to make the process more separate from the law. </span></p>
+<p><span style="font-weight: 400;">Hildes said while he understands students not wanting to go through the legal system for sexual misconduct cases, he feels the university system doesn’t allow survivors enough protection. </span></p>
+<p><span style="font-weight: 400;">Hildes represented the survivor in the case where Pratt decreased sanctions after an appeal. He said the Office of Student Life insisted the survivor be the only one to talk and didn’t seem to understand the power dynamics of having the respondent and the survivor in the same room during the appeal.</span></p>
+<p><span style="font-weight: 400;">He said lawyers should be able to protect and speak for the survivor if they wish, as it’s difficult to talk about what happened repeatedly.</span></p>
+<p><span style="font-weight: 400;">“If she wants to speak, we are happy to have the survivor do as much of the talking as they want to do in the situation, but they need to have the option not to,” he said.</span></p>
+<p><span style="font-weight: 400;">In Doezema’s case, Sledge told her she didn’t need to be present for the appeal hearing, if she didn’t want to be in the same room as Vitalis. She didn’t. Instead, she submitted a written statement and waited in the hallway outside of the room.</span></p>
+<p><span style="font-weight: 400;">In the statement, Doezema wrote that she supported the decision by Stillwell to expel Vitalis, especially given he’d already walked the graduation stage after being found in violation of the student conduct code. </span></p>
+<p><span style="font-weight: 400;">“The #metoo movement is not about revenge,&#8221; her statement read. &#8220;It’s about saying no and standing up to </span><span style="font-weight: 400;">those who use their power to put others down. It’s about speaking out for others by speaking </span><span style="font-weight: 400;">up for yourself. I refuse to be silent.”</span></p>
+<p><em>Editor’s note: Reporter Rebekah Way did not interview or edit content from Julie Reimann, who she has a professional relationship with. Way and Asia Fields did not interview one survivors because they had classes with them in the past. Western Front Editor-in-Chief Eric Trent did not edit the story due to a conflict of interest.</em></p>
+<p><em><strong><img src="http://www.westernfrontonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://www.westernfrontonline.com/wp-content/uploads/2017/04/Western-Watchdog-7-300x232.jpg" class="wp-image-15649 alignleft" alt width="166" height="128" srcset="http://www.westernfrontonline.com/wp-content/uploads/2017/04/Western-Watchdog-7-300x232.jpg 300w, http://www.westernfrontonline.com/wp-content/uploads/2017/04/Western-Watchdog-7-768x593.jpg 768w, http://www.westernfrontonline.com/wp-content/uploads/2017/04/Western-Watchdog-7-1024x791.jpg 1024w, http://www.westernfrontonline.com/wp-content/uploads/2017/04/Western-Watchdog-7-744x575.jpg 744w" sizes="(max-width: 166px) 100vw, 166px"><noscript><img class="wp-image-15649 alignleft" src="http://www.westernfrontonline.com/wp-content/uploads/2017/04/Western-Watchdog-7-300x232.jpg" alt="" width="166" height="128" srcset="http://www.westernfrontonline.com/wp-content/uploads/2017/04/Western-Watchdog-7-300x232.jpg 300w, http://www.westernfrontonline.com/wp-content/uploads/2017/04/Western-Watchdog-7-768x593.jpg 768w, http://www.westernfrontonline.com/wp-content/uploads/2017/04/Western-Watchdog-7-1024x791.jpg 1024w, http://www.westernfrontonline.com/wp-content/uploads/2017/04/Western-Watchdog-7-744x575.jpg 744w" sizes="(max-width: 166px) 100vw, 166px" /></noscript></strong></em></p>
+<p>&nbsp;</p>
+<p><strong>This story is the second in a three-part series for an advanced reporting course with professor Carolyn Nielsen. Read the other stories, on <a href="http://www.westernfrontonline.com/2018/08/02/sexual-assault-survivors-frustrated-with-western-investigations-despite-changes-to-process/">investigations</a> and <a href="http://www.westernfrontonline.com/2018/08/08/western-sexual-assault-prevention-efforts-lacking">prevention</a>.</strong></p>
+<p>&nbsp;</p>
+<div class='mailmunch-forms-after-post' style='display: none !important;'></div>			<!-- <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+			xmlns:dc="http://purl.org/dc/elements/1.1/"
+			xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+		<rdf:Description rdf:about="http://www.westernfrontonline.com/2018/08/03/western-expels-second-student-for-sexual-misconduct-in-five-years-but-too-late/"
+    dc:identifier="http://www.westernfrontonline.com/2018/08/03/western-expels-second-student-for-sexual-misconduct-in-five-years-but-too-late/"
+    dc:title="Western expels second student for sexual misconduct in five years, but too late"
+    trackback:ping="http://www.westernfrontonline.com/2018/08/03/western-expels-second-student-for-sexual-misconduct-in-five-years-but-too-late/trackback/" />
+</rdf:RDF> -->
+			<div class="page-links"></div>			
+		</div>
+		
+		<div class="postinfo clearfix">
+			<span class="meta-category">
+				<ul class="post-categories">
+	<li><a href="http://www.westernfrontonline.com/category/news/" rel="category tag">News</a></li>
+	<li><a href="http://www.westernfrontonline.com/category/news/western-watchdog/" rel="category tag">Western Watchdog</a></li></ul>			</span>
+
+		</div>
+
+	</article>
+		
+					
+					
+		
+
+
+	<div id="comments">
+	
+		
+						<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2018/08/03/western-expels-second-student-for-sexual-misconduct-in-five-years-but-too-late/#respond" style="display:none;">Cancel reply</a></small></h3>			<form action="http://www.westernfrontonline.com/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+				<p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> Required fields are marked <span class="required">*</span></p><p class="comment-form-comment"><label for="comment">Comment</label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required="required"></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" required='required' /></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="text" value="" size="30" maxlength="100" aria-describedby="email-notes" required='required' /></p>
+<p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="text" value="" size="30" maxlength="200" /></p>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='26615' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="53f4efffe8" /></p><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="229"/></p>			</form>
+			</div><!-- #respond -->
+	<p class="akismet_comment_form_privacy_notice">This site uses Akismet to reduce spam. <a href="https://akismet.com/privacy/" target="_blank" rel="nofollow noopener">Learn how your comment data is processed</a>.</p>		
+	</div>
+
+		
+		</section>
+		
+		
+	<section id="sidebar" class="secondary clearfix" role="complementary">
+
+		<aside id="search-2" class="widget widget_search clearfix">
+	<form role="search" method="get" class="search-form" action="http://www.westernfrontonline.com/">
+		<label>
+			<span class="screen-reader-text">Search for:</span>
+			<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s">
+		</label>
+		<button type="submit" class="search-submit">
+			<span class="genericon-search"></span>
+		</button>
+	</form>
+
+</aside><aside id="custom_html-7" class="widget_text widget widget_custom_html clearfix"><h3 class="widgettitle"><span>The Latest</span></h3><div class="textwidget custom-html-widget"><div style="-webkit-filter: invert(90%) saturate(0%) brightness(180%);
+  filter: invert(90%) saturate(0%) brightness(180%);">
+	
+<a href="https://twitter.com/TheFrontOnline?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="false" >Follow @TheFrontOnline</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+
+<a class="twitter-timeline"
+data-width="100%" 
+data-height="800" 
+data-link-color="#128EC8" data-chrome="noheader"
+ href="https://twitter.com/TheFrontOnline?ref_src=twsrc%5Etfw"> Tweets by TheFrontOnline</a>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div></aside><aside id="custom_html-5" class="widget_text widget widget_custom_html clearfix"><h3 class="widgettitle"><span>MUSIC</span></h3><div class="textwidget custom-html-widget"><iframe height="300" width="100%" src="https://play.soundsgood.co/embed/5c6e14a87daaac3cbbd4c93e?color=0C5E9A&hideTitle=1&hideCurator=1"  frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen allow="autoplay; encrypted-media" allowtransparency="true"></iframe>
+<h2 class="entry-title post-title">
+<a href="http://bit.ly/2C6liWP">New Playlist: Post-Midterm Melt</a></h2><div class="entry-meta postmeta"></div>
+<div class="entry">
+	<p>By&nbsp;Sophia Knotts</p></div>
+</div></aside>
+	</section>
+	</div>
+	
+
+	<div id="footer-wrap">
+
+		<footer id="footer" class="container clearfix" role="contentinfo">
+
+			
+			<div id="footer-text">
+				
+	<span class="credit-link">
+		Powered by <a href="http://wordpress.org" title="WordPress">WordPress</a> and <a href="https://themezee.com/themes/dynamicnews/" title="Dynamic News WordPress Theme">Dynamic News</a>.	</span>
+
+				</div>
+
+		</footer>
+
+	</div>
+
+</div><!-- end #wrapper -->
+
+<!-- Instagram Feed JS -->
+<script type="text/javascript">
+var sbiajaxurl = "http://www.westernfrontonline.com/wp-admin/admin-ajax.php";
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pollsL10n = {"ajax_url":"http:\/\/www.westernfrontonline.com\/wp-admin\/admin-ajax.php","text_wait":"Your last request is still being processed. Please wait a while ...","text_valid":"Please choose a valid poll answer.","text_multiple":"Maximum number of choices allowed: ","show_loading":"1","show_fading":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.westernfrontonline.com/wp-content/plugins/wp-polls/polls-js.js?ver=2.75.3'></script>
+<script type='text/javascript' src='http://www.westernfrontonline.com/wp-includes/js/comment-reply.min.js?ver=5.1.3'></script>
+<script type='text/javascript' src='http://www.westernfrontonline.com/wp-content/plugins/lazy-load/js/jquery.sonar.min.js?ver=0.6.1'></script>
+<script type='text/javascript' src='http://www.westernfrontonline.com/wp-content/plugins/lazy-load/js/lazy-load.js?ver=0.6.1'></script>
+<script type='text/javascript' src='http://www.westernfrontonline.com/wp-includes/js/wp-embed.min.js?ver=5.1.3'></script>
+<script async="async" type='text/javascript' src='http://www.westernfrontonline.com/wp-content/plugins/akismet/_inc/form.js?ver=4.1.3'></script>
+</body>
+</html>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+
+Served from: www.westernfrontonline.com @ 2019-11-12 02:21:00 by W3 Total Cache
+-->

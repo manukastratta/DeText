@@ -1,0 +1,899 @@
+
+<!DOCTYPE html><!-- HTML 5 -->
+<html lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://www.westernfrontonline.com/xmlrpc.php" />
+
+
+<!-- MapPress Easy Google Maps Version:2.53.3 (http://www.mappresspro.com/mappress) -->
+<script type='text/javascript'>mapp = window.mapp || {}; mapp.data = [];</script>
+<title>Sexual assault survivors frustrated with Western investigations, despite changes to process &ndash; The Western Front</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v12.4 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1"/>
+<link rel="canonical" href="http://www.westernfrontonline.com/2018/08/02/sexual-assault-survivors-frustrated-with-western-investigations-despite-changes-to-process/" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Content warning: This story contains descriptions of sexual assault and self-harm. By Haley Ausbun, Asia Fields and Rebekah Way When Mieke Doezema reported to Western in January that another student sexually assaulted her, she was seeking a sense of protection. Doezema had a class with the student she [...]" />
+<meta name="twitter:title" content="Sexual assault survivors frustrated with Western investigations, despite changes to process &ndash; The Western Front" />
+<meta name="twitter:site" content="@TheFrontOnline" />
+<meta name="twitter:image" content="http://www.westernfrontonline.com/wp-content/uploads/2018/07/Asiaphoto1-e1533117952736.jpg" />
+<meta name="twitter:creator" content="@TheFrontOnline" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"http://www.westernfrontonline.com/#organization","name":"The Western Front","url":"http://www.westernfrontonline.com/","sameAs":["https://www.facebook.com/westernfrontonline/","https://www.instagram.com/thefrontonline/","https://www.youtube.com/user/westernfrontonline","https://twitter.com/TheFrontOnline"],"logo":{"@type":"ImageObject","@id":"http://www.westernfrontonline.com/#logo","url":"http://www.westernfrontonline.com/wp-content/uploads/2018/01/cropped-Logo-with-shade-of-Western-blue-2.png","width":512,"height":512,"caption":"The Western Front"},"image":{"@id":"http://www.westernfrontonline.com/#logo"}},{"@type":"WebSite","@id":"http://www.westernfrontonline.com/#website","url":"http://www.westernfrontonline.com/","name":"The Western Front","publisher":{"@id":"http://www.westernfrontonline.com/#organization"},"potentialAction":{"@type":"SearchAction","target":"http://www.westernfrontonline.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"ImageObject","@id":"http://www.westernfrontonline.com/2018/08/02/sexual-assault-survivors-frustrated-with-western-investigations-despite-changes-to-process/#primaryimage","url":"http://www.westernfrontonline.com/wp-content/uploads/2018/07/Asiaphoto1-e1533117952736.jpg","width":3582,"height":1836},{"@type":"WebPage","@id":"http://www.westernfrontonline.com/2018/08/02/sexual-assault-survivors-frustrated-with-western-investigations-despite-changes-to-process/#webpage","url":"http://www.westernfrontonline.com/2018/08/02/sexual-assault-survivors-frustrated-with-western-investigations-despite-changes-to-process/","inLanguage":"en-US","name":"Sexual assault survivors frustrated with Western investigations, despite changes to process &ndash; The Western Front","isPartOf":{"@id":"http://www.westernfrontonline.com/#website"},"primaryImageOfPage":{"@id":"http://www.westernfrontonline.com/2018/08/02/sexual-assault-survivors-frustrated-with-western-investigations-despite-changes-to-process/#primaryimage"},"datePublished":"2018-08-02T19:53:54+00:00","dateModified":"2018-08-21T05:11:12+00:00"},{"@type":"Article","@id":"http://www.westernfrontonline.com/2018/08/02/sexual-assault-survivors-frustrated-with-western-investigations-despite-changes-to-process/#article","isPartOf":{"@id":"http://www.westernfrontonline.com/2018/08/02/sexual-assault-survivors-frustrated-with-western-investigations-despite-changes-to-process/#webpage"},"author":{"@id":"http://www.westernfrontonline.com/#/schema/person/a8d7aec0f1dde2d454348c49671f25d6"},"headline":"Sexual assault survivors frustrated with Western investigations, despite changes to process","datePublished":"2018-08-02T19:53:54+00:00","dateModified":"2018-08-21T05:11:12+00:00","commentCount":0,"mainEntityOfPage":{"@id":"http://www.westernfrontonline.com/2018/08/02/sexual-assault-survivors-frustrated-with-western-investigations-despite-changes-to-process/#webpage"},"publisher":{"@id":"http://www.westernfrontonline.com/#organization"},"image":{"@id":"http://www.westernfrontonline.com/2018/08/02/sexual-assault-survivors-frustrated-with-western-investigations-despite-changes-to-process/#primaryimage"},"keywords":"#MeToo,EOO,Equal Opportunity Office,Office of Student Life,OSL,sexual assault,sexual misconduct,slider,survivor,Title IX,Western Watchdog","articleSection":"News"},{"@type":["Person"],"@id":"http://www.westernfrontonline.com/#/schema/person/a8d7aec0f1dde2d454348c49671f25d6","name":"westernfrontonline@gmail.com","image":{"@type":"ImageObject","@id":"http://www.westernfrontonline.com/#authorlogo","url":"http://1.gravatar.com/avatar/dedadf5eb4044569c4fcfd3ccfed86a4?s=96&d=mm&r=g","caption":"westernfrontonline@gmail.com"},"sameAs":[]}]}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="The Western Front &raquo; Feed" href="http://www.westernfrontonline.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Western Front &raquo; Comments Feed" href="http://www.westernfrontonline.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Western Front &raquo; Sexual assault survivors frustrated with Western investigations, despite changes to process Comments Feed" href="http://www.westernfrontonline.com/2018/08/02/sexual-assault-survivors-frustrated-with-western-investigations-despite-changes-to-process/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.westernfrontonline.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.1.3"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='login-with-ajax-css'  href='http://www.westernfrontonline.com/wp-content/plugins/login-with-ajax/widget/widget.css?ver=3.1.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='dynamicnews-custom-fonts-css'  href='http://www.westernfrontonline.com/wp-content/themes/dynamic-news-lite/css/custom-fonts.css?ver=20180413' type='text/css' media='all' />
+<link rel='stylesheet' id='sb_instagram_styles-css'  href='http://www.westernfrontonline.com/wp-content/plugins/instagram-feed/css/sb-instagram-2-1.min.css?ver=2.1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='http://www.westernfrontonline.com/wp-includes/css/dist/block-library/style.min.css?ver=5.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='mappress-leaflet-css'  href='http://www.westernfrontonline.com/wp-content/plugins/mappress-google-maps-for-wordpress/css/leaflet/leaflet.css?ver=1.4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='mappress-css'  href='http://www.westernfrontonline.com/wp-content/plugins/mappress-google-maps-for-wordpress/css/mappress.css?ver=2.53.3' type='text/css' media='all' />
+<link rel='stylesheet' id='photospace-styles-css'  href='http://www.westernfrontonline.com/wp-content/plugins/photospace/gallery.css?ver=5.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-polls-css'  href='http://www.westernfrontonline.com/wp-content/plugins/wp-polls/polls-css.css?ver=2.75.3' type='text/css' media='all' />
+<style id='wp-polls-inline-css' type='text/css'>
+.wp-polls .pollbar {
+	margin: 1px;
+	font-size: 6px;
+	line-height: 8px;
+	height: 8px;
+	background-image: url('http://www.westernfrontonline.com/wp-content/plugins/wp-polls/images/default/pollbg.gif');
+	border: 1px solid #c8c8c8;
+}
+
+</style>
+<link rel='stylesheet' id='dynamicnewslite-stylesheet-css'  href='http://www.westernfrontonline.com/wp-content/themes/dynamic-news-lite/style.css?ver=1.6' type='text/css' media='all' />
+<style id='dynamicnewslite-stylesheet-inline-css' type='text/css'>
+.site-title {
+	position: absolute;
+	clip: rect(1px, 1px, 1px, 1px);
+}
+</style>
+<link rel='stylesheet' id='genericons-css'  href='http://www.westernfrontonline.com/wp-content/plugins/jetpack/_inc/genericons/genericons/genericons.css?ver=3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='themezee-related-posts-css'  href='http://www.westernfrontonline.com/wp-content/themes/dynamic-news-lite/css/themezee-related-posts.css?ver=20160421' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.westernfrontonline.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.westernfrontonline.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var LWA = {"ajaxurl":"http:\/\/www.westernfrontonline.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.westernfrontonline.com/wp-content/plugins/login-with-ajax/widget/login-with-ajax.js?ver=3.1.8.1'></script>
+<script type='text/javascript' src='http://www.westernfrontonline.com/wp-content/plugins/photospace/jquery.galleriffic.js?ver=5.1.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpgmza_google_api_status = {"message":"Enqueued","code":"ENQUEUED"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.westernfrontonline.com/wp-content/plugins/wp-google-maps/wpgmza_data.js?ver=5.1.3'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='http://www.westernfrontonline.com/wp-content/themes/dynamic-news-lite/js/html5shiv.min.js?ver=3.7.3'></script>
+<![endif]-->
+<script type='text/javascript'>
+/* <![CDATA[ */
+var dynamicnews_menu_title = "Menu";
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.westernfrontonline.com/wp-content/themes/dynamic-news-lite/js/navigation.js?ver=20160719'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var dynamicnews_sidebar_title = "Sidebar";
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.westernfrontonline.com/wp-content/themes/dynamic-news-lite/js/sidebar.js?ver=20160421'></script>
+<link rel='https://api.w.org/' href='http://www.westernfrontonline.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.westernfrontonline.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.westernfrontonline.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.1.3" />
+<link rel='shortlink' href='http://www.westernfrontonline.com/?p=26465' />
+<link rel="alternate" type="application/json+oembed" href="http://www.westernfrontonline.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.westernfrontonline.com%2F2018%2F08%2F02%2Fsexual-assault-survivors-frustrated-with-western-investigations-despite-changes-to-process%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.westernfrontonline.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.westernfrontonline.com%2F2018%2F08%2F02%2Fsexual-assault-survivors-frustrated-with-western-investigations-despite-changes-to-process%2F&#038;format=xml" />
+
+		<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+			ga('create', 'UA-1642045-9', 'auto');
+			
+			ga('send', 'pageview');
+		</script>
+
+	          <style>
+          .has-post-thumbnail img.wp-post-image, 
+          .attachment-twentyseventeen-featured-image.wp-post-image { display: none !important; }          
+          </style><script type='text/javascript' data-cfasync='false'>var _mmunch = {'front': false, 'page': false, 'post': false, 'category': false, 'author': false, 'search': false, 'attachment': false, 'tag': false};_mmunch['post'] = true; _mmunch['postData'] = {"ID":26465,"post_name":"sexual-assault-survivors-frustrated-with-western-investigations-despite-changes-to-process","post_title":"Sexual assault survivors frustrated with Western investigations, despite changes to process","post_type":"post","post_author":"1","post_status":"publish"}; _mmunch['postCategories'] = [{"term_id":4,"name":"News","slug":"news","term_group":0,"term_taxonomy_id":4,"taxonomy":"category","description":"","parent":0,"count":1614,"filter":"raw","cat_ID":4,"category_count":1614,"category_description":"","cat_name":"News","category_nicename":"news","category_parent":0}]; _mmunch['postTags'] = [{"term_id":2950,"name":"#MeToo","slug":"metoo","term_group":0,"term_taxonomy_id":2950,"taxonomy":"post_tag","description":"","parent":0,"count":6,"filter":"raw"},{"term_id":2298,"name":"EOO","slug":"eoo","term_group":0,"term_taxonomy_id":2298,"taxonomy":"post_tag","description":"","parent":0,"count":6,"filter":"raw"},{"term_id":1231,"name":"Equal Opportunity Office","slug":"equal-opportunity-office","term_group":0,"term_taxonomy_id":1231,"taxonomy":"post_tag","description":"","parent":0,"count":9,"filter":"raw"},{"term_id":4360,"name":"Office of Student Life","slug":"office-of-student-life","term_group":0,"term_taxonomy_id":4360,"taxonomy":"post_tag","description":"","parent":0,"count":3,"filter":"raw"},{"term_id":4361,"name":"OSL","slug":"osl","term_group":0,"term_taxonomy_id":4361,"taxonomy":"post_tag","description":"","parent":0,"count":2,"filter":"raw"},{"term_id":763,"name":"sexual assault","slug":"sexual-assault","term_group":0,"term_taxonomy_id":763,"taxonomy":"post_tag","description":"","parent":0,"count":26,"filter":"raw"},{"term_id":3041,"name":"sexual misconduct","slug":"sexual-misconduct","term_group":0,"term_taxonomy_id":3041,"taxonomy":"post_tag","description":"","parent":0,"count":6,"filter":"raw"},{"term_id":3052,"name":"slider","slug":"slider","term_group":0,"term_taxonomy_id":3052,"taxonomy":"post_tag","description":"","parent":0,"count":264,"filter":"raw"},{"term_id":2989,"name":"survivor","slug":"survivor","term_group":0,"term_taxonomy_id":2989,"taxonomy":"post_tag","description":"","parent":0,"count":4,"filter":"raw"},{"term_id":1228,"name":"Title IX","slug":"title-ix","term_group":0,"term_taxonomy_id":1228,"taxonomy":"post_tag","description":"","parent":0,"count":12,"filter":"raw"},{"term_id":2363,"name":"Western Watchdog","slug":"western-watchdog","term_group":0,"term_taxonomy_id":2363,"taxonomy":"post_tag","description":"","parent":0,"count":5,"filter":"raw"}]; _mmunch['postAuthor'] = {"name":"<a href=\"http:\/\/www.westernfrontonline.com\/byline\/asia-fields\/\" rel=\"tag\">Asia Fields<\/a>, <a href=\"http:\/\/www.westernfrontonline.com\/byline\/haley-ausbun\/\" rel=\"tag\">Haley Ausbun<\/a>, <a href=\"http:\/\/www.westernfrontonline.com\/byline\/rebekah-way\/\" rel=\"tag\">Rebekah Way<\/a>","ID":1};</script><script data-cfasync="false" src="//a.mailmunch.co/app/v1/site.js" id="mailmunch-script" data-plugin="mc_mm" data-mailmunch-site-id="468984" async></script><!--	photospace [ START ] --> 
+<style type="text/css">
+			/* reset */ 
+			.photospace img,
+			.photospace ul.thumbs,
+			.photospace ul.thumbs li,
+			.photospace ul.thumbs li a{
+				padding:0;
+				margin:0;
+				border:none !important;
+				background:none !important;
+				height:auto !important;
+				width:auto !important;
+			}
+			.photospace span{
+				padding:0; 
+				margin:0;
+				border:none !important;
+				background:none !important;
+			}
+			
+			.photospace .thumnail_col a.pageLink {
+				width:50px;
+				height:50px;
+			}
+			.photospace .gal_content,
+				.photospace .loader,
+				.photospace .slideshow a.advance-link{
+					width:865px;
+				}
+			.photospace{
+					width:1046px;
+				}
+			.photospace{
+					height:575px;
+				}
+			.photospace ul.thumbs li {
+					margin-bottom:10px !important;
+					margin-right:10px !important; 
+				}
+			.photospace .loader {
+					height: 287.5px;
+				}
+			.photospace .loader {
+					width: 865px;
+				}
+			.photospace .slideshow a.advance-link,
+				.photospace .slideshow span.image-wrapper {
+					height:575px;
+				}
+			.photospace .slideshow-container {
+					height:575px;
+				}
+		</style><!--	photospace [ END ] --> 
+      <meta name="onesignal" content="wordpress-plugin"/>
+        <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async></script>    <script>
+
+      window.OneSignal = window.OneSignal || [];
+
+      OneSignal.push( function() {
+        OneSignal.SERVICE_WORKER_UPDATER_PATH = "OneSignalSDKUpdaterWorker.js.php";
+        OneSignal.SERVICE_WORKER_PATH = "OneSignalSDKWorker.js.php";
+        OneSignal.SERVICE_WORKER_PARAM = { scope: '/' };
+
+        OneSignal.setDefaultNotificationUrl("http://www.westernfrontonline.com");
+        var oneSignal_options = {};
+        window._oneSignalInitOptions = oneSignal_options;
+
+        oneSignal_options['wordpress'] = true;
+oneSignal_options['appId'] = '';
+oneSignal_options['autoRegister'] = false;
+oneSignal_options['httpPermissionRequest'] = { };
+oneSignal_options['httpPermissionRequest']['enable'] = true;
+oneSignal_options['welcomeNotification'] = { };
+oneSignal_options['welcomeNotification']['title'] = "";
+oneSignal_options['welcomeNotification']['message'] = "";
+oneSignal_options['path'] = "https://www.westernfrontonline.com/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/";
+oneSignal_options['promptOptions'] = { };
+oneSignal_options['notifyButton'] = { };
+oneSignal_options['notifyButton']['enable'] = true;
+oneSignal_options['notifyButton']['position'] = 'bottom-right';
+oneSignal_options['notifyButton']['theme'] = 'default';
+oneSignal_options['notifyButton']['size'] = 'medium';
+oneSignal_options['notifyButton']['prenotify'] = true;
+oneSignal_options['notifyButton']['showCredit'] = true;
+oneSignal_options['notifyButton']['text'] = {};
+              OneSignal.init(window._oneSignalInitOptions);
+                    });
+
+      function documentInitOneSignal() {
+        var oneSignal_elements = document.getElementsByClassName("OneSignal-prompt");
+
+        var oneSignalLinkClickHandler = function(event) { OneSignal.push(['registerForPushNotifications']); event.preventDefault(); };        for(var i = 0; i < oneSignal_elements.length; i++)
+          oneSignal_elements[i].addEventListener('click', oneSignalLinkClickHandler, false);
+      }
+
+      if (document.readyState === 'complete') {
+           documentInitOneSignal();
+      }
+      else {
+           window.addEventListener("load", function(event){
+               documentInitOneSignal();
+          });
+      }
+    </script>
+
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #eeeeee; }
+</style>
+	
+<!-- WordPress Facebook Open Graph protocol plugin (WPFBOGP v2.0.13) http://rynoweb.com/wordpress-plugins/ -->
+<meta property="fb:admins" content="https://www.facebook.com/westernfrontonline"/>
+<meta property="fb:app_id" content="https://www.facebook.com/westernfrontonline"/>
+<meta property="og:url" content="http://www.westernfrontonline.com/2018/08/02/sexual-assault-survivors-frustrated-with-western-investigations-despite-changes-to-process/"/>
+<meta property="og:title" content="Sexual assault survivors frustrated with Western investigations, despite changes to process"/>
+<meta property="og:site_name" content="The Western Front"/>
+<meta property="og:description" content="  Content warning: This story contains descriptions of sexual assault and self-harm.  By Haley Ausbun, Asia Fields and Rebekah Way  When Mieke Doezema rep"/>
+<meta property="og:type" content="article"/>
+<meta property="og:image" content="http://www.westernfrontonline.com/wp-content/uploads/2018/01/1506564_10151778256675870_1243052357_n-e1515984724947.png"/>
+<meta property="og:image" content="http://www.westernfrontonline.com/wp-content/uploads/2017/04/Western-Watchdog-7-300x232.jpg"/>
+<meta property="og:image" content="http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.58.53-PM-658x1024.png"/>
+<meta property="og:image" content="http://www.westernfrontonline.com/wp-content/uploads/2018/03/Screen-Shot-2018-03-07-at-6.38.50-AM-197x300.png"/>
+<meta property="og:image" content="http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-9.37.43-PM-e1533185252730-1024x471.png"/>
+<meta property="og:image" content="http://www.westernfrontonline.com/wp-content/uploads/2018/08/EOO-1024x683.jpg"/>
+<meta property="og:image" content="http://www.westernfrontonline.com/wp-content/uploads/2018/08/PA.jpg"/>
+<meta property="og:image" content="http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.47.04-PM-1024x916.png"/>
+<meta property="og:image" content="http://www.westernfrontonline.com/wp-content/uploads/2018/05/4E2A6995-3-1024x682.jpg"/>
+<meta property="og:image" content="http://www.westernfrontonline.com/wp-content/uploads/2018/06/Sexual-Assault.2.0-01.png"/>
+<meta property="og:image" content="http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.45.09-PM-1-1024x676.png"/>
+<meta property="og:image" content="http://www.westernfrontonline.com/wp-content/uploads/2018/08/Resource-2-e1533179328588.jpg"/>
+<meta property="og:image" content="http://www.westernfrontonline.com/wp-content/uploads/2018/07/Asiaphoto1-1024x683.jpg"/>
+<meta property="og:image" content="http://www.westernfrontonline.com/wp-content/uploads/2018/07/Asiaphoto1-e1533117952736-1024x525.jpg"/>
+<meta property="og:locale" content="en_us"/>
+<!-- // end wpfbogp -->
+<link rel="icon" href="http://www.westernfrontonline.com/wp-content/uploads/2018/01/cropped-Logo-with-shade-of-Western-blue-2-32x32.png" sizes="32x32" />
+<link rel="icon" href="http://www.westernfrontonline.com/wp-content/uploads/2018/01/cropped-Logo-with-shade-of-Western-blue-2-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://www.westernfrontonline.com/wp-content/uploads/2018/01/cropped-Logo-with-shade-of-Western-blue-2-180x180.png" />
+<meta name="msapplication-TileImage" content="http://www.westernfrontonline.com/wp-content/uploads/2018/01/cropped-Logo-with-shade-of-Western-blue-2-270x270.png" />
+		<style type="text/css" id="wp-custom-css">
+			a, a:link, a:visited{
+	color: #003f87;
+	text-decoration: none;
+}
+input[type="submit"] {
+	border: none;
+	color: #fff;
+	background: #001936;
+}
+#logo .site-title {
+	display: inline-block;
+	font-size: 2.5em;
+	font-weight: bold;
+	color: #001936;
+	font-family: 'Francois One', Tahoma, Arial;
+}
+#logo .site-title a:link,
+#logo .site-title a:visited {
+	color: #001936;
+}
+#topnavi-wrap {
+	background: #001936;
+	position: relative;
+}
+.main-navigation-menu a:hover {
+	background: #001936;
+}
+.main-navigation-menu ul a:hover {
+	color: #fff;
+	background: #001936;
+}
+
+.entry-title a:hover, .entry-title a:active{
+	color: #001936;
+}
+.postinfo .meta-category a:hover, .postinfo .meta-category a:active {
+	background: #001936;
+	text-decoration: none;
+}
+.more-link {
+	display: inline-block;
+	margin: 0.5em 0;
+	padding: 0.6em 1em;
+	text-decoration: none;
+	color: #fff;
+	text-transform: uppercase;
+	background-color: #001936;
+}
+.archive-title span{
+	color: #001936;
+}
+.post-pagination a:hover {
+	color: #001936;
+}
+.post-pagination .current {
+	padding: 0.5em 0.9em;
+	margin-right: 0.2em;
+	color: #001936;
+	text-decoration: underline;
+}
+.infinite-scroll #infinite-handle span {
+	display: inline-block;
+	margin-bottom: 1.5em;
+	padding: 0.6em 1em;
+	line-height: 1.5;
+	font-size: 1em;
+	text-align: center;
+	text-decoration: none;
+	text-transform: uppercase;
+	color: #fff;
+	background-color: #001936;
+}
+#image-nav .nav-previous a, #image-nav .nav-next a {
+	font-size: 0.9em;
+	text-decoration: none;
+	color: #001936;
+}
+.social-icons-menu li a {
+	position: relative;
+	display: inline-block;
+	padding: 0.8em;
+	background: #001936;
+	text-decoration: none;
+	color: #fff;
+}
+.bypostauthor .fn, .comment-author-admin .fn {
+	background: #001936;
+}
+#commentform #submit {
+	display: block;
+	border: none;
+	margin-top: 1em;
+	padding: 1em 4em;
+	text-decoration: none;
+	color: #fff;
+	background: #001936;
+}
+	#mainnav-toggle:hover {
+		cursor: pointer;
+		background: #001936;
+	}
+	.main-navigation-menu .submenu-dropdown-toggle:hover {
+		cursor: pointer;
+		background: #001936;
+	}
+	.sidebar-navigation-toggle:hover,
+	.sidebar-navigation-toggle:active,
+	.sidebar-navigation-toggle:focus {
+		cursor: pointer;
+		background: #001936;
+	}
+	.sidebar-closing-toggle {
+		display: block;
+		width: 100%;
+		margin: 0 0 1.5em;
+		padding: 0.5em;
+		text-align: left;
+		text-transform: uppercase;
+		text-decoration: none;
+		font-size: 1.0em;
+		font-family: 'Francois One', Tahoma, Arial;
+		color: #fff;
+		background: #001936;
+		border: none;
+		-webkit-transition: all 0.1s ease-out;
+		-moz-transition: all 0.1s ease-out;
+		-ms-transition: all 0.1s ease-out;
+		-o-transition: all 0.1s ease-out;
+		transition: all 0.1s ease-out;
+	}
+.frontpage-slider-controls .zeeflex-control-paging li a.zeeflex-active {
+    background: #001936;
+    cursor: default;
+}
+#frontpage-slider .zeeslide .slide-entry {
+    line-height: 1.6em;
+    -ms-word-wrap: break-word;
+    word-wrap: break-word;
+    margin-top: 1px;
+    padding: 1em 1.5em;
+    color: #fff;
+    background: #333;
+    border-top: 10px solid #001936;
+}		</style>
+		
+<!-- START - Open Graph and Twitter Card Tags 2.2.7.2 -->
+ <!-- Facebook Open Graph -->
+  <meta property="og:locale" content="en_US"/>
+  <meta property="og:site_name" content="The Western Front"/>
+  <meta property="og:title" content="Sexual assault survivors frustrated with Western investigations, despite changes to process"/>
+  <meta property="og:url" content="http://www.westernfrontonline.com/2018/08/02/sexual-assault-survivors-frustrated-with-western-investigations-despite-changes-to-process/"/>
+  <meta property="og:type" content="article"/>
+  <meta property="og:description" content="Content warning: This story contains descriptions of sexual assault and self-harm.
+
+By Haley Ausbu"/>
+  <meta property="og:image" content="http://www.westernfrontonline.com/wp-content/uploads/2018/07/Asiaphoto1-e1533117952736.jpg"/>
+  <meta property="og:image:url" content="http://www.westernfrontonline.com/wp-content/uploads/2018/07/Asiaphoto1-e1533117952736.jpg"/>
+  <meta property="article:published_time" content="2018-08-02T12:53:54-08:00"/>
+  <meta property="article:modified_time" content="2018-08-20T22:11:12-08:00" />
+  <meta property="og:updated_time" content="2018-08-20T22:11:12-08:00" />
+  <meta property="article:section" content="News"/>
+  <meta property="article:publisher" content="Facebook.com/WesternFrontOnline"/>
+ <!-- Google+ / Schema.org -->
+  <meta itemprop="name" content="Sexual assault survivors frustrated with Western investigations, despite changes to process"/>
+  <meta itemprop="headline" content="Sexual assault survivors frustrated with Western investigations, despite changes to process"/>
+  <meta itemprop="description" content="Content warning: This story contains descriptions of sexual assault and self-harm.
+
+By Haley Ausbu"/>
+  <meta itemprop="image" content="http://www.westernfrontonline.com/wp-content/uploads/2018/07/Asiaphoto1-e1533117952736.jpg"/>
+  <meta itemprop="datePublished" content="2018-08-02"/>
+  <meta itemprop="dateModified" content="2018-08-20T22:11:12-08:00" />
+  <meta itemprop="author" content="&lt;a href=&quot;http://www.westernfrontonline.com/byline/asia-fields/&quot; rel=&quot;tag&quot;&gt;Asia Fields&lt;/a&gt;, &lt;a href=&quot;http://www.westernfrontonline.com/byline/haley-ausbun/&quot; rel=&quot;tag&quot;&gt;Haley Ausbun&lt;/a&gt;, &lt;a href=&quot;http://www.westernfrontonline.com/byline/rebekah-way/&quot; rel=&quot;tag&quot;&gt;Rebekah Way&lt;/a&gt;"/>
+  <!--<meta itemprop="publisher" content="The Western Front"/>--> <!-- To solve: The attribute publisher.itemtype has an invalid value -->
+ <!-- Twitter Cards -->
+  <meta name="twitter:title" content="Sexual assault survivors frustrated with Western investigations, despite changes to process"/>
+  <meta name="twitter:url" content="http://www.westernfrontonline.com/2018/08/02/sexual-assault-survivors-frustrated-with-western-investigations-despite-changes-to-process/"/>
+  <meta name="twitter:description" content="Content warning: This story contains descriptions of sexual assault and self-harm.
+
+By Haley Ausbu"/>
+  <meta name="twitter:image" content="http://www.westernfrontonline.com/wp-content/uploads/2018/07/Asiaphoto1-e1533117952736.jpg"/>
+  <meta name="twitter:card" content="summary_large_image"/>
+ <!-- SEO -->
+ <!-- Misc. tags -->
+ <!-- is_singular -->
+<!-- END - Open Graph and Twitter Card Tags 2.2.7.2 -->
+	
+</head>
+
+<body class="post-template-default single single-post postid-26465 single-format-standard custom-background wp-custom-logo wide-layout sliding-sidebar mobile-header-none">
+
+<div id="wrapper" class="hfeed">
+
+	<div id="topnavi-wrap">
+		
+	<div id="topnavi" class="container clearfix">
+
+		
+	</div>
+	</div>
+
+	<div id="header-wrap">
+
+		<header id="header" class="container clearfix" role="banner">
+
+			<div id="logo" class="clearfix">
+
+				<a href="http://www.westernfrontonline.com/" class="custom-logo-link" rel="home" itemprop="url"><img width="5833" height="462" src="http://www.westernfrontonline.com/wp-content/uploads/2018/02/cropped-logo-2-1.png" class="custom-logo" alt="The Western Front" itemprop="logo" srcset="http://www.westernfrontonline.com/wp-content/uploads/2018/02/cropped-logo-2-1.png 5833w, http://www.westernfrontonline.com/wp-content/uploads/2018/02/cropped-logo-2-1-300x24.png 300w, http://www.westernfrontonline.com/wp-content/uploads/2018/02/cropped-logo-2-1-768x61.png 768w, http://www.westernfrontonline.com/wp-content/uploads/2018/02/cropped-logo-2-1-1024x81.png 1024w, http://www.westernfrontonline.com/wp-content/uploads/2018/02/cropped-logo-2-1-865x69.png 865w, http://www.westernfrontonline.com/wp-content/uploads/2018/02/cropped-logo-2-1-1366x108.png 1366w" sizes="(max-width: 5833px) 100vw, 5833px" /></a>				
+		<p class="site-title"><a href="http://www.westernfrontonline.com/" rel="home">The Western Front</a></p>
+
+					
+			</div>
+
+			<div id="header-content" class="clearfix">
+							</div>
+
+		</header>
+
+	</div>
+
+	<div id="navi-wrap">
+		<nav id="mainnav" class="container clearfix" role="navigation">
+			<ul id="mainnav-menu" class="main-navigation-menu"><li id="menu-item-12061" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12061"><a href="http://westernfrontonline.com/">Home</a></li>
+<li id="menu-item-14" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-item-14"><a href="http://www.westernfrontonline.com/category/news/">News</a>
+<ul class="sub-menu">
+	<li id="menu-item-18091" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18091"><a href="http://www.westernfrontonline.com/category/news/associated-students/">Associated Students</a></li>
+	<li id="menu-item-18090" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18090"><a href="http://www.westernfrontonline.com/category/news/administration/">Administration</a></li>
+	<li id="menu-item-18105" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18105"><a href="http://www.westernfrontonline.com/category/news/campus/">Campus</a></li>
+	<li id="menu-item-18085" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18085"><a href="http://www.westernfrontonline.com/category/news/court-watch/">Courts</a></li>
+	<li id="menu-item-18109" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18109"><a href="http://www.westernfrontonline.com/category/news/environment/">Environment</a></li>
+	<li id="menu-item-18092" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18092"><a href="http://www.westernfrontonline.com/category/news/local-government/">Local Government</a></li>
+	<li id="menu-item-18102" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18102"><a href="http://www.westernfrontonline.com/category/news/western-watchdog/">Western Watchdog</a></li>
+</ul>
+</li>
+<li id="menu-item-12" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-12"><a href="http://www.westernfrontonline.com/category/features/">Features</a>
+<ul class="sub-menu">
+	<li id="menu-item-18087" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18087"><a href="http://www.westernfrontonline.com/category/features/arts/">Arts</a></li>
+	<li id="menu-item-18088" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18088"><a href="http://www.westernfrontonline.com/category/features/music/">Music</a></li>
+	<li id="menu-item-18086" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18086"><a href="http://www.westernfrontonline.com/category/features/around-town/">Around Town</a></li>
+	<li id="menu-item-18111" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18111"><a href="http://www.westernfrontonline.com/category/features/travel/">Travel</a></li>
+	<li id="menu-item-18108" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18108"><a href="http://www.westernfrontonline.com/category/features/health-and-wellness/">Health &#038; Wellness</a></li>
+	<li id="menu-item-18089" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18089"><a href="http://www.westernfrontonline.com/category/features/people/">People</a></li>
+</ul>
+</li>
+<li id="menu-item-16" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-16"><a href="http://www.westernfrontonline.com/category/sports/">Sports</a>
+<ul class="sub-menu">
+	<li id="menu-item-18098" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18098"><a href="http://www.westernfrontonline.com/category/sports/varsity/">Varsity</a></li>
+	<li id="menu-item-18096" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18096"><a href="http://www.westernfrontonline.com/category/sports/club/">Club</a></li>
+	<li id="menu-item-18116" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18116"><a href="http://www.westernfrontonline.com/category/sports/professional/">Professional</a></li>
+	<li id="menu-item-18097" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18097"><a href="http://www.westernfrontonline.com/category/sports/recreation/">Recreation</a></li>
+</ul>
+</li>
+<li id="menu-item-15" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-15"><a href="http://www.westernfrontonline.com/category/opinion/">Opinion</a>
+<ul class="sub-menu">
+	<li id="menu-item-29316" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-29316"><a href="http://www.westernfrontonline.com/category/life-arts/blogs/">Blogs</a></li>
+	<li id="menu-item-18094" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18094"><a href="http://www.westernfrontonline.com/category/opinion/frontline/">Frontline</a></li>
+	<li id="menu-item-18101" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18101"><a href="http://www.westernfrontonline.com/category/opinion/guest/">Guest</a></li>
+	<li id="menu-item-18095" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18095"><a href="http://www.westernfrontonline.com/category/opinion/letters-to-the-editor/">Letters to the Editor</a></li>
+</ul>
+</li>
+<li id="menu-item-23428" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-23428"><a href="#">Projects</a>
+<ul class="sub-menu">
+	<li id="menu-item-23438" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23438"><a href="http://westernfrontonline.com/listen/index.html">Listen</a></li>
+	<li id="menu-item-31397" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-31397"><a href="http://projects.westernfrontonline.com/vote.php">AS Voter Guide</a></li>
+</ul>
+</li>
+<li id="menu-item-387" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-387"><a href="http://www.westernfrontonline.com/archives/">Archives</a></li>
+<li id="menu-item-11" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-11"><a href="http://www.westernfrontonline.com/about/">About</a>
+<ul class="sub-menu">
+	<li id="menu-item-31580" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31580"><a href="http://www.westernfrontonline.com/about/">Contact</a></li>
+	<li id="menu-item-31170" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31170"><a href="http://www.westernfrontonline.com/about/give-us-feedback/">Give Us Feedback</a></li>
+	<li id="menu-item-31578" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31578"><a href="http://www.westernfrontonline.com/about/pronoun-and-name-change-form/">Pronoun and Name Change Form</a></li>
+	<li id="menu-item-14665" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14665"><a href="http://www.westernfrontonline.com/advertising-info/">Advertising</a></li>
+</ul>
+</li>
+<li id="menu-item-27440" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-27440"><a href="http://www.westernfrontonline.com/category/multimedia/">Photo and Video</a>
+<ul class="sub-menu">
+	<li id="menu-item-27441" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-27441"><a href="http://www.westernfrontonline.com/category/multimedia/videos/">Videos</a></li>
+	<li id="menu-item-27442" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-27442"><a href="http://www.westernfrontonline.com/category/photos/">Photos</a></li>
+</ul>
+</li>
+</ul>		</nav>
+	</div>
+
+	
+	<div id="wrap" class="container clearfix">
+		
+		<section id="content" class="primary" role="main">
+		
+					
+		
+	<article id="post-26465" class="post-26465 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-metoo tag-eoo tag-equal-opportunity-office tag-office-of-student-life tag-osl tag-sexual-assault tag-sexual-misconduct tag-slider tag-survivor tag-title-ix tag-western-watchdog byline-asia-fields byline-haley-ausbun byline-rebekah-way">
+	
+		<h1 class="entry-title post-title">Sexual assault survivors frustrated with Western investigations, despite changes to process</h1>		
+		<div class="entry-meta postmeta clearfix"><span class="meta-date sep"><a href="http://www.westernfrontonline.com/2018/08/02/sexual-assault-survivors-frustrated-with-western-investigations-despite-changes-to-process/" title="12:53 pm" rel="bookmark"><time class="entry-date published updated" datetime="2018-08-02T12:53:54-08:00">August 2, 2018</time></a></span>
+	<span class="meta-comments">
+		<a href="http://www.westernfrontonline.com/2018/08/02/sexual-assault-survivors-frustrated-with-western-investigations-despite-changes-to-process/#respond">Leave a comment</a>	</span>
+
+	</div>
+		
+		<img src="http://www.westernfrontonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://www.westernfrontonline.com/wp-content/uploads/2018/07/Asiaphoto1-e1533117952736-860x280.jpg" width="860" height="280" class="attachment-featured_image size-featured_image wp-post-image" alt><noscript><img width="860" height="280" src="http://www.westernfrontonline.com/wp-content/uploads/2018/07/Asiaphoto1-e1533117952736-860x280.jpg" class="attachment-featured_image size-featured_image wp-post-image" alt="" /></noscript>		
+		<div class="entry clearfix">
+			<div class='mailmunch-forms-before-post' style='display: none !important;'></div><div id="attachment_26479" style="width: 870px" class="wp-caption aligncenter"><img src="http://www.westernfrontonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://www.westernfrontonline.com/wp-content/uploads/2018/07/Asiaphoto1-1024x683.jpg" aria-describedby="caption-attachment-26479" class="wp-image-26479 size-large" alt width="860" height="574"><noscript><img aria-describedby="caption-attachment-26479" class="wp-image-26479 size-large" src="http://www.westernfrontonline.com/wp-content/uploads/2018/07/Asiaphoto1-1024x683.jpg" alt="" width="860" height="574" /></noscript><p id="caption-attachment-26479" class="wp-caption-text"><em>Mieke Doezema, who feels Western didn&#8217;t protect her after she reported sexual assault, said she wants to be a resource for other survivors on campus. // Photo by Asia Fields</em></p></div>
+<p><strong>Content warning: This story contains descriptions of sexual assault and self-harm.</strong></p>
+<p><strong>By <a href="http://www.westernfrontonline.com/byline/haley-ausbun">Haley Ausbun</a>, <a href="http://www.westernfrontonline.com/byline/asia-fields/">Asia Fields</a> and <a href="http://www.westernfrontonline.com/byline/rebekah-way">Rebekah Way</a></strong></p>
+<p>When Mieke Doezema reported to Western in January that another student sexually assaulted her, she was seeking a sense of protection.</p>
+<p>Doezema had a class with the student she reported, journalism major and former Western Front reporter Nickolas (Nick) Tadashi Vitalis, and hoped something could be done before the quarter ended.</p>
+<div id="attachment_26542" style="width: 301px" class="wp-caption alignright"><img src="http://www.westernfrontonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://www.westernfrontonline.com/wp-content/uploads/2018/08/Resource-2-e1533179328588.jpg" aria-describedby="caption-attachment-26542" class="wp-image-26542" alt width="291" height="387" srcset="http://www.westernfrontonline.com/wp-content/uploads/2018/08/Resource-2-e1533179328588.jpg 324w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Resource-2-e1533179328588-226x300.jpg 226w" sizes="(max-width: 291px) 100vw, 291px"><noscript><img aria-describedby="caption-attachment-26542" class="wp-image-26542" src="http://www.westernfrontonline.com/wp-content/uploads/2018/08/Resource-2-e1533179328588.jpg" alt="" width="291" height="387" srcset="http://www.westernfrontonline.com/wp-content/uploads/2018/08/Resource-2-e1533179328588.jpg 324w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Resource-2-e1533179328588-226x300.jpg 226w" sizes="(max-width: 291px) 100vw, 291px" /></noscript><p id="caption-attachment-26542" class="wp-caption-text"><em>Note: CASAS is referring students to DVSAS for the summer.</em></p></div>
+<p>But university administrators said they were limited in what they could do while the investigation was ongoing, leaving Doezema on her own to figure out how to feel safe on campus.</p>
+<p>It took the university almost five months to investigate and find Vitalis responsible for sexual misconduct, as well as dating and domestic violence. <a href="http://www.westernfrontonline.com/2018/08/03/western-expels-second-student-for-sexual-misconduct-in-five-years-but-too-late/">Vitalis was sanctioned with expulsion on June 12</a>, but because he had 10 days to appeal before the decision was considered final, he was allowed to graduate four days later.</p>
+<p>Western’s <a href="https://policy.wwu.edu/POL-U1600.04-Preventing-and-Responding-to-Sex-Discrimination-Including-Sexual-Misconduct.pdf">policy on sexual misconduct</a> claims the university informs survivors about all their options, investigates cases promptly and offers support and protective measures to survivors. Records and interviews with survivors, experts on trauma, current and former employees and even some administrators show Western is not consistently meeting these standards—even after changes were made to improve the process.</p>
+<p>The Equal Opportunity Office took over investigations in fall 2016, after survivors told administrators and the <a href="https://www.bellinghamherald.com/news/local/article42031710.html">media</a> the Office of Student Life was mishandling cases and faculty applied behind-the-scenes pressure. But two survivors since then, including Doezema, experienced many of the same problems survivors had <a href="http://www.westernfrontonline.com/2016/11/29/victims-say-sexual-assault-cases-are-mishandled-at-western/">before</a><a href="http://www.westernfrontonline.com/2016/11/29/victims-say-sexual-assault-cases-are-mishandled-at-western/"> the changes</a>.</p>
+<p>“The whole process in general is still geared toward protecting the accused from the victim,” Doezema said. “I had to do a lot of the heavy lifting of the reporting and talking to all my professors and having to explain what’s going on with me.”</p>
+<p><span style="font-weight: 400;">The Equal Opportunity Office investigated nine cases in which students were accused of sexual misconduct since it took over investigations until April 2018, according to public records received. Four cases resulted in findings, five did not. In at least three cases, survivors were frustrated with the process, including Doezema and the victim of a voyeur </span><a href="https://wp.wwu.edu/theasreview/2018/05/21/voyeurism-victim-questions-sanctions/"><span style="font-weight: 400;">the AS Review interviewed in May</span></a><span style="font-weight: 400;">. Reporters were unable to speak to all four survivors, as their names are not disclosed in records.</span></p>
+<p><img src="http://www.westernfrontonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.45.09-PM-1-1024x676.png" class="wp-image-26584 alignleft" alt width="324" height="214" srcset="http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.45.09-PM-1-1024x676.png 1024w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.45.09-PM-1-300x198.png 300w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.45.09-PM-1-768x507.png 768w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.45.09-PM-1-865x571.png 865w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.45.09-PM-1-1164x768.png 1164w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.45.09-PM-1.png 1294w" sizes="(max-width: 324px) 100vw, 324px"><noscript><img class="wp-image-26584 alignleft" src="http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.45.09-PM-1-1024x676.png" alt="" width="324" height="214" srcset="http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.45.09-PM-1-1024x676.png 1024w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.45.09-PM-1-300x198.png 300w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.45.09-PM-1-768x507.png 768w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.45.09-PM-1-865x571.png 865w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.45.09-PM-1-1164x768.png 1164w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.45.09-PM-1.png 1294w" sizes="(max-width: 324px) 100vw, 324px" /></noscript></p>
+<p>Survivors’ frustrations in those two recent cases—that investigations are retraumatizing, lengthy and leave the survivor without a sense of protection in the interim—parallel difficulties survivors faced when the Office of Student Life was in charge, which documents from 38 sexual misconduct investigations from 2010-2016 show.</p>
+<p>Records were obtained through multiple public records requests for student sexual misconduct cases. The number doesn’t show the full scope of sexual violence at Western, as The Western Front does not have a complete set of records for cases prior to fall 2013. Reporters have also identified multiple documents that were missing from the records they were sent for cases after 2013, which was confirmed by the records officer. Administrators did not respond to attempts to verify the number of cases investigated since fall 2013, despite receiving reporters’ questions.</p>
+<p>The numbers also don’t paint a full picture because sexual violence often goes unreported.</p>
+<hr />
+<p><strong>Read the other stories in this series</strong><br />
+<span style="text-decoration: underline;"><a href="http://www.westernfrontonline.com/2018/08/03/western-expels-second-student-for-sexual-misconduct-in-five-years-but-too-late/">Western expels second student in five years for sexual misconduct, but he was allowed to graduate</a></span><br />
+<span style="text-decoration: underline;"><a href="http://www.westernfrontonline.com/2018/08/08/western-sexual-assault-prevention-efforts-lacking">Current and former staff say Western isn’t doing enough to prevent sexual assault<br />
+</a><a href="http://www.westernfrontonline.com/2018/08/13/behind-the-series-on-how-western-handles-sexual-misconduct-cases/">Behind the series: Unresponsive administrators, incomplete records</a><a href="http://www.westernfrontonline.com/2018/08/08/western-sexual-assault-prevention-efforts-lacking"><br />
+</a></span></p>
+<hr />
+<p>Only <a href="http://cdpsdocs.state.co.us/safeschools/Resources/BJS/Campus_Climate_Survey_Validation_Study.pdf">12.5 percent of rapes</a> that occur in college are reported to officials and campus or community resources, according to a 2016 Department of Justice study. Survivors may fear not being believed, due to <a href="https://www.nsvrc.org/sites/default/files/Publications_NSVRC_Overview_False-Reporting.pdf">misconceptions</a> about false reports, which are no higher for sexual assault than other crimes. <a href="http://journals.sagepub.com/doi/pdf/10.1177/1077801210387747">A 2010 study</a> found the prevalence of false reports to be 5.9 percent.</p>
+<p>Kendra Pasma, a therapist in Bellingham, said reporting can be <a href="https://vawnet.org/sc/definitions">retraumatizing</a> for survivors, triggering the initial feelings the person had when a traumatic event occurred. Survivors may not report due to fear of retaliation, concern for the assaulter’s fate or their own reputation, or because reporting could bring back memories of the incident, she said.</p>
+<p>“A lot of the reason people don’t report these kind of things is it takes so long and you have to revisit so many things you don’t really want to think about, over and over again,” Doezema said.</p>
+<p><img src="http://www.westernfrontonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://www.westernfrontonline.com/wp-content/uploads/2018/06/Sexual-Assault.2.0-01.png" class="aligncenter wp-image-25112 " alt width="513" height="499" srcset="http://www.westernfrontonline.com/wp-content/uploads/2018/06/Sexual-Assault.2.0-01.png 1767w, http://www.westernfrontonline.com/wp-content/uploads/2018/06/Sexual-Assault.2.0-01-300x292.png 300w, http://www.westernfrontonline.com/wp-content/uploads/2018/06/Sexual-Assault.2.0-01-768x746.png 768w, http://www.westernfrontonline.com/wp-content/uploads/2018/06/Sexual-Assault.2.0-01-1024x995.png 1024w, http://www.westernfrontonline.com/wp-content/uploads/2018/06/Sexual-Assault.2.0-01-50x50.png 50w, http://www.westernfrontonline.com/wp-content/uploads/2018/06/Sexual-Assault.2.0-01-592x575.png 592w, http://www.westernfrontonline.com/wp-content/uploads/2018/06/Sexual-Assault.2.0-01-790x768.png 790w, http://www.westernfrontonline.com/wp-content/uploads/2018/06/Sexual-Assault.2.0-01-1111x1080.png 1111w" sizes="(max-width: 513px) 100vw, 513px"><noscript><img class="aligncenter wp-image-25112 " src="http://www.westernfrontonline.com/wp-content/uploads/2018/06/Sexual-Assault.2.0-01.png" alt="" width="513" height="499" srcset="http://www.westernfrontonline.com/wp-content/uploads/2018/06/Sexual-Assault.2.0-01.png 1767w, http://www.westernfrontonline.com/wp-content/uploads/2018/06/Sexual-Assault.2.0-01-300x292.png 300w, http://www.westernfrontonline.com/wp-content/uploads/2018/06/Sexual-Assault.2.0-01-768x746.png 768w, http://www.westernfrontonline.com/wp-content/uploads/2018/06/Sexual-Assault.2.0-01-1024x995.png 1024w, http://www.westernfrontonline.com/wp-content/uploads/2018/06/Sexual-Assault.2.0-01-50x50.png 50w, http://www.westernfrontonline.com/wp-content/uploads/2018/06/Sexual-Assault.2.0-01-592x575.png 592w, http://www.westernfrontonline.com/wp-content/uploads/2018/06/Sexual-Assault.2.0-01-790x768.png 790w, http://www.westernfrontonline.com/wp-content/uploads/2018/06/Sexual-Assault.2.0-01-1111x1080.png 1111w" sizes="(max-width: 513px) 100vw, 513px" /></noscript></p>
+<p>Western is required to respond to reports of sexual violence under Title IX, a federal law prohibiting gender-based discrimination in publicly-funded schools.</p>
+<p>Western has been under investigation by the U.S. Department of Education’s Office for Civil Rights since 2015, after two students filed separate Title IX complaints in <a href="https://www.documentcloud.org/documents/3031963-Western-Washington-University-D10-15-2129.html">April</a> and <a href="https://www.documentcloud.org/documents/3121515-Western-Washington-University-10-15-2218.html">November</a> of that year. The two investigations are looking into whether Western gave survivors a prompt and adequate response after they reported sexual violence. Western has now been under TItle IX investigation longer than the <a href="https://projects.chronicle.com/titleix/">average investigation length</a> of 2.3 years.</p>
+<p>The Western Front does not name survivors of sexual violence unless they ask to be identified. Doezema said she wanted her name used so she could be a resource for other survivors on campus.</p>
+<p><a href="http://www.westernfrontonline.com/2018/08/03/western-expels-second-student-for-sexual-misconduct-in-five-years-but-too-late/">Vitalis appealed the sanctions</a>, but the appeals board found insufficient evidence to change the investigation or conduct findings and upheld the sanction of expulsion, according to an email Assistant Dean of Students Michael Sledge sent Doezema on Aug. 1.</p>
+<p>Vitalis said he is requesting a written review from the <a href="http://apps.leg.wa.gov/wac/default.aspx?cite=516-21-290">dean of students</a>, as he disagrees with the findings and thinks the sanction should have been overturned.</p>
+<p>Reporters reached out to Office of Student Life staff over the course of several months. Sledge said through Director of Communications and Marketing Paul Cocke that he was too busy to answer questions and conduct officer Jessica Stillwell did not respond.</p>
+<p><span style="font-weight: 400;">Sue Guenter-Schlesinger, </span><span style="font-weight: 400;">vice provost for equal opportunity, Title IX coordinator and Americans with Disabilities Act coordinator,</span> did not respond to questions about Doezema’s case, even though Doezema gave her permission to discuss the case with reporters.</p>
+<hr />
+<p><span style="color: #000000;"><strong>WHAT REPORTERS FOUND:</strong></span><br />
+<a href="#class">• Survivors are left in class and dorm buildings with students they report</a><br />
+<a href="#nocontact">• No-contact orders from Western are difficult to enforce, also burdens survivor</a><br />
+<a href="#retell">• Survivors had to tell their story multiple times, which experts say can take a toll</a><br />
+<a href="#retraumatize">• Survivors are read the accused student’s testimony, which experts say is retraumatizing</a><br />
+<a href="#time">• Investigations can be lengthy, leaving the survivor waiting for resolution</a><br />
+<a href="#academic">• Survivors’ academic performance is negatively impacted</a><br />
+<a href="#informed">• Survivors are unsure of all of their options, how the investigation process works</a><br />
+<a href="#promises">• Survivors want change, administrators make promises</a></p>
+<hr />
+<p><a name="class"></a></p>
+<h3><b>Survivors left feeling unsafe, unprotected</b></h3>
+<div id="attachment_24506" style="width: 870px" class="wp-caption aligncenter"><img src="http://www.westernfrontonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://www.westernfrontonline.com/wp-content/uploads/2018/05/4E2A6995-3-1024x682.jpg" aria-describedby="caption-attachment-24506" class="wp-image-24506 size-large" alt width="860" height="573" srcset="http://www.westernfrontonline.com/wp-content/uploads/2018/05/4E2A6995-3-1024x682.jpg 1024w, http://www.westernfrontonline.com/wp-content/uploads/2018/05/4E2A6995-3-300x200.jpg 300w, http://www.westernfrontonline.com/wp-content/uploads/2018/05/4E2A6995-3-768x511.jpg 768w, http://www.westernfrontonline.com/wp-content/uploads/2018/05/4E2A6995-3-865x575.jpg 865w, http://www.westernfrontonline.com/wp-content/uploads/2018/05/4E2A6995-3-1153x768.jpg 1153w" sizes="(max-width: 860px) 100vw, 860px"><noscript><img aria-describedby="caption-attachment-24506" class="wp-image-24506 size-large" src="http://www.westernfrontonline.com/wp-content/uploads/2018/05/4E2A6995-3-1024x682.jpg" alt="" width="860" height="573" srcset="http://www.westernfrontonline.com/wp-content/uploads/2018/05/4E2A6995-3-1024x682.jpg 1024w, http://www.westernfrontonline.com/wp-content/uploads/2018/05/4E2A6995-3-300x200.jpg 300w, http://www.westernfrontonline.com/wp-content/uploads/2018/05/4E2A6995-3-768x511.jpg 768w, http://www.westernfrontonline.com/wp-content/uploads/2018/05/4E2A6995-3-865x575.jpg 865w, http://www.westernfrontonline.com/wp-content/uploads/2018/05/4E2A6995-3-1153x768.jpg 1153w" sizes="(max-width: 860px) 100vw, 860px" /></noscript><p id="caption-attachment-24506" class="wp-caption-text"><em>Survivors describe changing their schedules and routes on campus to avoid seeing students they reported sexually assaulted them.</em></p></div>
+<p>Melynda Huskey, who has overseen the Office of Student Life since she became vice president for enrollment and student services last summer, said she acknowledges survivors have pain that can’t be redressed through the university process.</p>
+<p>“I think it’s very hard to have satisfaction at the end of a process that begins with a catastrophic experience. There’s no way for an administrative process to relieve a trauma or address it fully,” Huskey said in a June interview. “But the university still has a responsibility to the survivor’s needs.”</p>
+<p>Western’s <a href="https://policy.wwu.edu/POL-U1600.04-Preventing-and-Responding-to-Sex-Discrimination-Including-Sexual-Misconduct.pdf">policy</a> on sexual misconduct states it will take interim measures to assist and protect the reporting students. But survivors say Western doesn’t provide them with enough protection, leaving them anxious they will run into the accused.</p>
+<p><img src="http://www.westernfrontonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.47.04-PM-1024x916.png" class="alignright wp-image-26586" alt width="247" height="221" srcset="http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.47.04-PM-1024x916.png 1024w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.47.04-PM-300x268.png 300w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.47.04-PM-768x687.png 768w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.47.04-PM-643x575.png 643w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.47.04-PM-859x768.png 859w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.47.04-PM-1207x1080.png 1207w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.47.04-PM.png 1290w" sizes="(max-width: 247px) 100vw, 247px"><noscript><img class="alignright wp-image-26586" src="http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.47.04-PM-1024x916.png" alt="" width="247" height="221" srcset="http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.47.04-PM-1024x916.png 1024w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.47.04-PM-300x268.png 300w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.47.04-PM-768x687.png 768w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.47.04-PM-643x575.png 643w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.47.04-PM-859x768.png 859w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.47.04-PM-1207x1080.png 1207w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.47.04-PM.png 1290w" sizes="(max-width: 247px) 100vw, 247px" /></noscript></p>
+<p>In 2015, a Western student found themself in class with the person they accused of rape, <a href="https://www.bellinghamherald.com/news/local/article42031710.html">The Bellingham Herald</a> reported. Records from a 2010 case show this also happened when a student was found responsible for sexual misconduct after two students reported him for sexual assault. He was allowed to remain in orchestra with one of the survivors.</p>
+<p>Doezema’s experience shows this is still happening.</p>
+<p>Doezema didn’t know what <a href="http://www.westernfrontonline.com/2018/08/08/western-sexual-assault-prevention-efforts-lacking/">resources</a> were available to her while she was in a relationship with Vitalis in 2016, she said. She decided to report a year after they broke up because she and Vitalis had a composition seminar together, which was a requirement for her major, she said.</p>
+<p>Pasma said it’s common for survivors to feel threatened when they see the person who assaulted them and they can feel their guard is up for the rest of the day or longer.</p>
+<p>“At that point, you can’t even think logically or cognitively. You’re just responding,” Pasma said. “You can’t learn in class if you’re in that mode, at all.”</p>
+<p>Doezema and Vitalis were given a no-contact order while the investigation occured. But Doezema said administrators told her they couldn’t remove him from the class while the investigation was ongoing. Guenter-Schlesinger told her the Office of Student Life could have them on separate sides of the room, Doezema said.</p>
+<p>Cocke said Guenter-Schlesinger would not discuss Doezema&#8217;s case, despite Doezema giving her permission to answer reporters&#8217; questions.</p>
+<h4 style="text-align: center;">“The whole process in general is still geared toward protecting the accused from the victim.”</h4>
+<h5 style="text-align: center;">Mieke Doezema, Western student and survivor</h5>
+<p>Doezema felt the music department did more to accommodate her than administrators. One professor allowed her to have one-on-one meetings instead of remaining in class with Vitalis. She agreed, thinking the investigation would take a couple weeks, but still struggled to avoid Vitalis, she said.</p>
+<p>At that time, Doezema was also trying to avoid another individual she said assaulted her. While he had dropped out the quarter before, he regularly came onto campus to rehearse with an ensemble and was planning on returning to Western.</p>
+<p>For a while, she was hopeful the Equal Opportunity Office could do something to prevent her from seeing him on campus. While she waited to hear back, she kept tabs on when he would be on campus so she could avoid him. She didn’t join a student ensemble because she didn’t want to see him. She’d go home early or change her routes, but since most of her classes were in the music building, she’d still sometimes run into him.</p>
+<p>The Equal Opportunity Office said it couldn’t do anything to keep him off campus, since he was not a current student, Doezema said. In April, she was referred to the head of the music department, who then directed her back to the Equal Opportunity Office.</p>
+<p>Nobody seemed to know what to do.</p>
+<p>CASAS, or <a href="https://pws.wwu.edu/consultation-and-sexual-assault-support-casas">Consultation and Sexual Assault Services</a>, is an on-campus resource that helps survivors obtain accommodations, connect with other resources and navigate their options.</p>
+<p>Former CASAS Coordinator Katie Plewa Olvera, who left the position in June 2016 but still teaches on campus, said the burden often falls on survivors to change their life while the accused get the benefit of the doubt.</p>
+<p>Former resident adviser Melissa Luper said in cases where survivors and the accused live in the same dorms, it’s usually the survivor who moves. The university doesn’t usually make the accused move, she said.</p>
+<div id="attachment_26550" style="width: 407px" class="wp-caption alignleft"><img src="http://www.westernfrontonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://www.westernfrontonline.com/wp-content/uploads/2018/08/PA.jpg" aria-describedby="caption-attachment-26550" class="wp-image-26550 " alt width="397" height="238" srcset="http://www.westernfrontonline.com/wp-content/uploads/2018/08/PA.jpg 800w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/PA-300x180.jpg 300w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/PA-768x461.jpg 768w" sizes="(max-width: 397px) 100vw, 397px"><noscript><img aria-describedby="caption-attachment-26550" class="wp-image-26550 " src="http://www.westernfrontonline.com/wp-content/uploads/2018/08/PA.jpg" alt="" width="397" height="238" srcset="http://www.westernfrontonline.com/wp-content/uploads/2018/08/PA.jpg 800w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/PA-300x180.jpg 300w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/PA-768x461.jpg 768w" sizes="(max-width: 397px) 100vw, 397px" /></noscript><p id="caption-attachment-26550" class="wp-caption-text"><em>Doezema would plan her schedule to avoid seeing the students she said sexually assaulted her. // Photo from Western&#8217;s website</em></p></div>
+<p>Western doesn’t provide moving assistance to survivors, she said, even though many dorm residents are freshman who may not have friends or a car to assist them. She said this happened to one of her former residents.</p>
+<p>“It’s so much work and so stressful. You’re making a survivor of sexual assault who’s dealing with so much pack up their whole dorm, leave their room, leave the RAs they trust and move across campus,” she said.</p>
+<p>Western administrators did not respond to reporters’ questions asking if there is any support for survivors who choose to move to a different dorm. A ResLife official said they couldn’t speak on the record.</p>
+<p>A recent case investigated after the Equal Opportunity Office took over also showed reluctance to relocate an accused student.</p>
+<p>In a case investigated in October 2016, a survivor told a resident adviser she didn’t feel safe, because the man she said sexually assaulted her lived in the same dorm. The accused’s housing remained unchanged two months later, after the Equal Opportunity Office told ResLife relocating him was not necessary, according to a note in the case records. The note also said a no-contact order was still being worked on at that point.</p>
+<p>Plewa Olvera said Western is not doing that and should change accused students’ housing or schedules if it make survivors feel more safe, even if the investigation is ongoing.</p>
+<p>“It was so frustrating to me. All [survivors] are looking for is to feel safe on campus,” Plewa Olvera said.</p>
+<p>Huskey said interim measures should always focus on what’s most effective for the reporting student, but they need to have an equitable eye toward the accused student’s circumstances.</p>
+<p>“But we need to first focus on survivor care,” Huskey said. “If we are not doing that, we need to do that differently.”</p>
+<p>Bellingham attorney Larry Hildes, who has represented survivors at Western in the past, said he understands not wanting to punish someone prematurely, but that the university should believe survivors and do what they can to make them feel safe immediately, especially since sexual violence is so underreported.</p>
+<p>The potential harm being prevented for the survivor outweighs the inconvenience for the accused if they have to move or change classes, Hildes said.</p>
+<p>This happened in one 2016 case after a student told his resident adviser that while he was asleep, his roommate touched his genitals. The student said he wasn’t sure if it was intentional, but wanted his roommate relocated, and ResLife moved the student the same day. An investigation ultimately did not find a violation.</p>
+<p>ResLife has a separate <a href="https://housing.wwu.edu/apps/policies/residential-conduct-procedures">conduct procedure</a> that can result in sanctions such as relocation or eviction and includes the possibility of interim sanctions.</p>
+<p><a name="nocontact"></a></p>
+<h3><b>University no-contact orders placed on both students</b></h3>
+<p>Doezema received an interim no-contact order in the case involving Vitalis, but she said it was difficult for her to also have the burden of upholding it.</p>
+<p>Administrative no-contact orders are only in effect on campus and usually specify students must remain at least 25 feet away from each other. These are commonly given to both the survivor and accused at Western while investigations are ongoing.</p>
+<p>Hildes said this places a burden on survivors.</p>
+<p>“If my client is attacked by someone, my client should be free to go wherever the hell she wants on that campus. It&#8217;s the obligation of the attacker to leave,” Hildes said. “These are not mutual incidents.”</p>
+<p>Huskey said no-contact orders can be effective at giving relief to students who report sexual assault, but accidental and purposeful violations of these orders are complicated.</p>
+<p>“I’m not speaking from my experience on this campus, but no-contact orders are really hard and require a lot of detail to make them work,” Huskey said.</p>
+<p>One survivor said in 2013, despite having a no-contact order, her abusive ex-boyfriend followed her on campus from the minimum distance allowed.</p>
+<p>In another case from 2013, a student found responsible for sexual misconduct for groping was given a no-contact order for one year, despite the survivor wanting it to apply until she graduated. Sledge told the survivor there was no uniform time for a no-contact order and referred her to seek a protection order through the courts, which apply off campus and have heavier consequences for violations, according to email records.</p>
+<p>This is what Doezema did after Western said it couldn’t do anything about the non-student she reported. While already juggling classes, a job and extracurriculars, she spent time gathering evidence and going through the steps to receive a protection order from the courts in May, which prohibits the individual from coming within 100 feet of Western’s campus, her home or her place of employment for one year.</p>
+<p><a name="retell"></a><a name="retraumatize"></a></p>
+<h3><b>Process can be retraumatizing</b></h3>
+<div id="attachment_26549" style="width: 870px" class="wp-caption alignleft"><img src="http://www.westernfrontonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://www.westernfrontonline.com/wp-content/uploads/2018/08/EOO-1024x683.jpg" aria-describedby="caption-attachment-26549" class="size-large wp-image-26549" alt="Survivors say having to retell their story multiple times and hear the accused student&#039;s response can be retraumatizing. // Photo by Taylor Nichols" width="860" height="574" srcset="http://www.westernfrontonline.com/wp-content/uploads/2018/08/EOO-1024x683.jpg 1024w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/EOO-300x200.jpg 300w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/EOO-768x512.jpg 768w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/EOO-863x575.jpg 863w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/EOO-1152x768.jpg 1152w" sizes="(max-width: 860px) 100vw, 860px"><noscript><img aria-describedby="caption-attachment-26549" class="size-large wp-image-26549" src="http://www.westernfrontonline.com/wp-content/uploads/2018/08/EOO-1024x683.jpg" alt="Survivors say having to retell their story multiple times and hear the accused student's response can be retraumatizing. // Photo by Taylor Nichols" width="860" height="574" srcset="http://www.westernfrontonline.com/wp-content/uploads/2018/08/EOO-1024x683.jpg 1024w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/EOO-300x200.jpg 300w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/EOO-768x512.jpg 768w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/EOO-863x575.jpg 863w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/EOO-1152x768.jpg 1152w" sizes="(max-width: 860px) 100vw, 860px" /></noscript><p id="caption-attachment-26549" class="wp-caption-text"><em>Survivors say having to retell their story multiple times and hear the accused student&#8217;s response can be retraumatizing. // Photo by Taylor Nichols</em></p></div>
+<p>In 2014, a survivor who reported sexual assault was found by a resident adviser harming herself in a dormitory bathroom. She said she couldn’t stop thinking about the incident, but she didn’t want to talk to the on-call counselor because she was tired of retelling her story, according to records.</p>
+<p>A counselor was called and when they arrived, the survivor asked the resident adviser to tell the details of the assault. The survivor became more distraught hearing about the assault and was transported to the emergency room, according to records.</p>
+<p>It can be exhausting, draining and frustrating if the survivor has to recount their experience multiple times, Pasma said. This can lead to self-doubt, because it makes it feel like the first account wasn’t good enough, she said.</p>
+<p><span style="font-weight: 400;">Doezema said she met with the Equal Opportunity Office staff multiple times, and retold the details of her assault at least three times.</span></p>
+<p>Doezema also said she had to hear Vitalis’ statement responding to her own. Doezema said Vitalis wrote a statement responding to what she told the Equal Opportunity Office, which Guenter-Schlesinger read aloud to her, and then she replied with her own statement. Another survivor said she also had to do this with the Office of Student Life in 2015.</p>
+<p>The Equal Opportunity Office’s protocol includes the Title IX investigator verbally relating the accused’s statement to the survivor, who can then “fill in the gaps,” Guenter-Schlesinger said in a June interview. This can happen multiple times if the survivor or respondent decide to add more to their statement, she said.</p>
+<p>Pasma said this experience can be triggering to the survivor, as the accused’s account often seeks to invalidate the survivor’s testimony.</p>
+<h4 style="text-align: center;">“I think it’s very hard to have satisfaction at the end of a process that begins with a catastrophic experience. There’s no way for an administrative process to relieve a trauma or address it fully.&#8221;</h4>
+<h5 style="text-align: center;">Melynda Huskey, vice president for enrollment and student services</h5>
+<p>Some survivors say having to retell all the details of the assault to an Equal Opportunity Office official can be retraumatizing, and that they don’t feel the investigators capture what they’re trying to say in reports.</p>
+<p>In February 2017, a survivor went into Stillwell’s office after she was notified the student she reported wasn’t found responsible for sexual misconduct. She told Stillwell about her concern with the Equal Opportunity Office investigation, which were described in notes Stillwell took.</p>
+<p>The survivor said the first time she went into the office, she didn’t know the investigator was interviewing her. The second time she went in, the interview went on for two hours and she was asked invasive questions, she said.</p><div class='mailmunch-forms-in-post-middle' style='display: none !important;'></div>
+<p>By the time the investigator asked her to sign the statement of allegations he created from her answers, she said she was too retraumatized to do it. The Equal Opportunity Office ended up using what she said at the first meeting, she said, which didn’t capture the full extent of what happened.</p>
+<p>The Equal Opportunity Office’s report describes a consensual sexual encounter followed by a non-consensual kiss. A university report filed by a resident adviser the day before the survivor spoke with the Equal Opportunity Office paints a different picture. The report states the survivor never consented and had to use force to stop the accused student’s attempts to initiate oral sex.</p>
+<p>Doezema also felt some of her allegations in the Equal Opportunity Office report were watered down. She said the final report included a lot of what Vitalis said to try to attack her character that she said is untrue and irrelevant. The contents of the report bothered Doezema for a week, including the report’s inclusion that Vitalis said she told him she enjoyed what happened.</p>
+<p><a name="time"></a><a name="academic"></a></p>
+<h3><b>Investigations can be lengthy</b></h3>
+<p>Survivors have described the investigation process as emotionally-taxing, as they navigate their options and wait (sometimes for extended periods of time) for some kind of resolution.</p>
+<p>One survivor said her academic performance was negatively impacted due to trauma, as she spent time and energy avoiding the accused and their mutual friends and attending meetings for her case. She was offered academic leave, but wanted to stay in school.</p>
+<p>“I definitely got worse grades after that,” she said in an interview. “After he was expelled, my grades went up a lot, like an entire grade point average.”</p>
+<p><a href="https://policy.wwu.edu/PRO-U1600.02A-Discrimination-Complaint-Procedure.pdf">Western’s procedure</a> states the office has 60 working days to complete an investigation, a timeframe from Obama-era federal guidelines that Western still follows despite changes made by Secretary of Education Betsy DeVos in 2017.</p>
+<div id="attachment_26599" style="width: 870px" class="wp-caption alignleft"><img src="http://www.westernfrontonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-9.37.43-PM-e1533185252730-1024x471.png" aria-describedby="caption-attachment-26599" class="wp-image-26599 size-large" alt width="860" height="396" srcset="http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-9.37.43-PM-e1533185252730-1024x471.png 1024w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-9.37.43-PM-e1533185252730-300x138.png 300w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-9.37.43-PM-e1533185252730-768x353.png 768w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-9.37.43-PM-e1533185252730-865x398.png 865w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-9.37.43-PM-e1533185252730-1366x628.png 1366w" sizes="(max-width: 860px) 100vw, 860px"><noscript><img aria-describedby="caption-attachment-26599" class="wp-image-26599 size-large" src="http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-9.37.43-PM-e1533185252730-1024x471.png" alt="" width="860" height="396" srcset="http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-9.37.43-PM-e1533185252730-1024x471.png 1024w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-9.37.43-PM-e1533185252730-300x138.png 300w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-9.37.43-PM-e1533185252730-768x353.png 768w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-9.37.43-PM-e1533185252730-865x398.png 865w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-9.37.43-PM-e1533185252730-1366x628.png 1366w" sizes="(max-width: 860px) 100vw, 860px" /></noscript><p id="caption-attachment-26599" class="wp-caption-text"><em>Infographic by Asia Fields</em></p></div>
+<p>&nbsp;</p>
+<p>Some survivors say this feels long, considering the lack of interim measures Western imposes, especially in cases where investigations take longer.</p>
+<p>Investigations can be extended, as long as both parties are notified. Guenter-Schlesinger said the volume and complexity of cases can cause longer investigations.</p>
+<p>Doezema first met with former Title IX investigator Mallory Sullivan on Jan. 25, according to Equal Opportunity Office records.</p>
+<p>On Feb. 6, she signed a list of allegations, launching the investigation. The investigation took 77 business days until the Equal Opportunity Office reached a finding. The final report said the investigation was delayed for a number of reasons, including investigator Sullivan’s departure on March 2 and “additional time needed to explore the ability to retrieve text messages” from Doezema’s phone, which records show took a month and a half and consisted of discussing the matter with on-campus officials.</p>
+<p><em>Timeline of Doezema&#8217;s investigation, obtained through a public records request:</em></p>
+<div id="DV-viewer-4620691-Complaint-Log-18-02-Redacted" class="DC-embed DC-embed-document DV-container"></div>
+<p><script src="//assets.documentcloud.org/viewer/loader.js"></script><br />
+<script>
+  DV.load("https://www.documentcloud.org/documents/4620691-Complaint-Log-18-02-Redacted.js", {
+  responsive: true,
+    height: 500,
+    sidebar: false,
+    text: false,
+    pdf: false,
+    container: "#DV-viewer-4620691-Complaint-Log-18-02-Redacted"
+  });
+</script>It then took ten business days, as allowed by Western’s policy, for the Office of Student Life to determine a sanction.<a href="http://www.westernfrontonline.com/2018/08/03/western-expels-second-student-for-sexual-misconduct-in-five-years-but-too-late/"> But even then the case wasn’t over.</a></p>
+<p>Both parties have ten business days to appeal a decision and a decision isn’t considered final until this period is over. Because of this, Vitalis was allowed to graduate, despite being the first student in five years to be sanctioned with expulsion by the Office of Student Life. Vitalis appealed the case, but the appeals board upheld the expulsion.</p>
+<p>“If this case had been handled a lot earlier, he probably wouldn’t have graduated,” Doezema said.</p>
+<p>Kourtney Vaillancourt, a professor at New Mexico University and therapist who has done research on sexual assault investigations, said 60 days can be long considering how short quarters are and the potential that students will graduate.</p>
+<p>“I get that there’s a lot to do, and it takes time, but that feels really long to me,” Vaillancourt said.</p>
+<p>Guenter-Schlesinger said any process can feel too long, even if it lasts just a few weeks, when someone has been assaulted or discriminated against.</p>
+<p>“If I could, we would do these in as little time as possible,” Guenter-Schlesinger said.</p>
+<p>The Equal Opportunity Office has been operating without full staffing since September 2017, when the assistant director and <a href="https://westerntoday.wwu.edu/news/eoos-mohammed-cato-to-take-new-job-at-ucla">deputy Title IX coordinator left</a>. The position was upgraded and posted in June, nine months later. Cocke said this was because of “personnel and administrative reasons.”</p>
+<p>Guenter-Schlesinger was the only staff member working on Title IX investigations after Sullivan left in March, until former Whatcom County prosecuting attorney Caitlin McGrane was hired in June.</p>
+<p>Other schools have different timelines. At Central Washington University, investigations are supposed to be complete <a href="http://www.cwu.edu/resources-reports/cwur-1-30-010-student-discrimination-complaint-procedure">within 20 days</a>, although this timeline can also be extended as long as both parties are notified in writing.</p>
+<h3><b>Former staff say advocate should be first to reach out</b></h3>
+<p>At Central, a sexual assault <a href="http://www.cwu.edu/wellness/sexual-assault-response">response coordinator</a> tries to be the first person at the university to contact survivors so they can help them navigate their options and access accommodations.</p>
+<p><img src="http://www.westernfrontonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://www.westernfrontonline.com/wp-content/uploads/2018/03/Screen-Shot-2018-03-07-at-6.38.50-AM-197x300.png" class="alignright size-medium wp-image-22992" alt width="197" height="300" srcset="http://www.westernfrontonline.com/wp-content/uploads/2018/03/Screen-Shot-2018-03-07-at-6.38.50-AM-197x300.png 197w, http://www.westernfrontonline.com/wp-content/uploads/2018/03/Screen-Shot-2018-03-07-at-6.38.50-AM.png 288w" sizes="(max-width: 197px) 100vw, 197px"><noscript><img class="alignright size-medium wp-image-22992" src="http://www.westernfrontonline.com/wp-content/uploads/2018/03/Screen-Shot-2018-03-07-at-6.38.50-AM-197x300.png" alt="" width="197" height="300" srcset="http://www.westernfrontonline.com/wp-content/uploads/2018/03/Screen-Shot-2018-03-07-at-6.38.50-AM-197x300.png 197w, http://www.westernfrontonline.com/wp-content/uploads/2018/03/Screen-Shot-2018-03-07-at-6.38.50-AM.png 288w" sizes="(max-width: 197px) 100vw, 197px" /></noscript></p>
+<p>Marissa Howat, the director of health promotion at Central, said they don’t want people to be revictimized multiple times.</p>
+<p>“Pushing somebody into a reporting cycle is not helpful,” she said.</p>
+<p>Plewa Olvera said she remembers there was sometimes disagreement about who should be the first to reach out to a survivor when she was the CASAS coordinator.</p>
+<p>“In my memory that was kind of an ongoing battle,” she said. “Coming from my perspective, I think it needs to be someone coming from an advocacy background… someone who is prioritizing healing and not prioritizing gathering of information for a potential report.”</p>
+<p>At Western, mandatory reporters are required to report known or suspected cases of sexual assault to the Equal Opportunity Office. Mandatory reporters include university staff—not including confidential support professionals—faculty, resident advisers and teaching assistants.</p>
+<p>Allison Giffen, former faculty senate president, said faculty have concerns about reporting to the university. Some of the apprehension is based on not entirely understanding how the process works, but some of it is also from a lack of trust the university will handle cases well, Giffen said.</p>
+<p>When the Equal Opportunity Office hears of a report, staff try to meet to determine who should reach out to the survivor first, Guenter-Schlesinger said.</p>
+<p>Guenter-Schlesinger said she sometimes reaches out first, but when she does, her first words are about available resources.</p>
+<p>“The most important thing is that the student is helped,” Guenter-Schlesinger said. “The next important thing is [asking] what do you want to do next and can we look into this.”</p>
+<p>Plewa Olvera said she is opposed to someone from the Equal Opportunity Office being the first point of contact.</p>
+<h4 style="text-align: center;">“The more you can provide survivors with choices and give them the power to decide how much information they want to share and make informed choices about what they want to do, the better.&#8221;</h4>
+<h5 style="text-align: center;">Kendra Pasma, therapist in Bellingham</h5>
+<p>Julie Reimann, a counselor in Bellingham and a previous counselor at Western, said that while the Equal Opportunity Office focuses on being a neutral party, they’re really representing the university.</p>
+<p>“Dealing with trauma is difficult enough and then when you’re dealing with bureaucracy—and insensitive bureaucracy—and you’re trying to be a student, it makes it more difficult,” she said.</p>
+<p>Vicki Hsueh, director of the women, gender and sexuality studies program, noted that some other universities do reporting differently. She mentioned the <a href="https://uoregon.callistocampus.org/">University of Oregon</a>, which uses <a href="https://www.projectcallisto.org/">Callisto</a>, a program created by a survivor of sexual assault that lets survivors write their own report and decide when they want to submit it. It allows survivors to be notified if someone else reports the same person, even if they haven’t submitted the report to the university yet.</p>
+<p>Pasma said giving survivors control of the process promotes healing.</p>
+<p>“The more you can provide survivors with choices and give them the power to decide how much information they want to share and make informed choices about what they want to do, the better,” Pasma said.</p>
+<p><a name="informed"></a></p>
+<h3><b>Lack of clear communication</b></h3>
+<p>A survivor whose case was handled by the Office of Student Life in 2015 said too much information was thrown at her at once during meetings.</p>
+<p>Even though she got an email with a list of resources, she said she wished all her options had been communicated more clearly and frequently throughout the process. For example, she didn’t know she could get a medical exam without having to report to police. Now that she knows, she wishes she did get one.</p>
+<p>Ali Brenes, who was president of Planned Parenthood Generation until she graduated in June, said the university still doesn’t clearly communicate what survivors’ options are and what the investigation process entails. She said university websites and policies are not specific and use jargon. Brenes said an email Randhawa sent to campus in February was an example of this, which disappointed her because she was consulted about what it should contain beforehand.</p>
+<p>“How are survivors supposed to feel comfortable coming forward with their stories if they don’t know with what criteria they will be judged?” she said.</p>
+<p>Guenter-Schlesinger agreed this is something that must be worked on.</p>
+<p>“I think there’s much more work to be done in communicating to the public what will happen to you if you choose to come in to the Equal Opportunity Office,” she said.</p>
+<p>Guenter-Schlesinger said she hopes to get opinions and feedback to improve the transparency of the Equal Opportunity Office’s process.</p>
+<h4 style="text-align: center;">“Dealing with trauma is difficult enough and then when you’re dealing with bureaucracy—and insensitive bureaucracy—and you’re trying to be a student, it makes it more difficult.&#8221;</h4>
+<h5 style="text-align: center;">Julie Reimann, former Western counselor</h5>
+<p>Randhawa said in a <a href="https://wp.wwu.edu/theasreview/2018/06/04/president-randhawa-talks-sexual-misconduct-accessibility-and-more/">May 31 interview</a> with the AS Review that he is committed to delivering on some of the promises he made to Planned Parenthood Generation, such as putting more information online. He also said information about efforts to improve response to sexual misconduct should be better communicated with campus.</p>
+<p>Some survivors also felt there was a lack of clear communication from administrators.</p>
+<p>“It’s not the student’s job to intensively research every step of a university process that is intended to benefit the student, and that process should not cause stress to the student or waste the student’s time,” a survivor wrote in an email after a miscommunication with Guenter-Schlesinger in 2015.</p>
+<p>In one 2014 case, a survivor said after she mentioned to ResLife staff in an email that she was a survivor of sexual assault and needed a single room, she was contacted by Sledge without any notice that he would reach out.</p>
+<p>“Here’s this system and person I don’t know anything about, I don’t know any resources or services or anything,” she said in an interview. “It [was] very emotional and uncomfortable, and I got off the phone feeling super defeated after I was just asked to recount my story to someone I had never met.”</p>
+<p>Even after talking to Sledge, the survivor said she didn’t realize an investigation was underway, which records show Sledge began after the call.</p>
+<p><a name="promises"></a></p>
+<h3><b>Western must regain trust</b></h3>
+<p>Hsueh and Giffen said while the Equal Opportunity Office has taken over investigations, the legacy of the <a href="http://www.westernfrontonline.com/2018/08/03/western-expels-second-student-for-sexual-misconduct-in-five-years-but-too-late/">Office of Student Life’s investigations</a> continues to be a barrier to students or staff reporting to the university.</p>
+<p>Giffen said the university needs to gain the trust of faculty. Hsueh said faculty can feel like they are violating students’ trust if they fulfill their roles as mandatory reporters.</p>
+<div id="attachment_26589" style="width: 469px" class="wp-caption alignright"><img src="http://www.westernfrontonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.58.53-PM-658x1024.png" aria-describedby="caption-attachment-26589" class="wp-image-26589" alt width="459" height="714" srcset="http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.58.53-PM-658x1024.png 658w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.58.53-PM-193x300.png 193w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.58.53-PM-768x1194.png 768w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.58.53-PM-370x575.png 370w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.58.53-PM-494x768.png 494w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.58.53-PM-694x1080.png 694w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.58.53-PM-1157x1800.png 1157w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.58.53-PM.png 1214w" sizes="(max-width: 459px) 100vw, 459px"><noscript><img aria-describedby="caption-attachment-26589" class="wp-image-26589" src="http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.58.53-PM-658x1024.png" alt="" width="459" height="714" srcset="http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.58.53-PM-658x1024.png 658w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.58.53-PM-193x300.png 193w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.58.53-PM-768x1194.png 768w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.58.53-PM-370x575.png 370w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.58.53-PM-494x768.png 494w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.58.53-PM-694x1080.png 694w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.58.53-PM-1157x1800.png 1157w, http://www.westernfrontonline.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-7.58.53-PM.png 1214w" sizes="(max-width: 459px) 100vw, 459px" /></noscript><p id="caption-attachment-26589" class="wp-caption-text"><em>Infographic by Asia Fields</em></p></div>
+<p>After multiple survivors <a href="http://www.westernfrontonline.com/2016/11/29/victims-say-sexual-assault-cases-are-mishandled-at-western/">made complaints</a> about how Sledge handled their cases, the Equal Opportunity Office recommended trainings, including sensitivity training, for him in May 2015, according to a letter Guenter-Schlesinger sent Dean of Students Ted Pratt.</p>
+<p>However, Luper said Sledge showed victim-blaming when he handled a case involving one of her residents later that same year.</p>
+<p>Luper said Sledge asked her what the survivor was wearing the night of the assault. The survivor told reporters Sledge assigned her to take an alcohol education class after the accused said she should be found in violation for drinking.</p>
+<p>Sledge did not respond to requests for comment. Western made changes to the conduct code related to sexual misconduct in 2017, and added that those who report sexual violence <a href="http://apps.leg.wa.gov/wac/default.aspx?cite=516-21-055">won’t be sanctioned</a> if they were drinking or using drugs.</p>
+<p>Even though Doezema did not describe any blatant victim-blaming, she said the process still casts doubt on the survivor.</p>
+<p>“I want to make sure I say enough: the whole process has been so shitty. I don&#8217;t think it’s necessarily individual people, I think it’s the way institutions are set up to always doubt and question everything that the victim says instead of trying to support them and make sure they’re safe,” Doezema said. “I don’t think I would report it again.”</p>
+<p>Administrators say the university process for addressing sexual misconduct is important, as many survivors do not want to go through the legal system. In interviews, they recognized administrators need to rebuild trust.</p>
+<p>“The only way to build trust is to make promises and to keep them,” Huskey said.</p>
+<p>Guenter-Schlesinger said the Equal Opportunity Office would start looking into revising the discrimination complaint policy to make it more specific to sexual misconduct cases this summer. She said it will also look toward building relationships with student groups.</p>
+<p>The university also hopes to<a href="http://www.westernfrontonline.com/2018/08/08/western-sexual-assault-prevention-efforts-lacking/"> expand the number of staff</a> in the Equal Opportunity Office working on Title IX cases before fall. The office also received funds to hire an additional investigator who will work on Title IX and other kinds of cases, Guenter-Schlesinger said in an email.</p>
+<p>Guenter-Schlesinger said filling all of the positions will allow her to focus more on enhancing <a href="http://www.westernfrontonline.com/2018/08/08/western-sexual-assault-prevention-efforts-lacking/">policies and prevention efforts</a>.</p>
+<h4 style="text-align: center;">“The change I want to see is protecting people in the first place, and not waiting until we’ve decided whether it’s more likely than not.&#8221;</h4>
+<h5 style="text-align: center;">Mieke Doezema, Western student and survivor</h5>
+<p>Randhawa called for an internal audit to review how cases have been handled, which he said should have been complete by mid-July, he said in a <a href="https://wp.wwu.edu/theasreview/2018/06/04/president-randhawa-talks-sexual-misconduct-accessibility-and-more/">May 31 interview</a> with the AS Review. As of publication, the audit has yet to be released publicly.</p>
+<p>Randhawa said he is focusing on accountability and “more serious consequences for proven violations,” according to an email sent to staff on June 19.</p>
+<p>As administrators work to improve the process, Doezema hopes they will start to address survivors’ needs right away, rather than waiting for a final decision and sanction.</p>
+<p>“The change I want to see is protecting people in the first place, and not waiting until we’ve decided whether it’s more likely than not, which I understand is like a huge shift in the way the institution works, but it’s about time,” Doezema said. “Campus doesn’t feel safe for me anymore and I don’t want anyone else to feel that way. I want to make a difference at least in the way that people approach these cases.”</p>
+<p><i><span style="font-weight: 400;">Updated Aug. 13 to show the Equal Opportunity Office had investigated nine sexual misconduct cases involving students from fall 2016 to April 2018. The article originally said four cases and was updated after Western came forward with more documents it failed to send to reporters before. Read more about this in our <a href="http://www.westernfrontonline.com/2018/08/13/behind-the-series-on-how-western-handles-sexual-misconduct-cases/">post on how we reported this</a>.</span></i></p>
+<p><em>Updated Aug. 2: The print version of this story, which ran on Aug. 1, said the appeals board was still deliberating Vitalis&#8217; appeal. Since the story printed, the board decided to uphold the findings and expulsion. The story has been updated to reflect this.</em></p>
+<p><em>Editor’s note: Reporter Rebekah Way did not interview or edit content from Julie Reimann, who she has a professional relationship with. Way and Asia Fields did not interview two survivors because they had either worked with or had classes with them in the past. Western Front Editor-in-Chief Eric Trent did not edit the story due to a conflict of interest.</em></p>
+<p><em><strong><img src="http://www.westernfrontonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://www.westernfrontonline.com/wp-content/uploads/2017/04/Western-Watchdog-7-300x232.jpg" class="wp-image-15649 alignleft" alt width="166" height="128" srcset="http://www.westernfrontonline.com/wp-content/uploads/2017/04/Western-Watchdog-7-300x232.jpg 300w, http://www.westernfrontonline.com/wp-content/uploads/2017/04/Western-Watchdog-7-768x593.jpg 768w, http://www.westernfrontonline.com/wp-content/uploads/2017/04/Western-Watchdog-7-1024x791.jpg 1024w, http://www.westernfrontonline.com/wp-content/uploads/2017/04/Western-Watchdog-7-744x575.jpg 744w" sizes="(max-width: 166px) 100vw, 166px"><noscript><img class="wp-image-15649 alignleft" src="http://www.westernfrontonline.com/wp-content/uploads/2017/04/Western-Watchdog-7-300x232.jpg" alt="" width="166" height="128" srcset="http://www.westernfrontonline.com/wp-content/uploads/2017/04/Western-Watchdog-7-300x232.jpg 300w, http://www.westernfrontonline.com/wp-content/uploads/2017/04/Western-Watchdog-7-768x593.jpg 768w, http://www.westernfrontonline.com/wp-content/uploads/2017/04/Western-Watchdog-7-1024x791.jpg 1024w, http://www.westernfrontonline.com/wp-content/uploads/2017/04/Western-Watchdog-7-744x575.jpg 744w" sizes="(max-width: 166px) 100vw, 166px" /></noscript></strong></em></p>
+<p>&nbsp;</p>
+<p><strong>This story is the first in a three-part investigation for an advanced reporting course with professor Carolyn Nielsen. Read the other stories, on <a href="http://www.westernfrontonline.com/2018/08/03/western-expels-second-student-for-sexual-misconduct-in-five-years-but-too-late/">sanctions</a> and <a href="http://www.westernfrontonline.com/2018/08/08/western-sexual-assault-prevention-efforts-lacking">prevention</a>.</strong></p>
+<div class='mailmunch-forms-after-post' style='display: none !important;'></div>			<!-- <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+			xmlns:dc="http://purl.org/dc/elements/1.1/"
+			xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+		<rdf:Description rdf:about="http://www.westernfrontonline.com/2018/08/02/sexual-assault-survivors-frustrated-with-western-investigations-despite-changes-to-process/"
+    dc:identifier="http://www.westernfrontonline.com/2018/08/02/sexual-assault-survivors-frustrated-with-western-investigations-despite-changes-to-process/"
+    dc:title="Sexual assault survivors frustrated with Western investigations, despite changes to process"
+    trackback:ping="http://www.westernfrontonline.com/2018/08/02/sexual-assault-survivors-frustrated-with-western-investigations-despite-changes-to-process/trackback/" />
+</rdf:RDF> -->
+			<div class="page-links"></div>			
+		</div>
+		
+		<div class="postinfo clearfix">
+			<span class="meta-category">
+				<ul class="post-categories">
+	<li><a href="http://www.westernfrontonline.com/category/news/" rel="category tag">News</a></li></ul>			</span>
+
+		</div>
+
+	</article>
+		
+					
+					
+		
+
+
+	<div id="comments">
+	
+		
+						<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2018/08/02/sexual-assault-survivors-frustrated-with-western-investigations-despite-changes-to-process/#respond" style="display:none;">Cancel reply</a></small></h3>			<form action="http://www.westernfrontonline.com/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+				<p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> Required fields are marked <span class="required">*</span></p><p class="comment-form-comment"><label for="comment">Comment</label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required="required"></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" required='required' /></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="text" value="" size="30" maxlength="100" aria-describedby="email-notes" required='required' /></p>
+<p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="text" value="" size="30" maxlength="200" /></p>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='26465' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="cf515bccd2" /></p><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="108"/></p>			</form>
+			</div><!-- #respond -->
+	<p class="akismet_comment_form_privacy_notice">This site uses Akismet to reduce spam. <a href="https://akismet.com/privacy/" target="_blank" rel="nofollow noopener">Learn how your comment data is processed</a>.</p>		
+	</div>
+
+		
+		</section>
+		
+		
+	<section id="sidebar" class="secondary clearfix" role="complementary">
+
+		<aside id="search-2" class="widget widget_search clearfix">
+	<form role="search" method="get" class="search-form" action="http://www.westernfrontonline.com/">
+		<label>
+			<span class="screen-reader-text">Search for:</span>
+			<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s">
+		</label>
+		<button type="submit" class="search-submit">
+			<span class="genericon-search"></span>
+		</button>
+	</form>
+
+</aside><aside id="custom_html-7" class="widget_text widget widget_custom_html clearfix"><h3 class="widgettitle"><span>The Latest</span></h3><div class="textwidget custom-html-widget"><div style="-webkit-filter: invert(90%) saturate(0%) brightness(180%);
+  filter: invert(90%) saturate(0%) brightness(180%);">
+	
+<a href="https://twitter.com/TheFrontOnline?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="false" >Follow @TheFrontOnline</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+
+<a class="twitter-timeline"
+data-width="100%" 
+data-height="800" 
+data-link-color="#128EC8" data-chrome="noheader"
+ href="https://twitter.com/TheFrontOnline?ref_src=twsrc%5Etfw"> Tweets by TheFrontOnline</a>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div></aside><aside id="custom_html-5" class="widget_text widget widget_custom_html clearfix"><h3 class="widgettitle"><span>MUSIC</span></h3><div class="textwidget custom-html-widget"><iframe height="300" width="100%" src="https://play.soundsgood.co/embed/5c6e14a87daaac3cbbd4c93e?color=0C5E9A&hideTitle=1&hideCurator=1"  frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen allow="autoplay; encrypted-media" allowtransparency="true"></iframe>
+<h2 class="entry-title post-title">
+<a href="http://bit.ly/2C6liWP">New Playlist: Post-Midterm Melt</a></h2><div class="entry-meta postmeta"></div>
+<div class="entry">
+	<p>By&nbsp;Sophia Knotts</p></div>
+</div></aside>
+	</section>
+	</div>
+	
+
+	<div id="footer-wrap">
+
+		<footer id="footer" class="container clearfix" role="contentinfo">
+
+			
+			<div id="footer-text">
+				
+	<span class="credit-link">
+		Powered by <a href="http://wordpress.org" title="WordPress">WordPress</a> and <a href="https://themezee.com/themes/dynamicnews/" title="Dynamic News WordPress Theme">Dynamic News</a>.	</span>
+
+				</div>
+
+		</footer>
+
+	</div>
+
+</div><!-- end #wrapper -->
+
+<!-- Instagram Feed JS -->
+<script type="text/javascript">
+var sbiajaxurl = "http://www.westernfrontonline.com/wp-admin/admin-ajax.php";
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pollsL10n = {"ajax_url":"http:\/\/www.westernfrontonline.com\/wp-admin\/admin-ajax.php","text_wait":"Your last request is still being processed. Please wait a while ...","text_valid":"Please choose a valid poll answer.","text_multiple":"Maximum number of choices allowed: ","show_loading":"1","show_fading":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.westernfrontonline.com/wp-content/plugins/wp-polls/polls-js.js?ver=2.75.3'></script>
+<script type='text/javascript' src='http://www.westernfrontonline.com/wp-includes/js/comment-reply.min.js?ver=5.1.3'></script>
+<script type='text/javascript' src='http://www.westernfrontonline.com/wp-content/plugins/lazy-load/js/jquery.sonar.min.js?ver=0.6.1'></script>
+<script type='text/javascript' src='http://www.westernfrontonline.com/wp-content/plugins/lazy-load/js/lazy-load.js?ver=0.6.1'></script>
+<script type='text/javascript' src='http://www.westernfrontonline.com/wp-includes/js/wp-embed.min.js?ver=5.1.3'></script>
+<script async="async" type='text/javascript' src='http://www.westernfrontonline.com/wp-content/plugins/akismet/_inc/form.js?ver=4.1.3'></script>
+</body>
+</html>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+
+Served from: www.westernfrontonline.com @ 2019-11-12 02:20:27 by W3 Total Cache
+-->

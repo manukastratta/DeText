@@ -1,0 +1,492 @@
+
+<!doctype html>
+<html lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#" class="no-js">
+<head>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+  <title>7 Artists Using Their Practice to Address Gendered and Sexual Violence &mdash; Weisman Art Museum</title>
+  <!--[if lt IE 9]>
+    <script src="https://wam.umn.edu/wp-content/themes/weismanartmuseum/js/compatibility.min.js"></script>
+  <![endif]-->
+  <link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Weisman Art Museum &raquo; 7 Artists Using Their Practice to Address Gendered and Sexual Violence Comments Feed" href="https://wam.umn.edu/2017/04/10/7-artists-using-their-practice-to-address-gendered-and-sexual-violence/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/wam.umn.edu\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.12"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='yarppWidgetCss-css'  href='https://wam.umn.edu/wp-content/plugins/yet-another-related-posts-plugin/style/widget.css?ver=4.9.12' type='text/css' media='all' />
+<link rel='stylesheet' id='tribe-tooltip-css'  href='https://wam.umn.edu/wp-content/plugins/the-events-calendar/common/src/resources/css/tooltip.min.css?ver=4.9.9' type='text/css' media='all' />
+<link rel='stylesheet' id='wam-style-css'  href='https://wam.umn.edu/wp-content/themes/weismanartmuseum/style.css?ver=0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-featherlight-css'  href='https://wam.umn.edu/wp-content/plugins/wp-featherlight/css/wp-featherlight.min.css?ver=1.3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='https://c0.wp.com/p/jetpack/7.0/css/jetpack.css' type='text/css' media='all' />
+<link rel='https://api.w.org/' href='https://wam.umn.edu/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://wam.umn.edu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://wam.umn.edu/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Radical Listening, Pt. 2' href='https://wam.umn.edu/2017/03/01/radical-listening-pt-2/' />
+<link rel='next' title='Radical Listening, Pt. 3' href='https://wam.umn.edu/2017/04/10/radical-listening-pt-3-2/' />
+<meta name="generator" content="WordPress 4.9.12" />
+<link rel="canonical" href="https://wam.umn.edu/2017/04/10/7-artists-using-their-practice-to-address-gendered-and-sexual-violence/" />
+<link rel='shortlink' href='https://wp.me/paHFE2-1UL' />
+<link rel="alternate" type="application/json+oembed" href="https://wam.umn.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwam.umn.edu%2F2017%2F04%2F10%2F7-artists-using-their-practice-to-address-gendered-and-sexual-violence%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://wam.umn.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwam.umn.edu%2F2017%2F04%2F10%2F7-artists-using-their-practice-to-address-gendered-and-sexual-violence%2F&#038;format=xml" />
+<meta name="tec-api-version" content="v1"><meta name="tec-api-origin" content="https://wam.umn.edu"><link rel="https://theeventscalendar.com/" href="https://wam.umn.edu/wp-json/tribe/events/v1/" />
+<link rel='dns-prefetch' href='//v0.wordpress.com'/>
+<link rel='dns-prefetch' href='//i0.wp.com'/>
+<link rel='dns-prefetch' href='//i1.wp.com'/>
+<link rel='dns-prefetch' href='//i2.wp.com'/>
+<link rel='dns-prefetch' href='//c0.wp.com'/>
+<style type='text/css'>img#wpstats{display:none}</style>			<style type="text/css">
+				/* If html does not have either class, do not show lazy loaded images. */
+				html:not( .jetpack-lazy-images-js-enabled ):not( .js ) .jetpack-lazy-image {
+					display: none;
+				}
+			</style>
+			<script>
+				document.documentElement.classList.add(
+					'jetpack-lazy-images-js-enabled'
+				);
+			</script>
+		<link rel="icon" href="https://i0.wp.com/wam.umn.edu/wp-content/uploads/2019/05/cropped-WAM_webicon.png?fit=32%2C32&#038;ssl=1" sizes="32x32" />
+<link rel="icon" href="https://i0.wp.com/wam.umn.edu/wp-content/uploads/2019/05/cropped-WAM_webicon.png?fit=192%2C192&#038;ssl=1" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://i0.wp.com/wam.umn.edu/wp-content/uploads/2019/05/cropped-WAM_webicon.png?fit=180%2C180&#038;ssl=1" />
+<meta name="msapplication-TileImage" content="https://i0.wp.com/wam.umn.edu/wp-content/uploads/2019/05/cropped-WAM_webicon.png?fit=270%2C270&#038;ssl=1" />
+			<style type="text/css" id="wp-custom-css">
+				h2.tribe-events-list-separator-month {
+	margin-top: 2rem;
+	margin-bottom: 1rem;
+	font-size: 1.25rem;
+}			</style>
+		
+<!-- START - Open Graph for Facebook, Google+ and Twitter Card Tags 2.2.6.1 -->
+ <!-- Facebook Open Graph -->
+  <meta property="og:locale" content="en_US"/>
+  <meta property="og:site_name" content="Weisman Art Museum"/>
+  <meta property="og:title" content="7 Artists Using Their Practice to Address Gendered and Sexual Violence"/>
+  <meta property="og:url" content="https://wam.umn.edu/2017/04/10/7-artists-using-their-practice-to-address-gendered-and-sexual-violence/"/>
+  <meta property="og:type" content="article"/>
+  <meta property="og:description" content="Trigger Warning: This post contains references to sexual and gendered violence
+
+Any artist, collector, or curator can tell you that the art world is not immune to the power dynamics and oppressions present in other fields. However, in a field of work where no topic is taboo or off the table, there a"/>
+  <meta property="article:published_time" content="2017-04-10T12:15:21+00:00"/>
+  <meta property="article:modified_time" content="2019-01-06T18:14:53+00:00" />
+  <meta property="og:updated_time" content="2019-01-06T18:14:53+00:00" />
+  <meta property="article:section" content="Students"/>
+  <meta property="article:publisher" content="https://www.facebook.com/weismanart/"/>
+ <!-- Google+ / Schema.org -->
+  <meta itemprop="name" content="7 Artists Using Their Practice to Address Gendered and Sexual Violence"/>
+  <meta itemprop="headline" content="7 Artists Using Their Practice to Address Gendered and Sexual Violence"/>
+  <meta itemprop="description" content="Trigger Warning: This post contains references to sexual and gendered violence
+
+Any artist, collector, or curator can tell you that the art world is not immune to the power dynamics and oppressions present in other fields. However, in a field of work where no topic is taboo or off the table, there a"/>
+  <meta itemprop="datePublished" content="2017-04-10"/>
+  <meta itemprop="dateModified" content="2019-01-06T18:14:53+00:00" />
+  <meta itemprop="author" content="WAM Collective"/>
+  <!--<meta itemprop="publisher" content="Weisman Art Museum"/>--> <!-- To solve: The attribute publisher.itemtype has an invalid value -->
+ <!-- Twitter Cards -->
+  <meta name="twitter:title" content="7 Artists Using Their Practice to Address Gendered and Sexual Violence"/>
+  <meta name="twitter:url" content="https://wam.umn.edu/2017/04/10/7-artists-using-their-practice-to-address-gendered-and-sexual-violence/"/>
+  <meta name="twitter:description" content="Trigger Warning: This post contains references to sexual and gendered violence
+
+Any artist, collector, or curator can tell you that the art world is not immune to the power dynamics and oppressions present in other fields. However, in a field of work where no topic is taboo or off the table, there a"/>
+  <meta name="twitter:card" content="summary_large_image"/>
+ <!-- SEO -->
+ <!-- Misc. tags -->
+ <!-- is_singular -->
+<!-- END - Open Graph for Facebook, Google+ and Twitter Card Tags 2.2.6.1 -->
+	
+
+  <style type="text/css">
+    body.section-visit .main:before {
+      background-image: url(https://wam.umn.edu/wp-content/uploads/2017/07/exterior-01.jpg) !important;
+    }
+
+    body.section-about .main:before,
+    body.section-rentals .main:before {
+      background-image: url(https://wam.umn.edu/wp-content/uploads/2017/07/exterior-01.jpg) !important;
+    }
+  </style>
+</head>
+<body class="post-template-default single single-post postid-7363 single-format-standard tribe-no-js wp-featherlight-captions">
+
+  <!--[if lte IE 9]>
+    <div class="warning">
+      You are using an unsupported browser version. Please <a href="http://browsehappy.com">upgrade</a>.
+    </div>
+  <![endif]-->
+
+  <header class="umnhf" id="umnhf-h" role="banner">
+    <div class="printer"><div class="left"></div><div class="right"><strong>University of Minnesota</strong><br />http://twin-cities.umn.edu/<br />612-625-5000</div></div>
+    <div class="umnhf" id="umnhf-h-mast">
+      <a class="umnhf" id="umnhf-h-logo" href="http://twin-cities.umn.edu/"><span>Go to the U of M home page</span></a>
+      <ul class="umnhf" id="umnhf-h-ql">
+        <li><a href="http://onestop.umn.edu/">One Stop</a></li>
+        <li class="umnhf"><a href="https://www.myu.umn.edu/">MyU <span></span></a></li>
+      </ul>
+      <button class="umnhf" id="umnhf-m-search">Search</button>
+    </div>
+    <form class="umnhf" id="umnhf-h-search" action="//search.umn.edu/tc/" method="get" title="Search Websites and People" role="search">
+      <label class="umnhf" for="umnhf-h-st">Search</label>
+      <input class="umnhf" id="umnhf-h-st" type="text" name="q" placeholder="Search U of M" />
+      <label class="umnhf" for="umnhf-h-sb">Submit search query</label>
+      <input class="umnhf" id="umnhf-h-sb" type="submit" value="">
+    </form>
+  </header>
+
+  
+  <button class="menu-toggle"></button>
+
+  <div class="sidebar">
+    <h1 class="sidebar-logo"><a href="/">Weisman Art Museum</a></h1>
+    <div class="sidebar-content-container">
+      <div class="sidebar-content">
+        <div class="emphasis">
+          <ul class="breadcrumb"><li class="item-current item-7363">7 Artists Using Their Practice to Address Gendered and Sexual Violence</li></ul>        </div>
+      </div>
+            <div class="sidebar-content">
+        <p class="emphasis">
+          November 12, 2019          <span><a href="/visit/hours-admission/">
+            Open until 5 pm          </a></span>
+        </p>
+      </div>
+      <div class="sidebar-content"><p class="emphasis">Admission is always free</p></div>
+      <div class="sidebar-content"><p class="emphasis">Follow us</p><ul><li id="menu-item-98" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-98"><a href="https://www.facebook.com/weismanart/">Facebook</a></li>
+<li id="menu-item-99" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-99"><a href="https://twitter.com/weismanart">Twitter</a></li>
+<li id="menu-item-100" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-100"><a href="https://www.instagram.com/weismanartmuseum/">Instagram</a></li>
+</ul></div>
+                                                        <div class="sidebar-content tweets">
+              <p class="emphasis"><a href="https://twitter.com/weismanart">Nov 6</a> <span>We're grateful to everyone who's become a member since we transitioned to free membership in September! If you're a… <a href="https://t.co/pBjf78db68">https://t.co/pBjf78db68</a></span></p>
+            </div>
+                                                                                                                                                                                                                                                                                                                                                                                              </div>
+  </div>
+
+    <header class="site-header">
+      <div class="container">
+        <button class="close"></button>
+        <h1 class="site-header-logo"><a href="/">Weisman Art Museum</a></h1>
+        <nav class="site-header-nav">
+          <ul>
+            <li>
+              <a href="/visit/">Visit</a>
+              <div class="subnav"><ul id="menu-visit" class="menu"><li id="menu-item-6662" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6662"><a href="https://wam.umn.edu/visit/shop/">Shop</a></li>
+<li id="menu-item-6663" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6663"><a href="https://wam.umn.edu/visit/tours/">Tours</a></li>
+<li id="menu-item-6664" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6664"><a href="https://wam.umn.edu/visit/workshops/">Workshops</a></li>
+<li id="menu-item-6661" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6661"><a href="https://wam.umn.edu/visit/accessibility/">Accessibility</a></li>
+</ul></div>            </li>
+            <li>
+              <a href="/calendar/category/events/">Events</a>
+            </li>
+            <li>
+              <a href="/calendar/category/exhibits/feature/">On View</a>
+            </li>
+            <li>
+              <a href="/news/">News</a>
+            </li>
+            <li>
+              <a href="/collection/">Collection</a>
+              <div class="subnav"><ul id="menu-collection" class="menu"><li id="menu-item-6658" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6658"><a href="https://wam.umn.edu/collection/sample-collection/">Traditional Korean Furniture</a></li>
+<li id="menu-item-6657" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6657"><a href="https://wam.umn.edu/collection/mimbres-pottery/">Mimbres Pottery</a></li>
+<li id="menu-item-384944" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-384944"><a href="https://wam.umn.edu/collection/public-art-on-campus/">Public Art on Campus</a></li>
+</ul></div>            </li>
+            <li>
+              <a href="/education/">Explore</a>               <div class="subnav"><ul id="menu-education" class="menu"><li id="menu-item-6656" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6656"><a href="https://wam.umn.edu/education/students/">UMN Students</a></li>
+<li id="menu-item-6653" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6653"><a href="https://wam.umn.edu/education/community-families/">Community &#038; Families</a></li>
+<li id="menu-item-6655" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6655"><a href="https://wam.umn.edu/education/k-12-students-educators/">K-12 Students &#038; Educators</a></li>
+<li id="menu-item-6654" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6654"><a href="https://wam.umn.edu/education/faculty/">Faculty</a></li>
+<li id="menu-item-385576" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-385576"><a href="https://wam.umn.edu/education/cosponsorships/">Cosponsorships</a></li>
+<li id="menu-item-383487" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-383487"><a href="https://wam.umn.edu/education/target-studio-for-creative-collaboration/">Target Studio for Creative Collaboration</a></li>
+<li id="menu-item-383212" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-383212"><a href="https://wam.umn.edu/education/artful-writing/">Artful Writing</a></li>
+</ul></div>            </li>
+            <li>
+              <a href="/about/">About</a>
+              <div class="subnav"><ul id="menu-about" class="menu"><li id="menu-item-6649" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6649"><a href="https://wam.umn.edu/about/mission/">Mission</a></li>
+<li id="menu-item-6650" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6650"><a href="https://wam.umn.edu/about/press/">Press</a></li>
+<li id="menu-item-6648" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6648"><a href="https://wam.umn.edu/about/employment/">Get Involved</a></li>
+<li id="menu-item-6647" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6647"><a href="https://wam.umn.edu/about/contact/">Contact</a></li>
+<li id="menu-item-6651" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6651"><a href="https://wam.umn.edu/about/staff/">Staff/CAB</a></li>
+<li id="menu-item-6671" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-6671"><a href="https://wam.umn.edu/about/rentals/">Rentals/Cosponsorships</a></li>
+<li id="menu-item-382605" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-382605"><a href="https://wam.umn.edu/about/wam-files/">WAM Files</a></li>
+</ul></div>            </li>
+            <li class="nav-search"><a href=""><img src="/wp-content/themes/weismanartmuseum/images/search.svg" alt="Search"></a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+    <div class="site-header-nav-search">
+  <form role="search" method="get" action="https://wam.umn.edu/">
+    <input type="text" name="s">
+  </form>
+  <button class="close"></button>
+</div>
+
+    <div class="container">
+    <div class="main">
+
+
+<aside class="section-aside">
+  <h1 class="section-aside-header"><a href="/news/">News</a></h1>
+  <nav class="section-nav" id="parent-7363">
+    <ul>
+      <li ><a href="/news/"><span>All</span></a></li>
+      	<li class="cat-item cat-item-832"><a href="https://wam.umn.edu/category/collection/" >Collection</a>
+</li>
+	<li class="cat-item cat-item-783"><a href="https://wam.umn.edu/category/exhibition-news/" >Exhibition News</a>
+</li>
+	<li class="cat-item cat-item-331"><a href="https://wam.umn.edu/category/focus-collection/" >Focus on the Collection</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="https://wam.umn.edu/category/general/" >General</a>
+</li>
+	<li class="cat-item cat-item-13"><a href="https://wam.umn.edu/category/members/" >Members</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="https://wam.umn.edu/category/shop/" >Shop</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="https://wam.umn.edu/category/students/" >Students</a>
+</li>
+	<li class="cat-item cat-item-326"><a href="https://wam.umn.edu/category/target-studio/" >Target Studio</a>
+</li>
+	<li class="cat-item cat-item-667"><a href="https://wam.umn.edu/category/wam-files/" >WAM Files</a>
+</li>
+    </ul>
+  </nav>
+</aside>
+
+<div class="news-item-content">
+      <article>
+      <header class="news-item-header">
+        <p class="date quiet">April 10, 2017</p>
+        <h1><a href="https://wam.umn.edu/2017/04/10/7-artists-using-their-practice-to-address-gendered-and-sexual-violence/">7 Artists Using Their Practice to Address Gendered and Sexual Violence</a></h1>
+      </header>
+      <div class="content">
+        <p><em>Trigger Warning: This post contains references to sexual and gendered violence</em></p>
+<p>Any artist, collector, or curator can tell you that the art world is not immune to the <a href="https://www.artsy.net/article/artsy-editorial-we-broke-down-the-art-world-s-100-most-powerful-people-by-race-gender-profession-and-place-of-birth">power dynamics</a> and <a href="http://www.artnews.com/2015/05/26/on-sexism-in-the-art-world/">oppressions</a> present in other fields. However, in a field of work where no topic is taboo or off the table, there are far too few people talking about a topic that effects over 35% of women and countless men and non-binary people:<strong> sexual violence. </strong><em>(Statistics on non-women sexual violence survivors worldwide are more difficult to isolate due to <a href="https://www.theguardian.com/global-development-professionals-network/2013/jun/25/dealing-with-male-rape">erasure of male victims</a>, <a href="https://www.odh.ohio.gov/~/media/odh/assets/files/hprr/sexual%20assult/appendix182011.ashx">non-reporting</a>, and a <a href="http://www.hrc.org/resources/sexual-assault-and-the-lgbt-community">lack of recognition </a>of LGBT and non-binary people.)</em></p>
+<p>For decades, artists have questioned and subverted binaries of public and private, illustrating the ways the political pervades the personal and women and lgbt folks are denied the same access and security in both public and private space. Making art about sexual and gendered violence spotlights the painfully personal and isolating experience of rape and sexual assault and brings it into the public sphere.</p>
+<p>As exemplified in WAM&#8217;s current exhibition,<em> The Talking Cure,</em> art can be a cathartic, healing experience and can provide space to address inner emotions and monologues for viewers and artists alike.</p>
+<p>The following featured artists are working both internationally and locally to do the work of both recognizing and affirming survivors of sexual violence, and forcing viewers of the work to recognize the prevalence of sexual violence and rape culture all around them.</p>
+<p><strong>1. Emma Sulkowicz</strong></p>
+<p><span class="embed-youtube" style="text-align:center; display: block;"><iframe class='youtube-player' type='text/html' width='640' height='360' src='https://www.youtube.com/embed/l9hHZbuYVnU?version=3&#038;rel=1&#038;fs=1&#038;autohide=2&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' allowfullscreen='true' style='border:0;'></iframe></span></p>
+<p style="text-align:left;"><em>Emma Sulkowicz, &#8220;Mattress Performance (Carry That Weight)&#8221;, 2015<br />
+</em></p>
+<p style="text-align:left;">In 2012, during her sophomore year of college at Columbia University, Emma Sulkowicz was raped by a fellow student in her dorm room. Following the assault, Sulkowicz began her internationally recognized performance piece, <em>Mattress Performance (Carry That Weight),</em> in which she vowed to carry her navy blue dormitory mattress everywhere she went on campus until her assailant, Paul Nungesser, was no longer a student on campus. Though Sulkowicz&#8217; intention was to perform the work until Nungesser was expelled from the school and banned from the campus, she ended her performance in 2015 after both the artist and her perpetrator graduated. Sulkowicz performance provided a poignant physical and visual marker of the weight of physical and emotional trauma many survivors carry after experiencing sexual violence. <strong>Her work succeeded in calling international attention to the epidemic of college campus assaults, which effect<a href="https://www.rainn.org/statistics/campus-sexual-violence"> nearly 1 in 4 college age women</a>. </strong></p>
+<p style="text-align:left;"><strong>2. Yoko Ono</strong></p>
+<div id="attachment_6907" style="width: 470px" class="wp-caption alignnone"><img class="alignnone size-full wp-image-6907 jetpack-lazy-image" src="https://wamcollective.files.wordpress.com/2017/04/cut-piece-performed-by-yoko-ono-on-july-20-1964-at-yamaichi-concert-hall.jpg?resize=460%2C661" alt="Cut Piece performed by Yoko Ono on July 20, 1964 at Yamaichi Concert Hall," width="460" height="661" data-recalc-dims="1" data-lazy-src="https://wamcollective.files.wordpress.com/2017/04/cut-piece-performed-by-yoko-ono-on-july-20-1964-at-yamaichi-concert-hall.jpg?resize=460%2C661&amp;is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img class="alignnone size-full wp-image-6907" src="https://wamcollective.files.wordpress.com/2017/04/cut-piece-performed-by-yoko-ono-on-july-20-1964-at-yamaichi-concert-hall.jpg?resize=460%2C661" alt="Cut Piece performed by Yoko Ono on July 20, 1964 at Yamaichi Concert Hall," width="460" height="661" data-recalc-dims="1" /></noscript><p class="wp-caption-text"><em>Cut Piece</em> performed by Yoko Ono on July 20, 1964 at Yamaichi Concert Hall</p></div>
+<div class="irc_asc">
+<p>One of Yoko Ono&#8217;s earliest performance works, in <em>Cut Piece</em> the artist presented herself and a pair of scissors to an audience of viewers in a Japanese concert hall in Kyoto. Ono knelt on the floor in front of the audience, wearing her best suit, and invited members of the audience to approach her and use the scissors to cut and take a small piece of her clothing. While many viewers snipped only a small piece of fabric the hem of the artist&#8217;s clothing, others took bolder, more aggressive actions, slicing away large patches of her clothing or snipping her bra straps.</p>
+<p>By inviting viewers to participate in the performance, Ono challenged the perceived neutrality of the interaction between viewer and art object, implicating the viewer in the potentially violent act of undressing her body. While the work was not created to explicitly address sexual assault or gendered violence, the work tacitly referenced the historic objectification of the female nude in art, and related issues of voyeurism, gender subordination, and the violation of women&#8217;s personal space and boundaries.</p>
+</div>
+<div class="irc_it">
+<div class="irc_hd">
+<div class="irc_asc">
+<p><strong>3. Sierra DeMulder</strong></p>
+<p>&nbsp;</p>
+</div>
+</div>
+</div>
+<p><span class="embed-youtube" style="text-align:center; display: block;"><iframe class='youtube-player' type='text/html' width='640' height='360' src='https://www.youtube.com/embed/3k4ebSEeCwI?version=3&#038;rel=1&#038;fs=1&#038;autohide=2&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' allowfullscreen='true' style='border:0;'></iframe></span></p>
+<p style="text-align:center;">Sierra DeMulder, <em>Paper Dolls,</em> 2016</p>
+<p style="text-align:left;">A University of Minnesota alumni and Minneapolis resident, Sierra DeMulder is an internationally touring performance poet and educator, a two-time National Poetry Slam champion, and a thrice-published author.</p>
+<p style="text-align:left;">DeMulder&#8217;s poetry is the embodiment of radical vulnerability, giving voice to difficult issues like suicide, sexual violence, and abusive relationship. Her 2016 poem, <em>Paper Dolls, </em>pushes back the narrative too often placed on vocal survivors of sexual violence, which paints survivors as victims, as forever defined by their trauma and in need of saving.</p>
+<p style="text-align:left;"><strong><br />
+4. Luzene Hill</strong></p>
+<div id="attachment_6899" style="width: 1210px" class="wp-caption alignnone"><img class="alignnone size-full wp-image-6899 jetpack-lazy-image" src="https://wamcollective.files.wordpress.com/2017/04/paae_conversations_14.jpg?resize=1200%2C960" alt="PaaE_Conversations_14" width="1200" height="960" data-recalc-dims="1" data-lazy-src="https://wamcollective.files.wordpress.com/2017/04/paae_conversations_14.jpg?resize=1200%2C960&amp;is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img class="alignnone size-full wp-image-6899" src="https://wamcollective.files.wordpress.com/2017/04/paae_conversations_14.jpg?resize=1200%2C960" alt="PaaE_Conversations_14" width="1200" height="960" data-recalc-dims="1" /></noscript><p class="wp-caption-text">Luzene Hill, <em>Retracing the Trace, </em>2012</p></div>
+<p>In <em>Retracing the Trace</em>, Cherokee artist Luzene Hill visually represents the number of rapes that go unreported in the United States in every 24 hours: <strong>3,780</strong>. Her performance installation begins with the artist lying on the floor in the center of the gallery, her arms and legs bent, as 3,780 red khipu style Incan knots are poured over her. She then rises, leaving behind an imprint of her body, similar to the one left in the park where she was assaulted in 1994. After rising from the gallery floor, the artist proceeds to spend the next 60 hours individually pinning each knot to the walls, slowing forming a red ring around the room. For Hill, it is important to touch, recognize and account for each knot, she describes this process as &#8220;the gradual removing of a violent trace, into a reckoning,&#8221;</p>
+<p>Using the traditional khipu style of knotting and dying cord, Hill draws a connection between the silencing of survivors of sexual violence and the silencing of Native voice and culture. <strong>For Native women, the occurrence of sexual violence is nearly 3 times greater than the national average, with almost 90 percent of assaults perpetrated by non-Native men.</strong></p>
+<p><strong>5. Lady Skollie</strong></p>
+<div id="attachment_6888" style="width: 1034px" class="wp-caption alignnone"><img class="alignnone size-full wp-image-6888 jetpack-lazy-image" src="https://wamcollective.files.wordpress.com/2017/04/ladyskollie.jpg?resize=1024%2C1024" alt="LadySkollie" width="1024" height="1024" data-recalc-dims="1" data-lazy-src="https://wamcollective.files.wordpress.com/2017/04/ladyskollie.jpg?resize=1024%2C1024&amp;is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img class="alignnone size-full wp-image-6888" src="https://wamcollective.files.wordpress.com/2017/04/ladyskollie.jpg?resize=1024%2C1024" alt="LadySkollie" width="1024" height="1024" data-recalc-dims="1" /></noscript><p class="wp-caption-text">Lady Skollie, <em>I want to know about Her, Her, Her,</em> 2016</p></div>
+<p>When South African rapper, Okmalumkoolkat, returned to South Africa after serving a 1 month prison sentence in Tazmania for assaulting colleague while on tour, he released the above statement (text written in black) as an open letter to his fans. The statement, which centers his experiences and hardships and need for healing and fails to mention the survivor of his crime, was quickly taken to task by South African artist Lady Skollie. Skollie created this work in response, addressing the way the &#8220;needs&#8221; and &#8220;potential&#8221; of perpetrators of sexual violence are often prioritized above survivors of the crime.</p>
+<p><strong>6.</strong><strong> Frizz Kid</strong></p>
+<div id="attachment_media-4" style="width: 4282px" class="wp-caption alignnone"><img class="alignnone size-full wp-image-6883 jetpack-lazy-image" src="https://wamcollective.files.wordpress.com/2017/04/frizzkid_lostwords.jpg?resize=4272%2C2848" alt="FrizzKid_LostWords.jpg" width="4272" height="2848" data-recalc-dims="1" data-lazy-src="https://wamcollective.files.wordpress.com/2017/04/frizzkid_lostwords.jpg?resize=4272%2C2848&amp;is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img class="alignnone size-full wp-image-6883" src="https://wamcollective.files.wordpress.com/2017/04/frizzkid_lostwords.jpg?resize=4272%2C2848" alt="FrizzKid_LostWords.jpg" width="4272" height="2848" data-recalc-dims="1" /></noscript><p class="wp-caption-text">Frizz Kid, <em>Lost Words Project, </em>2016</p></div>
+<p>Hana Shafi, also known as Frizz Kid, is a 23 year old, Toronto based artist who uses the visual language of internet illustrations and memes to send positive affirmations and important messages into the world. In 2016, Shafi hosted the <em>Lost Words Project</em> in which she lead participants in creating visual messages containing words lost in sexual violence. She prompted participants to create three different posters &#8211; one containing lost words to the person who sexually assaulted you, the next containing lost words to your peers, professors, or bystanders, and the third containing lost words to yourself. Centering and prioritizing the voices of non-binary survivors and survivors of color, Frizz Kid draws attention to the way these voices are often excluded from conversations around sexual violence and the erasure that contributes to the &#8220;losing&#8221; of words.</p>
+<p><strong>7.<strong> Jenny Nijenhuis and Nondumiso Msimanga</strong></strong></p>
+<div id="attachment_6880" style="width: 1034px" class="wp-caption alignnone"><img class="alignnone size-full wp-image-6880 jetpack-lazy-image" src="https://wamcollective.files.wordpress.com/2017/04/sas-dirty-laundry.jpg?resize=1024%2C683" alt="SA&#039;s Dirty Laundry" width="1024" height="683" data-recalc-dims="1" data-lazy-src="https://wamcollective.files.wordpress.com/2017/04/sas-dirty-laundry.jpg?resize=1024%2C683&amp;is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img class="alignnone size-full wp-image-6880" src="https://wamcollective.files.wordpress.com/2017/04/sas-dirty-laundry.jpg?resize=1024%2C683" alt="SA's Dirty Laundry" width="1024" height="683" data-recalc-dims="1" /></noscript><p class="wp-caption-text">Jenny Nijenhuis and Nondumiso Msimanga, <em>SA&#8217;s Dirty Laundry, </em>2016</p></div>
+<p>In November of 2016, South African artists Nondumiso Msimanga and Jenny Nijenhuis created this public installation with 3,600 pairs of used underwear and nearly 4,000 feet of washing line. The underwear, which hung above the streets of Johannesburg represented the 3,600 rapes estimated to take place in South Africa everyday. The artists collected the featured underwear by women wanting to come forward with their own stories of rape and sexual assault. By bringing these intimate articles of clothing into the public streets of Johannesburg, the artists sought to start a public dialogue around the epidemic of sexual violence in South Africa.</p>
+<h4>Did you know April is Sexual Assault Awareness Month? This week WAM Collective is participating in a campus wide initiative to help bring our campus sexual assault education and advocacy center, The Aurora Center, out of deficit. To donate money to the Fund Aurora Campaign visit z.umn.edu/fundaurora</h4>
+<hr />
+<p><strong>Elise Armani</strong> is a fourth year BFA candidate, with a dual degree in Gender, Women and Sexuality studies and a minor in Art History. Elise is an artist and an independent curator, and works as the Projects &amp; Programs assistant at WAM. In the off moments when she isn’t working, Elise enjoys reading, frolicking in nature, and spending time with her pitbull (child) Lando.</p>
+      </div>
+      <style type="text/css">
+	      .jetpack_subscription_widget {
+		      border: 1px solid #ccc;
+		      padding: 1rem;
+	      }
+	      .jetpack_subscription_widget .widgettitle {
+		      font-weight: bold;
+		      margin-bottom: .7rem;
+	      }
+	      .jetpack_subscription_widget p {
+		      font-size: .8rem;
+		      margin-bottom: 1rem;
+	      }
+      </style>
+      <div class="jetpack_subscription_widget"><h2 class="widgettitle">Subscribe to Blog via Email</h2>
+            <form action="#" method="post" accept-charset="utf-8" id="subscribe-blog-518">
+				                    <div id="subscribe-text"><p>Enter your email address to subscribe to this blog and receive notifications of new posts by email.</p>
+</div>                    <p id="subscribe-email">
+                        <label id="jetpack-subscribe-label"
+                               class="screen-reader-text"
+                               for="subscribe-field-518">
+							Email Address                        </label>
+                        <input type="email" name="email" required="required" class="required"
+                               value=""
+                               id="subscribe-field-518"
+                               placeholder="Email Address"/>
+                    </p>
+
+                    <p id="subscribe-submit">
+                        <input type="hidden" name="action" value="subscribe"/>
+                        <input type="hidden" name="source" value="https://wam.umn.edu/2017/04/10/7-artists-using-their-practice-to-address-gendered-and-sexual-violence/"/>
+                        <input type="hidden" name="sub-type" value="widget"/>
+                        <input type="hidden" name="redirect_fragment" value="518"/>
+						                        <input type="submit" value="Subscribe"
+	                        		                    	                        name="jetpack_subscriptions_widget"
+	                    />
+                    </p>
+				            </form>
+		
+</div>
+      <div class='yarpp-related'>
+<div class="related">
+    <article class="related-item">
+    <header class="related-item-header">
+      <h1><a href="https://wam.umn.edu/2017/04/11/sarah-super-answers-what-needs-to-be-said/">Sarah Super Answers &#8216;What Needs to be Said?&#8217;</a></h1>
+    </header>
+    <a class="related-item-image" href="https://wam.umn.edu/2017/04/11/sarah-super-answers-what-needs-to-be-said/">
+                        </a>
+    <div class="content">
+      <p>The Target Studio for Creative Collaboration’s current exhibition The Talking Cure features an interactive art piece by artist-in-residence Rebecca Krinke titled What Needs to be Said? The work was inspired by Japanese tokonoma. The tokonoma is a raised alcove space often found in traditional Japanese architecture and used to comment, question, or illuminate aspects of&#8230;</p>
+      <p class="more"><a href="https://wam.umn.edu/2017/04/11/sarah-super-answers-what-needs-to-be-said/"><span>More</span></a></p>
+    </div>
+  </article>
+  <article class="related-item">
+    <header class="related-item-header">
+      <h1><a href="https://wam.umn.edu/2017/02/21/why-have-their-been-no-great-women-artists-pt-1/">Why Have There Been No Great Women Artists? Pt. 1</a></h1>
+    </header>
+    <a class="related-item-image" href="https://wam.umn.edu/2017/02/21/why-have-their-been-no-great-women-artists-pt-1/">
+                        </a>
+    <div class="content">
+      <p>&#8220;Why Have There Been No Great Women Artists?&#8221; is a new WAM Collective blog series highlighting the overlooked and underrepresented artistic contributions of American artists. The title of the series references a 1971 essay of the same name by art historian Linda Nochlin, which examines the institutional boundaries that have prevented Women artists from succeeding in the arts&#8230;.</p>
+      <p class="more"><a href="https://wam.umn.edu/2017/02/21/why-have-their-been-no-great-women-artists-pt-1/"><span>More</span></a></p>
+    </div>
+  </article>
+  <article class="related-item">
+    <header class="related-item-header">
+      <h1><a href="https://wam.umn.edu/2016/10/25/happy-hallozine/">Happy HalloZine!!</a></h1>
+    </header>
+    <a class="related-item-image" href="https://wam.umn.edu/2016/10/25/happy-hallozine/">
+              <img width="648" height="432" src="https://i1.wp.com/wam.umn.edu/wp-content/uploads/2016/10/theflopbox_hsc_trick_or_treat_zine_2.jpg?resize=648%2C432&amp;ssl=1" class="attachment-preview size-preview wp-post-image jetpack-lazy-image" alt="" data-lazy-srcset="https://i1.wp.com/wam.umn.edu/wp-content/uploads/2016/10/theflopbox_hsc_trick_or_treat_zine_2.jpg?resize=1356%2C904&amp;ssl=1 1356w, https://i1.wp.com/wam.umn.edu/wp-content/uploads/2016/10/theflopbox_hsc_trick_or_treat_zine_2.jpg?resize=648%2C432&amp;ssl=1 648w" data-lazy-sizes="(max-width: 648px) 100vw, 648px" data-lazy-src="https://i1.wp.com/wam.umn.edu/wp-content/uploads/2016/10/theflopbox_hsc_trick_or_treat_zine_2.jpg?resize=648%2C432&amp;ssl=1&amp;is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" />          </a>
+    <div class="content">
+      <p>This Friday feminists and local artists at the University of Minnesota will be gathering at the Women’s Center in Appleby Hall to romp like monsters and celebrate one of the counterculture’s favorite formats: the zine! A time-honored tradition among fandoms, dissidents and the marginalized, the “zine” (short for magazine for fanzine) is a DIY, not-for-profit&#8230;</p>
+      <p class="more"><a href="https://wam.umn.edu/2016/10/25/happy-hallozine/"><span>More</span></a></p>
+    </div>
+  </article>
+</div>
+</div>
+    </article>
+  </div>
+
+    </div>
+    <footer class="site-footer quiet">
+
+      <div class="site-footer-wam">
+
+        <div class="site-footer-content site-footer-contact">
+          <p class="site-footer-name emphasis">Weisman Art Museum</p>
+          <p class="site-footer-address">333 E River Road<br>Minneapolis, MN 55455</p>
+          <p class="site-footer-phone">612 625 9494</p>
+        </div>
+
+        <nav class="site-footer-content site-footer-nav">
+          <ul class="site-footer-nav-secondary emphasis">
+            <li id="menu-item-385919" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-385919"><a href="https://wam.umn.edu/free-membership-wam/">Free Membership</a></li>
+<li id="menu-item-385941" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-385941"><a href="https://wam.umn.edu/support-2-0-2/">Donate</a></li>
+<li id="menu-item-107" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-107"><a href="https://wam.umn.edu/about/employment/">Get Involved</a></li>
+<li id="menu-item-109" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-109"><a href="https://wam.umn.edu/about/rentals/">Rentals/Cosponsorships</a></li>
+<li id="menu-item-108" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108"><a href="https://wam.umn.edu/about/press/">Press</a></li>
+<li id="menu-item-106" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-106"><a href="https://wam.umn.edu/about/contact/">Contact</a></li>
+          </ul>
+          <ul class="site-footer-nav-social emphasis">
+            <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-98"><a href="https://www.facebook.com/weismanart/">Facebook</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-99"><a href="https://twitter.com/weismanart">Twitter</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-100"><a href="https://www.instagram.com/weismanartmuseum/">Instagram</a></li>
+          </ul>
+        </nav>
+
+      </div>
+
+      <div class="site-footer-umn">
+
+        <div class="site-footer-content site-footer-campus">
+          <p class="emphasis">Twin Cities Campus</p>
+          <ul class="site-footer-university-nav emphasis">
+            <li id="menu-item-101" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-101"><a href="http://campusmaps.umn.edu">Maps &#038; Directions</a></li>
+<li id="menu-item-102" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-102"><a href="http://pts.umn.edu/">Parking &#038; Transportation</a></li>
+<li id="menu-item-103" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-103"><a href="http://twin-cities.umn.edu/contact-us">Contact U of M</a></li>
+<li id="menu-item-104" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-104"><a href="http://privacy.umn.edu">Privacy</a></li>
+<li id="menu-item-105" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-105"><a href="http://www.directory.umn.edu">Directories</a></li>
+          </ul>
+        </div>
+
+        <div class="site-footer-content site-footer-copyright">
+          <p>&copy;2019 Regents of the University of Minnesota. All rights reserved.</p>
+          <p>The University of Minnesota is an equal opportunity educator and employer.</p>
+        </div>
+
+      </div>
+
+    </footer>
+  </div>
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-93164310-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+  		<script>
+		( function ( body ) {
+			'use strict';
+			body.className = body.className.replace( /\btribe-no-js\b/, 'tribe-js' );
+		} )( document.body );
+		</script>
+		<script> /* <![CDATA[ */var tribe_l10n_datatables = {"aria":{"sort_ascending":": activate to sort column ascending","sort_descending":": activate to sort column descending"},"length_menu":"Show _MENU_ entries","empty_table":"No data available in table","info":"Showing _START_ to _END_ of _TOTAL_ entries","info_empty":"Showing 0 to 0 of 0 entries","info_filtered":"(filtered from _MAX_ total entries)","zero_records":"No matching records found","search":"Search:","all_selected_text":"All items on this page were selected. ","select_all_link":"Select all pages","clear_selection":"Clear Selection.","pagination":{"all":"All","next":"Next","previous":"Previous"},"select":{"rows":{"0":"","_":": Selected %d rows","1":": Selected 1 row"}},"datepicker":{"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesMin":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Prev","currentText":"Today","closeText":"Done","today":"Today","clear":"Clear"}};var tribe_system_info = {"sysinfo_optin_nonce":"01bd7fa091","clipboard_btn_text":"Copy to clipboard","clipboard_copied_text":"System info copied","clipboard_fail_text":"Press \"Cmd + C\" to copy"};/* ]]> */ </script><link rel='stylesheet' id='yarppRelatedCss-css'  href='https://wam.umn.edu/wp-content/plugins/yet-another-related-posts-plugin/style/related.css?ver=4.9.12' type='text/css' media='all' />
+<script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script>
+<script type='text/javascript' src='https://c0.wp.com/p/jetpack/7.0/_inc/build/photon/photon.min.js'></script>
+<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201946'></script>
+<script type='text/javascript' src='https://wam.umn.edu/wp-content/themes/weismanartmuseum/js/wam.min.js?ver=0.3'></script>
+<script type='text/javascript' src='https://c0.wp.com/p/jetpack/7.0/_inc/build/lazy-images/js/lazy-images.min.js'></script>
+<script type='text/javascript' src='https://wam.umn.edu/wp-content/plugins/wp-featherlight/js/wpFeatherlight.pkgd.min.js?ver=1.3.0'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/4.9.12/wp-includes/js/wp-embed.min.js'></script>
+<script type='text/javascript' src='https://stats.wp.com/e-201946.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:7.0',blog:'158171550',post:'7363',tz:'-6',srv:'wam.umn.edu'} ]);
+	_stq.push([ 'clickTrackerInit', '158171550', '7363' ]);
+</script>
+  
+    <script>
+	  $( document ).ready(function() {
+		  $("article .content .wp-caption").removeAttr('style');
+	  });
+  </script>
+  
+</body>
+</html>

@@ -1,0 +1,861 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><!--<![endif]-->
+
+<html  lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema# schema: http://schema.org/">
+<head>
+  <!--[if IE]><![endif]-->
+<link rel="dns-prefetch" href="//fonts.googleapis.com" />
+<link rel="dns-prefetch" href="//fonts.gstatic.com" />
+<link rel="dns-prefetch" href="//honeypot" />
+<link rel="dns-prefetch" href="//static.chartbeat.com" />
+<link rel="dns-prefetch" href="//www.google-analytics.com" />
+<link rel="dns-prefetch" href="//stats.g.doubleclick.net" />
+<link rel="dns-prefetch" href="//facebook_tracking_pixel" />
+<meta charset="utf-8" /><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={licenseKey:"168c43df34",applicationID:"109028254"};window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1130.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+<meta about="/social-media-websites/tumblr" typeof="skos:Concept" property="rdfs:label skos:prefLabel" content="Tumblr" />
+<link rel="shortcut icon" href="https://www.bitchmedia.org/sites/all/themes/bitch/images/nav_logo.jpg" type="image/jpeg" />
+<meta property="twitter:image" content="https://www.bitchmedia.org/sites/default/files/styles/twitter_ratio/public/open-graph/Sam%20Heughan%20as%20Jamie%20Fraser%20in%20Outlander%20social%20image.jpg?itok=ClWpUobc" />
+<link rel="shortlink" href="/node/20581" />
+<link rel="canonical" href="/article/male-rape-no-joke%E2%80%94-pop-culture-often-treats-it-way" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<meta property="og:image" content="https://www.bitchmedia.org/sites/default/files/styles/facebook_ratio/public/open-graph/Sam%20Heughan%20as%20Jamie%20Fraser%20in%20Outlander%20social%20image.jpg?itok=cxJsZJ35" />
+<meta property="og:image:secure_url" content="https://www.bitchmedia.org/sites/default/files/styles/facebook_ratio/public/open-graph/Sam%20Heughan%20as%20Jamie%20Fraser%20in%20Outlander%20social%20image.jpg?itok=cxJsZJ35" />
+<meta property="og:image:width" content="600" />
+<meta property="og:image:height" content="315" />
+<meta property="og:title" content="Male Rape Is No Joke—but Pop Culture Often Treats It That Way" />
+<meta name="twitter:title" content="Male Rape Is No Joke—but Pop Culture Often Treats It That Way" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.bitchmedia.org/article/male-rape-no-joke—-pop-culture-often-treats-it-way" />
+<meta property="og:description" content="From “Wedding Crashers” to “40 Days and 40 Nights,” films often treat sexual assault of men as a punchline. " />
+<meta property="twitter:description" content="From “Wedding Crashers” to “40 Days and 40 Nights,” films often treat sexual assault of men as a punchline. " />
+<meta name="description" content="From “Wedding Crashers” to “40 Days and 40 Nights,” films often treat sexual assault of men as a punchline. " />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@bitchmedia" />
+<meta name="twitter:url" content="https://www.bitchmedia.org/article/male-rape-no-joke—-pop-culture-often-treats-it-way?utm_source=Twitter" />
+<meta property="og:site_name" content="Bitch Media" />
+<meta property="fb:app_id" content="1051051268283732" />
+<meta property="fb:admins" content="19100256" />
+<meta property="fb:admins" content="22500057" />
+<meta property="fb:admins" content="599573530" />
+<meta property="fb:admins" content="6912598" />
+<meta property="fb:admins" content="811215144" />
+<link rel="canonical" href="https://www.bitchmedia.org/article/male-rape-no-joke—-pop-culture-often-treats-it-way" />
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1637779782946855&ev=PageView&noscript=1"/></noscript>  <title>Pop Culture Treats Male Rape like a Joke | Bitch Media</title>
+  <meta name="google-site-verification" content="B3VMHVpsFft5PGrRBR5s7WobFkKfb70x3pqF5-nHjiY" />
+      <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="cleartype" content="on">
+
+  <link type="text/css" rel="stylesheet" href="https://www.bitchmedia.org/sites/default/files/advagg_css/css__pGZjoessEE4Tswigm1DU8IS06xChdTY0_bRxs6KG4a8__cF3eJqHHcPOvWojYXi5_8znuHPCvxuPOL6MSDx4j9g4__N35m9-7HxEcabDYlmrKGZ0z_9pRygUStqOzGqJ9kHjQ.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Serif:400,400i,700,700i|Open+Sans:400" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.bitchmedia.org/sites/default/files/advagg_css/css__asA6e10I_MInlj4th_BX_5f8ukaS19twSVke-Xf8nXo__PqY6wxV4TdzY8oEvN8YNJz_4KiaPrpMQqKgGIIP724M__N35m9-7HxEcabDYlmrKGZ0z_9pRygUStqOzGqJ9kHjQ.css" media="all" />
+  <script src="https://www.bitchmedia.org/sites/all/modules/contrib/jquery_update/replace/jquery/1.7/jquery.min.js?v=1.7.2"></script>
+<script src="https://www.bitchmedia.org/misc/jquery-extend-3.4.0.js?v=1.7.2"></script>
+<script src="https://www.bitchmedia.org/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.bitchmedia.org/misc/drupal.js?q0unq4"></script>
+<script src="https://www.bitchmedia.org/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.core.min.js?v=1.10.2"></script>
+<script src="https://www.bitchmedia.org/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.widget.min.js?v=1.10.2"></script>
+<script src="https://www.bitchmedia.org/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.accordion.min.js?v=1.10.2"></script>
+<script src="https://www.bitchmedia.org/misc/states.js?v=7.67"></script>
+<script src="https://www.bitchmedia.org/sites/all/modules/contrib/comment_notify/comment_notify.js?q0unq4"></script>
+<script src="https://www.bitchmedia.org/sites/all/modules/contrib/fancybox/fancybox.js?q0unq4"></script>
+<script src="https://www.bitchmedia.org/sites/all/libraries/fancybox/source/jquery.fancybox.pack.js?q0unq4"></script>
+<script src="https://www.bitchmedia.org/sites/all/libraries/fancybox/lib/jquery.mousewheel.pack.js?q0unq4"></script>
+<script src="https://www.bitchmedia.org/sites/all/modules/springboard_modules/market_source/js/jquery-cookie.js?q0unq4"></script>
+<script src="https://www.bitchmedia.org/sites/all/modules/springboard_modules/market_source/js/market_source.js?q0unq4"></script>
+<script src="https://www.bitchmedia.org/sites/all/modules/custom/bitch_chartbeat/js/chartbeat_head.js?q0unq4"></script>
+<script src="//static.chartbeat.com/js/chartbeat_mab.js"></script>
+<script>
+  var _sf_async_config = _sf_async_config || {};
+  _sf_async_config.sections = 'Culture, Feminism 101';
+  _sf_async_config.authors = 'Mika Doyle';
+  _sf_async_config.type = 'Article';
+  var _cbq = window._cbq = (window._cbq || []);
+  _cbq.push(['_acct', 'anon']);
+  (function(){
+    function loadChartbeat() {
+      window._sf_endpt=(new Date()).getTime();
+      var e = document.createElement('script');
+      e.setAttribute('language', 'javascript');
+      e.setAttribute('type', 'text/javascript');
+      e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+      document.body.appendChild(e);
+    }
+    var oldonload = window.onload;
+    window.onload = (typeof window.onload != 'function') ?
+       loadChartbeat : function() { oldonload(); loadChartbeat(); };
+  })();</script>
+<script>
+  jQuery(document).bind('cbox_closed', function() {
+    document.cookie="hide_emma_popup=1; expires=Fri, 15 Nov 2019 2:17:30 UTC; path=/";
+  });</script>
+<script src="https://www.bitchmedia.org/sites/all/modules/contrib/google_analytics/googleanalytics.js?q0unq4"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-19523248-1", {"cookieDomain":"auto"});ga("require", "linkid", "linkid.js");ga("set", "dimension1", "Tue, 04\/30\/2019 - 10:00am");ga("send", "pageview");</script>
+<script src="https://www.bitchmedia.org/sites/all/modules/contrib/google_analytics_et/js/google_analytics_et.js?q0unq4"></script>
+<script src="https://www.bitchmedia.org/sites/all/modules/contrib/pullquote/pullquote.js?q0unq4"></script>
+<script src="https://www.bitchmedia.org/sites/all/themes/bitch/js/script.js?q0unq4"></script>
+<script src="https://www.bitchmedia.org/sites/default/files/facebook_tracking_pixel/fb_tkpx.1637779782946855.js?q0unq4"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"bitch","theme_token":"5UF22cz1FsX6_4Ppls89kAe-u4U0N5DYtaIDadFXjt4","css":{"https:\/\/www.bitchmedia.org\/sites\/all\/libraries\/colorbox\/example2\/colorbox.css":1,"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.accordion.css":1,"sites\/all\/modules\/contrib\/comment_notify\/comment_notify.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/logintoboggan\/logintoboggan.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/media\/modules\/media_wysiwyg\/css\/media_wysiwyg.base.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/libraries\/fancybox\/source\/jquery.fancybox.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/modules\/contrib\/typogrify\/typogrify.css":1,"sites\/all\/modules\/contrib\/pullquote\/css\/pullquote_style_3.css":1,"public:\/\/honeypot\/honeypot.css":1,"modules\/taxonomy\/taxonomy.css":1,"sites\/all\/libraries\/fontawesome\/css\/font-awesome.css":1,"https:\/\/fonts.googleapis.com\/css?family=Droid+Serif:400,400i,700,700i|Open+Sans:400":1,"sites\/all\/themes\/bitch\/system.menus.css":1,"sites\/all\/themes\/bitch\/system.messages.css":1,"sites\/all\/themes\/bitch\/system.theme.css":1,"sites\/all\/themes\/bitch\/css\/styles.css":1},"js":{"https:\/\/www.bitchmedia.org\/sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"https:\/\/www.bitchmedia.org\/sites\/all\/modules\/custom\/bitch_emma_helper\/js\/emma_colorbox_init.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.accordion.min.js":1,"misc\/states.js":1,"sites\/all\/modules\/contrib\/comment_notify\/comment_notify.js":1,"sites\/all\/modules\/contrib\/fancybox\/fancybox.js":1,"sites\/all\/libraries\/fancybox\/source\/jquery.fancybox.pack.js":1,"sites\/all\/libraries\/fancybox\/lib\/jquery.mousewheel.pack.js":1,"sites\/all\/modules\/springboard_modules\/market_source\/js\/jquery-cookie.js":1,"sites\/all\/modules\/springboard_modules\/market_source\/js\/market_source.js":1,"sites\/all\/modules\/custom\/bitch_chartbeat\/js\/chartbeat_head.js":1,"\/\/static.chartbeat.com\/js\/chartbeat_mab.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"sites\/all\/modules\/contrib\/google_analytics_et\/js\/google_analytics_et.js":1,"sites\/all\/modules\/contrib\/pullquote\/pullquote.js":1,"sites\/all\/themes\/bitch\/js\/script.js":1,"public:\/\/facebook_tracking_pixel\/fb_tkpx.1637779782946855.js":1}},"fancybox":[],"market_source":{"qs_keys":{"ms":{"value":null,"persistence":"on"},"cid":{"value":null,"persistence":"on"},"referrer":{"value":null,"persistence":"direct"},"initial_referrer":{"value":null,"persistence":"direct"},"search_engine":{"value":null,"persistence":"on"},"search_string":{"value":null,"persistence":"on"},"user_agent":{"value":null,"persistence":"on"}},"maxlength":255,"cookie_domain":"","cookie_path":"\/"},"springboard":{"cookie_path":"\/"},"urlIsAjaxTrusted":{"\/article\/male-rape-no-joke%E2%80%94-pop-culture-often-treats-it-way":true},"better_exposed_filters":{"views":{"article_categories":{"displays":{"block_1":{"filters":[]}}},"column_featured_image":{"displays":{"block_1":{"filters":[]}}},"column_author":{"displays":{"block":{"filters":[]}}},"related_content":{"displays":{"block_3":{"filters":[]}}},"prefooter_banner_ads":{"displays":{"block":{"filters":[]},"block_1":{"filters":[]}}}}},"states":{"#edit-first-name":{"visible":{":input[name=email_address]":{"filled":true}}},"#edit-last-name":{"visible":{":input[name=email_address]":{"filled":true}}},"#edit-zip":{"visible":{":input[name=email_address]":{"filled":true}}}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"googleAnalyticsETSettings":{"selectors":[{"event":"mousedown","selector":".region-preheader .block a","category":"Header CTAs","action":"Click","label":"Pre-header CTA link","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":".region-header-sales .cta_link","category":"Header CTAs","action":"Click","label":"Tout region CTA link","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":".region-header-sales .sales_last a","category":"Header CTAs","action":"Click","label":"Tout region image CTA","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#block-views-related-content-block-3 .views-row h3 a","category":"Read this next, pop-up","action":"Click","label":"!text","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#block-views-related-content-block-3 .views-row .views-field-field-teaser a","category":"Read this next, pop-up","action":"Click","label":"Clicked image","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#block-views-related-content-block-3 a.close_overlay","category":"Read this next, pop-up","action":"Click","label":"Closed overlay","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":".region-sidebar-floating .views-field-field-recirculation-title a","category":"Read this next, floating sidebar","action":"Click","label":"!text","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":".hamburger","category":"Hamburger toggle","action":"Click","label":"Opened hamburger","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#hamburger_menus .close","category":"Hamburger toggle","action":"Click","label":"Closed hamburger","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#hamburger_menus .menu-mlid-48963","category":"Navigation hamburger","action":"Click","label":"Sections \/ Culture \/ All Culture","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#hamburger_menus .menu-mlid-48964","category":"Navigation hamburger","action":"Click","label":"Sections \/ Culture \/ BitchReads","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#hamburger_menus .menu-mlid-871","category":"Navigation hamburger","action":"Click","label":"Sections \/ Culture \/ Books","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#hamburger_menus .menu-mlid-48991","category":"Navigation hamburger","action":"Click","label":"Sections \/ Culture \/ Internets","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#hamburger_menus .menu-mlid-49016","category":"Navigation hamburger","action":"Click","label":"Sections \/ Culture \/ Media","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#hamburger_menus .menu-mlid-874","category":"Navigation hamburger","action":"Click","label":"Sections \/ Culture \/ Music","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#hamburger_menus .menu-mlid-868","category":"Navigation hamburger","action":"Click","label":"Sections \/ Culture \/ Screen","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#hamburger_menus .menu-mlid-48967","category":"Navigation hamburger","action":"Click","label":"Sections \/ Health \/ All Health","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#hamburger_menus .menu-mlid-48968","category":"Navigation hamburger","action":"Click","label":"Sections \/ Health \/ Abortion","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#hamburger_menus .menu-mlid-48969","category":"Navigation hamburger","action":"Click","label":"Sections \/ Health \/ Body Image","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#hamburger_menus .menu-mlid-48970","category":"Navigation hamburger","action":"Click","label":"Sections \/ Health \/ Chronic Illness","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#hamburger_menus .menu-mlid-48971","category":"Navigation hamburger","action":"Click","label":"Sections \/ Health \/ Disability","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#hamburger_menus .menu-mlid-48972","category":"Navigation hamburger","action":"Click","label":"Sections \/ Health \/ Mental Health","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#hamburger_menus .menu-mlid-49003","category":"Navigation hamburger","action":"Click","label":"Sections \/ Health \/ Sex","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#hamburger_menus .menu-mlid-49007","category":"Navigation hamburger","action":"Click","label":"Sections \/ Life \/ All Life","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#hamburger_menus .menu-mlid-48976","category":"Navigation hamburger","action":"Click","label":"Sections \/ Life \/ Food","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#hamburger_menus .menu-mlid-48978","category":"Navigation hamburger","action":"Click","label":"Sections \/ Life \/ Parenting","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#hamburger_menus .menu-mlid-49013","category":"Navigation hamburger","action":"Click","label":"Sections \/ Life \/ Pregnancy","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#hamburger_menus .menu-mlid-49001","category":"Navigation hamburger","action":"Click","label":"Sections \/ Life \/ Relationships","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#hamburger_menus .menu-mlid-49002","category":"Navigation hamburger","action":"Click","label":"Sections \/ Life \/ Religion","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#hamburger_menus .menu-mlid-48979","category":"Navigation hamburger","action":"Click","label":"Sections \/ Podcasts \/ All Podcasts","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#hamburger_menus .menu-mlid-48980","category":"Navigation hamburger","action":"Click","label":"Sections \/ Podcasts \/ Backtalk","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#hamburger_menus .menu-mlid-48981","category":"Navigation hamburger","action":"Click","label":"Sections \/ Podcasts \/ Popaganda","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#hamburger_menus .menu-mlid-48982","category":"Navigation hamburger","action":"Click","label":"Sections \/ Politics \/ All Politics","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#hamburger_menus .menu-mlid-48983","category":"Navigation hamburger","action":"Click","label":"Sections \/ Politics \/ 2020 Election","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#hamburger_menus .menu-mlid-869","category":"Navigation hamburger","action":"Click","label":"Sections \/ Politics \/ Activism","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#hamburger_menus .menu-mlid-49017","category":"Navigation hamburger","action":"Click","label":"Sections \/ Politics \/ Education","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#hamburger_menus .menu-mlid-48977","category":"Navigation hamburger","action":"Click","label":"Sections \/ Politics \/ Labor","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#hamburger_menus .menu-mlid-48984","category":"Navigation hamburger","action":"Click","label":"Sections \/ Politics \/ Reproductive Rights","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#hamburger_menus .menu-mlid-48986","category":"Navigation hamburger","action":"Click","label":"Sections \/ Science \/ All Science","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#hamburger_menus .menu-mlid-48987","category":"Navigation hamburger","action":"Click","label":"Sections \/ Science \/ Climate Change","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#hamburger_menus .menu-mlid-49043","category":"Navigation hamburger","action":"Click","label":"Sections \/ Shop Bitchmart \/ Shop All","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#hamburger_menus .menu-mlid-918","category":"Navigation hamburger","action":"Click","label":"Sections \/ Shop Bitchmart \/ Subscribe","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#hamburger_menus .menu-mlid-49042","category":"Navigation hamburger","action":"Click","label":"Sections \/ Shop Bitchmart \/ Renew subscription","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#hamburger_menus .menu-mlid-49041","category":"Navigation hamburger","action":"Click","label":"Sections \/ Shop Bitchmart \/ Gift a subscription","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#hamburger_menus .menu-mlid-49051","category":"Navigation hamburger","action":"Click","label":"Sections \/ Shop Bitchmart \/ Become a member","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#hamburger_menus .menu-mlid-49052","category":"Navigation hamburger","action":"Click","label":"Sections \/ Shop Bitchmart \/ Gift a membership","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#hamburger_menus .menu-mlid-49048","category":"Navigation hamburger","action":"Click","label":"Sections \/ Shop Bitchmart \/ Donate","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#hamburger_menus .menu-mlid-49047","category":"Navigation hamburger","action":"Click","label":"Sections \/ Shop Bitchmart \/ Accessories","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#hamburger_menus .menu-mlid-49045","category":"Navigation hamburger","action":"Click","label":"Sections \/ Shop Bitchmart \/ Back Issues","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#hamburger_menus .menu-mlid-49044","category":"Navigation hamburger","action":"Click","label":"Sections \/ Shop Bitchmart \/ Books","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#hamburger_menus .menu-mlid-49046","category":"Navigation hamburger","action":"Click","label":"Sections \/ Shop Bitchmart \/ Digital Readers","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#block-menu-block-1 .menu-mlid-48963","category":"Navigation main-dropdown","action":"Click","label":"Sections \/ Culture \/ All Culture","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#block-menu-block-1 .menu-mlid-48964","category":"Navigation main-dropdown","action":"Click","label":"Sections \/ Culture \/ BitchReads","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#block-menu-block-1 .menu-mlid-871","category":"Navigation main-dropdown","action":"Click","label":"Sections \/ Culture \/ Books","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#block-menu-block-1 .menu-mlid-48991","category":"Navigation main-dropdown","action":"Click","label":"Sections \/ Culture \/ Internets","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#block-menu-block-1 .menu-mlid-49016","category":"Navigation main-dropdown","action":"Click","label":"Sections \/ Culture \/ Media","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#block-menu-block-1 .menu-mlid-874","category":"Navigation main-dropdown","action":"Click","label":"Sections \/ Culture \/ Music","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#block-menu-block-1 .menu-mlid-868","category":"Navigation main-dropdown","action":"Click","label":"Sections \/ Culture \/ Screen","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#block-menu-block-1 .menu-mlid-48967","category":"Navigation main-dropdown","action":"Click","label":"Sections \/ Health \/ All Health","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#block-menu-block-1 .menu-mlid-48968","category":"Navigation main-dropdown","action":"Click","label":"Sections \/ Health \/ Abortion","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#block-menu-block-1 .menu-mlid-48969","category":"Navigation main-dropdown","action":"Click","label":"Sections \/ Health \/ Body Image","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#block-menu-block-1 .menu-mlid-48970","category":"Navigation main-dropdown","action":"Click","label":"Sections \/ Health \/ Chronic Illness","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#block-menu-block-1 .menu-mlid-48971","category":"Navigation main-dropdown","action":"Click","label":"Sections \/ Health \/ Disability","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#block-menu-block-1 .menu-mlid-48972","category":"Navigation main-dropdown","action":"Click","label":"Sections \/ Health \/ Mental Health","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#block-menu-block-1 .menu-mlid-49003","category":"Navigation main-dropdown","action":"Click","label":"Sections \/ Health \/ Sex","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#block-menu-block-1 .menu-mlid-49007","category":"Navigation main-dropdown","action":"Click","label":"Sections \/ Life \/ All Life","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#block-menu-block-1 .menu-mlid-48976","category":"Navigation main-dropdown","action":"Click","label":"Sections \/ Life \/ Food","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#block-menu-block-1 .menu-mlid-48978","category":"Navigation main-dropdown","action":"Click","label":"Sections \/ Life \/ Parenting","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#block-menu-block-1 .menu-mlid-49013","category":"Navigation main-dropdown","action":"Click","label":"Sections \/ Life \/ Pregnancy","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#block-menu-block-1 .menu-mlid-49001","category":"Navigation main-dropdown","action":"Click","label":"Sections \/ Life \/ Relationships","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#block-menu-block-1 .menu-mlid-49002","category":"Navigation main-dropdown","action":"Click","label":"Sections \/ Life \/ Religion","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#block-menu-block-1 .menu-mlid-48979","category":"Navigation main-dropdown","action":"Click","label":"Sections \/ Podcasts \/ All Podcasts","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#block-menu-block-1 .menu-mlid-48980","category":"Navigation main-dropdown","action":"Click","label":"Sections \/ Podcasts \/ Backtalk","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#block-menu-block-1 .menu-mlid-48981","category":"Navigation main-dropdown","action":"Click","label":"Sections \/ Podcasts \/ Popaganda","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#block-menu-block-1 .menu-mlid-48982","category":"Navigation main-dropdown","action":"Click","label":"Sections \/ Politics \/ All Politics","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#block-menu-block-1 .menu-mlid-48983","category":"Navigation main-dropdown","action":"Click","label":"Sections \/ Politics \/ 2020 Election","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#block-menu-block-1 .menu-mlid-869","category":"Navigation main-dropdown","action":"Click","label":"Sections \/ Politics \/ Activism","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#block-menu-block-1 .menu-mlid-49017","category":"Navigation main-dropdown","action":"Click","label":"Sections \/ Politics \/ Education","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#block-menu-block-1 .menu-mlid-48977","category":"Navigation main-dropdown","action":"Click","label":"Sections \/ Politics \/ Labor","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#block-menu-block-1 .menu-mlid-48984","category":"Navigation main-dropdown","action":"Click","label":"Sections \/ Politics \/ Reproductive Rights","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#block-menu-block-1 .menu-mlid-48986","category":"Navigation main-dropdown","action":"Click","label":"Sections \/ Science \/ All Science","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#block-menu-block-1 .menu-mlid-48987","category":"Navigation main-dropdown","action":"Click","label":"Sections \/ Science \/ Climate Change","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#block-menu-block-1 .menu-mlid-49043","category":"Navigation main-dropdown","action":"Click","label":"Sections \/ Shop Bitchmart \/ Shop All","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#block-menu-block-1 .menu-mlid-918","category":"Navigation main-dropdown","action":"Click","label":"Sections \/ Shop Bitchmart \/ Subscribe","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#block-menu-block-1 .menu-mlid-49042","category":"Navigation main-dropdown","action":"Click","label":"Sections \/ Shop Bitchmart \/ Renew subscription","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#block-menu-block-1 .menu-mlid-49041","category":"Navigation main-dropdown","action":"Click","label":"Sections \/ Shop Bitchmart \/ Gift a subscription","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#block-menu-block-1 .menu-mlid-49051","category":"Navigation main-dropdown","action":"Click","label":"Sections \/ Shop Bitchmart \/ Become a member","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#block-menu-block-1 .menu-mlid-49052","category":"Navigation main-dropdown","action":"Click","label":"Sections \/ Shop Bitchmart \/ Gift a membership","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#block-menu-block-1 .menu-mlid-49048","category":"Navigation main-dropdown","action":"Click","label":"Sections \/ Shop Bitchmart \/ Donate","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#block-menu-block-1 .menu-mlid-49047","category":"Navigation main-dropdown","action":"Click","label":"Sections \/ Shop Bitchmart \/ Accessories","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#block-menu-block-1 .menu-mlid-49045","category":"Navigation main-dropdown","action":"Click","label":"Sections \/ Shop Bitchmart \/ Back Issues","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#block-menu-block-1 .menu-mlid-49044","category":"Navigation main-dropdown","action":"Click","label":"Sections \/ Shop Bitchmart \/ Books","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#block-menu-block-1 .menu-mlid-49046","category":"Navigation main-dropdown","action":"Click","label":"Sections \/ Shop Bitchmart \/ Digital Readers","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#hamburger_menus .menu-mlid-49014","category":"About hamburger","action":"Click","label":"About \/ Become a Member","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#hamburger_menus .menu-mlid-10220","category":"About hamburger","action":"Click","label":"About \/ About Us","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#hamburger_menus .menu-mlid-10218","category":"About hamburger","action":"Click","label":"About \/ Contact Us","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#hamburger_menus .menu-mlid-49018","category":"About hamburger","action":"Click","label":"About \/ On Our Radar","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#block-menu-block-menu-block-footer .menu-mlid-961","category":"Footer","action":"Click","label":"About \/ Who We Are","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#block-menu-block-menu-block-footer .menu-mlid-9697","category":"Footer","action":"Click","label":"About \/ Contact Us","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#block-menu-block-menu-block-footer .menu-mlid-9699","category":"Footer","action":"Click","label":"About \/ Our Staff","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#block-menu-block-menu-block-footer .menu-mlid-35428","category":"Footer","action":"Click","label":"About \/ Board of Directors","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#block-menu-block-menu-block-footer .menu-mlid-9700","category":"Footer","action":"Click","label":"About \/ Contributors\u0027 Guidelines","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#block-menu-block-menu-block-footer .menu-mlid-9696","category":"Footer","action":"Click","label":"About \/ Get Email Updates","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#block-menu-block-menu-block-footer .menu-mlid-49012","category":"Footer","action":"Click","label":"Support \/ Become a Member","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#block-menu-block-menu-block-footer .menu-mlid-9705","category":"Footer","action":"Click","label":"Support \/ Donate","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#block-menu-block-menu-block-footer .menu-mlid-48999","category":"Footer","action":"Click","label":"Support \/ Shop the BitchMart","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#block-menu-block-menu-block-footer .menu-mlid-48998","category":"Footer","action":"Click","label":"Support \/ Gift a Membership","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#block-menu-block-menu-block-footer .menu-mlid-35429","category":"Footer","action":"Click","label":"Bitch Magazine \/ Subscribe","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#block-menu-block-menu-block-footer .menu-mlid-49053","category":"Footer","action":"Click","label":"Bitch Magazine \/ Renew subscription","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#block-menu-block-menu-block-footer .menu-mlid-48995","category":"Footer","action":"Click","label":"Bitch Magazine \/ Gift a Subscription","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#block-menu-block-menu-block-footer .menu-mlid-41447","category":"Footer","action":"Click","label":"Bitch Magazine \/ Find Bitch Magazine On Newsstands","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#block-menu-block-menu-block-footer .menu-mlid-9707","category":"Footer","action":"Click","label":"Bitch Magazine \/ Back Issues","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#block-menu-block-menu-block-footer .menu-mlid-10160","category":"Footer","action":"Click","label":"Bitch Magazine \/ Change of Address","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#block-menu-block-menu-block-footer .menu-mlid-49004","category":"Footer","action":"Click","label":"Bitch Magazine \/ FAQ","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#block-menu-block-menu-block-footer .menu-mlid-49006","category":"Footer","action":"Click","label":"More \/ Writing Fellowship","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#block-menu-block-menu-block-footer .menu-mlid-9703","category":"Footer","action":"Click","label":"More \/ Bitch on Campus","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#block-menu-block-menu-block-footer .menu-mlid-9702","category":"Footer","action":"Click","label":"More \/ Ads and Sponsorship","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#block-menu-block-menu-block-footer .menu-mlid-10205","category":"Footer","action":"Click","label":"More \/ Jobs and Internships","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#block-menu-block-menu-block-footer .menu-mlid-10260","category":"BitchMart Footer","action":"Click","label":"Subscribe","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#block-menu-block-menu-block-footer .menu-mlid-10261","category":"BitchMart Footer","action":"Click","label":"Become a member","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#block-menu-block-menu-block-footer .menu-mlid-10262","category":"BitchMart Footer","action":"Click","label":"Donate","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#block-menu-block-menu-block-footer .menu-mlid-10263","category":"BitchMart Footer","action":"Click","label":"Back Issues","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#block-menu-block-menu-block-footer .menu-mlid-10264","category":"BitchMart Footer","action":"Click","label":"Books","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#block-menu-block-menu-block-footer .menu-mlid-10265","category":"BitchMart Footer","action":"Click","label":"Drinkware","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#block-menu-block-menu-block-footer .menu-mlid-10266","category":"BitchMart Footer","action":"Click","label":"Arts \u0026 Cards","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#block-menu-block-menu-block-footer .menu-mlid-10268","category":"BitchMart Footer","action":"Click","label":"Store policies","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#block-menu-block-menu-block-footer .menu-mlid-47955","category":"BitchMart Footer","action":"Click","label":"Order FAQ","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#block-menu-block-menu-block-footer .menu-mlid-47954","category":"BitchMart Footer","action":"Click","label":"Change of Address","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#block-menu-block-menu-block-footer .menu-mlid-10269","category":"BitchMart Footer","action":"Click","label":"Contact Us","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#bitch-emma-helper-simple-subscribe-form .form-submit","category":"Email list","action":"Sign-up","label":"Simple subscribe form","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#bitch-emma-helper-sidebar-subscribe-form .form-submit","category":"Email list","action":"Sign-up","label":"Sidebar subscribe form","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#bitch-emma-helper-homepage-subscribe-form .form-submit","category":"Email list","action":"Sign-up","label":"Homepage form","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#bitch-emma-helper-full-subscribe-form .form-submit","category":"Email list","action":"Sign-up","label":"Full form (email list options)","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#bitch-emma-helper-free-issue-subscribe-form .form-submit","category":"Email list","action":"Sign-up","label":"Free-issue form","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#bitch-emma-helper-bitchreads-giveaway-subscribe-form .form-submit","category":"Email list","action":"Sign-up","label":"BitchReads Giveaway form","value":0,"noninteraction":true,"options":[]},{"event":"mousedown","selector":"#bitch-emma-helper-on-our-radar-subscribe-form .form-submit","category":"Email list","action":"Sign-up","label":"On Our Radar form","value":0,"noninteraction":true,"options":[]}],"settings":[]}});</script>
+  
+  <!-- Typekit Embed Code -->
+  <link rel="stylesheet" href="https://use.typekit.net/uee3kai.css">
+  
+      <!--[if lt IE 9]>
+    <script src="/sites/all/themes/zen/js/html5-respond.js"></script>
+    <![endif]-->
+    
+  <script>
+    var _prum = [['id', '5a0dc80d53eca659447b23c6'],
+                 ['mark', 'firstbyte', (new Date()).getTime()]];
+    (function() {
+        var s = document.getElementsByTagName('script')[0]
+          , p = document.createElement('script');
+        p.async = 'async';
+        p.src = '//rum-static.pingdom.net/prum.min.js';
+        s.parentNode.insertBefore(p, s);
+    })();
+  </script>
+  
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-20581 node-type-article section-article" >
+      <p id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </p>
+      
+<div id="page" class="page is_article">
+  
+    
+  <header class="header" id="header" role="banner">
+    <a class="hamburger"><img class="hamburger_icon" src="/sites/all/themes/bitch/images/hamburger1.png"></a>
+          <a href="/" title="Bitch Media" rel="home" class="header__logo" id="logo"><img src="https://www.bitchmedia.org/sites/default/files/logo_1.png" alt="Bitch Media" class="header__logo-image" /></a>
+        
+    <div id="hamburger_menus">
+      <div class="inner">
+        <a class="close"><img src="/sites/all/themes/bitch/images/hamburger-close2.png"></a>
+          <div id="block-menu-block-menu-block-main-menu-off-canvas-" class="block block-menu-block first odd" role="navigation">
+    <div class="menu-block-wrapper menu-block-menu_block_main_menu_off_canvas_ menu-name-main-menu parent-mlid-48962 menu-level-1">
+  <ul class="menu"><li class="menu__item is-expanded first expanded menu-mlid-872"><a href="/culture" title="" class="menu__link">Culture</a><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-48963"><a href="/culture" title="" class="menu__link">All Culture</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-48964"><a href="/topic/bitchreads" title="" class="menu__link">BitchReads</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-871"><a href="/books" title="" class="menu__link">Books</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-48991"><a href="/topic/internets" title="" class="menu__link">Internets</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-49016"><a href="/topic/media" title="" class="menu__link">Media</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-874"><a href="/music" title="" class="menu__link">Music</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-868"><a href="/screen" title="" class="menu__link">Screen</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded menu-mlid-48966"><a href="/topic/health" title="" class="menu__link">Health</a><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-48967"><a href="/topic/health" title="" class="menu__link">All Health</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-48968"><a href="/topic/abortion" title="" class="menu__link">Abortion</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-48969"><a href="/topic/body-image" title="" class="menu__link">Body Image</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-48970"><a href="/topic/chronic-illness" title="" class="menu__link">Chronic Illness</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-48971"><a href="/topic/disability" title="" class="menu__link">Disability</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-48972"><a href="/topic/mental-health" title="" class="menu__link">Mental Health</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-49003"><a href="/topic/sex" title="" class="menu__link">Sex</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded menu-mlid-48974"><a href="/life" title="" class="menu__link">Life</a><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-49007"><a href="/life" title="" class="menu__link">All Life</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-48976"><a href="/topic/food" title="" class="menu__link">Food</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-48978"><a href="/topic/parenting" title="" class="menu__link">Parenting</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-49013"><a href="https://www.bitchmedia.org/topic/pregnancy" title="" class="menu__link">Pregnancy</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-49001"><a href="/topic/relationships" title="Relationships" class="menu__link">Relationships</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-49002"><a href="/topic/religion" title="" class="menu__link">Religion</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded menu-mlid-919"><a href="/feminist-podcasts" title="" class="menu__link">Podcasts</a><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-48979"><a href="/feminist-podcasts" title="" class="menu__link">All Podcasts</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-48980"><a href="/taxonomy/term/835/" title="" class="menu__link">Backtalk</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-48981"><a href="/feminist-podcasts/popaganda" title="" class="menu__link">Popaganda</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded menu-mlid-875"><a href="/politics" title="" class="menu__link">Politics</a><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-48982"><a href="/politics" title="" class="menu__link">All Politics</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-48983"><a href="/topic/2020-election" title="" class="menu__link">2020 Election</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-869"><a href="/activism" title="" class="menu__link">Activism</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-49017"><a href="/topic/education" title="" class="menu__link">Education</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-48977"><a href="/topic/labor" title="" class="menu__link">Labor</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-48984"><a href="/topic/reproductive-rights" title="" class="menu__link">Reproductive Rights</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded menu-mlid-48985"><a href="/topic/science" title="" class="menu__link">Science</a><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-48986"><a href="/topic/science" title="" class="menu__link">All Science</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-48987"><a href="/topic/climate-change" title="" class="menu__link">Climate Change</a></li>
+</ul></li>
+<li class="menu__item is-expanded last expanded menu-mlid-49015"><a href="https://www.bitchmedia.org/bmart" title="" class="menu__link">Shop Bitchmart</a><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-49043"><a href="/bmart" title="" class="menu__link">Shop All</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-918"><a href="/subscribe/new" class="menu__link">Subscribe</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-49042"><a href="/renew" class="menu__link">Renew subscription</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-49041"><a href="/subscribe/gift" class="menu__link">Gift a subscription</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-49051"><a href="/join/rage/1" class="menu__link">Become a member</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-49052"><a href="/join/rage/gift" title="" class="menu__link">Gift a membership</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-49048"><a href="/donate" class="menu__link">Donate</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-49047"><a href="/bmart/accessories" title="" class="menu__link">Accessories</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-49045"><a href="/bmart/back-issues" title="" class="menu__link">Back Issues</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-49044"><a href="/bmart/books" title="" class="menu__link">Books</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-49046"><a href="/bmart/digital-readers" title="" class="menu__link">Digital Readers</a></li>
+</ul></li>
+</ul></div>
+</div>
+<div id="block-bitch-blocks-secondary-search" class="block block-bitch-blocks even">
+
+      
+  <form action="/article/male-rape-no-joke%E2%80%94-pop-culture-often-treats-it-way" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-BB5v68Y5zwnUGlrZfhm7Ze87Ft3qQOLQUAsPSuB1YJw" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>
+</div>
+<div id="block-menu-block-menu-block-about-menu" class="block block-menu-block odd" role="navigation">
+    <div class="menu-block-wrapper menu-block-menu_block_about_menu menu-name-main-menu parent-mlid-9695 menu-level-1">
+  <ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-49014"><a href="https://www.bitchmedia.org/rage" title="" class="menu__link">Become a Member</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-10220"><a href="/about-us" title="" class="menu__link">About Us</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-10218"><a href="/contact" class="menu__link">Contact Us</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-49018"><a href="/topic/our-radar" title="" class="menu__link">On Our Radar</a></li>
+</ul></div>
+</div>
+<div id="block-bitch-emailmarketing-emailmarketing-hamburger" class="block block-bitch-emailmarketing even">
+
+      
+  <form class="bitch_emailmarketing placeholder_label" action="/article/male-rape-no-joke%E2%80%94-pop-culture-often-treats-it-way" method="post" id="bitch-emailmarketing-hamburger-subscribe-form" accept-charset="UTF-8"><div><input type="hidden" name="list_id" value="4" />
+<input type="hidden" name="origin" value="Emma, hamburger sign-up form" />
+<div class="form-item form-type-textfield form-item-email-address">
+  <label for="edit-email-address">Email address <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-email-address" name="email_address" value="" size="40" maxlength="128" class="form-text required" />
+</div>
+<input type="hidden" name="honeypot_time" value="1573553850|Duj0wbQ9U6D7oMeNW3Y7ZKUlpP4jLq042dsZgtu46cs" />
+<div class="submit"><input type="submit" id="edit-submit--2" name="op" value="Sign Up For Our Newsletter" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-0jqn9zcRnuGW-kRVbua8yUPXuszMd7RCnSsr8vYWkuQ" />
+<input type="hidden" name="form_id" value="bitch_emailmarketing_hamburger_subscribe_form" />
+<div class="homepage-textfield"><div class="form-item form-type-textfield form-item-homepage">
+  <label for="edit-homepage">Leave this field blank </label>
+ <input autocomplete="off" type="text" id="edit-homepage" name="homepage" value="" size="20" maxlength="128" class="form-text" />
+</div>
+</div></div></form>
+</div>
+<div id="block-bean-site-social-media" class="block block-bean odd">
+
+      
+  
+
+<div  class="entity entity-bean bean-site-social-media-block clearfix" about="/block/site-social-media" typeof="">
+  <div class="content">
+    <div class="field field-name-field-site-social-media field-type-social-media-link field-label-hidden"><a href="https://twitter.com/bitchmedia" target="_blank" onClick="_gaq.push(['_trackEvent', 'Organization Social Media Referal', 'Header/Footer Click', 'Twitter']);">
+<div class="field field-name-field-social-media-reference field-type-entityreference field-label-hidden">
+  
+    
+            
+<div class="field field-name-field-service-icon field-type-icon-field field-label-hidden">
+  
+    
+            <i class="fa fa-twitter" aria-hidden="true"></i>      </div>
+<span property="rdfs:label skos:prefLabel" content="Twitter" class="rdf-meta element-hidden"></span>      </div>
+</a></div><div class="field field-name-field-site-social-media field-type-social-media-link field-label-hidden"><a href="https://www.facebook.com/pages/Bitch-Media/20954259668" target="_blank" onClick="_gaq.push(['_trackEvent', 'Organization Social Media Referal', 'Header/Footer Click', 'Facebook']);">
+<div class="field field-name-field-social-media-reference field-type-entityreference field-label-hidden">
+  
+    
+            
+<div class="field field-name-field-service-icon field-type-icon-field field-label-hidden">
+  
+    
+            <i class="fa fa-facebook" aria-hidden="true"></i>      </div>
+<span property="rdfs:label skos:prefLabel" content="Facebook" class="rdf-meta element-hidden"></span>      </div>
+</a></div><div class="field field-name-field-site-social-media field-type-social-media-link field-label-hidden"><a href="http://instagram.com/bitchmedia" target="_blank" onClick="_gaq.push(['_trackEvent', 'Organization Social Media Referal', 'Header/Footer Click', 'Instagram']);">
+<div class="field field-name-field-social-media-reference field-type-entityreference field-label-hidden">
+  
+    
+            
+<div class="field field-name-field-service-icon field-type-icon-field field-label-hidden">
+  
+    
+            <i class="fa fa-instagram" aria-hidden="true"></i>      </div>
+<span property="rdfs:label skos:prefLabel" content="Instagram" class="rdf-meta element-hidden"></span>      </div>
+</a></div><div class="field field-name-field-site-social-media field-type-social-media-link field-label-hidden"><a href="http://bitch-media.tumblr.com/" target="_blank" onClick="_gaq.push(['_trackEvent', 'Organization Social Media Referal', 'Header/Footer Click', 'Tumblr']);">
+<div class="field field-name-field-social-media-reference field-type-entityreference field-label-hidden">
+  
+    
+            
+<div class="field field-name-field-service-icon field-type-icon-field field-label-hidden">
+  
+    
+            <i class="fa fa-tumblr" aria-hidden="true"></i>      </div>
+<span property="rdfs:label skos:prefLabel" content="Tumblr" class="rdf-meta element-hidden"></span>      </div>
+</a></div>  </div>
+</div>
+
+</div>
+<div id="block-block-17" class="block block-block last even">
+
+      
+  <p>Already a member? <a href="/user/login">Log in</a></p>
+
+</div>
+      </div>
+    </div>
+      <div class="region region-header-sales">
+    <div id="block-bitch-blocks-header-sales" class="block block-bitch-blocks first last odd">
+
+      
+  <div class="sales_first"><a href="/rage"><img src="https://www.bitchmedia.org/sites/default/files/header_sales/85_homepage_tout_2_text_0.png"></a><p><a href="/user/login">Log in</a>&nbsp;&nbsp;<a href="/rage" class="cta_link">Join The Rage</a></p></div><div class="sales_last"><a href="/rage"><img src="https://www.bitchmedia.org/sites/default/files/header_sales/85_homepage_tout_thumbnail_0.png"></a></div>
+</div>
+  </div>
+  </header>
+  
+    <div id="navigation">
+      <div class="region region-navigation">
+    <a class="search_icon" href="#"><img src="/sites/all/themes/bitch/images/search_icon1.png"></a>
+    <div id="block-menu-block-1" class="block block-menu-block first odd" role="navigation">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-48962 menu-level-1">
+  <ul class="menu"><li class="menu__item is-expanded first expanded menu-mlid-872"><a href="/culture" title="" class="menu__link">Culture</a><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-48963"><a href="/culture" title="" class="menu__link">All Culture</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-48964"><a href="/topic/bitchreads" title="" class="menu__link">BitchReads</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-871"><a href="/books" title="" class="menu__link">Books</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-48991"><a href="/topic/internets" title="" class="menu__link">Internets</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-49016"><a href="/topic/media" title="" class="menu__link">Media</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-874"><a href="/music" title="" class="menu__link">Music</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-868"><a href="/screen" title="" class="menu__link">Screen</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded menu-mlid-48966"><a href="/topic/health" title="" class="menu__link">Health</a><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-48967"><a href="/topic/health" title="" class="menu__link">All Health</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-48968"><a href="/topic/abortion" title="" class="menu__link">Abortion</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-48969"><a href="/topic/body-image" title="" class="menu__link">Body Image</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-48970"><a href="/topic/chronic-illness" title="" class="menu__link">Chronic Illness</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-48971"><a href="/topic/disability" title="" class="menu__link">Disability</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-48972"><a href="/topic/mental-health" title="" class="menu__link">Mental Health</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-49003"><a href="/topic/sex" title="" class="menu__link">Sex</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded menu-mlid-48974"><a href="/life" title="" class="menu__link">Life</a><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-49007"><a href="/life" title="" class="menu__link">All Life</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-48976"><a href="/topic/food" title="" class="menu__link">Food</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-48978"><a href="/topic/parenting" title="" class="menu__link">Parenting</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-49013"><a href="https://www.bitchmedia.org/topic/pregnancy" title="" class="menu__link">Pregnancy</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-49001"><a href="/topic/relationships" title="Relationships" class="menu__link">Relationships</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-49002"><a href="/topic/religion" title="" class="menu__link">Religion</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded menu-mlid-919"><a href="/feminist-podcasts" title="" class="menu__link">Podcasts</a><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-48979"><a href="/feminist-podcasts" title="" class="menu__link">All Podcasts</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-48980"><a href="/taxonomy/term/835/" title="" class="menu__link">Backtalk</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-48981"><a href="/feminist-podcasts/popaganda" title="" class="menu__link">Popaganda</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded menu-mlid-875"><a href="/politics" title="" class="menu__link">Politics</a><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-48982"><a href="/politics" title="" class="menu__link">All Politics</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-48983"><a href="/topic/2020-election" title="" class="menu__link">2020 Election</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-869"><a href="/activism" title="" class="menu__link">Activism</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-49017"><a href="/topic/education" title="" class="menu__link">Education</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-48977"><a href="/topic/labor" title="" class="menu__link">Labor</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-48984"><a href="/topic/reproductive-rights" title="" class="menu__link">Reproductive Rights</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded menu-mlid-48985"><a href="/topic/science" title="" class="menu__link">Science</a><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-48986"><a href="/topic/science" title="" class="menu__link">All Science</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-48987"><a href="/topic/climate-change" title="" class="menu__link">Climate Change</a></li>
+</ul></li>
+<li class="menu__item is-expanded last expanded menu-mlid-49015"><a href="https://www.bitchmedia.org/bmart" title="" class="menu__link">Shop Bitchmart</a><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-49043"><a href="/bmart" title="" class="menu__link">Shop All</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-918"><a href="/subscribe/new" class="menu__link">Subscribe</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-49042"><a href="/renew" class="menu__link">Renew subscription</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-49041"><a href="/subscribe/gift" class="menu__link">Gift a subscription</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-49051"><a href="/join/rage/1" class="menu__link">Become a member</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-49052"><a href="/join/rage/gift" title="" class="menu__link">Gift a membership</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-49048"><a href="/donate" class="menu__link">Donate</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-49047"><a href="/bmart/accessories" title="" class="menu__link">Accessories</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-49045"><a href="/bmart/back-issues" title="" class="menu__link">Back Issues</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-49044"><a href="/bmart/books" title="" class="menu__link">Books</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-49046"><a href="/bmart/digital-readers" title="" class="menu__link">Digital Readers</a></li>
+</ul></li>
+</ul></div>
+</div>
+<div id="block-search-form" class="block block-search last even" role="search">
+
+      
+  <form action="/article/male-rape-no-joke%E2%80%94-pop-culture-often-treats-it-way" method="post" id="search-block-form--2" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--4">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--4" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions--2"><input type="submit" id="edit-submit--3" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-iCA7emVjwnBQ7BiwjZ7--hXLtjwxTfFNKW6sF8qr09I" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>
+</div>
+  </div>
+  </div>
+  
+  <div id="main">
+    
+    <div id="messages_tabs_area">
+                </div>
+    
+    
+    <div id="content" class="column" role="main">
+      
+            
+      <div class="content-inner">
+        <a id="main-content"></a>
+        
+                  <div id="content-top">
+              <div class="region region-content-top">
+    <div id="block-views-article-categories-block-1" class="block block-views first last odd">
+
+      
+  <div class="view view-article-categories view-id-article_categories view-display-id-block_1 view-dom-id-8737f7893ee92a555e464221bda8ba37">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-nothing brick">        <a href="/culture">Culture</a><a href="/feminism-101">Feminism 101</a><a href="/topic/masculinity">masculinity</a><a href="/topic/rape-1">rape</a>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</div>
+  </div>
+          </div>
+                
+                          <h1 class="page__title title" id="page-title">Male Rape is No Joke—But Pop Culture Often Treats It That Way</h1>
+                                                  
+<div id="block-bitch-blocks-article-byline" class="block block-bitch-blocks first odd">
+
+      
+  <div class="gray-byline"><div class="author">by <a href="/profile/mika-doyle">Mika Doyle</a></div><div class="post-date">Published on April 30, 2019 at 10:00am</div></div>
+</div>
+<div id="block-views-column-featured-image-block-1" class="block block-views even">
+
+      
+  <div class="view view-column-featured-image view-id-column_featured_image view-display-id-block_1 view-dom-id-fb6c62dd506d25fbe3312897d6cd58df">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-featured-image-external featured-image">        <img typeof="foaf:Image" src="https://www.bitchmedia.org/sites/default/files/article-images/Sam%20Heughan%20as%20Jamie%20Fraser%20in%20Outlander%20main%20image.jpeg" alt="a white man with red hair stares intensely at the camera" title="Sam Heughan as Jamie Fraser in Outlander" /><p style="text-align: center;"><span style="font-size:12px;"><em>Sam Heughan as Jamie Fraser in </em>Outlander<em> (Photo credit: Aimee Spinks)</em></span></p>
+  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</div>
+
+
+<article class="node-20581 node node-article view-mode-full clearfix" about="/article/male-rape-no-joke%E2%80%94-pop-culture-often-treats-it-way" typeof="schema:Article sioc:Item foaf:Document">
+  
+      <header>
+                  <span property="dc:title" content="Male Rape is No Joke—But Pop Culture Often Treats It That Way" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="2" datatype="xsd:integer" class="rdf-meta element-hidden"></span>            
+      
+          </header>
+    
+  
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
+  
+    
+            <p dir="ltr"><em><strong>This story was originally published on June 9, 2016.</strong></em></p>
+<p dir="ltr"><em>Content warning: This article includes graphic descriptions of sexual assaults seen in TV and films.&nbsp;</em></p>
+<p dir="ltr"><span id="docs-internal-guid-37b989fc-366d-d4ee-f449-2e6e6e1b08cf">In the 2002 comedy </span><em>40 Days and 40 Nights</em>, Matt Sullivan (Josh Hartnett) decides to abstain from having sex for Lent. He, of course, meets the “girl of his dreams” during his period of abstinence, so toward the end of his sexual fast, he handcuffs himself to his bed to ensure he won’t break his promise. But his ex-girlfriend has made a bet that he’ll fail. So while he’s handcuffed, she climbs on top of him and forces him to penetrate her.&nbsp;<span id="docs-internal-guid-37b989fc-366d-d4ee-f449-2e6e6e1b08cf">This is rape. But it’s not called that in the movie; instead, it’s portrayed as Matt “cheating.” He winds up apologizing to his dream girl for the incident—meaning he has to apologize for being raped. This is all supposed to be funny.</span>&nbsp;Rape is not a punch line. It’s a horrific, dehumanizing experience that can have a lasting impact on the victim. So why is it that when we see men being raped on TV and in movies, it’s often played for laughs?&nbsp;</p>
+<p dir="ltr"><span id="docs-internal-guid-37b989fc-366d-d4ee-f449-2e6e6e1b08cf">Toxic masculinity would have us believe that the idea of a male rape victim is absurd. Rare, even. Men are supposed to be hungry for sex always—so they can’t be raped. Men should be strong enough to fight off attackers—so they can’t be raped. Both of those myths, rooted in traditional concepts of masculinity, contribute to a culture in which male rape is dismissed, ignored, and </span><a href="http://www.svfreenyc.org/survivors_factsheet_38.html" target="_blank">woefully underreported</a>. The tragic and dangerous idea that male rape is a joke comes through loud and clear in our pop culture. When men are sexually assaulted in TV and films, the assaults are often not named for what they are, and the characters are portrayed quickly picking up and moving on. They are stoic dudes who exact swift, violent revenge and then have no lasting trauma.</p>
+<p dir="ltr"><span id="docs-internal-guid-37b989fc-366d-d4ee-f449-2e6e6e1b08cf">The most recognizable example of this is the 1972 movie </span><em>Deliverance</em> starring Burt Reynolds and Jon Voight. Even if you haven’t seen the movie, chances are you’re familiar with jokes about the famous banjo music and the lines “squeal like a pig” and “he’s got a real pretty mouth.” These rape jokes are inspired by an extremely disturbing scene in the movie in which two of the men (Jon Voight as Ed and Ned Beatty as Bobby) are forced into the forest at gunpoint by two locals. The locals tie Ed’s own belt around his neck and restrain him to a tree. They force Bobby to strip naked, and then one of the men yanks Bobby’s ear and tells him to “squeal like a piggy.” The man then rapes Bobby violently in front of Ed. The two locals then turn to Ed and are about to rape him orally when Lewis (Burt Reynolds) finds them and shoots one of the attackers with an arrow.</p>
+<p dir="ltr"><span id="docs-internal-guid-37b989fc-366d-d4ee-f449-2e6e6e1b08cf">So, yes, those are rape jokes. But they’ve become cultural catchphrases. The most common is “I’m gonna make you squeal like a pig,” which is sometimes used as a way of saying “I’m going to make this a really unpleasant experience for you,” but is most often just used to joke about male rape, much like how <a href="https://www.bitchmedia.org/article/prison-rape-not-punchline" target="_blank">male prison rape</a> has become a popular joke. The same goes for “if you hear banjo music, paddle faster.” The classist (and classless) implication here is: Rural denizens are going to rape you if you let them catch you, so you’d better paddle your canoe as fast as you can before they get you. There are so many problems with this, not the least of which is the exacerbation of the rape culture myth that rapists are scary, dark figures, when, most often, they are actually people victims know. This catchphrase can still be found on T-shirts and bumper stickers as if rape is so funny, it needs to be advertised. </span></p>
+<p dir="ltr">Really funny, right? A lot of people seem to think so:</p>
+<p dir="ltr"><img height="706" width="992" typeof="foaf:Image" src="https://www.bitchmedia.org/sites/default/files/Screen%20Shot%202016-06-09%20at%2011.48.59%20AM.png" alt="" /></p>
+<p dir="ltr" style="text-align: center;"><img height="6" width="595" typeof="foaf:Image" src="https://www.bitchmedia.org/sites/default/files/Screen%20Shot%202016-06-09%20at%2011.48.35%20AM.png" alt="" /><img height="188" width="619" typeof="foaf:Image" src="https://www.bitchmedia.org/sites/default/files/deliverance%20tweet.png" alt="" /></p>
+<p dir="ltr" style="text-align:center"><img height="517" width="913" typeof="foaf:Image" src="https://www.bitchmedia.org/sites/default/files/Screen%20Shot%202016-06-09%20at%2011.44.16%20AM.png" alt="" /></p>
+<p dir="ltr"><span id="docs-internal-guid-37b989fc-366d-d4ee-f449-2e6e6e1b08cf">If you’re struggling to see the problem with these jokes, imagine the protagonists in<em> </em></span><em>Deliverance </em>as women. Still funny?&nbsp;<span id="docs-internal-guid-37b989fc-366d-d4ee-f449-2e6e6e1b08cf">Aside from Bobby’s insistence that he doesn’t want it “gettin’ around,” </span><em>Deliverance</em> does not address the impact of this brutal rape on Bobby. The core conflict of this movie is the group’s decision not to report the incident to the police but to cover it up themselves. They literally bury Bobby’s rape by burying the body of his rapist. It’s a complex, interesting movie that has been turned into one of the biggest rape punch lines in the history of media. Rather than see Bobby as the victim he is, audiences see Bobby and his “hillbilly” rapist as a funny, classist cautionary tale.</p>
+<p dir="ltr">Perhaps it’s this very notoriety that motivates today’s TV- and movie-makers to use male rape victims for shock value. Quentin Tarantino borrowed from <em>Deliverance </em>in his iconic 1994 film <em>Pulp Fiction</em>. The film includes a scene in which mob boss Marsellus Wallace (played by Ving Rhames) and boxer Butch Coolidge (played by Bruce Willis) are kidnapped by pawn shop owner Maynard (Duane Whitaker), his cousin Zed (Peter Greene), and their leather-clad servant, the Gimp (Stephen Hibbert). Coolidge and Wallace are ball-gagged and tied to chairs, and through a game of eenie-meenie-miney-mo, Zed chooses Wallace as the first to be raped anally in the next room.&nbsp;<span id="docs-internal-guid-37b989fc-366d-d4ee-f449-2e6e6e1b08cf">“Part of the fun of </span><em>Pulp</em>,” Tarantino said in a<a href="http://www.rollingstone.com/movies/news/get-the-gimp-breaking-down-pulp-fictions-most-notorious-scene-20140521" target="_blank"> 2014 interview with <em>Rolling Stone</em></a>, “is that if you’re hip to movies, you’re watching the boxing movie <em>Body and Soul </em>and then suddenly the characters turn a corner and they’re in the middle of <em>Deliverance</em>. And you’re like, ‘What? How did I get into <em>Deliverance</em>? I was in <em>Body and Soul</em>, what’s going on here?”</p>
+<p dir="ltr"><span id="docs-internal-guid-37b989fc-366d-d4ee-f449-2e6e6e1b08cf">The scene doesn’t do much for the plot, either. It provides Coolidge with a way to pay off his debt to Wallace (Coolidge gets free and saves Wallace from the rapists), eliminating the character’s major conflict. However, this could have been achieved in any number of ways—ways that didn’t need to include a </span><em>Deliverance</em>-inspired rape scene that is remembered only for its shock value, not the severe trauma the character in the scene suffers. Trauma, by the way, that is flippantly addressed when Wallace tells Coolidge, “I’m pretty fucking far from okay.” Wallace deals with his rape the way we expect him to: with extreme violence against his rapist. After all, the effects of trauma can be mitigated with revenge, right?</p>
+<p dir="ltr"><span id="docs-internal-guid-37b989fc-366d-d4ee-f449-2e6e6e1b08cf">While not inspired by </span>Deliverance directly, the season premiere of <em>American Horror Story: Hotel</em> takes this same kind of shock value tactic to an even darker level. In what cocreator Ryan Murphy <a href="http://www.refinery29.com/2015/10/95403/american-horror-story-hotel-rape-scene" target="_blank">called “the most disturbing scene we’ve ever done,”</a> Max Greenfield’s junkie character is raped brutally with a conical dildo resembling a drill bit. While Murphy maintains that the rape scene is a metaphor for the character’s heroin addiction, <a href="http://www.refinery29.com/2015/10/95403/american-horror-story-hotel-rape-scene" target="_blank"><em>Vanity Fair</em> critic Richard Lawson saw the punch line differently</a>:</p>
+<p dir="ltr" style="text-align:center"><img height="150" width="598" typeof="foaf:Image" src="https://www.bitchmedia.org/sites/default/files/Screen%20Shot%202016-06-09%20at%2011.25.55%20AM.png" alt="" /></p>
+<p>Greenfield’s character appears to die, then comes back to life, but the violence itself is not addressed at all in this episode. All the viewer gets is a gratuitous rape scene with no explanation of its relevance to the plot. Unfortunately, this rape scene was just one part of a gore-fest episode that was full of violence but completely devoid of plot. Like the rest of the violence in the episode, the rape scene was only there to shock and titillate.&nbsp;</p>
+<p><span id="docs-internal-guid-37b989fc-366d-d4ee-f449-2e6e6e1b08cf">The depiction of male rape victims takes a truly frightening turn in comedies. Rape of men is frequently played for laughs, often making a violent act unrecognizable as rape to the audience. In the 2005 film </span><em>Wedding Crashers</em>, Gloria Cleary (Isla Fisher) ties Jeremy Grey (Vince Vaughn) to a bed while he’s sleeping. When he wakes up, she stifles his protests by gagging him with a sock so she can finish what Jeremy later describes as a “midnight rape.”</p>
+<p>Being raped obviously wasn’t all that traumatic for Jeremy, though, because he ends up falling in love with Gloria and marrying her. Huh.&nbsp;A similarly disturbing scene happens in <a href="http://bitchmedia.org/post/what-happened-on-%E2%80%9Cthe-mindy-project%E2%80%9D-this-week-was-not-okay" target="_blank">Season 2&nbsp;of <em>The Mindy Project</em></a>, when Mindy (Mindy Kaling) drops off the blackout-drunk Dr. Paul Leotard (James Franco) at his apartment. Mindy kisses him, and he reacts by yelling, “Woah, neighbors!,” so Mindy covers his mouth and tells him, “Nothing happened. You liked it.” As if that isn’t rapey enough, Christina (Chloe Sevigny), the ex-wife of Mindy’s coworker Danny, shows up after Mindy leaves and rapes the blackout-drunk Dr. Leotard. Yet who pays the consequences for the rape? Dr. Leotard, who ends up quitting his job. If Dr. Leotard had been a woman, this would have been a clear depiction of a sexual predator taking advantage of someone incapable of consent. Unfortunately, because Dr. Leotard is a man, the scene is played for laughs as a man’s supposed uncontrollable desire for sex getting the better of him.</p>
+<p dir="ltr"><span id="docs-internal-guid-37b989fc-366d-d4ee-f449-2e6e6e1b08cf">As a sexual assault survivor, watching these scenes made me feel depressed and, honestly, really disheartened about the state of rape culture.<strong> </strong></span><em>Deliverance </em>in particular made me so angry. I had never watched it until I decided to write this article, and I discovered there’s nothing funny about what happens in <em>Deliverance.</em>&nbsp;In fact, it’s pretty damn hard to watch. Now when I think about those<em> Deliverance </em>jokes, all I can think about is how these people are making jokes out of someone else’s pain and suffering. Seriously, Tarantino, is the shock value really worth it if it means making a mockery out of sexual violence? The most coherent thought I could get out while watching those shock value scenes was “why, why, why, why?” I definitely cannot find anything funny about my own rape, and I’ll be damned if I laugh at someone else’s.</p>
+<p dir="ltr"><span id="docs-internal-guid-37b989fc-366d-d4ee-f449-2e6e6e1b08cf">Some films and TV shows have treated male rape with seriousness, but they don’t get it totally right either. In the 1994 film </span><em>The Shawshank Redemption</em>, Andy Dufresne (Tim Robbins) is beaten and raped repeatedly by a group of men called the Sisters. Red (Morgan Freeman) comments through narration that if “it” (he never uses the word “rape”) had continued, prison would’ve gotten the best of Andy, but Andy himself never appears fazed by the violence. This depiction of rape would have been more accurate if the film portrayed the massive trauma sexual assault victims experience. Once the rapes end in <em>The Shawshank Redemption</em>, there are no further mentions of them in the movie, and Andy goes on as if nothing had ever happened. After all, men are strong enough to simply shrug off the trauma of rape, right? This film would have been stronger in its portrayal of rape if it had shown how the trauma of the assaults doesn’t just disappear.</p>
+<p dir="ltr"><span id="docs-internal-guid-37b989fc-366d-d4ee-f449-2e6e6e1b08cf">The 1998 film<em> </em></span><em>American History X </em>offers a similarly realistic portrayal of prison rape but minimal depiction of its aftermath. Derek Vinyard (Edward Norton) is attacked in the shower by a group of skinheads. The group restrains Derek while the leader rapes him. When he’s done, the leader smashes Derek’s head into the shower wall. As the camera pans away from his motionless body, we see blood flowing out from beneath him and down the shower drain. Later, Derek is shown in the prison infirmary lying on his stomach. When his former history teacher, Dr. Bob Sweeney (Avery Brooks), visits him, he breaks down and cries. This is what the world needs to see: a man reacting emotionally to being raped. The scene is incredibly powerful. But the movie could have taken it even further. Rather than depict the two characters discussing Derek’s emotional state as a result of being raped, the characters quickly move on to how Derek can help his younger brother. Ultimately, Derek is just another stoic man who doesn’t need help recovering from sexual violence.<span style="font-size:14px;">.</span></p>
+<p dir="ltr"><span id="docs-internal-guid-37b989fc-366d-d4ee-f449-2e6e6e1b08cf">It’s clear the media has a history of treating male rape victims with a serious lack of validation and compassion, exacerbating a culture that is already quick to deny a rape victim’s story regardless of where that person falls on the gender spectrum. In order to create more awareness of the true severity of rape culture’s effect on victims, we need to see more depictions of male rape victims like we see in season one of </span><em>Outlander</em>. The show takes two episodes to show how “Black Jack” Randall (Tobias Menzies) <a href="http://www.thedailybeast.com/articles/2015/06/07/outlander-s-male-rape-survivor-sam-heughan-on-jamie-s-controversial-scene-and-season-2.html" target="_blank">rapes and psychologically and physically tortures Jamie Fraser</a> (Sam Heughan) in an English prison. What separates <em>Outlander </em>from other TV shows and movies is that it shows Jamie getting an erection and ejaculating during the rape, physical responses that are completely normal during rape. After Jamie is rescued, he doesn’t just magically recover and move on with his life; he becomes suicidal, refusing to eat and attempting to gain access to a knife. Here we see that when men are raped, it is often a complex experience that has a severe and lasting impact on the victim. Jamie cries. He admits feeling shame and worthlessness. He reacts to being raped.</p>
+<p dir="ltr"><span id="docs-internal-guid-37b989fc-366d-d4ee-f449-2e6e6e1b08cf">Perhaps if Bobby reacted to being raped as Jamie did, it would’ve been harder to turn </span><em>Deliverance</em> into the punch line that is perpetuated to this day. If TV shows and movies continue to portray male rape as “no big deal” or even something to laugh about, rape victims of all genders will continue to be met with skepticism, denial, and even flat out derision. And that’s definitely no laughing matter.</p>
+      </div>
+<span property="dc:title" content="Male Rape is No Joke—But Pop Culture Often Treats It That Way" class="rdf-meta element-hidden"></span>
+    
+  <div class="view view-column-author view-id-column_author view-display-id-entity_view_1 view-dom-id-cf23bc9bf166ae8cb290330c013b916b">
+      
+  
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-profile-photo">        <div class="field-content"><a href="/profile/mika-doyle"><img typeof="foaf:Image" src="https://www.bitchmedia.org/sites/default/files/styles/120x120_square_thumb/public/images/profile_photos/Mika%20Headshots-RAW-0096_0.jpg?itok=0kGjJs1S" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-field-user-name">        <div class="narrow-border"></div>
+<div class="brandon uppercase">by Mika Doyle</div>
+<a href="/user/108252">View profile &raquo;</a>  </div>  
+  <div class="views-field views-field-field-micro-bio">        <p>Mika Doyle writes about gender, rape culture, trauma, sex and relationships. She&#8217;s a sexual assault survivor, yoga newbie and coffee addict. She&#8217;s also (not at all abnormally) obsessed with puppies. Follow her on twitter <a href="https://twitter.com/mikadoyle" target="_blank">@mikadoyle</a>.</p>
+  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div> <form class="bitch_emma_helper simple_form placeholder_label" action="/article/male-rape-no-joke%E2%80%94-pop-culture-often-treats-it-way" method="post" id="bitch-emma-helper-simple-subscribe-form" accept-charset="UTF-8"><div><p class="emma-block-copy">Get Bitch Media's top 9 reads of the week delivered to your inbox every Saturday morning! Sign up for the Weekly Reader:</p><input type="hidden" name="list_id" value="4" />
+<input type="hidden" name="origin" value="Emma, simple article form" />
+<div class="form-item form-type-textfield form-item-simple-email-address">
+  <label for="edit-simple-email-address">Email <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-simple-email-address" name="simple_email_address" value="" size="40" maxlength="128" class="form-text required" />
+</div>
+<input type="hidden" name="honeypot_time" value="1573553850|Duj0wbQ9U6D7oMeNW3Y7ZKUlpP4jLq042dsZgtu46cs" />
+<input type="submit" id="edit-submit--7" name="op" value="Go!" class="form-submit" /><input type="hidden" name="form_build_id" value="form-0Obpxo6do6XC2M0ga87Ac5brN6FbbYWXANC0sR9JgHE" />
+<input type="hidden" name="form_id" value="bitch_emma_helper_simple_subscribe_form" />
+<div class="homepage-textfield"><div class="form-item form-type-textfield form-item-homepage">
+  <label for="edit-homepage--5">Leave this field blank </label>
+ <input autocomplete="off" type="text" id="edit-homepage--5" name="homepage" value="" size="20" maxlength="128" class="form-text" />
+</div>
+</div></div></form>
+  <section id="comments" class="comments comment-wrapper comment-wrapper-nid-20581">
+  
+            <h2 class="comments__title title">2 Comments Have Been Posted</h2>      
+        
+  <div id="comments-inner">
+    <a id="comment-58696"></a>
+<article class="comment comment-by-anonymous ajax-comment-wrapper comment-wrapper-58696 first odd clearfix" about="/comment/58696#comment-58696" typeof="sioc:Post sioct:Comment">
+
+  <header>
+              <h3 property="dc:title" datatype="" class="comment__title comment-title">
+        There was a TV show called              </h3>
+        
+    <p class="submitted">
+      <span property="dc:date dc:created" content="2016-09-29T03:09:26-07:00" datatype="xsd:dateTime" rel="sioc:has_creator"><span class="username" xml:lang="" typeof="sioc:UserAccount" property="foaf:name" datatype="">ollyjenks</span> replied on <time pubdate datetime="2016-09-29T03:09:26-07:00">Thu, 09/29/2016 - 3:09am</time></span>    </p>
+
+      </header>
+
+  <span rel="sioc:reply_of" resource="/article/male-rape-no-joke%E2%80%94-pop-culture-often-treats-it-way" class="rdf-meta element-hidden"></span>
+<div class="field field-name-comment-body field-type-text-long field-label-hidden">
+  
+    
+            <p>There was a TV show called Hollyoaks and that was the first show in the UK to depict male rape and horrible consequences. It dealt with it surprisingly well for a rubbish soap opera.<br />
+Also I&#039;d like to defend AHX and Tarantino slightly. In AHX we are specifically dealing with power and issues of masculinity. He is a flawed character, a symbol of masculinity that has been deliberately broken, but part of his core is not showing weakness. So him crying was all the scene needed - a rape was never instantly going to turn him into an emotionally articulate person bc that&#039;s not his character. He was never going to open up - the closest he can get to opening up is crying in front of one person in hospital. The change this effects is part of his growing as an emotional character, and rejecting his previous life, but that is a slow process and in the film we only see the beginning of it. The rape is the beginning of him changing his entire way of life, and that was never going to be wrapped up in a few seconds of screen time.<br />
+Also RE: Tarantino you are absolutely right about shock factor, but it&#039;s important to look at depictions of rape in the context of exploitation movies. Classic depictions of rape in Hollywood are much more worrying, for example when they use soft lighting, music, shots of fragmented body parts and clever camera work, they are making the rape scene much more like pornography. That worries me, and while films like I Spit on Your Grave, Angel of Vengeance, Last House or Irreversible seem horrible and cheap they actually offer a much more accurate depiction of rape. They depict it as an ordeal and not something that is shot in the same style as a titillating sex scene.<br />
+So directors like Tarantino may seem to be throwing things in for no reason, or just for shock value, but they actually come from a long line of much more socially aware films and filmmakers, and their depiction is actually vastly different to that of something more mainstream.</p>
+      </div>
+
+  
+  </article>
+<a id="comment-58893"></a>
+<article class="comment comment-by-anonymous ajax-comment-wrapper comment-wrapper-58893 last even clearfix" about="/comment/58893#comment-58893" typeof="sioc:Post sioct:Comment">
+
+  <header>
+              <h3 property="dc:title" datatype="" class="comment__title comment-title">
+        Male rape              </h3>
+        
+    <p class="submitted">
+      <span property="dc:date dc:created" content="2016-11-20T21:03:20-08:00" datatype="xsd:dateTime" rel="sioc:has_creator"><span class="username" xml:lang="" typeof="sioc:UserAccount" property="foaf:name" datatype="">Rob</span> replied on <time pubdate datetime="2016-11-20T21:03:20-08:00">Sun, 11/20/2016 - 9:03pm</time></span>    </p>
+
+      </header>
+
+  <span rel="sioc:reply_of" resource="/article/male-rape-no-joke%E2%80%94-pop-culture-often-treats-it-way" class="rdf-meta element-hidden"></span>
+<div class="field field-name-comment-body field-type-text-long field-label-hidden">
+  
+    
+            <p>Thank you for writing this. 40 days and nights disappointed me in 20+ female friends, family, &amp; wife, as they were unable to identify rape.<br />
+I am a survivor and one of our friends was also raped by a gf (she didn&#039;t use physical violence, which messes him up even more and made it utterly unreportable), just before the film was released.<br />
+As we discussed the scene, we expected people to understand and agree with us that the character shouldn&#039;t apologize.<br />
+We were met with blank stares, denial that it was rape, and anger (because his actions lead to whatever happened and hurt the woman he loved, of course, splitting up, her anger at him, and an apology were expected...)</p>
+      </div>
+
+  
+  </article>
+
+      </div>
+</section>
+
+</article><div id="block-bitch-blocks-article-share" class="block block-bitch-blocks last even">
+
+      
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.bitchmedia.org%2Farticle%2Fmale-rape-no-joke%E2%80%94-pop-culture-often-treats-it-way" target="_blank" title="Share on Facebook" class="share facebook first"><img src="/sites/all/modules/custom/bitch_blocks/images/icon-facebook.png" alt="Share on Facebook"></a><a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.bitchmedia.org%2Farticle%2Fmale-rape-no-joke%E2%80%94-pop-culture-often-treats-it-way" target="_blank" title="Tweet this Article" class="share twitter"><img src="/sites/all/modules/custom/bitch_blocks/images/icon-tweet.png" alt="Tweet this Article"></a><a target="_blank" href="/printmail/article/male-rape-no-joke—-pop-culture-often-treats-it-way" title="E-mail this Article" class="share email last"><img src="/sites/all/modules/custom/bitch_blocks/images/icon-mail.png" alt="E-mail this Article"></a>
+</div>
+              </div>
+    </div><!-- Content -->
+    
+    
+    
+        
+        
+            <section class="region region-sidebar-first column sidebar">
+    <div id="block-bitch-emma-helper-emma-helper-sidebar" class="block block-bitch-emma-helper first last odd">
+
+      
+  <form class="bitch_emma_helper placeholder_label" action="/article/male-rape-no-joke%E2%80%94-pop-culture-often-treats-it-way" method="post" id="bitch-emma-helper-sidebar-subscribe-form" accept-charset="UTF-8"><div><p class="emma-block-copy">Get award-winning feminist analysis straight to your inbox: Sign up for our Weekly Reader!</p><input type="hidden" name="list_id" value="4" />
+<input type="hidden" name="origin" value="Emma, sidebar form" />
+<div class="form-item form-type-textfield form-item-email-address">
+  <label for="edit-email-address--2">Email <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-email-address--2" name="email_address" value="" size="40" maxlength="128" class="form-text required" />
+</div>
+<div class="form-item form-type-textfield form-item-first-name">
+  <label for="edit-first-name">First name </label>
+ <input type="text" id="edit-first-name" name="first_name" value="" size="40" maxlength="32" class="form-text" />
+</div>
+<div class="form-item form-type-textfield form-item-last-name">
+  <label for="edit-last-name">Last name </label>
+ <input type="text" id="edit-last-name" name="last_name" value="" size="40" maxlength="32" class="form-text" />
+</div>
+<div class="form-item form-type-textfield form-item-zip">
+  <label for="edit-zip">Zip Code </label>
+ <input type="text" id="edit-zip" name="zip" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<input type="hidden" name="honeypot_time" value="1573553850|Duj0wbQ9U6D7oMeNW3Y7ZKUlpP4jLq042dsZgtu46cs" />
+<input type="submit" id="edit-submit--4" name="op" value="Go!" class="form-submit" /><input type="hidden" name="form_build_id" value="form-d3PP7Egge0euDNfFpuGZaY1p8V-kC-xbcqpclTXakik" />
+<input type="hidden" name="form_id" value="bitch_emma_helper_sidebar_subscribe_form" />
+<div class="homepage-textfield"><div class="form-item form-type-textfield form-item-homepage">
+  <label for="edit-homepage--2">Leave this field blank </label>
+ <input autocomplete="off" type="text" id="edit-homepage--2" name="homepage" value="" size="20" maxlength="128" class="form-text" />
+</div>
+</div></div></form>
+</div>
+  </section>
+              
+        
+  </div><!-- Main -->
+  
+    <div id="prefooter" class="clearfix">
+      <div class="region region-prefooter">
+    <div id="block-views-related-content-block-3" class="block block-views first odd">
+
+      
+  <div class="view view-related-content view-id-related_content view-display-id-block_3 view-dom-id-ad62fb88da3a0f93530fb82109602e4e">
+            <div class="view-header">
+      <p><a href="#" class="close_overlay">Close</a></p>
+    </div>
+  
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last stacked">
+      
+  <h3 class="views-field views-field-field-recirculation-title">        <a href="/article/prison-rape-not-punchline"><strong>Relevant:</strong> Prison Rape Is Not a Punch Line</a>  </h3>  
+  <div class="views-field views-field-field-teaser">        <div class="featured-image left"><a href="/article/prison-rape-not-punchline"><img typeof="foaf:Image" src="https://www.bitchmedia.org/sites/default/files/styles/article_list_image/public/16124252410_ab8dd23acc_k.jpg?itok=IOaYGD4u" alt="a black and white photo of prison walls" title="a stock image of a prison" /></a></div>
+<div class="gray-byline">by Mirah Curzer
+<div class="post-date">April 30, 2019</div></div>
+<div class="teaser">How often have you heard someone chuckle about “dropping the soap”? </div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</div>
+<div id="block-views-prefooter-banner-ads-block" class="block block-views even">
+
+        <h2 class="block__title block-title">Thanks to our Sponsors</h2>
+    
+  <div class="view view-prefooter-banner-ads view-id-prefooter_banner_ads view-display-id-block view-dom-id-a91334b5f71f6f6fd6c94c70073b9c12">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-field-ad-image">        <div class="field-content"><a href="http://bit.ly/shebopweb" target="_blank"><img typeof="foaf:Image" src="https://www.bitchmedia.org/sites/default/files/banner-ads/shebop_1.gif" alt="" /></a></div>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-field-ad-image">        <div class="field-content"><a href="http://bit.ly/LunaPads052019" target="_blank"><img typeof="foaf:Image" src="https://www.bitchmedia.org/sites/default/files/banner-ads/Lunapads_web_080615.gif" alt="" /></a></div>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-field-ad-image">        <div class="field-content"><a href="https://gladrags.com/collections/menstrual-cups" target="_blank"><img typeof="foaf:Image" src="https://www.bitchmedia.org/sites/default/files/banner-ads/GladRagsXOflo.gif" alt="GladRags" /></a></div>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even views-row-last">
+      
+  <div class="views-field views-field-field-ad-image">        <div class="field-content"><a href="http://bit.ly/CngrtyWrks2016" target="_blank"><img typeof="foaf:Image" src="https://www.bitchmedia.org/sites/default/files/banner-ads/cw-ad-new.jpg" alt="" /></a></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</div>
+<div id="block-views-prefooter-banner-ads-block-1" class="block block-views last odd">
+
+      
+  <div class="view view-prefooter-banner-ads view-id-prefooter_banner_ads view-display-id-block_1 view-dom-id-dbbd9adbf68856c4c2b693bdd702c61d">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://www.sinninginla.com/" target="_blank">Sinning in LA</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="https://vibratorvixen.com/" target="_blank">Vibrator Vixen</a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://sextoycollective.com/" target="_blank">Sex Toy Collective</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</div>
+  </div>
+  </div>
+  
+</div>
+
+
+<footer id="bottom">
+  <div class="inner">
+      <div class="region region-bottom-first">
+    <div id="block-menu-block-menu-block-footer" class="block block-menu-block first last odd" role="navigation">
+    <div class="menu-block-wrapper menu-block-menu_block_footer menu-name-menu-footer-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="menu__item is-expanded first expanded menu-mlid-48992"><span title="" class="menu__link nolink">About</span><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-961"><a href="/about-us" title="" class="menu__link">Who We Are</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-9697"><a href="/contact" class="menu__link">Contact Us</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-9699"><a href="/staff" title="" class="menu__link">Our Staff</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-35428"><a href="/b-word-board-of-directors" title="Board of Directors page" class="menu__link">Board of Directors</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-9700"><a href="/writers-guidelines" class="menu__link">Contributors&#039; Guidelines</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-9696"><a href="/email/signup" class="menu__link">Get Email Updates</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded menu-mlid-48996"><span title="" class="menu__link nolink">Support</span><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-49012"><a href="https://www.bitchmedia.org/rage" title="" class="menu__link">Become a Member</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-9705"><a href="/donate" title="" class="menu__link">Donate</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-48999"><a href="/bmart" title="" class="menu__link">Shop the BitchMart</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-48998"><a href="/join/rage/gift" title="" class="menu__link">Gift a Membership</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded menu-mlid-48994"><span title="" class="menu__link nolink">Bitch Magazine</span><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-35429"><a href="/subscribe/new" title="Subscribe to Bitch magazine" class="menu__link">Subscribe</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-49053"><a href="/renew" title="" class="menu__link">Renew subscription</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-48995"><a href="/subscribe/gift" title="" class="menu__link">Gift a Subscription</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-41447"><a href="/where-find-bitch-magazine" title="Find Bitch magazine on a newsstand near you." class="menu__link">Find Bitch Magazine On Newsstands</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-9707"><a href="/bmart/back-issues" title="" class="menu__link">Back Issues</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-10160"><a href="/change-of-address-request" class="menu__link">Change of Address</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-49004"><a href="/customer-service" title="" class="menu__link">FAQ</a></li>
+</ul></li>
+<li class="menu__item is-expanded last expanded menu-mlid-48993"><span title="" class="menu__link nolink">More</span><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-49006"><a href="/article/announcing-bitch-media-fellowships-writers/2020" title="" class="menu__link">Writing Fellowship</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-9703"><a href="/bitch-on-campus" class="menu__link">Bitch on Campus</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-9702"><a href="/sponsorship" class="menu__link">Ads and Sponsorship</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-10205"><a href="/jobs-and-internships" class="menu__link">Jobs and Internships</a></li>
+</ul></li>
+</ul></div>
+</div>
+  </div>
+      <div class="region region-bottom-second">
+    <div id="block-block-18" class="block block-block first odd">
+
+      
+  <p><img typeof="foaf:Image" src="https://www.bitchmedia.org/sites/default/files/logo-footer1.png" alt="" width="562" height="175" /></p>
+
+</div>
+<div id="block-bitch-emailmarketing-emailmarketing-footer" class="block block-bitch-emailmarketing even">
+
+      
+  <form class="bitch_emailmarketing placeholder_label" action="/article/male-rape-no-joke%E2%80%94-pop-culture-often-treats-it-way" method="post" id="bitch-emailmarketing-footer-subscribe-form" accept-charset="UTF-8"><div><input type="hidden" name="list_id" value="4" />
+<input type="hidden" name="origin" value="Emma, footer sign-up form" />
+<div class="form-item form-type-textfield form-item-email-address">
+  <label for="edit-email-address--3">Email address <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-email-address--3" name="email_address" value="" size="40" maxlength="128" class="form-text required" />
+</div>
+<input type="hidden" name="honeypot_time" value="1573553850|Duj0wbQ9U6D7oMeNW3Y7ZKUlpP4jLq042dsZgtu46cs" />
+<div class="submit"><input type="submit" id="edit-submit--5" name="op" value="Sign Up For Our Newsletter" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-41c6O0qkmoRftJiyUq-QZQhBpSNxEEieNNJlgmROcHs" />
+<input type="hidden" name="form_id" value="bitch_emailmarketing_footer_subscribe_form" />
+<div class="homepage-textfield"><div class="form-item form-type-textfield form-item-homepage">
+  <label for="edit-homepage--3">Leave this field blank </label>
+ <input autocomplete="off" type="text" id="edit-homepage--3" name="homepage" value="" size="20" maxlength="128" class="form-text" />
+</div>
+</div></div></form>
+</div>
+<div id="block-bean-social-media-footer-block" class="block block-bean odd">
+
+      
+  
+
+<div  class="entity entity-bean bean-site-social-media-block clearfix" about="/block/social-media-footer-block" typeof="">
+  <div class="content">
+    <div class="field field-name-field-site-social-media field-type-social-media-link field-label-hidden"><a href="https://twitter.com/bitchmedia" target="_blank" onClick="_gaq.push(['_trackEvent', 'Organization Social Media Referal', 'Header/Footer Click', 'Twitter']);">
+<div class="field field-name-field-social-media-reference field-type-entityreference field-label-hidden">
+  
+    
+            
+<div class="field field-name-field-service-icon field-type-icon-field field-label-hidden">
+  
+    
+            <i class="fa fa-twitter" aria-hidden="true"></i>      </div>
+<span property="rdfs:label skos:prefLabel" content="Twitter" class="rdf-meta element-hidden"></span>      </div>
+</a></div><div class="field field-name-field-site-social-media field-type-social-media-link field-label-hidden"><a href="https://www.facebook.com/pages/Bitch-Media/20954259668" target="_blank" onClick="_gaq.push(['_trackEvent', 'Organization Social Media Referal', 'Header/Footer Click', 'Facebook']);">
+<div class="field field-name-field-social-media-reference field-type-entityreference field-label-hidden">
+  
+    
+            
+<div class="field field-name-field-service-icon field-type-icon-field field-label-hidden">
+  
+    
+            <i class="fa fa-facebook" aria-hidden="true"></i>      </div>
+<span property="rdfs:label skos:prefLabel" content="Facebook" class="rdf-meta element-hidden"></span>      </div>
+</a></div><div class="field field-name-field-site-social-media field-type-social-media-link field-label-hidden"><a href="http://instagram.com/bitchmedia" target="_blank" onClick="_gaq.push(['_trackEvent', 'Organization Social Media Referal', 'Header/Footer Click', 'Instagram']);">
+<div class="field field-name-field-social-media-reference field-type-entityreference field-label-hidden">
+  
+    
+            
+<div class="field field-name-field-service-icon field-type-icon-field field-label-hidden">
+  
+    
+            <i class="fa fa-instagram" aria-hidden="true"></i>      </div>
+<span property="rdfs:label skos:prefLabel" content="Instagram" class="rdf-meta element-hidden"></span>      </div>
+</a></div><div class="field field-name-field-site-social-media field-type-social-media-link field-label-hidden"><a href="http://bitch-media.tumblr.com/" target="_blank" onClick="_gaq.push(['_trackEvent', 'Organization Social Media Referal', 'Header/Footer Click', 'Tumblr']);">
+<div class="field field-name-field-social-media-reference field-type-entityreference field-label-hidden">
+  
+    
+            
+<div class="field field-name-field-service-icon field-type-icon-field field-label-hidden">
+  
+    
+            <i class="fa fa-tumblr" aria-hidden="true"></i>      </div>
+<span property="rdfs:label skos:prefLabel" content="Tumblr" class="rdf-meta element-hidden"></span>      </div>
+</a></div>  </div>
+</div>
+
+</div>
+<div id="block-bitch-blocks-footer-copyright" class="block block-bitch-blocks even">
+
+      
+  &copy; 2019 Bitch Media | <a target="_blank" href="/BitchMart-store-policies#privacysecurity">Privacy Policy</a>
+</div>
+<div id="block-bitch-emma-helper-emma-helper-popup" class="block block-bitch-emma-helper last odd">
+
+      
+  <img id="display_image" src="https://www.bitchmedia.org/sites/all/themes/bitch/images/overlay/GeekingOut_hero4.jpg" /><form class="bitch_emma_helper placeholder_label bitch_popup" action="/article/male-rape-no-joke%E2%80%94-pop-culture-often-treats-it-way" method="post" id="bitch-emma-helper-popup-subscribe-form" accept-charset="UTF-8"><div><h2 class="emma-block-header">Sign up for the Weekly Reader!</h2><p class="emma-block-copy">Get snappy feminist news & analysis straight from Bitch to your inbox: Sign up for our Weekly Reader! (Also, get <strong>20 percent off</strong> <em>Bitch</em> magazine!)
+</p><input type="hidden" name="list_id" value="4" />
+<input type="hidden" name="origin" value="Emma, pop-up email list form" />
+<div class="form-item form-type-textfield form-item-first-name">
+  <label for="edit-first-name--2">First name </label>
+ <input type="text" id="edit-first-name--2" name="first_name" value="" size="40" maxlength="32" class="form-text" />
+</div>
+<div class="form-item form-type-textfield form-item-last-name">
+  <label for="edit-last-name--2">Last name </label>
+ <input type="text" id="edit-last-name--2" name="last_name" value="" size="40" maxlength="32" class="form-text" />
+</div>
+<div class="form-item form-type-textfield form-item-email-address">
+  <label for="edit-email-address--4">Email <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-email-address--4" name="email_address" value="" size="40" maxlength="128" class="form-text required" />
+</div>
+<div class="form-item form-type-textfield form-item-zip">
+  <label for="edit-zip--2">Zip Code </label>
+ <input type="text" id="edit-zip--2" name="zip" value="" size="20" maxlength="128" class="form-text" />
+</div>
+<input type="hidden" name="honeypot_time" value="1573553850|Duj0wbQ9U6D7oMeNW3Y7ZKUlpP4jLq042dsZgtu46cs" />
+<input type="submit" id="edit-submit--6" name="op" value="Go!" class="form-submit" /><input type="hidden" name="form_build_id" value="form-oeWjsGl5sCr80EifZT-7jnd78a_fWpA8JcKDmOUzgTE" />
+<input type="hidden" name="form_id" value="bitch_emma_helper_popup_subscribe_form" />
+<div class="homepage-textfield"><div class="form-item form-type-textfield form-item-homepage">
+  <label for="edit-homepage--4">Leave this field blank </label>
+ <input autocomplete="off" type="text" id="edit-homepage--4" name="homepage" value="" size="20" maxlength="128" class="form-text" />
+</div>
+</div></div></form>
+</div>
+  </div>
+  </div>
+</footer>
+  <script src="https://www.bitchmedia.org/sites/all/libraries/colorbox/jquery.colorbox-min.js?q0unq4"></script>
+<script src="https://www.bitchmedia.org/sites/all/modules/custom/bitch_emma_helper/js/emma_colorbox_init.js?q0unq4"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"168c43df34","applicationID":"109028254","transactionName":"b1JXYEJSD0RTBhBbCVYYdFdEWg5ZHQsLVgNnR1RTVWwXXlcS","queueTime":0,"applicationTime":715,"atts":"QxVUFgpIHEo=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

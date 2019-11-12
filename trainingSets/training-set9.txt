@@ -1,0 +1,735 @@
+
+<!DOCTYPE html><!-- HTML 5 -->
+<html lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://www.westernfrontonline.com/xmlrpc.php" />
+
+
+<!-- MapPress Easy Google Maps Version:2.53.3 (http://www.mappresspro.com/mappress) -->
+<script type='text/javascript'>mapp = window.mapp || {}; mapp.data = [];</script>
+<title>Frontline: Administration needs to stop readmitting perpetrators of sexual assault &ndash; The Western Front</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v12.4 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1"/>
+<link rel="canonical" href="http://www.westernfrontonline.com/2017/07/06/frontline-administration-needs-to-stop-readmitting-perpetrators-of-sexual-assault/" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="By Suzanna Leung &nbsp; Content warning: This article contains references to sexual assault Former Western student Isaac Holloway was arrested and charged with third-degree rape in Kitsap County last March in connection with an assault that took place in August 2016. He then plead down to fourth-degree assault [...]" />
+<meta name="twitter:title" content="Frontline: Administration needs to stop readmitting perpetrators of sexual assault &ndash; The Western Front" />
+<meta name="twitter:site" content="@TheFrontOnline" />
+<meta name="twitter:image" content="http://www.westernfrontonline.com/wp-content/uploads/2017/07/opinion-drawing.png" />
+<meta name="twitter:creator" content="@TheFrontOnline" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"http://www.westernfrontonline.com/#organization","name":"The Western Front","url":"http://www.westernfrontonline.com/","sameAs":["https://www.facebook.com/westernfrontonline/","https://www.instagram.com/thefrontonline/","https://www.youtube.com/user/westernfrontonline","https://twitter.com/TheFrontOnline"],"logo":{"@type":"ImageObject","@id":"http://www.westernfrontonline.com/#logo","url":"http://www.westernfrontonline.com/wp-content/uploads/2018/01/cropped-Logo-with-shade-of-Western-blue-2.png","width":512,"height":512,"caption":"The Western Front"},"image":{"@id":"http://www.westernfrontonline.com/#logo"}},{"@type":"WebSite","@id":"http://www.westernfrontonline.com/#website","url":"http://www.westernfrontonline.com/","name":"The Western Front","publisher":{"@id":"http://www.westernfrontonline.com/#organization"},"potentialAction":{"@type":"SearchAction","target":"http://www.westernfrontonline.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"ImageObject","@id":"http://www.westernfrontonline.com/2017/07/06/frontline-administration-needs-to-stop-readmitting-perpetrators-of-sexual-assault/#primaryimage","url":"http://www.westernfrontonline.com/wp-content/uploads/2017/07/opinion-drawing.png","width":2022,"height":1314},{"@type":"WebPage","@id":"http://www.westernfrontonline.com/2017/07/06/frontline-administration-needs-to-stop-readmitting-perpetrators-of-sexual-assault/#webpage","url":"http://www.westernfrontonline.com/2017/07/06/frontline-administration-needs-to-stop-readmitting-perpetrators-of-sexual-assault/","inLanguage":"en-US","name":"Frontline: Administration needs to stop readmitting perpetrators of sexual assault &ndash; The Western Front","isPartOf":{"@id":"http://www.westernfrontonline.com/#website"},"primaryImageOfPage":{"@id":"http://www.westernfrontonline.com/2017/07/06/frontline-administration-needs-to-stop-readmitting-perpetrators-of-sexual-assault/#primaryimage"},"datePublished":"2017-07-06T19:45:38+00:00","dateModified":"2017-11-30T21:32:43+00:00"},{"@type":"Article","@id":"http://www.westernfrontonline.com/2017/07/06/frontline-administration-needs-to-stop-readmitting-perpetrators-of-sexual-assault/#article","isPartOf":{"@id":"http://www.westernfrontonline.com/2017/07/06/frontline-administration-needs-to-stop-readmitting-perpetrators-of-sexual-assault/#webpage"},"author":{"@id":"http://www.westernfrontonline.com/#/schema/person/a8d7aec0f1dde2d454348c49671f25d6"},"headline":"Frontline: Administration needs to stop readmitting perpetrators of sexual assault","datePublished":"2017-07-06T19:45:38+00:00","dateModified":"2017-11-30T21:32:43+00:00","commentCount":0,"mainEntityOfPage":{"@id":"http://www.westernfrontonline.com/2017/07/06/frontline-administration-needs-to-stop-readmitting-perpetrators-of-sexual-assault/#webpage"},"publisher":{"@id":"http://www.westernfrontonline.com/#organization"},"image":{"@id":"http://www.westernfrontonline.com/2017/07/06/frontline-administration-needs-to-stop-readmitting-perpetrators-of-sexual-assault/#primaryimage"},"keywords":"Frontline,Opinion,sexual assault,WWU","articleSection":"Frontline,Opinion"},{"@type":["Person"],"@id":"http://www.westernfrontonline.com/#/schema/person/a8d7aec0f1dde2d454348c49671f25d6","name":"westernfrontonline@gmail.com","image":{"@type":"ImageObject","@id":"http://www.westernfrontonline.com/#authorlogo","url":"http://1.gravatar.com/avatar/dedadf5eb4044569c4fcfd3ccfed86a4?s=96&d=mm&r=g","caption":"westernfrontonline@gmail.com"},"sameAs":[]}]}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="The Western Front &raquo; Feed" href="http://www.westernfrontonline.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Western Front &raquo; Comments Feed" href="http://www.westernfrontonline.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Western Front &raquo; Frontline: Administration needs to stop readmitting perpetrators of sexual assault Comments Feed" href="http://www.westernfrontonline.com/2017/07/06/frontline-administration-needs-to-stop-readmitting-perpetrators-of-sexual-assault/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.westernfrontonline.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.1.3"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='login-with-ajax-css'  href='http://www.westernfrontonline.com/wp-content/plugins/login-with-ajax/widget/widget.css?ver=3.1.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='dynamicnews-custom-fonts-css'  href='http://www.westernfrontonline.com/wp-content/themes/dynamic-news-lite/css/custom-fonts.css?ver=20180413' type='text/css' media='all' />
+<link rel='stylesheet' id='sb_instagram_styles-css'  href='http://www.westernfrontonline.com/wp-content/plugins/instagram-feed/css/sb-instagram-2-1.min.css?ver=2.1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='http://www.westernfrontonline.com/wp-includes/css/dist/block-library/style.min.css?ver=5.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='mappress-leaflet-css'  href='http://www.westernfrontonline.com/wp-content/plugins/mappress-google-maps-for-wordpress/css/leaflet/leaflet.css?ver=1.4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='mappress-css'  href='http://www.westernfrontonline.com/wp-content/plugins/mappress-google-maps-for-wordpress/css/mappress.css?ver=2.53.3' type='text/css' media='all' />
+<link rel='stylesheet' id='photospace-styles-css'  href='http://www.westernfrontonline.com/wp-content/plugins/photospace/gallery.css?ver=5.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-polls-css'  href='http://www.westernfrontonline.com/wp-content/plugins/wp-polls/polls-css.css?ver=2.75.3' type='text/css' media='all' />
+<style id='wp-polls-inline-css' type='text/css'>
+.wp-polls .pollbar {
+	margin: 1px;
+	font-size: 6px;
+	line-height: 8px;
+	height: 8px;
+	background-image: url('http://www.westernfrontonline.com/wp-content/plugins/wp-polls/images/default/pollbg.gif');
+	border: 1px solid #c8c8c8;
+}
+
+</style>
+<link rel='stylesheet' id='dynamicnewslite-stylesheet-css'  href='http://www.westernfrontonline.com/wp-content/themes/dynamic-news-lite/style.css?ver=1.6' type='text/css' media='all' />
+<style id='dynamicnewslite-stylesheet-inline-css' type='text/css'>
+.site-title {
+	position: absolute;
+	clip: rect(1px, 1px, 1px, 1px);
+}
+</style>
+<link rel='stylesheet' id='genericons-css'  href='http://www.westernfrontonline.com/wp-content/plugins/jetpack/_inc/genericons/genericons/genericons.css?ver=3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='themezee-related-posts-css'  href='http://www.westernfrontonline.com/wp-content/themes/dynamic-news-lite/css/themezee-related-posts.css?ver=20160421' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.westernfrontonline.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.westernfrontonline.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var LWA = {"ajaxurl":"http:\/\/www.westernfrontonline.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.westernfrontonline.com/wp-content/plugins/login-with-ajax/widget/login-with-ajax.js?ver=3.1.8.1'></script>
+<script type='text/javascript' src='http://www.westernfrontonline.com/wp-content/plugins/photospace/jquery.galleriffic.js?ver=5.1.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpgmza_google_api_status = {"message":"Enqueued","code":"ENQUEUED"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.westernfrontonline.com/wp-content/plugins/wp-google-maps/wpgmza_data.js?ver=5.1.3'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='http://www.westernfrontonline.com/wp-content/themes/dynamic-news-lite/js/html5shiv.min.js?ver=3.7.3'></script>
+<![endif]-->
+<script type='text/javascript'>
+/* <![CDATA[ */
+var dynamicnews_menu_title = "Menu";
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.westernfrontonline.com/wp-content/themes/dynamic-news-lite/js/navigation.js?ver=20160719'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var dynamicnews_sidebar_title = "Sidebar";
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.westernfrontonline.com/wp-content/themes/dynamic-news-lite/js/sidebar.js?ver=20160421'></script>
+<link rel='https://api.w.org/' href='http://www.westernfrontonline.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.westernfrontonline.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.westernfrontonline.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.1.3" />
+<link rel='shortlink' href='http://www.westernfrontonline.com/?p=16913' />
+<link rel="alternate" type="application/json+oembed" href="http://www.westernfrontonline.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.westernfrontonline.com%2F2017%2F07%2F06%2Ffrontline-administration-needs-to-stop-readmitting-perpetrators-of-sexual-assault%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.westernfrontonline.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.westernfrontonline.com%2F2017%2F07%2F06%2Ffrontline-administration-needs-to-stop-readmitting-perpetrators-of-sexual-assault%2F&#038;format=xml" />
+
+		<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+			ga('create', 'UA-1642045-9', 'auto');
+			
+			ga('send', 'pageview');
+		</script>
+
+	<script type='text/javascript' data-cfasync='false'>var _mmunch = {'front': false, 'page': false, 'post': false, 'category': false, 'author': false, 'search': false, 'attachment': false, 'tag': false};_mmunch['post'] = true; _mmunch['postData'] = {"ID":16913,"post_name":"frontline-administration-needs-to-stop-readmitting-perpetrators-of-sexual-assault","post_title":"Frontline: Administration needs to stop readmitting perpetrators of sexual assault","post_type":"post","post_author":"1","post_status":"publish"}; _mmunch['postCategories'] = [{"term_id":2693,"name":"Frontline","slug":"frontline","term_group":0,"term_taxonomy_id":2693,"taxonomy":"category","description":"","parent":7,"count":31,"filter":"raw","cat_ID":2693,"category_count":31,"category_description":"","cat_name":"Frontline","category_nicename":"frontline","category_parent":7},{"term_id":7,"name":"Opinion","slug":"opinion","term_group":0,"term_taxonomy_id":7,"taxonomy":"category","description":"","parent":0,"count":313,"filter":"raw","cat_ID":7,"category_count":313,"category_description":"","cat_name":"Opinion","category_nicename":"opinion","category_parent":0}]; _mmunch['postTags'] = [{"term_id":2532,"name":"Frontline","slug":"frontline","term_group":0,"term_taxonomy_id":2532,"taxonomy":"post_tag","description":"","parent":0,"count":7,"filter":"raw"},{"term_id":170,"name":"Opinion","slug":"opinion","term_group":0,"term_taxonomy_id":170,"taxonomy":"post_tag","description":"","parent":0,"count":34,"filter":"raw"},{"term_id":763,"name":"sexual assault","slug":"sexual-assault","term_group":0,"term_taxonomy_id":763,"taxonomy":"post_tag","description":"","parent":0,"count":26,"filter":"raw"},{"term_id":281,"name":"WWU","slug":"wwu","term_group":0,"term_taxonomy_id":281,"taxonomy":"post_tag","description":"","parent":0,"count":80,"filter":"raw"}]; _mmunch['postAuthor'] = {"name":"<a href=\"http:\/\/www.westernfrontonline.com\/byline\/suzanna-leung\/\" rel=\"tag\">Suzanna Leung<\/a>","ID":1};</script><script data-cfasync="false" src="//a.mailmunch.co/app/v1/site.js" id="mailmunch-script" data-plugin="mc_mm" data-mailmunch-site-id="468984" async></script><!--	photospace [ START ] --> 
+<style type="text/css">
+			/* reset */ 
+			.photospace img,
+			.photospace ul.thumbs,
+			.photospace ul.thumbs li,
+			.photospace ul.thumbs li a{
+				padding:0;
+				margin:0;
+				border:none !important;
+				background:none !important;
+				height:auto !important;
+				width:auto !important;
+			}
+			.photospace span{
+				padding:0; 
+				margin:0;
+				border:none !important;
+				background:none !important;
+			}
+			
+			.photospace .thumnail_col a.pageLink {
+				width:50px;
+				height:50px;
+			}
+			.photospace .gal_content,
+				.photospace .loader,
+				.photospace .slideshow a.advance-link{
+					width:865px;
+				}
+			.photospace{
+					width:1046px;
+				}
+			.photospace{
+					height:575px;
+				}
+			.photospace ul.thumbs li {
+					margin-bottom:10px !important;
+					margin-right:10px !important; 
+				}
+			.photospace .loader {
+					height: 287.5px;
+				}
+			.photospace .loader {
+					width: 865px;
+				}
+			.photospace .slideshow a.advance-link,
+				.photospace .slideshow span.image-wrapper {
+					height:575px;
+				}
+			.photospace .slideshow-container {
+					height:575px;
+				}
+		</style><!--	photospace [ END ] --> 
+<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		if (window.wfLogHumanRan) { return; }
+		window.wfLogHumanRan = true;
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//www.westernfrontonline.com/?wordfence_lh=1&hid=786EB4E95E9711EE14D03A8D709E24DC');
+</script>      <meta name="onesignal" content="wordpress-plugin"/>
+        <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async></script>    <script>
+
+      window.OneSignal = window.OneSignal || [];
+
+      OneSignal.push( function() {
+        OneSignal.SERVICE_WORKER_UPDATER_PATH = "OneSignalSDKUpdaterWorker.js.php";
+        OneSignal.SERVICE_WORKER_PATH = "OneSignalSDKWorker.js.php";
+        OneSignal.SERVICE_WORKER_PARAM = { scope: '/' };
+
+        OneSignal.setDefaultNotificationUrl("http://www.westernfrontonline.com");
+        var oneSignal_options = {};
+        window._oneSignalInitOptions = oneSignal_options;
+
+        oneSignal_options['wordpress'] = true;
+oneSignal_options['appId'] = '';
+oneSignal_options['autoRegister'] = false;
+oneSignal_options['httpPermissionRequest'] = { };
+oneSignal_options['httpPermissionRequest']['enable'] = true;
+oneSignal_options['welcomeNotification'] = { };
+oneSignal_options['welcomeNotification']['title'] = "";
+oneSignal_options['welcomeNotification']['message'] = "";
+oneSignal_options['path'] = "https://www.westernfrontonline.com/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/";
+oneSignal_options['promptOptions'] = { };
+oneSignal_options['notifyButton'] = { };
+oneSignal_options['notifyButton']['enable'] = true;
+oneSignal_options['notifyButton']['position'] = 'bottom-right';
+oneSignal_options['notifyButton']['theme'] = 'default';
+oneSignal_options['notifyButton']['size'] = 'medium';
+oneSignal_options['notifyButton']['prenotify'] = true;
+oneSignal_options['notifyButton']['showCredit'] = true;
+oneSignal_options['notifyButton']['text'] = {};
+              OneSignal.init(window._oneSignalInitOptions);
+                    });
+
+      function documentInitOneSignal() {
+        var oneSignal_elements = document.getElementsByClassName("OneSignal-prompt");
+
+        var oneSignalLinkClickHandler = function(event) { OneSignal.push(['registerForPushNotifications']); event.preventDefault(); };        for(var i = 0; i < oneSignal_elements.length; i++)
+          oneSignal_elements[i].addEventListener('click', oneSignalLinkClickHandler, false);
+      }
+
+      if (document.readyState === 'complete') {
+           documentInitOneSignal();
+      }
+      else {
+           window.addEventListener("load", function(event){
+               documentInitOneSignal();
+          });
+      }
+    </script>
+
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #eeeeee; }
+</style>
+	
+<!-- WordPress Facebook Open Graph protocol plugin (WPFBOGP v2.0.13) http://rynoweb.com/wordpress-plugins/ -->
+<meta property="fb:admins" content="https://www.facebook.com/westernfrontonline"/>
+<meta property="fb:app_id" content="https://www.facebook.com/westernfrontonline"/>
+<meta property="og:url" content="http://www.westernfrontonline.com/2017/07/06/frontline-administration-needs-to-stop-readmitting-perpetrators-of-sexual-assault/"/>
+<meta property="og:title" content="Frontline: Administration needs to stop readmitting perpetrators of sexual assault"/>
+<meta property="og:site_name" content="The Western Front"/>
+<meta property="og:description" content="By Suzanna Leung  &nbsp; Content warning: This article contains references to sexual assault Former Western student Isaac Holloway was arrested and charged "/>
+<meta property="og:type" content="article"/>
+<meta property="og:image" content="http://www.westernfrontonline.com/wp-content/uploads/2018/01/1506564_10151778256675870_1243052357_n-e1515984724947.png"/>
+<meta property="og:image" content="http://www.westernfrontonline.com/wp-content/uploads/2017/07/opinion-drawing-1024x665.png"/>
+<meta property="og:locale" content="en_us"/>
+<!-- // end wpfbogp -->
+<link rel="icon" href="http://www.westernfrontonline.com/wp-content/uploads/2018/01/cropped-Logo-with-shade-of-Western-blue-2-32x32.png" sizes="32x32" />
+<link rel="icon" href="http://www.westernfrontonline.com/wp-content/uploads/2018/01/cropped-Logo-with-shade-of-Western-blue-2-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://www.westernfrontonline.com/wp-content/uploads/2018/01/cropped-Logo-with-shade-of-Western-blue-2-180x180.png" />
+<meta name="msapplication-TileImage" content="http://www.westernfrontonline.com/wp-content/uploads/2018/01/cropped-Logo-with-shade-of-Western-blue-2-270x270.png" />
+		<style type="text/css" id="wp-custom-css">
+			a, a:link, a:visited{
+	color: #003f87;
+	text-decoration: none;
+}
+input[type="submit"] {
+	border: none;
+	color: #fff;
+	background: #001936;
+}
+#logo .site-title {
+	display: inline-block;
+	font-size: 2.5em;
+	font-weight: bold;
+	color: #001936;
+	font-family: 'Francois One', Tahoma, Arial;
+}
+#logo .site-title a:link,
+#logo .site-title a:visited {
+	color: #001936;
+}
+#topnavi-wrap {
+	background: #001936;
+	position: relative;
+}
+.main-navigation-menu a:hover {
+	background: #001936;
+}
+.main-navigation-menu ul a:hover {
+	color: #fff;
+	background: #001936;
+}
+
+.entry-title a:hover, .entry-title a:active{
+	color: #001936;
+}
+.postinfo .meta-category a:hover, .postinfo .meta-category a:active {
+	background: #001936;
+	text-decoration: none;
+}
+.more-link {
+	display: inline-block;
+	margin: 0.5em 0;
+	padding: 0.6em 1em;
+	text-decoration: none;
+	color: #fff;
+	text-transform: uppercase;
+	background-color: #001936;
+}
+.archive-title span{
+	color: #001936;
+}
+.post-pagination a:hover {
+	color: #001936;
+}
+.post-pagination .current {
+	padding: 0.5em 0.9em;
+	margin-right: 0.2em;
+	color: #001936;
+	text-decoration: underline;
+}
+.infinite-scroll #infinite-handle span {
+	display: inline-block;
+	margin-bottom: 1.5em;
+	padding: 0.6em 1em;
+	line-height: 1.5;
+	font-size: 1em;
+	text-align: center;
+	text-decoration: none;
+	text-transform: uppercase;
+	color: #fff;
+	background-color: #001936;
+}
+#image-nav .nav-previous a, #image-nav .nav-next a {
+	font-size: 0.9em;
+	text-decoration: none;
+	color: #001936;
+}
+.social-icons-menu li a {
+	position: relative;
+	display: inline-block;
+	padding: 0.8em;
+	background: #001936;
+	text-decoration: none;
+	color: #fff;
+}
+.bypostauthor .fn, .comment-author-admin .fn {
+	background: #001936;
+}
+#commentform #submit {
+	display: block;
+	border: none;
+	margin-top: 1em;
+	padding: 1em 4em;
+	text-decoration: none;
+	color: #fff;
+	background: #001936;
+}
+	#mainnav-toggle:hover {
+		cursor: pointer;
+		background: #001936;
+	}
+	.main-navigation-menu .submenu-dropdown-toggle:hover {
+		cursor: pointer;
+		background: #001936;
+	}
+	.sidebar-navigation-toggle:hover,
+	.sidebar-navigation-toggle:active,
+	.sidebar-navigation-toggle:focus {
+		cursor: pointer;
+		background: #001936;
+	}
+	.sidebar-closing-toggle {
+		display: block;
+		width: 100%;
+		margin: 0 0 1.5em;
+		padding: 0.5em;
+		text-align: left;
+		text-transform: uppercase;
+		text-decoration: none;
+		font-size: 1.0em;
+		font-family: 'Francois One', Tahoma, Arial;
+		color: #fff;
+		background: #001936;
+		border: none;
+		-webkit-transition: all 0.1s ease-out;
+		-moz-transition: all 0.1s ease-out;
+		-ms-transition: all 0.1s ease-out;
+		-o-transition: all 0.1s ease-out;
+		transition: all 0.1s ease-out;
+	}
+.frontpage-slider-controls .zeeflex-control-paging li a.zeeflex-active {
+    background: #001936;
+    cursor: default;
+}
+#frontpage-slider .zeeslide .slide-entry {
+    line-height: 1.6em;
+    -ms-word-wrap: break-word;
+    word-wrap: break-word;
+    margin-top: 1px;
+    padding: 1em 1.5em;
+    color: #fff;
+    background: #333;
+    border-top: 10px solid #001936;
+}		</style>
+		
+<!-- START - Open Graph and Twitter Card Tags 2.2.7.2 -->
+ <!-- Facebook Open Graph -->
+  <meta property="og:locale" content="en_US"/>
+  <meta property="og:site_name" content="The Western Front"/>
+  <meta property="og:title" content="Frontline: Administration needs to stop readmitting perpetrators of sexual assault"/>
+  <meta property="og:url" content="http://www.westernfrontonline.com/2017/07/06/frontline-administration-needs-to-stop-readmitting-perpetrators-of-sexual-assault/"/>
+  <meta property="og:type" content="article"/>
+  <meta property="og:description" content="By Suzanna Leung
+
+ 
+Content warning: This article contains references to sexual assault
+Former W"/>
+  <meta property="og:image" content="http://www.westernfrontonline.com/wp-content/uploads/2017/07/opinion-drawing.png"/>
+  <meta property="og:image:url" content="http://www.westernfrontonline.com/wp-content/uploads/2017/07/opinion-drawing.png"/>
+  <meta property="article:published_time" content="2017-07-06T12:45:38-08:00"/>
+  <meta property="article:modified_time" content="2017-11-30T13:32:43-08:00" />
+  <meta property="og:updated_time" content="2017-11-30T13:32:43-08:00" />
+  <meta property="article:section" content="Frontline"/>
+  <meta property="article:section" content="Opinion"/>
+  <meta property="article:publisher" content="Facebook.com/WesternFrontOnline"/>
+ <!-- Google+ / Schema.org -->
+  <meta itemprop="name" content="Frontline: Administration needs to stop readmitting perpetrators of sexual assault"/>
+  <meta itemprop="headline" content="Frontline: Administration needs to stop readmitting perpetrators of sexual assault"/>
+  <meta itemprop="description" content="By Suzanna Leung
+
+ 
+Content warning: This article contains references to sexual assault
+Former W"/>
+  <meta itemprop="image" content="http://www.westernfrontonline.com/wp-content/uploads/2017/07/opinion-drawing.png"/>
+  <meta itemprop="datePublished" content="2017-07-06"/>
+  <meta itemprop="dateModified" content="2017-11-30T13:32:43-08:00" />
+  <meta itemprop="author" content="&lt;a href=&quot;http://www.westernfrontonline.com/byline/suzanna-leung/&quot; rel=&quot;tag&quot;&gt;Suzanna Leung&lt;/a&gt;"/>
+  <!--<meta itemprop="publisher" content="The Western Front"/>--> <!-- To solve: The attribute publisher.itemtype has an invalid value -->
+ <!-- Twitter Cards -->
+  <meta name="twitter:title" content="Frontline: Administration needs to stop readmitting perpetrators of sexual assault"/>
+  <meta name="twitter:url" content="http://www.westernfrontonline.com/2017/07/06/frontline-administration-needs-to-stop-readmitting-perpetrators-of-sexual-assault/"/>
+  <meta name="twitter:description" content="By Suzanna Leung
+
+ 
+Content warning: This article contains references to sexual assault
+Former W"/>
+  <meta name="twitter:image" content="http://www.westernfrontonline.com/wp-content/uploads/2017/07/opinion-drawing.png"/>
+  <meta name="twitter:card" content="summary_large_image"/>
+ <!-- SEO -->
+ <!-- Misc. tags -->
+ <!-- is_singular -->
+<!-- END - Open Graph and Twitter Card Tags 2.2.7.2 -->
+	
+</head>
+
+<body class="post-template-default single single-post postid-16913 single-format-standard custom-background wp-custom-logo wide-layout sliding-sidebar mobile-header-none">
+
+<div id="wrapper" class="hfeed">
+
+	<div id="topnavi-wrap">
+		
+	<div id="topnavi" class="container clearfix">
+
+		
+	</div>
+	</div>
+
+	<div id="header-wrap">
+
+		<header id="header" class="container clearfix" role="banner">
+
+			<div id="logo" class="clearfix">
+
+				<a href="http://www.westernfrontonline.com/" class="custom-logo-link" rel="home" itemprop="url"><img width="5833" height="462" src="http://www.westernfrontonline.com/wp-content/uploads/2018/02/cropped-logo-2-1.png" class="custom-logo" alt="The Western Front" itemprop="logo" srcset="http://www.westernfrontonline.com/wp-content/uploads/2018/02/cropped-logo-2-1.png 5833w, http://www.westernfrontonline.com/wp-content/uploads/2018/02/cropped-logo-2-1-300x24.png 300w, http://www.westernfrontonline.com/wp-content/uploads/2018/02/cropped-logo-2-1-768x61.png 768w, http://www.westernfrontonline.com/wp-content/uploads/2018/02/cropped-logo-2-1-1024x81.png 1024w, http://www.westernfrontonline.com/wp-content/uploads/2018/02/cropped-logo-2-1-865x69.png 865w, http://www.westernfrontonline.com/wp-content/uploads/2018/02/cropped-logo-2-1-1366x108.png 1366w" sizes="(max-width: 5833px) 100vw, 5833px" /></a>				
+		<p class="site-title"><a href="http://www.westernfrontonline.com/" rel="home">The Western Front</a></p>
+
+					
+			</div>
+
+			<div id="header-content" class="clearfix">
+							</div>
+
+		</header>
+
+	</div>
+
+	<div id="navi-wrap">
+		<nav id="mainnav" class="container clearfix" role="navigation">
+			<ul id="mainnav-menu" class="main-navigation-menu"><li id="menu-item-12061" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12061"><a href="http://westernfrontonline.com/">Home</a></li>
+<li id="menu-item-14" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-14"><a href="http://www.westernfrontonline.com/category/news/">News</a>
+<ul class="sub-menu">
+	<li id="menu-item-18091" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18091"><a href="http://www.westernfrontonline.com/category/news/associated-students/">Associated Students</a></li>
+	<li id="menu-item-18090" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18090"><a href="http://www.westernfrontonline.com/category/news/administration/">Administration</a></li>
+	<li id="menu-item-18105" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18105"><a href="http://www.westernfrontonline.com/category/news/campus/">Campus</a></li>
+	<li id="menu-item-18085" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18085"><a href="http://www.westernfrontonline.com/category/news/court-watch/">Courts</a></li>
+	<li id="menu-item-18109" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18109"><a href="http://www.westernfrontonline.com/category/news/environment/">Environment</a></li>
+	<li id="menu-item-18092" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18092"><a href="http://www.westernfrontonline.com/category/news/local-government/">Local Government</a></li>
+	<li id="menu-item-18102" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18102"><a href="http://www.westernfrontonline.com/category/news/western-watchdog/">Western Watchdog</a></li>
+</ul>
+</li>
+<li id="menu-item-12" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-12"><a href="http://www.westernfrontonline.com/category/features/">Features</a>
+<ul class="sub-menu">
+	<li id="menu-item-18087" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18087"><a href="http://www.westernfrontonline.com/category/features/arts/">Arts</a></li>
+	<li id="menu-item-18088" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18088"><a href="http://www.westernfrontonline.com/category/features/music/">Music</a></li>
+	<li id="menu-item-18086" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18086"><a href="http://www.westernfrontonline.com/category/features/around-town/">Around Town</a></li>
+	<li id="menu-item-18111" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18111"><a href="http://www.westernfrontonline.com/category/features/travel/">Travel</a></li>
+	<li id="menu-item-18108" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18108"><a href="http://www.westernfrontonline.com/category/features/health-and-wellness/">Health &#038; Wellness</a></li>
+	<li id="menu-item-18089" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18089"><a href="http://www.westernfrontonline.com/category/features/people/">People</a></li>
+</ul>
+</li>
+<li id="menu-item-16" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-16"><a href="http://www.westernfrontonline.com/category/sports/">Sports</a>
+<ul class="sub-menu">
+	<li id="menu-item-18098" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18098"><a href="http://www.westernfrontonline.com/category/sports/varsity/">Varsity</a></li>
+	<li id="menu-item-18096" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18096"><a href="http://www.westernfrontonline.com/category/sports/club/">Club</a></li>
+	<li id="menu-item-18116" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18116"><a href="http://www.westernfrontonline.com/category/sports/professional/">Professional</a></li>
+	<li id="menu-item-18097" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18097"><a href="http://www.westernfrontonline.com/category/sports/recreation/">Recreation</a></li>
+</ul>
+</li>
+<li id="menu-item-15" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-item-15"><a href="http://www.westernfrontonline.com/category/opinion/">Opinion</a>
+<ul class="sub-menu">
+	<li id="menu-item-29316" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-29316"><a href="http://www.westernfrontonline.com/category/life-arts/blogs/">Blogs</a></li>
+	<li id="menu-item-18094" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-18094"><a href="http://www.westernfrontonline.com/category/opinion/frontline/">Frontline</a></li>
+	<li id="menu-item-18101" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18101"><a href="http://www.westernfrontonline.com/category/opinion/guest/">Guest</a></li>
+	<li id="menu-item-18095" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18095"><a href="http://www.westernfrontonline.com/category/opinion/letters-to-the-editor/">Letters to the Editor</a></li>
+</ul>
+</li>
+<li id="menu-item-23428" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-23428"><a href="#">Projects</a>
+<ul class="sub-menu">
+	<li id="menu-item-23438" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23438"><a href="http://westernfrontonline.com/listen/index.html">Listen</a></li>
+	<li id="menu-item-31397" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-31397"><a href="http://projects.westernfrontonline.com/vote.php">AS Voter Guide</a></li>
+</ul>
+</li>
+<li id="menu-item-387" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-387"><a href="http://www.westernfrontonline.com/archives/">Archives</a></li>
+<li id="menu-item-11" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-11"><a href="http://www.westernfrontonline.com/about/">About</a>
+<ul class="sub-menu">
+	<li id="menu-item-31580" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31580"><a href="http://www.westernfrontonline.com/about/">Contact</a></li>
+	<li id="menu-item-31170" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31170"><a href="http://www.westernfrontonline.com/about/give-us-feedback/">Give Us Feedback</a></li>
+	<li id="menu-item-31578" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31578"><a href="http://www.westernfrontonline.com/about/pronoun-and-name-change-form/">Pronoun and Name Change Form</a></li>
+	<li id="menu-item-14665" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14665"><a href="http://www.westernfrontonline.com/advertising-info/">Advertising</a></li>
+</ul>
+</li>
+<li id="menu-item-27440" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-27440"><a href="http://www.westernfrontonline.com/category/multimedia/">Photo and Video</a>
+<ul class="sub-menu">
+	<li id="menu-item-27441" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-27441"><a href="http://www.westernfrontonline.com/category/multimedia/videos/">Videos</a></li>
+	<li id="menu-item-27442" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-27442"><a href="http://www.westernfrontonline.com/category/photos/">Photos</a></li>
+</ul>
+</li>
+</ul>		</nav>
+	</div>
+
+	
+	<div id="wrap" class="container clearfix">
+		
+		<section id="content" class="primary" role="main">
+		
+					
+		
+	<article id="post-16913" class="post-16913 post type-post status-publish format-standard has-post-thumbnail hentry category-frontline category-opinion tag-frontline tag-opinion tag-sexual-assault tag-wwu byline-suzanna-leung">
+	
+		<h1 class="entry-title post-title">Frontline: Administration needs to stop readmitting perpetrators of sexual assault</h1>		
+		<div class="entry-meta postmeta clearfix"><span class="meta-date sep"><a href="http://www.westernfrontonline.com/2017/07/06/frontline-administration-needs-to-stop-readmitting-perpetrators-of-sexual-assault/" title="12:45 pm" rel="bookmark"><time class="entry-date published updated" datetime="2017-07-06T12:45:38-08:00">July 6, 2017</time></a></span>
+	<span class="meta-comments">
+		<a href="http://www.westernfrontonline.com/2017/07/06/frontline-administration-needs-to-stop-readmitting-perpetrators-of-sexual-assault/#respond">Leave a comment</a>	</span>
+
+	</div>
+		
+		<img src="http://www.westernfrontonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://www.westernfrontonline.com/wp-content/uploads/2017/07/opinion-drawing.png" width="2022" height="1314" class="attachment-featured_image size-featured_image wp-post-image" alt srcset="http://www.westernfrontonline.com/wp-content/uploads/2017/07/opinion-drawing.png 2022w, http://www.westernfrontonline.com/wp-content/uploads/2017/07/opinion-drawing-300x195.png 300w, http://www.westernfrontonline.com/wp-content/uploads/2017/07/opinion-drawing-768x499.png 768w, http://www.westernfrontonline.com/wp-content/uploads/2017/07/opinion-drawing-1024x665.png 1024w, http://www.westernfrontonline.com/wp-content/uploads/2017/07/opinion-drawing-865x562.png 865w, http://www.westernfrontonline.com/wp-content/uploads/2017/07/opinion-drawing-1182x768.png 1182w, http://www.westernfrontonline.com/wp-content/uploads/2017/07/opinion-drawing-100x65.png 100w, http://www.westernfrontonline.com/wp-content/uploads/2017/07/opinion-drawing-260x170.png 260w" sizes="(max-width: 2022px) 100vw, 2022px"><noscript><img width="2022" height="1314" src="http://www.westernfrontonline.com/wp-content/uploads/2017/07/opinion-drawing.png" class="attachment-featured_image size-featured_image wp-post-image" alt="" srcset="http://www.westernfrontonline.com/wp-content/uploads/2017/07/opinion-drawing.png 2022w, http://www.westernfrontonline.com/wp-content/uploads/2017/07/opinion-drawing-300x195.png 300w, http://www.westernfrontonline.com/wp-content/uploads/2017/07/opinion-drawing-768x499.png 768w, http://www.westernfrontonline.com/wp-content/uploads/2017/07/opinion-drawing-1024x665.png 1024w, http://www.westernfrontonline.com/wp-content/uploads/2017/07/opinion-drawing-865x562.png 865w, http://www.westernfrontonline.com/wp-content/uploads/2017/07/opinion-drawing-1182x768.png 1182w, http://www.westernfrontonline.com/wp-content/uploads/2017/07/opinion-drawing-100x65.png 100w, http://www.westernfrontonline.com/wp-content/uploads/2017/07/opinion-drawing-260x170.png 260w" sizes="(max-width: 2022px) 100vw, 2022px" /></noscript>		
+		<div class="entry clearfix">
+			<div class='mailmunch-forms-before-post' style='display: none !important;'></div><p>By <a href="http://www.westernfrontonline.com/byline/suzanna-leung/">Suzanna Leung</a></p>
+<p>&nbsp;</p>
+<p class="p1"><b><i>Content warning: This article contains references to sexual assault</i></b></p>
+<p class="p1"><span class="s1">Former Western student Isaac Holloway was arrested and charged with third-degree rape in Kitsap County last March in connection with an assault that took place in August 2016. He then plead down to fourth-degree assault with sexual motivation in court on June 26, allowing him to avoid registering as a sex-offender.</span></p>
+<p class="p1"><span class="s1">For Western students, this case may sound eerily similar to the case of Connor Griesemer, who was readmitted to Western last year after sexually assaulting a female student off campus. Griesemer was initially charged with second-degree rape, but like Holloway, ended up pleading guilty to fourth-degree assault with sexual motivation.</span></p>
+<p class="p1"><span class="s1">Knowledge of Griesemer’s readmission sparked outrage among many students. They organized and protested against the university’s decision to allow a perpetrator of sexual assault back on campus.</span></p>
+<p class="p1"><span class="s1">Now, Western has a chance to do the right thing.</span></p>
+<p class="p1"><span class="s1">Holloway is not currently enrolled in classes for fall 2017, but he could try to return to Western after his sentence. That is why Western’s administration must commit to not allowing Holloway back on campus.</span></p>
+<p class="p1"><span class="s1">Students do not want to attend classes with perpetrators of sexual assault. When students come to Western, they expect safety, as well as an education that is undisturbed by the anxieties of attending class with people like Griesemer and Holloway. This is especially true for survivors of sexual assault.</span></p>
+<p class="p1"><span class="s1">According to Mental Health America, victims of sexual assault are at an increased risk for developing depression, post-traumatic stress disorder and anxiety. Readmitting those convicted of sexual assault can retraumatize sexual assault survivors, and Western’s disregard for these students displays that the university fails to take sexual assault seriously. </span></p>
+<p class="p1"><span class="s1">There is also the dark reality that our legal system poorly handles rape cases, with victim-blaming techniques frequently being used to defend sexual assault perpetrators. </span></p><div class='mailmunch-forms-in-post-middle' style='display: none !important;'></div>
+<p class="p1"><span class="s1">An example of this can be seen in the Brock Turner rape case, where a Stanford swimmer raped an unconscious female student. During the trial, the victim was asked questions about her height, weight, partying habits and how much she drank that night in attempts to make her seem at fault. </span></p>
+<p class="p1"><span class="s1">According to the National Sexual Assault Hotline, rape perpetrators are less likely to be incarcerated than those who commit robbery and physical assault. In a study of 310 reported rape cases, only six of the cases ended with the perpetrator going to jail. </span></p>
+<p class="p1"><span class="s1">This is why it is so important for the school to take action to protect students.</span></p>
+<p class="p1"><span class="s1">Students have raised endless concerns about sexual assault with Western’s administration, and it is time for the university to prove to students that it has grown from its previous mistakes. </span></p>
+<p class="p1"><span class="s1">Paul Cocke, Western’s director of communication and marketing, stated in an email to The Western Front on June 30 that Western has the right to refuse readmission to any student who poses a safety or security risk to the university community. </span></p>
+<p class="p1"><span class="s1">Students undoubtedly feel that there is an inherent safety risk on campus that comes with attending school with a convicted perpetrator of sexual assault. Since our legal system refuses to properly convict perpetrators of sexual assault, Western’s administration needs to take it upon itself to protect students and sexual assault survivors on campus.</span></p>
+<p class="p1"><span class="s1">Just because a person has been convicted of one sexual assault does not mean the offense was an isolated incident. A study by the Sexual Assault Prevention and Awareness Center at the University of Michigan surveyed 99 male sex offenders who confessed a total of 959 victims between them, showing that those who commit sexual assault are likely to reoffend. </span></p>
+<p class="p1"><span class="s1">In another email concerning Griesemer’s readmission, Cocke said safety on Western’s campus is the university’s top priority. But statements like these are useless if Western refuses to act accordingly.</span></p>
+<p class="p1"><span class="s1">Readmitting students convicted of sexual assault disrupts the learning environment here at Western, and is contradictory to the morals that the university says it stands for. That is why the school must finally stand up for the student body and avoid making the same mistakes with Holloway’s case, as they did with Griesemer’s. Holloway, and any other student convicted of sexual assault, should not be permitted to enroll in classes at Western.</span></p>
+<div class='mailmunch-forms-after-post' style='display: none !important;'></div>			<!-- <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+			xmlns:dc="http://purl.org/dc/elements/1.1/"
+			xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+		<rdf:Description rdf:about="http://www.westernfrontonline.com/2017/07/06/frontline-administration-needs-to-stop-readmitting-perpetrators-of-sexual-assault/"
+    dc:identifier="http://www.westernfrontonline.com/2017/07/06/frontline-administration-needs-to-stop-readmitting-perpetrators-of-sexual-assault/"
+    dc:title="Frontline: Administration needs to stop readmitting perpetrators of sexual assault"
+    trackback:ping="http://www.westernfrontonline.com/2017/07/06/frontline-administration-needs-to-stop-readmitting-perpetrators-of-sexual-assault/trackback/" />
+</rdf:RDF> -->
+			<div class="page-links"></div>			
+		</div>
+		
+		<div class="postinfo clearfix">
+			<span class="meta-category">
+				<ul class="post-categories">
+	<li><a href="http://www.westernfrontonline.com/category/opinion/frontline/" rel="category tag">Frontline</a></li>
+	<li><a href="http://www.westernfrontonline.com/category/opinion/" rel="category tag">Opinion</a></li></ul>			</span>
+
+		</div>
+
+	</article>
+		
+					
+					
+		
+
+
+	<div id="comments">
+	
+		
+						<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2017/07/06/frontline-administration-needs-to-stop-readmitting-perpetrators-of-sexual-assault/#respond" style="display:none;">Cancel reply</a></small></h3>			<form action="http://www.westernfrontonline.com/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+				<p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> Required fields are marked <span class="required">*</span></p><p class="comment-form-comment"><label for="comment">Comment</label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required="required"></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" required='required' /></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="text" value="" size="30" maxlength="100" aria-describedby="email-notes" required='required' /></p>
+<p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="text" value="" size="30" maxlength="200" /></p>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='16913' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="aa1b69bfa3" /></p><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="95"/></p>			</form>
+			</div><!-- #respond -->
+	<p class="akismet_comment_form_privacy_notice">This site uses Akismet to reduce spam. <a href="https://akismet.com/privacy/" target="_blank" rel="nofollow noopener">Learn how your comment data is processed</a>.</p>		
+	</div>
+
+		
+		</section>
+		
+		
+	<section id="sidebar" class="secondary clearfix" role="complementary">
+
+		<aside id="search-2" class="widget widget_search clearfix">
+	<form role="search" method="get" class="search-form" action="http://www.westernfrontonline.com/">
+		<label>
+			<span class="screen-reader-text">Search for:</span>
+			<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s">
+		</label>
+		<button type="submit" class="search-submit">
+			<span class="genericon-search"></span>
+		</button>
+	</form>
+
+</aside><aside id="custom_html-7" class="widget_text widget widget_custom_html clearfix"><h3 class="widgettitle"><span>The Latest</span></h3><div class="textwidget custom-html-widget"><div style="-webkit-filter: invert(90%) saturate(0%) brightness(180%);
+  filter: invert(90%) saturate(0%) brightness(180%);">
+	
+<a href="https://twitter.com/TheFrontOnline?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="false" >Follow @TheFrontOnline</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+
+<a class="twitter-timeline"
+data-width="100%" 
+data-height="800" 
+data-link-color="#128EC8" data-chrome="noheader"
+ href="https://twitter.com/TheFrontOnline?ref_src=twsrc%5Etfw"> Tweets by TheFrontOnline</a>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div></aside><aside id="custom_html-5" class="widget_text widget widget_custom_html clearfix"><h3 class="widgettitle"><span>MUSIC</span></h3><div class="textwidget custom-html-widget"><iframe height="300" width="100%" src="https://play.soundsgood.co/embed/5c6e14a87daaac3cbbd4c93e?color=0C5E9A&hideTitle=1&hideCurator=1"  frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen allow="autoplay; encrypted-media" allowtransparency="true"></iframe>
+<h2 class="entry-title post-title">
+<a href="http://bit.ly/2C6liWP">New Playlist: Post-Midterm Melt</a></h2><div class="entry-meta postmeta"></div>
+<div class="entry">
+	<p>By&nbsp;Sophia Knotts</p></div>
+</div></aside>
+	</section>
+	</div>
+	
+
+	<div id="footer-wrap">
+
+		<footer id="footer" class="container clearfix" role="contentinfo">
+
+			
+			<div id="footer-text">
+				
+	<span class="credit-link">
+		Powered by <a href="http://wordpress.org" title="WordPress">WordPress</a> and <a href="https://themezee.com/themes/dynamicnews/" title="Dynamic News WordPress Theme">Dynamic News</a>.	</span>
+
+				</div>
+
+		</footer>
+
+	</div>
+
+</div><!-- end #wrapper -->
+
+<!-- Instagram Feed JS -->
+<script type="text/javascript">
+var sbiajaxurl = "http://www.westernfrontonline.com/wp-admin/admin-ajax.php";
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pollsL10n = {"ajax_url":"http:\/\/www.westernfrontonline.com\/wp-admin\/admin-ajax.php","text_wait":"Your last request is still being processed. Please wait a while ...","text_valid":"Please choose a valid poll answer.","text_multiple":"Maximum number of choices allowed: ","show_loading":"1","show_fading":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.westernfrontonline.com/wp-content/plugins/wp-polls/polls-js.js?ver=2.75.3'></script>
+<script type='text/javascript' src='http://www.westernfrontonline.com/wp-includes/js/comment-reply.min.js?ver=5.1.3'></script>
+<script type='text/javascript' src='http://www.westernfrontonline.com/wp-content/plugins/lazy-load/js/jquery.sonar.min.js?ver=0.6.1'></script>
+<script type='text/javascript' src='http://www.westernfrontonline.com/wp-content/plugins/lazy-load/js/lazy-load.js?ver=0.6.1'></script>
+<script type='text/javascript' src='http://www.westernfrontonline.com/wp-includes/js/wp-embed.min.js?ver=5.1.3'></script>
+<script async="async" type='text/javascript' src='http://www.westernfrontonline.com/wp-content/plugins/akismet/_inc/form.js?ver=4.1.3'></script>
+</body>
+</html>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+
+Served from: www.westernfrontonline.com @ 2019-11-12 02:18:53 by W3 Total Cache
+-->

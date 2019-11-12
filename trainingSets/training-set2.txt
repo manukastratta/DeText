@@ -1,0 +1,633 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" /><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={licenseKey:"f5a133962a",applicationID:"196536476"};window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1130.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <title>A Labour volunteer alleged a violent sexual assault by a Labour staffer. This is her story |  The Spinoff</title>
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.png" />
+    <link rel="mask-icon" href="s.svg" color="rgb(18, 78, 153)" />
+    <link rel="profile" href="https://gmpg.org/xfn/11" />
+    <link rel="pingback" href="https://thespinoff.co.nz/xmlrpc.php" />
+    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+    <meta property="fb:pages" content="585595504882807" />
+            <link href="https://fast.fonts.net/t/1.css?apiType=css&projectid=6992a448-8cc1-4fd1-9543-f93ec34cdfdd" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Sanchez&amp;subset=latin-ext" rel="stylesheet">
+    <!-- Jetpack Site Verification Tags -->
+<link rel='dns-prefetch' href='//thespinoff.co.nz' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="The Spinoff &raquo; Feed" href="https://thespinoff.co.nz/feed/" />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://thespinoff.co.nz/wp-includes/css/dist/block-library/style.min.css?ver=5.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://thespinoff.co.nz/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='customstyle-css'  href='https://thespinoff.co.nz/wp-content/plugins/custom-users-order/css/customdisplay.css?ver=5.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-parsely-style-css'  href='https://thespinoff.co.nz/wp-content/plugins/wp-parsely/wp-parsely.css?ver=1573543940' type='text/css' media='all' />
+<link rel='stylesheet' id='less-style-css'  href='https://thespinoff.co.nz/wp-content/uploads/wp-less/thespinoff/css/style-6eefca078f.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js?ver=1.11.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var samAjax = {"ajaxurl":"https:\/\/thespinoff.co.nz\/wp-content\/plugins\/simple-ads-manager\/sam-ajax.php","loadurl":"https:\/\/thespinoff.co.nz\/wp-content\/plugins\/simple-ads-manager\/sam-ajax-loader.php","load":"","mailer":"0","clauses":"YTo0OntzOjI6IldDIjtzOjMxNTQ6IihJRihzYS5hZF91c2VycyA9IDAsIFRSVUUsIChzYS5hZF91c2Vyc191bnJlZyA9IDEpKSkgQU5EICgoc2Eudmlld190eXBlID0gMSkgT1IgKHNhLnZpZXdfdHlwZSA9IDAgQU5EIChzYS52aWV3X3BhZ2VzKzAgJiA2KSkgT1IgKHNhLnZpZXdfdHlwZSA9IDIgQU5EIEZJTkRfSU5fU0VUKDIwNzY0NCwgc2Eudmlld19pZCkpKSBBTkQgSUYoc2Eudmlld190eXBlIDwgMiBBTkQgc2EuYWRfY2F0cyBBTkQgSUYoc2Eudmlld190eXBlID0gMCwgc2Eudmlld19wYWdlcyswICYgNiwgVFJVRSksIEZJTkRfSU5fU0VUKCJmZWF0dXJlZCIsIHNhLnZpZXdfY2F0cykgT1IgRklORF9JTl9TRVQoInBvbGl0aWNzIiwgc2Eudmlld19jYXRzKSBPUiBGSU5EX0lOX1NFVCgidGhlLWJlc3Qtb2YiLCBzYS52aWV3X2NhdHMpIE9SIEZJTkRfSU5fU0VUKCJ1bnNwb25zb3JlZCIsIHNhLnZpZXdfY2F0cyksIFRSVUUpICBBTkQgSUYoc2Eudmlld190eXBlIDwgMiBBTkQgc2EuYWRfYXV0aG9ycyBBTkQgSUYoc2Eudmlld190eXBlID0gMCwgc2Eudmlld19wYWdlcyswICYgNiwgVFJVRSksIEZJTkRfSU5fU0VUKCJhbGV4LWNhc2V5Iiwgc2Eudmlld19hdXRob3JzKSwgVFJVRSkgIEFORCBJRihzYS52aWV3X3R5cGUgPCAyIEFORCBzYS5hZF90YWdzIEFORCBJRihzYS52aWV3X3R5cGUgPSAwLCBzYS52aWV3X3BhZ2VzKzAgJiA2LCBUUlVFKSwgRklORF9JTl9TRVQoImphY2luZGEtYXJkZXJuIiwgc2Eudmlld190YWdzKSBPUiBGSU5EX0lOX1NFVCgibGFib3VyLXBhcnR5Iiwgc2Eudmlld190YWdzKSBPUiBGSU5EX0lOX1NFVCgibGFib3VyLXBhcnR5LWlucXVpcnkiLCBzYS52aWV3X3RhZ3MpIE9SIEZJTkRfSU5fU0VUKCJuaWdlbC1oYXdvcnRoIiwgc2Eudmlld190YWdzKSBPUiBGSU5EX0lOX1NFVCgic2V4dWFsLWFzc2F1bHQiLCBzYS52aWV3X3RhZ3MpLCBUUlVFKSAgQU5EIElGKHNhLnZpZXdfdHlwZSA8IDIgQU5EIHNhLmFkX2N1c3RvbV90YXhfdGVybXMgQU5EIElGKHNhLnZpZXdfdHlwZSA9IDAsIHNhLnZpZXdfcGFnZXMrMCAmIDYsIFRSVUUpLCBGSU5EX0lOX1NFVCgiZmVhdHVyZWQiLCBzYS52aWV3X2N1c3RvbV90YXhfdGVybXMpIE9SIEZJTkRfSU5fU0VUKCJwb2xpdGljcyIsIHNhLnZpZXdfY3VzdG9tX3RheF90ZXJtcykgT1IgRklORF9JTl9TRVQoInRoZS1iZXN0LW9mIiwgc2Eudmlld19jdXN0b21fdGF4X3Rlcm1zKSBPUiBGSU5EX0lOX1NFVCgidW5zcG9uc29yZWQiLCBzYS52aWV3X2N1c3RvbV90YXhfdGVybXMpIE9SIEZJTkRfSU5fU0VUKCJqYWNpbmRhLWFyZGVybiIsIHNhLnZpZXdfY3VzdG9tX3RheF90ZXJtcykgT1IgRklORF9JTl9TRVQoImxhYm91ci1wYXJ0eSIsIHNhLnZpZXdfY3VzdG9tX3RheF90ZXJtcykgT1IgRklORF9JTl9TRVQoImxhYm91ci1wYXJ0eS1pbnF1aXJ5Iiwgc2Eudmlld19jdXN0b21fdGF4X3Rlcm1zKSBPUiBGSU5EX0lOX1NFVCgibmlnZWwtaGF3b3J0aCIsIHNhLnZpZXdfY3VzdG9tX3RheF90ZXJtcykgT1IgRklORF9JTl9TRVQoInNleHVhbC1hc3NhdWx0Iiwgc2Eudmlld19jdXN0b21fdGF4X3Rlcm1zKSwgVFJVRSkgIEFORCBJRihzYS54X2lkLCBOT1QgRklORF9JTl9TRVQoMjA3NjQ0LCBzYS54X3ZpZXdfaWQpLCBUUlVFKSAgQU5EIElGKHNhLnZpZXdfdHlwZSA8IDIgQU5EIHNhLnhfY2F0cyBBTkQgSUYoc2Eudmlld190eXBlID0gMCwgc2Eudmlld19wYWdlcyswICYgNiwgVFJVRSksIChOT1QgRklORF9JTl9TRVQoImZlYXR1cmVkIiwgc2EueF92aWV3X2NhdHMpKSBBTkQgKE5PVCBGSU5EX0lOX1NFVCgicG9saXRpY3MiLCBzYS54X3ZpZXdfY2F0cykpIEFORCAoTk9UIEZJTkRfSU5fU0VUKCJ0aGUtYmVzdC1vZiIsIHNhLnhfdmlld19jYXRzKSkgQU5EIChOT1QgRklORF9JTl9TRVQoInVuc3BvbnNvcmVkIiwgc2EueF92aWV3X2NhdHMpKSwgVFJVRSkgIEFORCBJRihzYS52aWV3X3R5cGUgPCAyIEFORCBzYS54X2F1dGhvcnMgQU5EIElGKHNhLnZpZXdfdHlwZSA9IDAsIHNhLnZpZXdfcGFnZXMrMCAmIDYsIFRSVUUpLCBOT1QgRklORF9JTl9TRVQoImFsZXgtY2FzZXkiLCBzYS54X3ZpZXdfYXV0aG9ycyksIFRSVUUpICBBTkQgSUYoc2Eudmlld190eXBlIDwgMiBBTkQgc2EueF90YWdzIEFORCBJRihzYS52aWV3X3R5cGUgPSAwLCBzYS52aWV3X3BhZ2VzKzAgJiA2LCBUUlVFKSwgKE5PVCBGSU5EX0lOX1NFVCgiamFjaW5kYS1hcmRlcm4iLCBzYS54X3ZpZXdfdGFncykpIEFORCAoTk9UIEZJTkRfSU5fU0VUKCJsYWJvdXItcGFydHkiLCBzYS54X3ZpZXdfdGFncykpIEFORCAoTk9UIEZJTkRfSU5fU0VUKCJsYWJvdXItcGFydHktaW5xdWlyeSIsIHNhLnhfdmlld190YWdzKSkgQU5EIChOT1QgRklORF9JTl9TRVQoIm5pZ2VsLWhhd29ydGgiLCBzYS54X3ZpZXdfdGFncykpIEFORCAoTk9UIEZJTkRfSU5fU0VUKCJzZXh1YWwtYXNzYXVsdCIsIHNhLnhfdmlld190YWdzKSksIFRSVUUpICBBTkQgSUYoc2Eudmlld190eXBlIDwgMiBBTkQgc2EueF9hZF9jdXN0b21fdGF4X3Rlcm1zIEFORCBJRihzYS52aWV3X3R5cGUgPSAwLCBzYS52aWV3X3BhZ2VzKzAgJiA2LCBUUlVFKSwgKE5PVCBGSU5EX0lOX1NFVCgiZmVhdHVyZWQiLCBzYS54X3ZpZXdfY3VzdG9tX3RheF90ZXJtcykpIEFORCAoTk9UIEZJTkRfSU5fU0VUKCJwb2xpdGljcyIsIHNhLnhfdmlld19jdXN0b21fdGF4X3Rlcm1zKSkgQU5EIChOT1QgRklORF9JTl9TRVQoInRoZS1iZXN0LW9mIiwgc2EueF92aWV3X2N1c3RvbV90YXhfdGVybXMpKSBBTkQgKE5PVCBGSU5EX0lOX1NFVCgidW5zcG9uc29yZWQiLCBzYS54X3ZpZXdfY3VzdG9tX3RheF90ZXJtcykpIEFORCAoTk9UIEZJTkRfSU5fU0VUKCJqYWNpbmRhLWFyZGVybiIsIHNhLnhfdmlld19jdXN0b21fdGF4X3Rlcm1zKSkgQU5EIChOT1QgRklORF9JTl9TRVQoImxhYm91ci1wYXJ0eSIsIHNhLnhfdmlld19jdXN0b21fdGF4X3Rlcm1zKSkgQU5EIChOT1QgRklORF9JTl9TRVQoImxhYm91ci1wYXJ0eS1pbnF1aXJ5Iiwgc2EueF92aWV3X2N1c3RvbV90YXhfdGVybXMpKSBBTkQgKE5PVCBGSU5EX0lOX1NFVCgibmlnZWwtaGF3b3J0aCIsIHNhLnhfdmlld19jdXN0b21fdGF4X3Rlcm1zKSkgQU5EIChOT1QgRklORF9JTl9TRVQoInNleHVhbC1hc3NhdWx0Iiwgc2EueF92aWV3X2N1c3RvbV90YXhfdGVybXMpKSwgVFJVRSkiO3M6MzoiV0NUIjtzOjM2MjoiIEFORCBJRihzYS5hZF9zY2hlZHVsZSwgQ1VSREFURSgpIEJFVFdFRU4gc2EuYWRfc3RhcnRfZGF0ZSBBTkQgc2EuYWRfZW5kX2RhdGUsIFRSVUUpIEFORCBJRihzYS5saW1pdF9oaXRzLCBzYS5oaXRzX2xpbWl0ID4gKFNFTEVDVCBJRk5VTEwoQ09VTlQoKiksIDApIEZST00gd3Bfc2FtX3N0YXRzIHNzIFdIRVJFIHNzLmlkID0gc2EuaWQgQU5EIHNzLmV2ZW50X3R5cGUgPSAwKSwgVFJVRSkgQU5EIElGKHNhLmxpbWl0X2NsaWNrcywgc2EuY2xpY2tzX2xpbWl0ID4gKFNFTEVDVCBJRk5VTEwoQ09VTlQoKiksIDApIEZST00gd3Bfc2FtX3N0YXRzIHNzIFdIRVJFIHNzLmlkID0gc2EuaWQgQU5EIHNzLmV2ZW50X3R5cGUgPSAxKSwgVFJVRSkiO3M6MzoiV0NXIjtzOjgwOiIgQU5EIElGKHNhLmFkX3dlaWdodCA+IDAsIChzYS5hZF93ZWlnaHRfaGl0cyoxMC8oc2EuYWRfd2VpZ2h0KjEwMDApKSA8IDEsIEZBTFNFKSI7czo0OiJXQzJXIjtzOjIyOiJBTkQgKHNhLmFkX3dlaWdodCA+IDApIjt9","doStats":"0","container":"sam-container","place":"sam-place","ad":"sam-ad"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://thespinoff.co.nz/wp-content/plugins/simple-ads-manager/js/sam-layout.min.js?ver=2.9.8.125'></script>
+<link rel='https://api.w.org/' href='https://thespinoff.co.nz/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://thespinoff.co.nz/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://thespinoff.co.nz/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Over-regulating e-cigarettes hurts those who need them most' href='https://thespinoff.co.nz/politics/09-09-2019/over-regulating-e-cigarettes-hurts-those-who-need-them-most/' />
+<link rel='next' title='The Bulletin: Harrowing allegations against Labour and staffer revealed' href='https://thespinoff.co.nz/the-bulletin/09-09-2019/the-bulletin-harrowing-allegations-against-labour-and-staffer-revealed/' />
+<meta name="generator" content="WordPress 5.2.2" />
+<link rel="canonical" href="https://thespinoff.co.nz/unsponsored/09-09-2019/a-labour-volunteer-alleged-violent-sexual-assault-by-a-senior-staffer-this-is-her-story/" />
+<link rel='shortlink' href='https://wp.me/p532R6-S16' />
+<link rel="alternate" type="application/json+oembed" href="https://thespinoff.co.nz/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fthespinoff.co.nz%2Funsponsored%2F09-09-2019%2Fa-labour-volunteer-alleged-violent-sexual-assault-by-a-senior-staffer-this-is-her-story%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://thespinoff.co.nz/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fthespinoff.co.nz%2Funsponsored%2F09-09-2019%2Fa-labour-volunteer-alleged-violent-sexual-assault-by-a-senior-staffer-this-is-her-story%2F&#038;format=xml" />
+
+<!-- BEGIN wp-parsely Plugin Version 2.0 -->
+<meta name="wp-parsely_version" id="wp-parsely_version" content="2.0"/>
+			<script type="application/ld+json">
+		{"@context":"http:\/\/schema.org","@type":"NewsArticle","mainEntityOfPage":{"@type":"WebPage","@id":"http:\/\/thespinoff.co.nz\/unsponsored\/09-09-2019\/a-labour-volunteer-alleged-violent-sexual-assault-by-a-senior-staffer-this-is-her-story\/"},"headline":"A Labour volunteer alleged a violent sexual assault by a Labour staffer. This is her story","url":"http:\/\/thespinoff.co.nz\/unsponsored\/09-09-2019\/a-labour-volunteer-alleged-violent-sexual-assault-by-a-senior-staffer-this-is-her-story\/","thumbnailUrl":"https:\/\/thespinoff.co.nz\/wp-content\/uploads\/2019\/09\/Labourstory-250x250.jpg","image":{"@type":"ImageObject","url":"https:\/\/thespinoff.co.nz\/wp-content\/uploads\/2019\/09\/Labourstory-250x250.jpg"},"dateCreated":"2019-09-08T17:40:59Z","datePublished":"2019-09-08T17:40:59Z","dateModified":"2019-09-08T17:40:59Z","articleSection":"Politics","author":[{"@type":"Person","name":"Alex Casey"}],"creator":["Alex Casey"],"keywords":["jacinda ardern","labour party","labour party inquiry","nigel haworth","sexual assault"],"publisher":{"@type":"Organization","name":"The Spinoff","logo":{"@type":"ImageObject","url":""}}}
+		</script>
+
+			<!-- END wp-parsely Plugin Version 2.0 -->
+
+<link rel='dns-prefetch' href='//v0.wordpress.com'/>
+<style type='text/css'>img#wpstats{display:none}</style><link rel="amphtml" href="https://thespinoff.co.nz/unsponsored/09-09-2019/a-labour-volunteer-alleged-violent-sexual-assault-by-a-senior-staffer-this-is-her-story/?amp">
+<!-- START - Open Graph for Facebook, Google+ and Twitter Card Tags 2.2.5 -->
+ <!-- Facebook Open Graph -->
+  <meta property="og:locale" content="en_US"/>
+  <meta property="og:site_name" content="The Spinoff"/>
+  <meta property="og:title" content="A Labour volunteer alleged a violent sexual assault by a Labour staffer. This is her story"/>
+  <meta property="og:url" content="https://thespinoff.co.nz/unsponsored/09-09-2019/a-labour-volunteer-alleged-violent-sexual-assault-by-a-senior-staffer-this-is-her-story/"/>
+  <meta property="og:type" content="article"/>
+  <meta property="og:description" content="A woman who says she was subject of a sustained sexual assault by a Labour staffer has for the first time described the harrowing events and the botched internal investigation which followed. Alex Casey reports. 
+
+Content warning: This feature contains distressing descriptions of sexual assault, a"/>
+  <meta property="og:image" content="https://thespinoff.co.nz/wp-content/uploads/2019/09/Labourstory.jpg"/>
+  <meta property="article:published_time" content="2019-09-09T05:40:59+13:00"/>
+  <meta property="article:modified_time" content="2019-09-16T17:54:32+13:00" />
+  <meta property="og:updated_time" content="2019-09-16T17:54:32+13:00" />
+  <meta property="article:section" content="Featured"/>
+  <meta property="article:section" content="Politics"/>
+  <meta property="article:section" content="The Best Of"/>
+  <meta property="article:section" content="Unsponsored"/>
+  <meta property="article:publisher" content="https://www.facebook.com/thespinofftv"/>
+ <!-- Google+ / Schema.org -->
+  <meta itemprop="name" content="A Labour volunteer alleged a violent sexual assault by a Labour staffer. This is her story"/>
+  <meta itemprop="headline" content="A Labour volunteer alleged a violent sexual assault by a Labour staffer. This is her story"/>
+  <meta itemprop="description" content="A woman who says she was subject of a sustained sexual assault by a Labour staffer has for the first time described the harrowing events and the botched internal investigation which followed. Alex Casey reports. 
+
+Content warning: This feature contains distressing descriptions of sexual assault, a"/>
+  <meta itemprop="image" content="https://thespinoff.co.nz/wp-content/uploads/2019/09/Labourstory.jpg"/>
+  <meta itemprop="datePublished" content="2019-09-09"/>
+  <meta itemprop="dateModified" content="2019-09-16T17:54:32+13:00" />
+  <meta itemprop="author" content="Alex Casey"/>
+ <!-- Twitter Cards -->
+  <meta name="twitter:title" content="A Labour volunteer alleged a violent sexual assault by a Labour staffer. This is her story"/>
+  <meta name="twitter:url" content="https://thespinoff.co.nz/unsponsored/09-09-2019/a-labour-volunteer-alleged-violent-sexual-assault-by-a-senior-staffer-this-is-her-story/"/>
+  <meta name="twitter:description" content="A woman who says she was subject of a sustained sexual assault by a Labour staffer has for the first time described the harrowing events and the botched internal investigation which followed. Alex Casey reports. 
+
+Content warning: This feature contains distressing descriptions of sexual assault, a"/>
+  <meta name="twitter:image" content="https://thespinoff.co.nz/wp-content/uploads/2019/09/Labourstory.jpg"/>
+  <meta name="twitter:card" content="summary_large_image"/>
+  <meta name="twitter:creator" content="@alexkc"/>
+  <meta name="twitter:site" content="@TheSpinoffTV"/>
+ <!-- SEO -->
+  <meta name="description" content="A woman who says she was subject of a sustained sexual assault by a Labour staffer has for the first time described the harrowing events and the botched internal investigation which followed. Alex Casey reports. 
+
+Content warning: This feature contains distressing descriptions of sexual assault, a"/>
+ <!-- Misc. tags -->
+ <!-- is_singular -->
+<!-- END - Open Graph for Facebook, Google+ and Twitter Card Tags 2.2.5 -->
+	
+    <!-- Spinoff GA Impression tracking -->
+    <script type="application/javascript">
+        function track_impression(ad, position) {
+            $.get('/click-tracker/?impression=true&url=&ad=' + ad + '&position=' + position);
+        }
+    </script>
+            <!-- Facebook Pixel Code -->
+        <script>!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('init', '676804552487051');fbq('track', "PageView");</script>
+        <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=676804552487051&ev=PageView&noscript=1"/></noscript>
+        <!-- End Facebook Pixel Code -->
+
+                <script>
+            dataLayer = [{
+                'Category': 'unsponsored'
+            }];
+        </script>
+    
+    <script src="https://use.typekit.net/rdo1der.js"></script>
+    <script>try{Typekit.load({ async: true });}catch(e){}</script>
+
+    <!-- PressPatron -->
+        <script>
+        (function(d) {
+            var el, fjs = d.getElementsByTagName('script')[0];
+            el = d.createElement('script');
+            el.id = "js-pp-banner";
+            el.src = "//dashboard.presspatron.com/dev/banner?b=FV8ydDppM7ib9g5xg9mYQN1g";
+            fjs.parentNode.insertBefore(el, fjs);
+        }(document));
+    </script>
+    <!-- End PressPatron -->
+
+            <meta property="al:ios:url" content="thespinoff://story/207644"/>
+        <meta property="al:ios:app_store_id" content="1194728952"/>
+        <meta property="al:ios:app_name" content="The Spinoff"/>
+        <meta property="al:android:url" content="com.thespinoff://story/207644/">
+        <meta property="al:android:package" content="com.thespinoff"/>
+        <meta property="al:android:app_name" content="The Spinoff"/>
+    </head>
+
+<body class="post-template-default single single-post postid-207644 single-format-standard showcase  featured politics the-best-of unsponsored">
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5D6X2F"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-5D6X2F');</script>
+<!-- End Google Tag Manager -->
+
+<div id="page">
+    <a id="top" name="top"></a>
+    <div class="pp-banner-wrapper">
+        <div class="container">
+            <div id="pp-banner"></div>
+        </div>
+    </div>
+    <div id="logo">
+        <div class="container header-container">
+            <div>
+                <button class="button-show-nav visible-xs visible-sm" on="tap:menu-mobile-amp.open">
+                    <i class="fa fa-bars"></i>
+                </button>
+                                <ul class="hidden-xs hidden-sm lsi-social-icons icon-set-lsi_widget-2 search-apps">
+                    <li class="navbar-search">
+                        <a href=""><i class="fa fa-search"></i></a>
+                    </li>
+                    <li class="menu-text">APPS</li>
+                    <li class="lsi-social-applestore"><a href="https://itunes.apple.com/nz/app/the-spinoff/id1194728952?mt=8" target="_blank" title="Download the Spinoff iOS app from the App Store" rel="nofollow"><i class="fa fa-apple"></i></a></li>
+                    <li class="lsi-social-googlestore"><a href="https://play.google.com/store/apps/details?id=com.thespinoff" target="_blank" title="Download the Spinoff Android app from Google Play" rel="nofollow"><i class="fa fa-android"></i></a></li>
+                </ul>
+                <a class="brand" href="/">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 382.23 56.86" class="logo"><g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer 1"><polygon class="cls-1" points="3.41 47.92 19.57 47.92 19.57 51.74 3.41 51.74 3.41 56.86 0 56.86 0 42.8 3.41 42.8 3.41 47.92"/><polygon class="cls-1" points="19.57 26.5 11.38 26.5 11.38 33.13 19.57 33.13 19.57 36.95 0 36.95 0 33.13 7.97 33.13 7.97 26.5 0 26.5 0 22.68 19.57 22.68 19.57 26.5"/><polygon class="cls-1" points="19.57 15.37 0 15.37 0 2.48 3.41 2.48 3.41 11.54 8 11.54 8 3.82 11.41 3.82 11.41 11.54 16.17 11.54 16.17 2.48 19.57 2.48 19.57 15.37"/><path class="cls-2" d="M72.23,28.44a14.2,14.2,0,0,0-4.12-2.58A24.63,24.63,0,0,0,62,24.31l-6.3-.9a10.38,10.38,0,0,1-2.89-.79,8,8,0,0,1-2.06-1.31,5.17,5.17,0,0,1-1.2-1.8,5.56,5.56,0,0,1-.37-2,6.42,6.42,0,0,1,2-4.76q2-2,6.22-2a24.33,24.33,0,0,1,4.4.42l0,.09.43,1.49,6.15,1.67L75,7.89a20.27,20.27,0,0,0-7.57-4.8,29.67,29.67,0,0,0-9.67-1.42A23.61,23.61,0,0,0,50,2.87,17.11,17.11,0,0,0,44.11,6.2a14.36,14.36,0,0,0-3.68,5.1,16.48,16.48,0,0,0-1.27,6.56q0,6.67,3.82,10.49,3.52,3.46,10.35,4.43l6.45.89a14,14,0,0,1,2.89.72,6.15,6.15,0,0,1,1.84,1.16,5.92,5.92,0,0,1,1.65,4.5A5.61,5.61,0,0,1,63.76,45c-1.6,1.12-3.95,1.69-7,1.69a24.73,24.73,0,0,1-7.05-1,13.67,13.67,0,0,1-5.85-3.52L37.66,40.5,37.76,44l2.61,1.62-3.29,3.3a21.18,21.18,0,0,0,8.66,5.51A35.12,35.12,0,0,0,56.56,56a27,27,0,0,0,7.8-1.09,19.24,19.24,0,0,0,6.26-3.15,14.54,14.54,0,0,0,5.74-12,19.93,19.93,0,0,0-1-6.45,11.75,11.75,0,0,0-3.15-4.87"/><path class="cls-2" d="M127.31,7a16.38,16.38,0,0,0-5.55-3.6,19.63,19.63,0,0,0-7.38-1.31H93.68V50.65l-2.62-.29-3.71,3.47L93.5,55.5l.17,0v0H104.1V35.41h10.28a19.52,19.52,0,0,0,7.38-1.31,16.28,16.28,0,0,0,5.55-3.6,15.57,15.57,0,0,0,3.49-5.33,17.71,17.71,0,0,0,0-12.82A15.53,15.53,0,0,0,127.31,7m-7.8,17.08a7.79,7.79,0,0,1-5.66,2H104.1V11.41h9.75a7.7,7.7,0,0,1,5.66,2,7.17,7.17,0,0,1,2.06,5.35,7.05,7.05,0,0,1-2.06,5.31"/><path class="cls-2" d="M276.45,16.74a20.21,20.21,0,0,0-1.57-4.92,15.72,15.72,0,0,0-3.11-4.31,19.18,19.18,0,0,0-14.4-5.85,20.5,20.5,0,0,0-8.1,1.5,20,20,0,0,0-6.37,4.35,15.56,15.56,0,0,0-3.12,4.31,18.71,18.71,0,0,0-1.54,4.92,38.53,38.53,0,0,0-.52,5.62q-.08,3-.08,6.45t.08,6.45a38.48,38.48,0,0,0,.52,5.62,18.67,18.67,0,0,0,1.54,4.91,15.41,15.41,0,0,0,3.12,4.31,19.93,19.93,0,0,0,6.37,4.35,20.5,20.5,0,0,0,8.1,1.5,19.18,19.18,0,0,0,14.4-5.86,15.57,15.57,0,0,0,3.11-4.31,20.16,20.16,0,0,0,1.57-4.91,35,35,0,0,0,.56-5.62q.07-3,.08-6.45T277,22.36a35,35,0,0,0-.56-5.62m-9.9,18.4a31.74,31.74,0,0,1-.41,4.17,9.56,9.56,0,0,1-.82,2.66,8.68,8.68,0,0,1-4.09,3.9,9,9,0,0,1-3.86.79,9.26,9.26,0,0,1-3.9-.79,8.3,8.3,0,0,1-2.85-2.06A7.43,7.43,0,0,1,249.38,42a10.53,10.53,0,0,1-.79-2.66,32.42,32.42,0,0,1-.41-4.17c-.08-1.67-.11-3.79-.11-6.33s0-4.66.11-6.34a32.32,32.32,0,0,1,.41-4.16,10.62,10.62,0,0,1,.79-2.66,7.41,7.41,0,0,1,1.24-1.83,8.37,8.37,0,0,1,2.85-2.07,9.3,9.3,0,0,1,3.9-.78,9.07,9.07,0,0,1,3.86.78,8.76,8.76,0,0,1,4.09,3.9,9.63,9.63,0,0,1,.82,2.66,31.64,31.64,0,0,1,.41,4.16q.11,2.51.11,6.34c0,2.55,0,4.66-.11,6.33"/><polygon class="cls-2" points="382.14 11.41 382.14 2.18 382.23 2.11 376.08 0.45 373.96 2.11 346.97 2.11 346.97 50.63 344.52 50.36 340.82 53.84 346.97 55.5 357.39 55.5 357.39 33.84 378.47 33.84 378.47 24.54 378.29 24.54 372.28 22.91 370.2 24.54 357.39 24.54 357.39 11.41 382.14 11.41"/><polygon class="cls-2" points="322.13 2.11 295.23 2.11 295.23 50.63 292.84 50.36 289.13 53.84 295.23 55.49 295.23 55.5 305.65 55.5 305.65 33.84 326.73 33.84 326.73 24.59 326.74 24.58 326.73 24.57 326.73 24.54 326.6 24.54 320.59 22.91 318.52 24.54 305.65 24.54 305.65 11.41 330.4 11.41 330.4 2.11 324.25 0.45 322.13 2.11"/><polygon class="cls-2" points="213.32 0.45 211.19 2.11 209.07 2.11 209.07 34.81 187.94 2.13 187.96 2.11 181.81 0.45 179.68 2.11 178.64 2.11 178.64 2.94 178.17 3.31 178.64 3.44 178.64 50.68 175.82 50.36 172.12 53.84 178.27 55.5 178.64 55.41 178.64 55.5 189.06 55.5 189.06 22.73 207.19 50.84 203.99 53.84 210.15 55.5 210.19 55.49 210.2 55.5 219.5 55.5 219.5 2.11 219.47 2.11 213.32 0.45"/><polygon class="cls-2" points="152.51 0.45 150.39 2.11 148.26 2.11 148.26 50.64 145.78 50.36 142.08 53.84 148.23 55.5 148.26 55.5 148.26 55.5 158.69 55.5 158.69 2.11 158.66 2.11 152.51 0.45"/><path class="cls-1" d="M70.21,38.09a14.56,14.56,0,0,1-5.74,12,19.06,19.06,0,0,1-6.26,3.15,26.8,26.8,0,0,1-7.8,1.09,35,35,0,0,1-10.83-1.54,21.2,21.2,0,0,1-8.66-5.51l6.75-6.75A13.64,13.64,0,0,0,43.51,44a24.72,24.72,0,0,0,7.05,1c3.1,0,5.45-.56,7-1.68A5.63,5.63,0,0,0,60,38.39a5.93,5.93,0,0,0-1.65-4.5,6.09,6.09,0,0,0-1.84-1.16A14,14,0,0,0,53.63,32l-6.45-.89q-6.83-1-10.35-4.43Q33,22.88,33,16.2a16.41,16.41,0,0,1,1.28-6.56A14.26,14.26,0,0,1,38,4.53,17.14,17.14,0,0,1,43.81,1.2,23.66,23.66,0,0,1,51.61,0a29.72,29.72,0,0,1,9.68,1.42,20.33,20.33,0,0,1,7.57,4.8l-6.6,6.52a11.66,11.66,0,0,0-5.44-3,25.62,25.62,0,0,0-5.51-.63q-4.2,0-6.22,2a6.44,6.44,0,0,0-2,4.76,5.64,5.64,0,0,0,.37,2,5.15,5.15,0,0,0,1.2,1.8A7.78,7.78,0,0,0,46.7,21a10.22,10.22,0,0,0,2.89.79l6.3.9A24.61,24.61,0,0,1,62,24.19a14.22,14.22,0,0,1,4.13,2.59,11.74,11.74,0,0,1,3.15,4.87,19.81,19.81,0,0,1,1,6.45"/><path class="cls-1" d="M125.84,17.1a17.35,17.35,0,0,1-1.2,6.41,15.46,15.46,0,0,1-3.49,5.33,16.37,16.37,0,0,1-5.55,3.6,19.63,19.63,0,0,1-7.38,1.31H97.95V53.84H87.53V.45h20.69a19.71,19.71,0,0,1,7.38,1.31,16.37,16.37,0,0,1,5.55,3.6,15.45,15.45,0,0,1,3.49,5.32,17.35,17.35,0,0,1,1.2,6.41m-10.42,0a7.16,7.16,0,0,0-2.07-5.35,7.69,7.69,0,0,0-5.66-2H97.95v14.7h9.75a7.79,7.79,0,0,0,5.66-2,7,7,0,0,0,2.07-5.31"/><rect class="cls-1" x="142.11" y="0.45" width="10.43" height="53.39"/><polygon class="cls-1" points="204.05 53.84 182.9 21.07 182.9 53.84 172.48 53.84 172.48 0.45 181.78 0.45 202.92 33.14 202.92 0.45 213.34 0.45 213.34 53.84 204.05 53.84"/><path class="cls-1" d="M270.94,27.15q0,3.45-.08,6.45a36.61,36.61,0,0,1-.56,5.63,19.94,19.94,0,0,1-1.57,4.9,15.68,15.68,0,0,1-3.12,4.32,19.2,19.2,0,0,1-14.4,5.85,20.47,20.47,0,0,1-8.1-1.51,20.13,20.13,0,0,1-6.37-4.35,15.59,15.59,0,0,1-3.11-4.32,18.5,18.5,0,0,1-1.54-4.9,38.88,38.88,0,0,1-.52-5.63c-.06-2-.08-4.15-.08-6.45s0-4.45.08-6.45a38.85,38.85,0,0,1,.52-5.62,18.5,18.5,0,0,1,1.54-4.91,15.59,15.59,0,0,1,3.11-4.32,20.12,20.12,0,0,1,6.37-4.35,20.58,20.58,0,0,1,8.1-1.5,20.32,20.32,0,0,1,8.06,1.5,20.22,20.22,0,0,1,6.33,4.35,15.68,15.68,0,0,1,3.12,4.32,19.93,19.93,0,0,1,1.57,4.91,36.58,36.58,0,0,1,.56,5.62q.07,3,.08,6.45m-10.42,0q0-3.83-.11-6.34a32.56,32.56,0,0,0-.42-4.16,9.52,9.52,0,0,0-.83-2.66,8.79,8.79,0,0,0-1.27-1.83,8.58,8.58,0,0,0-2.82-2.07,9.07,9.07,0,0,0-3.86-.78,9.34,9.34,0,0,0-3.9.78,8.41,8.41,0,0,0-2.85,2.07A7.73,7.73,0,0,0,243.23,14a10.63,10.63,0,0,0-.79,2.66,31.67,31.67,0,0,0-.42,4.16c-.07,1.68-.11,3.79-.11,6.34s0,4.66.11,6.33a31.62,31.62,0,0,0,.42,4.16,10.48,10.48,0,0,0,.79,2.66,7.63,7.63,0,0,0,1.24,1.84,8.43,8.43,0,0,0,2.85,2.06,9.27,9.27,0,0,0,3.9.79,9,9,0,0,0,3.86-.79,8.58,8.58,0,0,0,4.09-3.9,9.39,9.39,0,0,0,.83-2.66,32.5,32.5,0,0,0,.42-4.16q.11-2.51.11-6.33"/><polygon class="cls-1" points="299.5 9.75 299.5 22.87 320.57 22.87 320.57 32.17 299.5 32.17 299.5 53.84 289.08 53.84 289.08 0.45 324.25 0.45 324.25 9.75 299.5 9.75"/><polygon class="cls-1" points="351.24 9.75 351.24 22.87 372.31 22.87 372.31 32.17 351.24 32.17 351.24 53.84 340.82 53.84 340.82 0.45 375.99 0.45 375.99 9.75 351.24 9.75"/></g></g></svg>
+                    <div class="brand-img"></div>
+                </a>
+               
+                <ul class="hidden-xs hidden-sm lsi-social-icons icon-set-lsi_widget-2">
+                    <!-- <li class="menu-text">ELSEWHERE</li>
+                    <li class="lsi-social-spotify"><a target="_blank" href="https://play.spotify.com/user/the_spinoff" title="Spotify" rel="nofollow"><i class="fa fa-spotify"></i></a></li> -->
+                    <li class="lsi-social-email"><a href="https://thespinoff.co.nz/subscribe-to-our-newsletters/" title="Newsletters" rel="nofollow"><i class="fa fa-envelope"></i></a></li>
+                    <li class="lsi-social-youtube"><a target="_blank" href="https://www.youtube.com/channel/UCprQWxc91NtC1Jx1iuEbC-Q" title="YouTube" rel="nofollow" class=""><i class="fa fa-youtube"></i></a></li>
+                    <li class="lsi-social-facebook"><a target="_blank" href="https://www.facebook.com/thespinofftv" title="Facebook" rel="nofollow" class=""><i class="fa fa-facebook"></i></a></li>
+                    <li class="lsi-social-twitter"><a target="_blank" href="https://twitter.com/TheSpinoffTV" title="Twitter" rel="nofollow" class=""><i class="fa fa-twitter"></i></a></li>
+                    <li class="lsi-social-instagram"><a target="_blank" href="https://instagram.com/thespinofftv" title="Instagram" rel="nofollow" class=""><i class="fa fa-instagram"></i></a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="menu-wrapper">
+            <div class="container">
+                <nav id="menu" class="nav hidden-xs hidden-sm visible-md visible-lg">
+                    <ul id="menu-main" class="nav nav-offcanvas"><li id="menu-item-124500" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-124500"><a href="/">Home</a></li>
+<li id="menu-item-10150" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10150"><a href="https://thespinoff.co.nz/category/tv/">TV</a></li>
+<li id="menu-item-10151" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-10151"><a href="https://thespinoff.co.nz/category/politics/">Politics</a></li>
+<li id="menu-item-43929" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-43929"><a href="https://thespinoff.co.nz/category/music/">Music</a></li>
+<li id="menu-item-146837" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-146837"><a href="https://thespinoff.co.nz/category/food/">Food</a></li>
+<li id="menu-item-107021" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-107021"><a href="https://thespinoff.co.nz/category/business/">Business</a></li>
+<li id="menu-item-110231" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-110231"><a href="https://thespinoff.co.nz/category/atea/">Ātea</a></li>
+<li id="menu-item-197445" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-197445"><a href="https://thespinoff.co.nz/category/art/">Art</a></li>
+<li id="menu-item-10152" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10152"><a href="https://thespinoff.co.nz/category/books/">Books</a></li>
+<li id="menu-item-108060" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-108060"><a href="https://thespinoff.co.nz/category/science/">Science</a></li>
+<li id="menu-item-217254" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-217254"><a href="https://thespinoff.co.nz/category/money/">Money</a></li>
+<li id="menu-item-212191" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-212191"><a href="https://thespinoff.co.nz/members/?utm_source=joinmembersgreenweb">Members</a></li>
+<li id="menu-item-192159" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-192159"><a href="https://thespinoff.co.nz/category/video/">Video</a></li>
+<li id="menu-item-284" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-284"><a href="https://thespinoff.co.nz/about-contact/">About</a></li>
+</ul>                </nav>
+            </div>
+        </div>
+    </div>
+    <div class="search-form">
+        <div class="container">
+            <div class="row">
+                	<form method="get" id="searchform" action="https://thespinoff.co.nz/">
+		<input type="text" class="search-query" name="s" id="s" placeholder="Search" />
+	</form>
+                <button class="go">Go</button>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container position-relative menu-categories-container">
+    <div class="menu-categories">
+        <div class="menu-categories-header">
+            <a class="brand" href="/">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 382.23 56.86" class="logo"><g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer 1"><polygon class="cls-1" points="3.41 47.92 19.57 47.92 19.57 51.74 3.41 51.74 3.41 56.86 0 56.86 0 42.8 3.41 42.8 3.41 47.92"/><polygon class="cls-1" points="19.57 26.5 11.38 26.5 11.38 33.13 19.57 33.13 19.57 36.95 0 36.95 0 33.13 7.97 33.13 7.97 26.5 0 26.5 0 22.68 19.57 22.68 19.57 26.5"/><polygon class="cls-1" points="19.57 15.37 0 15.37 0 2.48 3.41 2.48 3.41 11.54 8 11.54 8 3.82 11.41 3.82 11.41 11.54 16.17 11.54 16.17 2.48 19.57 2.48 19.57 15.37"/><path class="cls-2" d="M72.23,28.44a14.2,14.2,0,0,0-4.12-2.58A24.63,24.63,0,0,0,62,24.31l-6.3-.9a10.38,10.38,0,0,1-2.89-.79,8,8,0,0,1-2.06-1.31,5.17,5.17,0,0,1-1.2-1.8,5.56,5.56,0,0,1-.37-2,6.42,6.42,0,0,1,2-4.76q2-2,6.22-2a24.33,24.33,0,0,1,4.4.42l0,.09.43,1.49,6.15,1.67L75,7.89a20.27,20.27,0,0,0-7.57-4.8,29.67,29.67,0,0,0-9.67-1.42A23.61,23.61,0,0,0,50,2.87,17.11,17.11,0,0,0,44.11,6.2a14.36,14.36,0,0,0-3.68,5.1,16.48,16.48,0,0,0-1.27,6.56q0,6.67,3.82,10.49,3.52,3.46,10.35,4.43l6.45.89a14,14,0,0,1,2.89.72,6.15,6.15,0,0,1,1.84,1.16,5.92,5.92,0,0,1,1.65,4.5A5.61,5.61,0,0,1,63.76,45c-1.6,1.12-3.95,1.69-7,1.69a24.73,24.73,0,0,1-7.05-1,13.67,13.67,0,0,1-5.85-3.52L37.66,40.5,37.76,44l2.61,1.62-3.29,3.3a21.18,21.18,0,0,0,8.66,5.51A35.12,35.12,0,0,0,56.56,56a27,27,0,0,0,7.8-1.09,19.24,19.24,0,0,0,6.26-3.15,14.54,14.54,0,0,0,5.74-12,19.93,19.93,0,0,0-1-6.45,11.75,11.75,0,0,0-3.15-4.87"/><path class="cls-2" d="M127.31,7a16.38,16.38,0,0,0-5.55-3.6,19.63,19.63,0,0,0-7.38-1.31H93.68V50.65l-2.62-.29-3.71,3.47L93.5,55.5l.17,0v0H104.1V35.41h10.28a19.52,19.52,0,0,0,7.38-1.31,16.28,16.28,0,0,0,5.55-3.6,15.57,15.57,0,0,0,3.49-5.33,17.71,17.71,0,0,0,0-12.82A15.53,15.53,0,0,0,127.31,7m-7.8,17.08a7.79,7.79,0,0,1-5.66,2H104.1V11.41h9.75a7.7,7.7,0,0,1,5.66,2,7.17,7.17,0,0,1,2.06,5.35,7.05,7.05,0,0,1-2.06,5.31"/><path class="cls-2" d="M276.45,16.74a20.21,20.21,0,0,0-1.57-4.92,15.72,15.72,0,0,0-3.11-4.31,19.18,19.18,0,0,0-14.4-5.85,20.5,20.5,0,0,0-8.1,1.5,20,20,0,0,0-6.37,4.35,15.56,15.56,0,0,0-3.12,4.31,18.71,18.71,0,0,0-1.54,4.92,38.53,38.53,0,0,0-.52,5.62q-.08,3-.08,6.45t.08,6.45a38.48,38.48,0,0,0,.52,5.62,18.67,18.67,0,0,0,1.54,4.91,15.41,15.41,0,0,0,3.12,4.31,19.93,19.93,0,0,0,6.37,4.35,20.5,20.5,0,0,0,8.1,1.5,19.18,19.18,0,0,0,14.4-5.86,15.57,15.57,0,0,0,3.11-4.31,20.16,20.16,0,0,0,1.57-4.91,35,35,0,0,0,.56-5.62q.07-3,.08-6.45T277,22.36a35,35,0,0,0-.56-5.62m-9.9,18.4a31.74,31.74,0,0,1-.41,4.17,9.56,9.56,0,0,1-.82,2.66,8.68,8.68,0,0,1-4.09,3.9,9,9,0,0,1-3.86.79,9.26,9.26,0,0,1-3.9-.79,8.3,8.3,0,0,1-2.85-2.06A7.43,7.43,0,0,1,249.38,42a10.53,10.53,0,0,1-.79-2.66,32.42,32.42,0,0,1-.41-4.17c-.08-1.67-.11-3.79-.11-6.33s0-4.66.11-6.34a32.32,32.32,0,0,1,.41-4.16,10.62,10.62,0,0,1,.79-2.66,7.41,7.41,0,0,1,1.24-1.83,8.37,8.37,0,0,1,2.85-2.07,9.3,9.3,0,0,1,3.9-.78,9.07,9.07,0,0,1,3.86.78,8.76,8.76,0,0,1,4.09,3.9,9.63,9.63,0,0,1,.82,2.66,31.64,31.64,0,0,1,.41,4.16q.11,2.51.11,6.34c0,2.55,0,4.66-.11,6.33"/><polygon class="cls-2" points="382.14 11.41 382.14 2.18 382.23 2.11 376.08 0.45 373.96 2.11 346.97 2.11 346.97 50.63 344.52 50.36 340.82 53.84 346.97 55.5 357.39 55.5 357.39 33.84 378.47 33.84 378.47 24.54 378.29 24.54 372.28 22.91 370.2 24.54 357.39 24.54 357.39 11.41 382.14 11.41"/><polygon class="cls-2" points="322.13 2.11 295.23 2.11 295.23 50.63 292.84 50.36 289.13 53.84 295.23 55.49 295.23 55.5 305.65 55.5 305.65 33.84 326.73 33.84 326.73 24.59 326.74 24.58 326.73 24.57 326.73 24.54 326.6 24.54 320.59 22.91 318.52 24.54 305.65 24.54 305.65 11.41 330.4 11.41 330.4 2.11 324.25 0.45 322.13 2.11"/><polygon class="cls-2" points="213.32 0.45 211.19 2.11 209.07 2.11 209.07 34.81 187.94 2.13 187.96 2.11 181.81 0.45 179.68 2.11 178.64 2.11 178.64 2.94 178.17 3.31 178.64 3.44 178.64 50.68 175.82 50.36 172.12 53.84 178.27 55.5 178.64 55.41 178.64 55.5 189.06 55.5 189.06 22.73 207.19 50.84 203.99 53.84 210.15 55.5 210.19 55.49 210.2 55.5 219.5 55.5 219.5 2.11 219.47 2.11 213.32 0.45"/><polygon class="cls-2" points="152.51 0.45 150.39 2.11 148.26 2.11 148.26 50.64 145.78 50.36 142.08 53.84 148.23 55.5 148.26 55.5 148.26 55.5 158.69 55.5 158.69 2.11 158.66 2.11 152.51 0.45"/><path class="cls-1" d="M70.21,38.09a14.56,14.56,0,0,1-5.74,12,19.06,19.06,0,0,1-6.26,3.15,26.8,26.8,0,0,1-7.8,1.09,35,35,0,0,1-10.83-1.54,21.2,21.2,0,0,1-8.66-5.51l6.75-6.75A13.64,13.64,0,0,0,43.51,44a24.72,24.72,0,0,0,7.05,1c3.1,0,5.45-.56,7-1.68A5.63,5.63,0,0,0,60,38.39a5.93,5.93,0,0,0-1.65-4.5,6.09,6.09,0,0,0-1.84-1.16A14,14,0,0,0,53.63,32l-6.45-.89q-6.83-1-10.35-4.43Q33,22.88,33,16.2a16.41,16.41,0,0,1,1.28-6.56A14.26,14.26,0,0,1,38,4.53,17.14,17.14,0,0,1,43.81,1.2,23.66,23.66,0,0,1,51.61,0a29.72,29.72,0,0,1,9.68,1.42,20.33,20.33,0,0,1,7.57,4.8l-6.6,6.52a11.66,11.66,0,0,0-5.44-3,25.62,25.62,0,0,0-5.51-.63q-4.2,0-6.22,2a6.44,6.44,0,0,0-2,4.76,5.64,5.64,0,0,0,.37,2,5.15,5.15,0,0,0,1.2,1.8A7.78,7.78,0,0,0,46.7,21a10.22,10.22,0,0,0,2.89.79l6.3.9A24.61,24.61,0,0,1,62,24.19a14.22,14.22,0,0,1,4.13,2.59,11.74,11.74,0,0,1,3.15,4.87,19.81,19.81,0,0,1,1,6.45"/><path class="cls-1" d="M125.84,17.1a17.35,17.35,0,0,1-1.2,6.41,15.46,15.46,0,0,1-3.49,5.33,16.37,16.37,0,0,1-5.55,3.6,19.63,19.63,0,0,1-7.38,1.31H97.95V53.84H87.53V.45h20.69a19.71,19.71,0,0,1,7.38,1.31,16.37,16.37,0,0,1,5.55,3.6,15.45,15.45,0,0,1,3.49,5.32,17.35,17.35,0,0,1,1.2,6.41m-10.42,0a7.16,7.16,0,0,0-2.07-5.35,7.69,7.69,0,0,0-5.66-2H97.95v14.7h9.75a7.79,7.79,0,0,0,5.66-2,7,7,0,0,0,2.07-5.31"/><rect class="cls-1" x="142.11" y="0.45" width="10.43" height="53.39"/><polygon class="cls-1" points="204.05 53.84 182.9 21.07 182.9 53.84 172.48 53.84 172.48 0.45 181.78 0.45 202.92 33.14 202.92 0.45 213.34 0.45 213.34 53.84 204.05 53.84"/><path class="cls-1" d="M270.94,27.15q0,3.45-.08,6.45a36.61,36.61,0,0,1-.56,5.63,19.94,19.94,0,0,1-1.57,4.9,15.68,15.68,0,0,1-3.12,4.32,19.2,19.2,0,0,1-14.4,5.85,20.47,20.47,0,0,1-8.1-1.51,20.13,20.13,0,0,1-6.37-4.35,15.59,15.59,0,0,1-3.11-4.32,18.5,18.5,0,0,1-1.54-4.9,38.88,38.88,0,0,1-.52-5.63c-.06-2-.08-4.15-.08-6.45s0-4.45.08-6.45a38.85,38.85,0,0,1,.52-5.62,18.5,18.5,0,0,1,1.54-4.91,15.59,15.59,0,0,1,3.11-4.32,20.12,20.12,0,0,1,6.37-4.35,20.58,20.58,0,0,1,8.1-1.5,20.32,20.32,0,0,1,8.06,1.5,20.22,20.22,0,0,1,6.33,4.35,15.68,15.68,0,0,1,3.12,4.32,19.93,19.93,0,0,1,1.57,4.91,36.58,36.58,0,0,1,.56,5.62q.07,3,.08,6.45m-10.42,0q0-3.83-.11-6.34a32.56,32.56,0,0,0-.42-4.16,9.52,9.52,0,0,0-.83-2.66,8.79,8.79,0,0,0-1.27-1.83,8.58,8.58,0,0,0-2.82-2.07,9.07,9.07,0,0,0-3.86-.78,9.34,9.34,0,0,0-3.9.78,8.41,8.41,0,0,0-2.85,2.07A7.73,7.73,0,0,0,243.23,14a10.63,10.63,0,0,0-.79,2.66,31.67,31.67,0,0,0-.42,4.16c-.07,1.68-.11,3.79-.11,6.34s0,4.66.11,6.33a31.62,31.62,0,0,0,.42,4.16,10.48,10.48,0,0,0,.79,2.66,7.63,7.63,0,0,0,1.24,1.84,8.43,8.43,0,0,0,2.85,2.06,9.27,9.27,0,0,0,3.9.79,9,9,0,0,0,3.86-.79,8.58,8.58,0,0,0,4.09-3.9,9.39,9.39,0,0,0,.83-2.66,32.5,32.5,0,0,0,.42-4.16q.11-2.51.11-6.33"/><polygon class="cls-1" points="299.5 9.75 299.5 22.87 320.57 22.87 320.57 32.17 299.5 32.17 299.5 53.84 289.08 53.84 289.08 0.45 324.25 0.45 324.25 9.75 299.5 9.75"/><polygon class="cls-1" points="351.24 9.75 351.24 22.87 372.31 22.87 372.31 32.17 351.24 32.17 351.24 53.84 340.82 53.84 340.82 0.45 375.99 0.45 375.99 9.75 351.24 9.75"/></g></g></svg>
+            </a>
+            <a href="#" class="menu-categories-close"><i class="fa fa-times" aria-hidden="true"></i></a>
+        </div>
+        <div class="menu-main-container"><ul id="menu-main-1" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-124500"><a href="/">Home</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10150"><a href="https://thespinoff.co.nz/category/tv/">TV</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-10151"><a href="https://thespinoff.co.nz/category/politics/">Politics</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-43929"><a href="https://thespinoff.co.nz/category/music/">Music</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-146837"><a href="https://thespinoff.co.nz/category/food/">Food</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-107021"><a href="https://thespinoff.co.nz/category/business/">Business</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-110231"><a href="https://thespinoff.co.nz/category/atea/">Ātea</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-197445"><a href="https://thespinoff.co.nz/category/art/">Art</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10152"><a href="https://thespinoff.co.nz/category/books/">Books</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-108060"><a href="https://thespinoff.co.nz/category/science/">Science</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-217254"><a href="https://thespinoff.co.nz/category/money/">Money</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-212191"><a href="https://thespinoff.co.nz/members/?utm_source=joinmembersgreenweb">Members</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-192159"><a href="https://thespinoff.co.nz/category/video/">Video</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-284"><a href="https://thespinoff.co.nz/about-contact/">About</a></li>
+</ul></div>    </div>
+</div>
+<nav id="menu-mobile" class="nav visible-xs visible-sm hidden-md">
+    <a class="button-show-nav btn btn-default"><span class="close">&times;</span></a>
+    <ul id="menu-main-2" class="nav nav-offcanvas"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-124500"><a href="/">Home</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10150"><a href="https://thespinoff.co.nz/category/tv/">TV</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-10151"><a href="https://thespinoff.co.nz/category/politics/">Politics</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-43929"><a href="https://thespinoff.co.nz/category/music/">Music</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-146837"><a href="https://thespinoff.co.nz/category/food/">Food</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-107021"><a href="https://thespinoff.co.nz/category/business/">Business</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-110231"><a href="https://thespinoff.co.nz/category/atea/">Ātea</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-197445"><a href="https://thespinoff.co.nz/category/art/">Art</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10152"><a href="https://thespinoff.co.nz/category/books/">Books</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-108060"><a href="https://thespinoff.co.nz/category/science/">Science</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-217254"><a href="https://thespinoff.co.nz/category/money/">Money</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-212191"><a href="https://thespinoff.co.nz/members/?utm_source=joinmembersgreenweb">Members</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-192159"><a href="https://thespinoff.co.nz/category/video/">Video</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-284"><a href="https://thespinoff.co.nz/about-contact/">About</a></li>
+</ul>    <div class="search-form">
+        	<form method="get" id="searchform" action="https://thespinoff.co.nz/">
+		<input type="text" class="search-query" name="s" id="s" placeholder="Search" />
+	</form>
+    </div>
+</nav>
+
+
+<div id="main" class="site-main">
+    <div class="container">
+
+                    </div>
+        <div id="hero-bg" style="background-image:url(https://thespinoff.co.nz/wp-content/uploads/2019/09/Labourstory.jpg);">
+            <header class="entry-header container-fluid">
+                <div class="container">
+                    <h3 class="category-"><a href="/category//"></a></h3>
+                    <h1 class="entry-title">A Labour volunteer alleged a violent sexual assault by a Labour staffer. This is her story</h1>
+                    <div class="entry-meta meta-top">
+                        <a href="https://thespinoff.co.nz/author/alex-casey/" title="View all posts by Alex Casey" rel="author"><span class="avatar" title="Alex Casey is the Senior Writer at The Spinoff and host of the On the Rag podcast.
+Email her on alex@thespinoff.co.nz" style="background-image:url('https://thespinoff.co.nz/wp-content/uploads/2019/05/Screen-Shot-2019-05-30-at-2.14.20-PM.jpg');"></span> <span class="author vcard">By Alex Casey</span></a> | Senior Writer<br><time class="entry-date" datetime="2019-09-09T05:40:59+13:00">September 9, 2019</time>                    </div>
+                    <!--<p class="summary">A woman who says she was subject of a sustained sexual assault by a Labour staffer has for the first time described the harrowing events and the botched internal investigation which followed. </p>-->
+                </div>
+            </header>
+        </div>
+        <div class="container">
+    
+    <div class="row">
+        <div id="primary" class="col-sm-8 col-md-8 col-lg-9">
+            <div id="content">
+                <!--                -->                <!--                    <a href="http://policy.thespinoff.co.nz" target="_blank" style="display:block;margin-bottom:20px;" id="track-me" data-track-label="Policy Tool" data-track-position="banner"><img src="/wp-content/uploads/2017/08/policy-1-08-08.png" alt="" width="1130" height="170" class="img-responsive" onload="dataLayer.push({'event': 'ad-detected'});" /></a>-->
+                <!--                -->                <div id="main-content">
+                    <div id="main-content-inner">
+                        <div class="unsponsored">
+                                                            <article
+        id="post-207644" class="clearfix fullscreen post-207644 post type-post status-publish format-standard has-post-thumbnail hentry category-featured category-politics category-the-best-of category-unsponsored tag-jacinda-ardern tag-labour-party tag-labour-party-inquiry tag-nigel-haworth tag-sexual-assault featured politics the-best-of unsponsored">
+    <div class="entry-inner">
+        <header class="entry-header">
+            <div class="d-flex flex-direction-row flex-space-between align-items-center mb-2">
+                <div class="entry-meta text-uppercase">September 9, 2019</div>
+                <div class="category-unsponsored showcase">
+                    <div class="category-title-sm">
+                                                                    </div>
+                </div>
+            </div>
+            <img width="850" height="510" src="https://thespinoff.co.nz/wp-content/uploads/2019/09/Labourstory.jpg" class="img-responsive bordered wp-post-image" alt="" srcset="https://thespinoff.co.nz/wp-content/uploads/2019/09/Labourstory.jpg 850w, https://thespinoff.co.nz/wp-content/uploads/2019/09/Labourstory-300x180.jpg 300w, https://thespinoff.co.nz/wp-content/uploads/2019/09/Labourstory-768x461.jpg 768w, https://thespinoff.co.nz/wp-content/uploads/2019/09/Labourstory-415x250.jpg 415w" sizes="(max-width: 850px) 100vw, 850px" /><div class="wp-caption-text">Illustration: Toby Morris</div>            <h1 class="entry-title">A Labour volunteer alleged a violent sexual assault by a Labour staffer. This is her story</h1>
+            <div class="entry-meta meta-top d-flex flex-direction-row align-items-center mb-2">
+                                <a href="https://thespinoff.co.nz/author/alex-casey/" title="View all posts by Alex Casey" rel="author"><div class="avatar" title="Alex Casey is the Senior Writer at The Spinoff and host of the On the Rag podcast.
+Email her on alex@thespinoff.co.nz" style="background-image:url('https://thespinoff.co.nz/wp-content/uploads/2019/05/Screen-Shot-2019-05-30-at-2.14.20-PM.jpg');"></div></a><div><a href="https://thespinoff.co.nz/author/alex-casey/" title="View all posts by Alex Casey" rel="author"><span class="author vcard">Alex Casey</span></a>  | Senior Writer<br />Feature</div>            </div>
+        </header>
+        <div class="entry-content">
+            <p><strong>A woman who says she was subject of a sustained sexual assault by a Labour staffer has for the first time described the harrowing events and the botched internal investigation which followed. Alex Casey reports.&nbsp;</strong><p><strong>Content warning: </strong><i><span style="font-weight: 400;">This feature contains distressing descriptions of sexual assault, along with its mental health implications, which may be triggering to survivors.</span></i></p><p><span style="font-weight: 400;"><span class="dropcap">A</span> Labour party staffer is alleged to have committed a serious and sustained sexual assault on a 19-year-old volunteer early in 2018. The volunteer told the Spinoff the assault was compounded by the resulting inquiry, during which the alleged perpetrator was not stood down from any duties, which included the supervision of Young Labour volunteers. The complaint process, undertaken entirely by people within the Labour Party, has left her feeling &ldquo;angry, quite fearful and desperate&rdquo;.&nbsp;</span></p><p><span style="font-weight: 400;">The alleged perpetrator has ties throughout the party hierarchy. The woman, who remains a member of the Labour Party, said the man&rsquo;s level of influence left her constantly frightened of the impact of speaking out.</span></p><p><span style="font-weight: 400;">Over the course of numerous in-depth interviews with The Spinoff, Sarah &ndash; whose name has been changed to protect her identity &ndash; detailed how she was pinned down and sexually assaulted at the man&rsquo;s home during a private meeting to discuss party business in early 2018. The process that followed, beginning in April 2018 during the post-Labour Camp review undertaken by Maria Berryman, has completely eroded her faith in the party.</span></p><p><span style="font-weight: 400;">Sarah is one of at least seven people who made formal complaints in relation to the individual, ranging from bullying, intimidation and sexual harassment through to sexual assault. She described him as having a &ldquo;pretty senior and active&rdquo; role in the party, and being well-connected with several high profile Labour MPs. The Spinoff understands that he remains working in parliament.</span></p><p><span style="font-weight: 400;">Sarah said she raised the allegations during an internal inquiry, with the investigating panel comprising three members of the New Zealand Council, the Labour Party&rsquo;s governing body. Sarah and the other complainants were invited to appear before the panel at a meeting held at the Labour Party&rsquo;s offices in Wellington. At the conclusion of the inquiry, after months with scant communication, the seven complainants all received an email from party president Nigel Haworth detailing the outcome of the internal investigation. &ldquo;The recommendation was that no disciplinary action be taken in this case,&rdquo; he wrote. &ldquo;The New Zealand Council has accepted this recommendation.&rdquo;</span></p><p><span style="font-weight: 400;">Across a series of interviews over recent weeks, Sarah laid out her experience with the staffer, and detailed the process that she and the other complainants underwent. The Spinoff has spoken at length to another of the complainants and viewed more than 100 documents, screengrabs and pieces of correspondence.</span></p><p><span style="font-weight: 400;">A lawyer acting for the Labour staffer did not respond to a request for comment (see update). Detailed questions put to the Labour Party president and the prime minister&rsquo;s office were not answered, but a statement was provided in the name of Haworth.</span></p><p><span style="font-weight: 400;">&ldquo;</span><span style="font-weight: 400;">There is an appeal under way, being led by an experienced Queen&rsquo;s Counsel, that is reviewing the original investigation and its findings. That is the appropriate place for these issues to be considered,&rdquo; he said.</span></p><p><span style="font-weight: 400;">&ldquo;It&rsquo;s important to be clear that none of the complaints the party investigated related to sexual assault. The person leading the original review made it clear to the complainants that the party would never be the appropriate body to handle allegations of that nature and that they would need to be investigated by the police.</span></p><p><span style="font-weight: 400;">&ldquo;Given all these matters are subject to a current appeal process it isn&rsquo;t appropriate to comment further on them until the appeal is complete.&rdquo;&nbsp;</span></p><p>Told that the party denied hearing a complaint during its investigation, Sarah was adamant that both in documents supplied and her testimony that they were. What follows is a full description of her experience.</p><p><span style="font-weight: 400;"><span class="dropcap">S</span>arah told The Spinoff that the central incident took place during a work meeting at a private residence in early 2018. A month later </span><a href="https://www.newsroom.co.nz/2018/03/12/96033/labour-summer-school-claims" target="_blank" rel="noopener noreferrer"><span style="font-weight: 400;">allegations of sexual assault</span></a><span style="font-weight: 400;"> at a Labour summer camp surfaced. </span><a href="https://www.stuff.co.nz/national/politics/102258572/labour-suspends-all-young-labour-events-while-review-carried-out" target="_blank" rel="noopener noreferrer"><span style="font-weight: 400;">Labour announced</span></a><span style="font-weight: 400;"> it would conduct a review into the youth camp complaints, to be led by lawyer Maria Berryman.&nbsp;</span></p><p><span style="font-weight: 400;">&ldquo;</span><span style="font-weight: 400;">We failed the young people who told us they had been hurt &ndash; this failure left them feeling abandoned and I am deeply sorry for that. It&rsquo;s not good enough, we let them down,</span><span style="font-weight: 400;">&rdquo; Jacinda Ardern, prime minister and Labour Party leader, said at the time. </span><span style="font-weight: 400;">&ldquo;We handled this very, very badly as a party</span><span style="font-weight: 400;"> &hellip; Ultimately our focus as a party must be those young people. That&rsquo;s our focus, rather than focusing simply on the future of individual employees.&rdquo;&nbsp;</span></p><p><span style="font-weight: 400;">The party appealed to any other victims who had experienced historical harassment or abuse at other Labour Party events. &ldquo;We are open to taking up any of those complaints in a serious and effective manner,&rdquo; Nigel Haworth told media. &ldquo;I want this to be a safe party where everyone can go to any event and be sure they won&rsquo;t be harassed or subjected to any of this treatment. It is utterly unacceptable.&rdquo;&nbsp;</span></p><p><span style="font-weight: 400;">Encouraged by the invitation, Sarah began to weigh up whether to go through the process of sharing her own story with the inquiry. While the prospect filled her with dread, she decided to make contact.&nbsp;</span></p><p><span style="font-weight: 400;"><span class="dropcap">H</span>er connection to the party had begun two years earlier, when she joined the Labour Party at university. &ldquo;I felt like I was a part of a movement,&rdquo; she said. &ldquo;It felt exciting, like I had found a place in alignment with my values.&rdquo; An ambitious young feminist, she was impressed by the strong women within Young Labour, leading the charge on abortion reform and advocating for survivors of sexual assault.</span></p><p><span style="font-weight: 400;">&ldquo;I saw them as putting people first,&rdquo; she said. &ldquo;There were a lot of good people doing a lot of good things.&rdquo;</span></p><p><span style="font-weight: 400;">Over the next year, Sarah immersed herself in the party as a volunteer, quickly gaining more recognition and responsibility. It was during this period that she first came into contact with the alleged perpetrator, who is several years her senior, and started to have correspondence and regular meetings with him. He was already established in a leadership position at Young Labour, and his star continued to rise in the party proper.&nbsp;</span></p><p><span style="font-weight: 400;">It was soon clear his interest in her was not purely political or professional, she said. On a party trip in 2017, after a night of drinking, he spent time &ldquo;coming up behind me, hugging me, grabbing me&rdquo;, she wrote in an April 2018 email to Maria Berryman, the lawyer leading the review. </span><span style="font-weight: 400;">He also sent Sarah screenshots of explicit private messages exchanged with another party member, seen by The Spinoff, in which the pair fantasised about having sex with her. &ldquo;I would feel manly if she was on her knees,&rdquo; he wrote.&nbsp;</span></p><p><span style="font-weight: 400;">Early in 2018 he invited her to a private meeting at his home to prepare for an upcoming regional conference. &ldquo;He said it was really important that I came,&rdquo; she said. &ldquo;He made it feel like it was a part of my duties.&rdquo; She arrived around six o&rsquo;clock, and sat in the lounge to watch television with the rest of the household. After the others went to bed, the pair were left alone and moved to work on party documents on</span> <span style="font-weight: 400;">a computer in the adjoining office.&nbsp;</span></p><p><span style="font-weight: 400;">It was then that Sarah felt the mood start to shift.&nbsp;</span></p><p><span style="font-weight: 400;">&ldquo;I remember I was looking at the screen and I felt him lean down over me onto my shoulder.&rdquo; She initially ignored it and continued to ask questions about the documents they were looking at, keen to stay focussed on the work. Standing behind her, he placed one hand on her thigh, and the other under her shirt, she said. Feeling both his arms tightening around her body, she began to panic.&nbsp;</span></p><p><span style="font-weight: 400;">&ldquo;I tried to knock him off but he put me in a hold across here,&rdquo; she recounted, gesturing to her collarbone. He pulled her off the chair and onto the floor, keeping his arm and his body weight on top of her as she struggled, he said. &ldquo;I remember him just saying, &lsquo;shhh,&rsquo; and shushing me or telling me to be quiet without explicitly telling me, or he&rsquo;d press his arm down on my windpipe.&rdquo;</span></p><p><span style="font-weight: 400;">Desperate to attract the attention of the rest of the household, Sarah banged her feet against the hardwood floors, she said. She recounted him pulling down her jeans, and the coldness of the floorboards against her bare skin. He aggressively groped her breasts, she said, before pulling her underwear down and violently penetrating her with his fingers.&nbsp;</span></p><p><span style="font-weight: 400;">&ldquo;I was just in total disbelief, struggling a lot and still trying to bang on the floor,&rdquo; she said, taking long pauses in her recollection. She continued to hit her feet on the ground through the attack, hoping to make as much noise as possible. &ldquo;I just wanted someone to come upstairs. Anyone.&rdquo;</span></p><p><span style="font-weight: 400;">The assault lasted between 10 and 20 minutes, she said, before he rolled off her. &ldquo;I was just lying there for ages and then tried to frantically put everything on. I grabbed my phone, I grabbed my USB [from] the computer. I was shaking, I couldn&rsquo;t speak.&rdquo; She told him that she had to go home. He asked her if she wanted to stay the night.</span></p><p><span style="font-weight: 400;">When she turned the corner of his street, Sarah started to cry. &ldquo;I just broke down. I was too scared to stop moving, I just wanted to get out of there.&rdquo; Walking home in the dark, she tried to call a handful of people, but nobody answered. It was around 10pm.</span></p><p><span style="font-weight: 400;">She didn&rsquo;t stop once on the 25 minute walk. Her vagina felt &ldquo;scratched up and in pain&rdquo;, her chest &ldquo;swollen and bruised&rdquo;. She didn&rsquo;t tell her flatmates what happened, why she was unable to sleep that night. &ldquo;I didn&rsquo;t shower until the next morning, which was absolutely awful. I felt really uncomfortable with my body. It didn&rsquo;t feel like it was mine.&rdquo;</span></p><p><span style="font-weight: 400;">The Spinoff has spoken to a source to whom Sarah related the experience a week after the attack. &ldquo;She looked very stressed and I could tell she was quite tired,&rdquo; said the confidant. Sarah had broken down as she told the story. &ldquo;She was pretty scared, she said she didn&rsquo;t want to talk to Labour. I started crying too. I didn&rsquo;t know how to comfort her and there was nothing that I could say to help her with what she was going through.&rdquo;&nbsp;</span></p><p><span style="font-weight: 400;">Sarah didn&rsquo;t want to go to the police. She knew people who had been through the process and had told her how difficult it was, she said. &ldquo;I thought about the amount of people who come forward and then the number who actually get convictions, and it just felt like it was going to be really hard.&rdquo; </span>In the aftermath, she felt herself becoming more withdrawn and isolated, a shadow of the young, confident leader she used to be.</p><p><span style="font-weight: 400;"><span class="dropcap">A</span> month after the alleged assault, the Berryman review into the Labour camp assaults invited others who had experiences of sexual misconduct to come forward. &ldquo;I thought I might as well deal with it with people I know and trust, and that was through the party.&rdquo;</span></p><p><span style="font-weight: 400;">She made contact with Berryman in April 2018, and, in an email shown to The Spinoff, described the incident on the party trip in detail. &ldquo;There&rsquo;s more stuff that&rsquo;s happened since the Young Labour camp,&rdquo; Sarah wrote. She chose not to detail the more serious allegation, explaining in the email that she was &ldquo;unsure how to process it or tell people&rdquo; because of his power within the party. Sarah chose to detail a more &ldquo;low-level&rdquo; allegation, she told The Spinoff, because she was worried about who might see the email. &ldquo;I was pretty paranoid and still trying to process what had happened.&rdquo;&nbsp;</span></p><p><span style="font-weight: 400;">After a few brief exchanges, communication with Berryman dropped off until the following month, when she came back to Sarah explaining that she was working through the Labour summer camp before attending to any other complaints.&nbsp;</span></p><p><span style="font-weight: 400;">Meanwhile the man who she says assaulted her continued to attend Labour meetings and events, which prompted several panic attacks and even bouts of nausea and vomiting. He was known to be a volatile personality, according to another Young Labour member spoken to by The Spinoff. During one particularly heated meeting, he shouted at her and later attempted to block the exit of the room, she said, prompting her to email concerns about what she saw as &ldquo;predatory behaviour&rdquo; directly to Nigel Haworth. She didn&rsquo;t detail the assault in the email to the Labour president, but alluded to being in severe distress.&nbsp;</span></p><p><span style="font-weight: 400;">&ldquo;I am struggling to be able to cope,&rdquo; she wrote.</span></p><p><span style="font-weight: 400;">Haworth responded the following day, and a meeting was arranged. In a private room at Wellington Central Library, Sarah told Haworth and the party&rsquo;s assistant general secretary, Dianna Lacy, about her encounters with the man, including the full extent of the sexual assault allegations, she said. &ldquo;I got the sense that [Haworth] was pretty uncomfortable,&rdquo; she said, though Lacy seemed deeply concerned, and subsequently became the one person within Labour she felt able to rely on.</span></p><p><span style="font-weight: 400;">As Haworth&rsquo;s response to The Spinoff makes clear, however, the party strongly disputed that they were at any point told sexual assault was being alleged.</span></p><p><span style="font-weight: 400;">In the aftermath, a panel was set up by the NZ Council, Labour&rsquo;s highest governing body, to investigate the claims. The panel comprised three members of the NZ Council, chaired by an Auckland-based lawyer. Sarah and six other party members who had lodged complaints were later asked to attend a hearing in March. Each interview slot was an hour long, despite the claims frequently involving incidents and observations of behaviour spanning years.&nbsp;</span></p><p><span style="font-weight: 400;"><span class="dropcap">O</span>n the morning of the investigation hearings, conducted in early March at Labour&rsquo;s Wellington HQ, Fraser House on Willis Street, Sarah sent her pre-interview notes through to both a member of the panel and Lacy, who was opening up the building that day but did not attend the interviews. Sarah asked the panel member to print them out, a task he delegated to Lacy, who, Sarah said, printed four copies.&nbsp;</span></p><p><span style="font-weight: 400;">Seen by The Spinoff, her notes clearly state that she experienced a sexual assault in February 2018 after being invited to his home under the guise of a private, work-related meeting. &ldquo;I relaxed, I let my guard down, I thought I was safe,&rdquo; her notes read, before detailing how he grabbed at her breasts and pulled down her pants. She was nervous about her interview, and read from the notes verbatim, she said, relating her sexual assault &ldquo;about a quarter of the way through&rdquo;.</span></p><p><span style="font-weight: 400;">The notes anticipated questions about why she had not come forward previously or gone to the police. &ldquo;As for why I didn&rsquo;t report,&rdquo; she wrote in her notes, &ldquo;I did.&rdquo; She had attempted to raise the individual&rsquo;s behaviour with members of her party branch, she said, but he had responded angrily, it had &ldquo;fizzled out&rdquo;.&nbsp;</span></p><p><span style="font-weight: 400;">&ldquo;I was scared,&rdquo; she wrote. &ldquo;I still am scared. This man holds a large amount of influence within the party.&rdquo; He would boast, she added, about &ldquo;his close relationship&rdquo; with a Cabinet minister.&nbsp;</span></p><p><span style="font-weight: 400;">A senior Labour Party source has told The Spinoff that the panel members are emphatic that they at no point heard any of the complainants make an allegation of having been subject to sexual assault &ndash; and that they would not have ignored it had anyone done so. Sarah, however, insists that she read her notes aloud to the panel, and that included the allegation of sexual assault.&nbsp;</span></p><p><span style="font-weight: 400;">The proceedings felt rushed, Sarah said, and the questions seemed to focus on who knew about the allegations, rather than what happened. &ldquo;It was like it was more liability management than investigation into claims,&rdquo; she said. The panel said there would be an opportunity for follow-up interviews, but there was no mention of how or when, she said.&nbsp;</span></p><p><span style="font-weight: 400;">Another of the complainants interviewed that day, Jamie &ndash; not his real name &ndash; summarised the panel process as &ldquo;completely inadequate&rdquo;. His allegation centred on an attempted physical assault by the same man at a Young Labour function, an outburst which he said led him to quit the party the following day, after being a committed member for four years.&nbsp;</span></p><p><span style="font-weight: 400;">Of the investigation, Jamie said: &ldquo;I felt like I was being rushed out of the room.&rdquo;&nbsp;</span></p><p>He would later write to Haworth: &ldquo;It is like the party has learned nothing in the wake of the Young Labour Summer School &hellip; The party has let down every single person who decided to come forward with their story, an experience which seems to repeat itself time and time again.&rdquo;</p><p><span style="font-weight: 400;">The complainants had been told they would be able to look at the investigating panel&rsquo;s notes on the interviews, described as &ldquo;testimony&rdquo; by the party, to check for accuracy.</span></p><p><span style="font-weight: 400;">On April 26, a month and a half after the interviews, Sarah wrote to the three members of the panel saying that the staffer at the centre of the allegations had approached her and said he had read the testimonies. Sarah was unnerved, as she had still yet to receive hers. On May 22 she asked again to see the &ldquo;testimony&rdquo;. The chair of the panel wrote back: &ldquo;I am happy to provide a copy.&rdquo; Again, she did not receive her notes, and eventually the panel made its decision without her having had a chance to check that they accurately represented her experience. </span></p><p><span style="font-weight: 400;">Had Sarah had an opportunity to review the notes, which are handwritten, in sometimes-ambiguous bullet points, she would have told them what was missing: any reference to the sexual assault she said she had suffered. Instead, she did not receive the notes until July 15 &ndash; a full 10 days after Haworth had written saying there would be no action taken against the man, and that there was no appeals process.</span></p><p><span style="font-weight: 400;">Throughout the process, the man at the centre of the allegations continued to appear at party events that Sarah was required to attend due to her role within the party. At a party conference, she experienced another panic attack in the bathroom after being in the same room as both him and Nigel Haworth. &ldquo;It made me wish I wasn&rsquo;t involved in the party, it made me feel like I wanted to leave,&rdquo; she said. &ldquo;It felt like it wasn&rsquo;t my place any more. It felt like it was his place.&rdquo;</span></p><p><span style="font-weight: 400;">In late April, Sarah sent an email to the three members of the investigating panel seeking an update on the inquiry. In the email &ndash; receipt of which was acknowledged by one of the panel &ndash; she stressed &ldquo;the seriousness of the situation here, an accusation of sexual assault, manipulation, bullying and emotional abuse of several young women in the party. All revolving around his power over women at Labour events.&rdquo;</span></p><p><span style="font-weight: 400;">She also flagged his expected presence at a Young Labour event that night, where he would be holding a swipe card to provide entry for participants. Some members, she said, were &ldquo;freaking out and scared to attend&rdquo;. She added: &ldquo;Really hoping this isn&rsquo;t a party thing that fizzles away without response or action.&rdquo;</span></p><p><span style="font-weight: 400;"><span class="dropcap">S</span>eventy-one days after the interviews at the Labour offices, Sarah received an email from Haworth announcing that a conclusion to the investigation had been reached, and a report was to be delivered to the NZ Council on June 15.&nbsp;</span></p><p><span style="font-weight: 400;">Sarah was alarmed at the news that they were nearing a conclusion, especially given she was still waiting for a copy of her own testimony. &ldquo;I&rsquo;m just completely lost at the lack of communication,&rdquo; she replied by email on May 21. &ldquo;I feel threatened. I feel insecure. I feel unsafe.&rdquo;&nbsp;</span></p><p><span style="font-weight: 400;">Jamie wrote to Haworth separately after learning the investigating panel had completed their work. &ldquo;I&rsquo;m sorry but it is completely unacceptable. It has been over a month since we came to submit on this issue and there hasn&rsquo;t been a single follow-up to us as a group,&rdquo; he said.</span></p><p><span style="font-weight: 400;">&ldquo;We haven&rsquo;t received a single update from the panel. No support has been offered throughout this process&hellip; I have had no one reach out to me from the party since making my submission to the committee.&rdquo;</span></p><p><span style="font-weight: 400;">Just over a month later, another email from Haworth appeared in their inboxes.&nbsp;</span></p><p><span style="font-weight: 400;">&ldquo;I am writing to let you know that NZ Council, at its latest meeting, received and endorsed a report from the investigating panel,&rdquo; he wrote. &ldquo;The recommendation was that no disciplinary action was to be taken in this case. Council accepts this recommendation.&rdquo;&nbsp;</span></p><p>
+<div id="attachment_207643" class="wp-caption aligncenter"><img class="wp-image-207643 size-full" src="https://thespinoff.co.nz/wp-content/uploads/2019/09/Email-12.jpg" alt="" width="850" height="548" srcset="https://thespinoff.co.nz/wp-content/uploads/2019/09/Email-12.jpg 850w, https://thespinoff.co.nz/wp-content/uploads/2019/09/Email-12-300x193.jpg 300w, https://thespinoff.co.nz/wp-content/uploads/2019/09/Email-12-768x495.jpg 768w" sizes="(max-width: 850px) 100vw, 850px"><div class="wp-caption-wrapper"><p class="wp-caption-text">Screengrab of the email sent out by Howarth. Highlighting a result of the search function. (image: supplied)</p></div></div>
+</p><p><span style="font-weight: 400;">Sarah said she was &ldquo;broken&rdquo; by the verdict. &ldquo;We went through this whole thing, saying over and over again the stories of what happened, his abuse of power, and we were just stuck,&rdquo; she said. &ldquo;There was this whole room of people that were just acting like they were all family members again and nobody wants to talk about the guy who has been accused of sexual assault.&rdquo;</span></p><p><span style="font-weight: 400;">A month after they were told of the investigation&rsquo;s conclusion, Sarah received the panel&rsquo;s notes, which were taken during their meeting and she understands were the only official record of her complaint. She was &ldquo;frustrated and disappointed&rdquo; by what they contained. &ldquo;I was annoyed, there were a lot of mistakes and things that hadn&rsquo;t been followed up &ndash; this was our one chance to be heard and listened to and they screwed up.&rdquo;&nbsp;</span></p><p><span style="font-weight: 400;">The three pages of handwritten notes, seen by The Spinoff, mentioned her &ldquo;relationship&rdquo; with the man multiple times. &ldquo;Those wouldn&rsquo;t have been the words I would have used,&rdquo; said Sarah. &ldquo;We never dated, we were never intimate, there was nothing.&rdquo;</span></p><p><span style="font-weight: 400;">When it was put to Sarah that those involved in the investigation didn&rsquo;t believe she was making an allegation of sexual assault, she said she found that impossible to fathom. &ldquo;I opened the interview reading through my timeline and my testimony.&rdquo;&nbsp;</span></p><p><span style="font-weight: 400;">Reading the panel&rsquo;s handwritten version of her &ldquo;testimony&rdquo; back, said Sarah, she failed to see any reflection of her experience. &ldquo;No way they could have found anything from this,&rdquo; she said. &ldquo;It doesn&rsquo;t cover anything.&rdquo;</span></p><p><span style="font-weight: 400;"><span class="dropcap">N</span>ews of the allegations related to the Labour staffer was <a href="https://www.newshub.co.nz/home/politics/2019/08/exclusive-labour-forced-to-review-investigation-into-bullying-sexual-assault-allegations-against-staffer.html" target="_blank" rel="noopener noreferrer">broken</a> in early August by Newshub, when Tova O&rsquo;Brien reported, &ldquo;the Labour Party has been forced to review an internal investigation into bullying, sexual harassment and sexual assault by a Labour staffer.&rdquo;&nbsp;</span><span style="font-weight: 400;">The pressure mounted after National MP Paula Bennett revealed that one of the complainants had approached her. &ldquo;The woman has taken the extraordinary step of contacting me because they are not being listened to,&rdquo; she told </span><a href="https://www.newstalkzb.co.nz/on-air/mike-hosking-breakfast/audio/paula-bennett-on-labour-partys-sexual-assault-allegations/" target="_blank" rel="noopener noreferrer"><span style="font-weight: 400;">Newstalk ZB</span></a><span style="font-weight: 400;">. &ldquo;They are having panic attacks and are anxious.&rdquo; </span></p><p><span style="font-weight: 400;">Neither Jamie nor Sarah was involved in the approach to Bennett.&nbsp;</span><span style="font-weight: 400;">Her involvement made a difference, however, said Jamie. They all wanted to see the silence broken, and &ldquo;the deputy leader of the opposition asking questions and making a story out of it was a good way of it happening.&rdquo;&nbsp;</span></p><p><span style="font-weight: 400;">Following a study of the process undertaken by the party solicitor, Haworth told the complainants the NZ Council had decided to &ldquo;offer the opportunity to appeal the outcome of the recent conduct investigation&rdquo;. Just over a month after writing to say that no disciplinary action would be taken and there was no appeals process offered in the party constitution, the NZ Council had &ldquo;decided that, in all of the circumstances, natural justice supports the provision of such an opportunity&rdquo;.</span></p><p><span style="font-weight: 400;">The appeal would be conducted, he said, by Maria Dew QC. The complainants were given nine days to decide whether they would opt in.&nbsp;</span></p><p><span style="font-weight: 400;">For Sarah, the offer felt too little, too late. &ldquo;Even now that the appeal has been offered, we&rsquo;re so exhausted,&rdquo; she said. &ldquo;It felt like we had turned to all the right people but nobody was backing us up.&rdquo;&nbsp;</span></p><p><span style="font-weight: 400;">Since the offer of an opportunity to appeal, the group of complainants has engaged an independent lawyer who has sought an extension to the nine day deadline and is working on their behalf to retrieve key documents from the initial investigation. &ldquo;We want to make sure the first investigation was fully concluded and we have all the information to make the right decision,&rdquo; said Sarah.</span></p><p><span style="font-weight: 400;">The process, which began with an approach to Berryman in April of 2018, is ongoing. The alleged perpetrator is believed to remain at work at parliament, in the Labour leader&rsquo;s office.</span></p><p><span style="font-weight: 400;">Sarah is still healing. &ldquo;This entire thing was just a mountain of trauma and left so many people incredibly bruised and vulnerable,&rdquo; she said. If her experience results in anything, she hopes it will be for better support within the party for victims who come forward. &ldquo;I don&rsquo;t mean an 0800 therapy line and I don&rsquo;t just mean providing legal support if the complainant agrees to incredibly stringent confidentiality rules within the party.</span></p><p><span style="font-weight: 400;">&ldquo;What matters more to me is that the people who screwed this up are able to learn from their mistakes. People come and go but if the process isn&rsquo;t set up right then in 20 years we&rsquo;re still going to see this repeat.&nbsp;</span></p><p><span style="font-weight: 400;">&ldquo;Nothing is going to change unless the party does.&rdquo;</span></p><p><strong><em>Update, 4.30pm:</em></strong></p><p>Jacinda Ardern has responded to a series of questions relating to this story at her weekly post-cabinet press conference this afternoon. She said:</p><div class="the-spinoff-club-interruptive"><div><span>Join us and help make<br />independent journalism happen!</span><a href="/members?utm_campaign=members-interruptive-web-join-us-and-help-makeindependent-journalism-happen" class="club-btn club-btn-blue" data-pp-append-referrer="true">Find Out More</a></div></div><style type="text/css">
+            .the-spinoff-club-interruptive {
+                background-image: url(/wp-content/themes/thespinoff/img/club-ad-mobile-1.png);
+                padding: 
+            }
+            @media screen and (min-width: 768px) {
+                .the-spinoff-club-interruptive {
+                    background-image: url(/wp-content/themes/thespinoff/img/club-ad-desktop-1.png);
+                    padding: 46px 100px 0 160px
+                }
+            }
+        </style><ul>
+<li>That she was &ldquo;incredibly frustrated&rdquo; and had &ldquo;expressed complete dissatisfaction&rdquo; about the process undertaken by the party.</li>
+<li>The individual has not been on the parliamentary precinct for five weeks and will remain off-site until at least the completion of the QC report.</li>
+<li>That the QC would report directly to her, rather than the NZ Council.</li>
+<li>&ldquo;Differing accounts have been relayed to me&rdquo; about the nature of the allegations; but that she had been advised initially that there were no complaints of a sexual nature.</li>
+</ul><p><em><strong>Update: </strong>On September 12 a lawyer for the man at the centre of the allegations issued a statement &ldquo;adamantly refuting the allegations made against me&rdquo;.</em></p><p><em>On September 16 the chair of the Labour Party investigating panel issued a statement to The Spinoff saying that he was never informed via email or in person of any allegation of sexual assault by a complainant. &ldquo;At no point did she say that she had been sexually assaulted or tell us about the events that are described in the Spinoff article,&rdquo; he said.</em></p><hr><p><em>Additional reporting: Toby Manhire and Duncan Greive. Illustration by Toby Morris / email </em><em>alex@thespinoff.co.nz</em></p><p><em><strong><a href="https://thespinoff.co.nz/politics/09-09-2019/editorial-labour-has-failed-vulnerable-young-members-for-second-time-there-must-be-consequences/">Editorial: Labour has failed vulnerable young members for second time. There must be consequences</a></strong></em></p>
+            <hr />
+            <div class="addthis_sharing_toolbox"></div><div class="bulletin-signup"><p><strong>The Bulletin is The Spinoff&rsquo;s acclaimed daily digest of New Zealand&rsquo;s most important stories, delivered directly to your inbox each morning.</strong></em></p><div id="mc_embed_signup">
+<form id="mc-embedded-subscribe-form" class="validate" action="https://thespinoff.substack.com/api/v1/import/form" method="post" name="mc-embedded-subscribe-form" novalidate="novalidate" target="_blank">
+<div id="mc_embed_signup_scroll" class="d-flex">
+<div class="mc-field-group flex-grow-1"><label for="mce-EMAIL" class="sr-only">Email&nbsp;<span class="asterisk">*</span></label>
+<input id="mce-EMAIL" class="required email w-100" name="email" type="email" value="" aria-required="true" placeholder="Email Address"> <input type="hidden" name="source" value="external">
+</div>
+<div id="mce-responses" class="clear"></div>
+<div class="clear flex-grow-1"><input id="mc-embedded-subscribe" class="btn btn-signup w-100" name="subscribe" type="submit" value="Sign Up"></div>
+</div>
+</form>
+</div>
+</div>        </div>
+    </div>
+</article>
+                            
+                                                                                                                </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="secondary" class="col-md-4 col-lg-3 col-sm-4 hidden-xs">
+            <div class="secondary-inner">
+                
+<aside id="simple_ads_manager_widget-3" class="widget simple_ads_manager_widget"><div id='c4108_1056_2' class='sam-container sam-place' data-sam='0'><a  id='a18_1056' class='sam_ad' href='https://www.flickelectric.co.nz/behind-the-bulb/?source=spinoff&placement=sidebar' target='_blank'><img src='https://thespinoff.co.nz/wp-content/uploads/2019/04/BTB.gif'  alt=''  /></a></div></aside><aside id="widget_tptn_pop-2" class="widget tptn_posts_list_widget"><h3 class="widget-title">Top Posts</h3><div class="tptn_posts_daily  tptn_posts_widget tptn_posts_widget2"><ul><li><a href="https://thespinoff.co.nz/politics/07-11-2019/119-of-120-mps-just-voted-to-pass-nzs-historic-zero-carbon-bill-into-law-heres-the-best-of-what-they-said/"     class="tptn_link"><img  width="300" height="182"  src="https://thespinoff.co.nz/wp-content/uploads/2019/11/carbzero-e1573114588508-415x250.jpg" class="tptn_thumb tptn_featured" alt="119 of 120 MPs just voted to pass NZ’s historic Zero Carbon Bill into law. Here’s the best of what they said" title="119 of 120 MPs just voted to pass NZ’s historic Zero Carbon Bill into law. Here’s the best of what they said" /></a><span class="tptn_after_thumb"><a href="https://thespinoff.co.nz/politics/07-11-2019/119-of-120-mps-just-voted-to-pass-nzs-historic-zero-carbon-bill-into-law-heres-the-best-of-what-they-said/"     class="tptn_link"><span class="tptn_title">119 of 120 MPs just voted to pass NZ’s historic Zero Carbon Bill into law. Here’s the best of what they said</span></a></span></li><li><a href="https://thespinoff.co.nz/media/10-11-2019/oh-chloe-no-all-the-boomers-who-arent-ok-with-ok-boomer/"     class="tptn_link"><img  width="300" height="182"  src="https://thespinoff.co.nz/wp-content/uploads/2019/11/okboomer-415x250.jpg" class="tptn_thumb tptn_featured" alt="Oh Chlöe no! All the boomers who aren’t OK with OK boomer" title="Oh Chlöe no! All the boomers who aren’t OK with OK boomer" /></a><span class="tptn_after_thumb"><a href="https://thespinoff.co.nz/media/10-11-2019/oh-chloe-no-all-the-boomers-who-arent-ok-with-ok-boomer/"     class="tptn_link"><span class="tptn_title">Oh Chlöe no! All the boomers who aren’t OK with OK boomer</span></a></span></li><li><a href="https://thespinoff.co.nz/partner/hotc/09-11-2019/the-giant-santa-is-leaving-auckland/"     class="tptn_link"><img  width="300" height="182"  src="https://thespinoff.co.nz/wp-content/uploads/2019/11/Christmas-Decorations_HOTC-8362_Credit-Sacha-Stejko-415x250.jpg" class="tptn_thumb tptn_featured" alt="The Giant Santa is leaving Auckland" title="The Giant Santa is leaving Auckland" /></a><span class="tptn_after_thumb"><a href="https://thespinoff.co.nz/partner/hotc/09-11-2019/the-giant-santa-is-leaving-auckland/"     class="tptn_link"><span class="tptn_title">The Giant Santa is leaving Auckland</span></a></span></li><li><a href="https://thespinoff.co.nz/food/11-11-2019/we-ate-everything-at-new-zealands-first-taco-bell/"     class="tptn_link"><img  width="300" height="182"  src="https://thespinoff.co.nz/wp-content/uploads/2019/11/Tacobell2-415x250.jpg" class="tptn_thumb tptn_featured" alt="We ate everything at New Zealand&#039;s first Taco Bell" title="We ate everything at New Zealand&#039;s first Taco Bell" /></a><span class="tptn_after_thumb"><a href="https://thespinoff.co.nz/food/11-11-2019/we-ate-everything-at-new-zealands-first-taco-bell/"     class="tptn_link"><span class="tptn_title">We ate everything at New Zealand&#8217;s first Taco Bell</span></a></span></li><li><a href="https://thespinoff.co.nz/tv/07-11-2019/art-green-is-hosting-the-bachelorette-and-everything-else-were-screaming-about-in-2020-from-tvnz/"     class="tptn_link"><img  width="300" height="182"  src="https://thespinoff.co.nz/wp-content/uploads/2019/11/sam-1-415x250.jpg" class="tptn_thumb tptn_featured" alt="Here&#039;s what we&#039;re screaming about in 2020 from TVNZ" title="Here&#039;s what we&#039;re screaming about in 2020 from TVNZ" /></a><span class="tptn_after_thumb"><a href="https://thespinoff.co.nz/tv/07-11-2019/art-green-is-hosting-the-bachelorette-and-everything-else-were-screaming-about-in-2020-from-tvnz/"     class="tptn_link"><span class="tptn_title">Here&#8217;s what we&#8217;re screaming about in 2020 from TVNZ</span></a></span></li></ul><div class="tptn_clear"></div></div><br /><!-- Cached output. Cached time is 3600 seconds --></aside><aside id="mc4wp_form_widget-3" class="widget widget_mc4wp_form_widget"><h3 class="widget-title">Sign up to the Spinoff Weekly</h3><script>(function() {
+	if (!window.mc4wp) {
+		window.mc4wp = {
+			listeners: [],
+			forms    : {
+				on: function (event, callback) {
+					window.mc4wp.listeners.push({
+						event   : event,
+						callback: callback
+					});
+				}
+			}
+		}
+	}
+})();
+</script><!-- Mailchimp for WordPress v4.5.2 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-22125" method="post" data-id="22125" data-name="Default sign-up form" ><div class="mc4wp-form-fields"><p class="text-small">Receive a carefully curated selection of the week’s best reading from The Spinoff every Monday evening.</p>
+<div class="input-group">
+<label class="sr-only">Email address: </label>
+	<input class="form-control" type="email" id="mc4wp_email" name="EMAIL" required />
+ <span class="input-group-btn"><input type="submit" value="Join Now" class="btn btn-default"/></span>
+</div>
+</div><label style="display: none !important;">Leave this field empty if you're human: <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off" /></label><input type="hidden" name="_mc4wp_timestamp" value="1573548576" /><input type="hidden" name="_mc4wp_form_id" value="22125" /><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1" /><div class="mc4wp-response"></div></form><!-- / Mailchimp for WordPress Plugin --></aside>
+<aside id="lsi_widget-3" class="widget widget_lsi_widget">
+    <h3 class="widget-title">Follow The Spinoff</h3>
+    <ul class="lsi-social-icons">
+        <li class="lsi-social-facebook"><a class="" rel="nofollow" title="Facebook" href="https://www.facebook.com/thespinofftv" target="_blank"><i class="fa fa-facebook"></i></a></li>
+        <li class="lsi-social-twitter"><a class="" rel="nofollow" title="Twitter" href="https://twitter.com/TheSpinoffTV" target="_blank"><i class="fa fa-twitter"></i></a></li>
+        <li class="lsi-social-youtube"><a target="_blank" href="https://www.youtube.com/channel/UCprQWxc91NtC1Jx1iuEbC-Q" title="YouTube" rel="nofollow" class=""><i class="fa fa-youtube"></i></a></li>
+        <li class="lsi-social-instagram"><a class="" rel="nofollow" title="Instagram" href="https://instagram.com/thespinofftv" target="_blank"><i class="fa fa-instagram"></i></a></li>
+    </ul>
+</aside>
+
+<!--<div class="sponsors widget">-->
+<!--    <h3 class="widget-title">The Spinoff is Made possible by:</h3>-->
+<!--    --><!--    <p><br>Without whom none of this would be possible. Please help us by supporting them.</p>-->
+<!--</div>-->
+            </div>
+        </div>
+        <div id="after-post" class="col-sm-12">
+<!--            <hr class="mb-3" />-->
+<!--            <footer class="pp-text"><p>The Spinoff Longform Fund is dedicated to-->
+<!--                    facilitating investigative journalism. Our focus is on-->
+<!--                    supporting in-depth reporting on important New Zealand-->
+<!--                    stories. Your donation will help us sustain this most-->
+<!--                    resource-intensive form of journalism, ensuring that the-->
+<!--                    most complex and important stories still get told. </p>-->
+<!--                <iframe id="button-frame" name="button-frame" scrolling="no" src="//dashboard.presspatron.com/websites/26/get_button" style="width: 180px; height: 34px; border: none;"></iframe>-->
+<!--                <div id="pp-donate-button"></div>-->
+<!--            </footer>-->
+                                                <!-- <div class="addthis_sharing_toolbox"></div> -->
+            
+            <footer class="entry-meta meta-bottom">
+                <div class="ad hidden-xs visible-sm visible-md visible-lg">
+                                        <div id='c2948_1058_4' class='sam-container sam-place' data-sam='1'><a  id='a98_1058' class='sam_ad' href='https://www.flickelectric.co.nz/behind-the-bulb/?source=spinoff&placement=postbanner' target='_blank'><img src='https://thespinoff.co.nz/wp-content/uploads/2019/02/Flick-BtB-list.gif'  alt=''  /></a></div>                </div>
+                <div class="ad visible-xs hidden-sm hidden-md">
+                                        <div id='c7903_1059_7' class='sam-container sam-place' data-sam='1'><a  id='a53_1059' class='sam_ad' href='https://www.flickelectric.co.nz/behind-the-bulb/?source=spinoff&placement=mobile' target='_blank'><img src='https://thespinoff.co.nz/wp-content/uploads/2019/02/flick-btb-mobile.gif'  alt=''  /></a></div>                </div>
+            </footer>
+                                </div>
+    </div>
+
+    <hr />
+
+    <div class="supporters-block text-center mb-5">
+        <h3 class="text-light mb-4">The Spinoff is made possible by the generous support of the following organisations.<br />Please help us by supporting them.</h3>
+        <div class="supporters grid"><a title="NUMA" href="http://www.numa.co.nz/" target="_blank"><img src="/wp-content/uploads/2019/08/NUMA-Logo.png" width="200"/></a>
+    <a title="NZOnAir" href="https://www.nzonair.govt.nz/" target="_blank"><img src="/wp-content/uploads/2017/08/NZOnAir_RGB-positive_2015.png" width="200"/></a>
+    <a title="Womens-bookshop" href="https://www.womensbookshop.co.nz/" target="_blank"><img src="/wp-content/uploads/2019/08/Womens-bookshop.jpg" width="200"/></a>
+    <a title="Kiwibank" href="http://www.kiwibank.co.nz" target="_blank"><img src="/wp-content/uploads/logos/kiwibank.png"/></a>
+    <a title="Flick Electric Co." href="https://www.flickelectric.co.nz" target="_blank"><img src="/wp-content/uploads/logos/flick-logo.png"  width="150" style="padding: 0 30px" /></a>
+    <a title="Unity Books Auckland" href="http://www.unitybooksonline.co.nz" target="_blank"><img src="/wp-content/uploads/logos/unity2016-md.jpg"  width="250"/></a>
+    <a title="The MacDiarmid Institute" href="http://macdiarmid.ac.nz/" target="_blank"><img src="/wp-content/uploads/2017/05/macdiarmid-horz-sm.jpg" /></a>
+    <a title="Creative NZ" href="http://www.creativenz.govt.nz" target="_blank"><img src="/wp-content/uploads/logos/cnz-standard-logo-gold.jpg"  width="250"/></a>
+    <a title="University of Otago" href="http://www.otago.ac.nz/" target="_blank"><img src="/wp-content/uploads/2018/03/otago-logo.jpg"  width="250"/></a>
+    <a title="Freedom Farms" href="http://www.freedomfarms.co.nz/" target="_blank"><img src="/wp-content/uploads/2018/06/FF-Naked-Logo-01-e1530487216598.png" width="250" /></a>
+    <a title="ZEnergy" href="https://z.co.nz/" target="_blank"><img src="/wp-content/uploads/2019/11/Z-IS-FOR-NZ-1.png" width="200"/></a>
+    <a title="KiwiWealth" href="https://www.kiwiwealth.co.nz/home" target="_blank"><img src="/wp-content/uploads/2019/11/KW-512px-1.png" width="200"/></a></div>
+    </div>
+
+</div><!-- .container -->
+</div><!-- #main -->
+</div><!-- #page -->
+
+<nav id="topscroll" class="container-fluid">
+    <div class="container">
+        <a href="/#top"><span class="fa fa-chevron-up"></span> To the top</a>
+    </div>
+</nav>
+
+<footer id="footer" class="container-fluid">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-3 left form-inline">
+                <aside>
+                    <p class="widget-title">The Spinoff</p>
+                    <p class="text-small">The Spinoff is a New Zealand online magazine covering politics, pop culture and social issues. We also have a custom editorial division which creates smart, shareable content for brands.</p>
+                    <p class="text-small"><a href="/commercial-content/">How the Spinoff is funded</a></p>
+                    <p class="text-small"><a href="/privacy-policy/">The Spinoff Privacy Policy</a></p>
+                </aside>
+            </div>
+            <div class="col-md-6">
+                                    <aside id="text-2" class="widget widget_text">			<div class="textwidget"><p></p><p class="text-small">We drink <a href="http://www.laffare.co.nz/" target="_blank" rel="noopener noreferrer">L'affare</a> by day. 
+  <a href="https://www.rubynz.com" target="_blank" rel="noopener noreferrer">Ruby</a> and <a href="https://www.barkersonline.co.nz" target="_blank" rel="noopener noreferrer">Barkers</a> look after us too.<br>
+<br>
+We are located at 14 McDonald Street, Morningside, Auckland 1025 <br><br></p></div>
+		</aside><aside id="mc4wp_form_widget-4" class="widget widget_mc4wp_form_widget"><p class="widget-title">Sign up to the Spinoff Weekly</p><script>(function() {
+	if (!window.mc4wp) {
+		window.mc4wp = {
+			listeners: [],
+			forms    : {
+				on: function (event, callback) {
+					window.mc4wp.listeners.push({
+						event   : event,
+						callback: callback
+					});
+				}
+			}
+		}
+	}
+})();
+</script><!-- Mailchimp for WordPress v4.5.2 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-2" class="mc4wp-form mc4wp-form-22125" method="post" data-id="22125" data-name="Default sign-up form" ><div class="mc4wp-form-fields"><p class="text-small">Receive a carefully curated selection of the week’s best reading from The Spinoff every Monday evening.</p>
+<div class="input-group">
+<label class="sr-only">Email address: </label>
+	<input class="form-control" type="email" id="mc4wp_email" name="EMAIL" required />
+ <span class="input-group-btn"><input type="submit" value="Join Now" class="btn btn-default"/></span>
+</div>
+</div><label style="display: none !important;">Leave this field empty if you're human: <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off" /></label><input type="hidden" name="_mc4wp_timestamp" value="1573548576" /><input type="hidden" name="_mc4wp_form_id" value="22125" /><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-2" /><div class="mc4wp-response"></div></form><!-- / Mailchimp for WordPress Plugin --></aside>                            </div>
+            <div class="col-md-3">
+                <div class="d-flex h-100 flex-direction-column">
+                    <p class="widget-title">Contact</p>
+                    <ul class="lsi-social-icons icon-set-lsi_widget-2 flex-grow-1">
+                        <li class="lsi-social-email"><a href="mailto:info@thespinoff.co.nz" title="Email us at info@thespinoff.co.nz" rel="nofollow"><i class="fa fa-envelope"></i></a></li>
+                        <li class="lsi-social-facebook"><a target="_blank" href="https://www.facebook.com/thespinofftv" title="Facebook" rel="nofollow"><i class="fa fa-facebook"></i></a></li>
+                        <li class="lsi-social-twitter"><a target="_blank" href="https://twitter.com/TheSpinoffTV" title="Twitter" rel="nofollow"><i class="fa fa-twitter"></i></a></li>
+                        <li class="lsi-social-youtube"><a target="_blank" href="https://www.youtube.com/channel/UCprQWxc91NtC1Jx1iuEbC-Q" title="YouTube" rel="nofollow" class=""><i class="fa fa-youtube"></i></a></li>
+                        <li class="lsi-social-instagram"><a target="_blank" href="https://instagram.com/thespinofftv" title="Instagram" rel="nofollow"><i class="fa fa-instagram"></i></a></li>
+                        <li id="womensRefuge" style="cursor:pointer;"><img id="untraceable" src="/wp-content/uploads/logos/wr-logo-sm.png" width="32"/></li>
+                        <li class="lsi-social-applestore"><a href="https://itunes.apple.com/nz/app/the-spinoff/id1194728952?mt=8" target="_blank" title="Download the Spinoff iOS app from the App Store" rel="nofollow"><i class="fa fa-apple"></i></a></li>
+                        <li class="lsi-social-googlestore"><a href="https://play.google.com/store/apps/details?id=com.thespinoff" target="_blank" title="Download the Spinoff Android app from Google Play" rel="nofollow"><i class="fa fa-android"></i></a></li>
+                        <li id="spotify"><iframe src="https://embed.spotify.com/follow/1/?uri=spotify:user:the_spinoff&size=basic&theme=dark" width="200" height="25" scrolling="no" frameborder="0" style="border:none; overflow:hidden;" allowtransparency="true"></iframe></li>
+                    </ul>
+                    <img src="https://thespinoff.co.nz/wp-content/themes/thespinoff/img/fast50.svg" alt="Fast 50" class="fast-50-footer" />
+                </div>
+            </div>
+        </div>
+        <hr class="mb-20px">
+        <div>
+            <p class="widget-title">&copy; The Spinoff 2019</p>
+            <p class="presscouncil">The Spinoff is subject to NZ Press Council procedures. A complaint must first be directed in writing, within one month of publication, to <a href="mailto:info@thespinoff.co.nz">info@thespinoff.co.nz</a>. If not satisfied with the response, the complaint may be referred to the online complaint form at <a href="http://www.presscouncil.org.nz/">www.presscouncil.org.nz</a> along with a link to the relevant story and all correspondence with the publication.</p>
+        </div>
+    </div>
+</footer>
+
+<div>
+
+</div>
+
+<div class="nav-mask"></div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js" async></script>
+<script src="https://thespinoff.co.nz/wp-content/themes/thespinoff/js/functions.js" async></script>
+<script src="https://d3f5l8ze0o4j2m.cloudfront.net/m87/k33spt.js" async></script>
+<script src="https://cdn.ampproject.org/v0/amp-sidebar-0.1.js" custom-element="amp-sidebar" async></script>
+<script>
+    (function () {
+        window.onload = function(){
+            var frameName = new ds07o6pcmkorn({
+                openElementId: "#untraceable"
+            });
+            frameName.init();
+        }
+    })();
+</script>
+
+
+<!-- START Parse.ly Include: Standard -->
+
+<script data-cfasync="false" id="parsely-cfg" data-parsely-site="thespinoff.co.nz" src="//cdn.parsely.com/keys/thespinoff.co.nz/p.js"></script>
+
+<!-- END Parse.ly Include: Standard -->
+<script>(function() {function addEventListener(element,event,handler) {
+	if(element.addEventListener) {
+		element.addEventListener(event,handler, false);
+	} else if(element.attachEvent){
+		element.attachEvent('on'+event,handler);
+	}
+}function maybePrefixUrlField() {
+	if(this.value.trim() !== '' && this.value.indexOf('http') !== 0) {
+		this.value = "http://" + this.value;
+	}
+}
+
+var urlFields = document.querySelectorAll('.mc4wp-form input[type="url"]');
+if( urlFields && urlFields.length > 0 ) {
+	for( var j=0; j < urlFields.length; j++ ) {
+		addEventListener(urlFields[j],'blur',maybePrefixUrlField);
+	}
+}/* test if browser supports date fields */
+var testInput = document.createElement('input');
+testInput.setAttribute('type', 'date');
+if( testInput.type !== 'date') {
+
+	/* add placeholder & pattern to all date fields */
+	var dateFields = document.querySelectorAll('.mc4wp-form input[type="date"]');
+	for(var i=0; i<dateFields.length; i++) {
+		if(!dateFields[i].placeholder) {
+			dateFields[i].placeholder = 'YYYY-MM-DD';
+		}
+		if(!dateFields[i].pattern) {
+			dateFields[i].pattern = '[0-9]{4}-(0[1-9]|1[012])-(0[1-9]|1[0-9]|2[0-9]|3[01])';
+		}
+	}
+}
+
+})();</script><script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/thespinoff.co.nz\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://thespinoff.co.nz/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.3'></script>
+<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201946'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ajax_tptn_tracker = {"ajax_url":"https:\/\/thespinoff.co.nz\/wp-admin\/admin-ajax.php","top_ten_id":"207644","top_ten_blog_id":"1","activate_counter":"11","top_ten_debug":"0","tptn_rnd":"1450131254"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://thespinoff.co.nz/wp-content/plugins/top-10/includes/js/top-10-tracker.min.js?ver=1.0'></script>
+<script type='text/javascript' src='https://thespinoff.co.nz/wp-includes/js/wp-embed.min.js?ver=5.2.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mc4wp_forms_config = [];
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://thespinoff.co.nz/wp-content/plugins/mailchimp-for-wp/assets/js/forms-api.min.js?ver=4.5.2'></script>
+<!--[if lte IE 9]>
+<script type='text/javascript' src='https://thespinoff.co.nz/wp-content/plugins/mailchimp-for-wp/assets/js/third-party/placeholders.min.js?ver=4.5.2'></script>
+<![endif]-->
+<script type='text/javascript' src='https://stats.wp.com/e-201946.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:7.4.1',blog:'74607644',post:'207644',tz:'13',srv:'thespinoff.co.nz'} ]);
+	_stq.push([ 'clickTrackerInit', '74607644', '207644' ]);
+</script>
+    <!--
+    Start of DoubleClick Floodlight Tag: Please do not remove
+    Activity name of this tag: RT - Spinoff TV Section - Retargeting
+    URL of the webpage where the tag is expected to be placed: https://thespinoff.co.nz/category/tv/
+    This tag must be placed between the <body> and </body> tags, as close as possible to the opening tag.
+    Creation Date: 07/11/2018
+    -->
+    <script type="text/javascript">
+        var axel = Math.random() + "";
+        var a = axel * 10000000000000;
+        document.write('<img src="https://ad.doubleclick.net/ddm/activity/src=8021305;type=retar0;cat=rt-sp0;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;npa=;ord=' + a + '?" width="1" height="1" alt=""/>');
+    </script>
+    <noscript>
+        <img src="https://ad.doubleclick.net/ddm/activity/src=8021305;type=retar0;cat=rt-sp0;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;npa=;ord=1?" width="1" height="1" alt=""/>
+    </noscript>
+    <!-- End of DoubleClick Floodlight Tag: Please do not remove -->
+
+<!-- START Nielsen Online SiteCensus V6.0 -->
+<!-- COPYRIGHT 2012 Nielsen Online -->
+<script type="text/javascript" src="//secure-nz.imrworldwide.com/v60.js">
+</script>
+<script type="text/javascript">
+    var pvar = { cid: "nz-thespinoff", content: "0", server: "secure-nz" };
+    var trac = nol_t(pvar);
+    trac.record().post();
+</script>
+<noscript>
+    <div>
+        <img src="//secure-nz.imrworldwide.com/cgi-bin/m?ci=nz-thespinoff&amp;cg=0&amp;cc=1&amp;ts=noscript"
+             width="1" height="1" alt="" />
+    </div>
+</noscript>
+<!-- END Nielsen Online SiteCensus V6.0 --><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"f5a133962a","applicationID":"196536476","transactionName":"MwBRYUpUCEtRAU1aXApKclZMXAlWHxFQXVQIAA==","queueTime":0,"applicationTime":267,"atts":"H0dSFwJOG0U=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>
+            <script type="text/javascript"
+                    src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-545417ec2d1a9885"
+                    async="async"></script>

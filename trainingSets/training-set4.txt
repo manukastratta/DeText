@@ -1,0 +1,1119 @@
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+<meta charset="UTF-8" />
+
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/android-chrome-192x192.png" sizes="192x192">
+<meta name="msapplication-square70x70logo" content="/smalltile.png" />
+<meta name="msapplication-square150x150logo" content="/mediumtile.png" />
+<meta name="msapplication-wide310x150logo" content="/widetile.png" />
+<meta name="msapplication-square310x310logo" content="/largetile.png" />
+
+<title>Unbelievable Review: A Stunning, Sensitive True Crime Series from Netflix | Collider</title>
+
+
+<!-- This site is optimized with the Yoast SEO plugin v12.3 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Netflix delivers a stunning true crime series that always puts survivors first with &#039;Unbelievable&#039;, starring Toni Collette and Merritt Wever."/>
+<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1"/>
+<link rel="canonical" href="https://collider.com/unbelievable-review-netflix/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="&#039;Unbelievable&#039; Review: Netflix&#039;s Sensitive &amp; Stunning True Crime Series Puts Survivors First" />
+<meta property="og:description" content="Netflix delivers a stunning true crime series that always puts survivors first with &#039;Unbelievable&#039;, starring Toni Collette and Merritt Wever." />
+<meta property="og:url" content="https://collider.com/unbelievable-review-netflix/" />
+<meta property="og:site_name" content="Collider" />
+<meta property="article:publisher" content="https://www.facebook.com/colliderdotcom" />
+<meta property="article:tag" content="Kaitlyn Dever" />
+<meta property="article:tag" content="Merritt Wever" />
+<meta property="article:tag" content="Netflix" />
+<meta property="article:tag" content="Review" />
+<meta property="article:tag" content="Toni Collette" />
+<meta property="article:tag" content="Unbelievable" />
+<meta property="article:section" content="TV" />
+<meta property="article:published_time" content="2019-09-13T19:33:40+00:00" />
+<meta property="article:modified_time" content="2019-09-24T20:32:04+00:00" />
+<meta property="og:updated_time" content="2019-09-24T20:32:04+00:00" />
+<meta property="fb:app_id" content="1738286916403753" />
+<meta property="og:image" content="https://cdn.collider.com/wp-content/uploads/2019/07/unbelievable-toni-collette-merritt-wever.jpg" />
+<meta property="og:image:secure_url" content="https://cdn.collider.com/wp-content/uploads/2019/07/unbelievable-toni-collette-merritt-wever.jpg" />
+<meta property="og:image:width" content="1500" />
+<meta property="og:image:height" content="1000" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Netflix delivers a stunning true crime series that always puts survivors first with &#039;Unbelievable&#039;, starring Toni Collette and Merritt Wever." />
+<meta name="twitter:title" content="Unbelievable Review: A Stunning, Sensitive True Crime Series from Netflix" />
+<meta name="twitter:site" content="@collidernews" />
+<meta name="twitter:image" content="https://cdn.collider.com/wp-content/uploads/2019/07/unbelievable-toni-collette-merritt-wever.jpg" />
+<meta name="twitter:creator" content="@collidernews" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://collider.com/#website","url":"https://collider.com/","name":"Collider","potentialAction":{"@type":"SearchAction","target":"https://collider.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"ImageObject","@id":"https://collider.com/unbelievable-review-netflix/#primaryimage","url":"https://cdn.collider.com/wp-content/uploads/2019/07/unbelievable-toni-collette-meritt-wever-slice.jpg","width":600,"height":200},{"@type":"WebPage","@id":"https://collider.com/unbelievable-review-netflix/#webpage","url":"https://collider.com/unbelievable-review-netflix/","inLanguage":"en-US","name":"Unbelievable Review: A Stunning, Sensitive True Crime Series from Netflix","isPartOf":{"@id":"https://collider.com/#website"},"primaryImageOfPage":{"@id":"https://collider.com/unbelievable-review-netflix/#primaryimage"},"datePublished":"2019-09-13T19:33:40+00:00","dateModified":"2019-09-24T20:32:04+00:00","author":{"@id":"https://collider.com/#/schema/person/b89762b48647f0fd9d66a3a759d66575"},"description":"Netflix delivers a stunning true crime series that always puts survivors first with 'Unbelievable', starring Toni Collette and Merritt Wever.","breadcrumb":{"@id":"https://collider.com/unbelievable-review-netflix/#breadcrumb"}},{"@type":"BreadcrumbList","@id":"https://collider.com/unbelievable-review-netflix/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://collider.com/","url":"https://collider.com/","name":"Home"}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","@id":"https://collider.com/unbelievable-review-netflix/","url":"https://collider.com/unbelievable-review-netflix/","name":"&#8216;Unbelievable&#8217; Review: Netflix&#8217;s Sensitive &#038; Stunning True Crime Series Puts Survivors First"}}]},{"@type":["Person"],"@id":"https://collider.com/#/schema/person/b89762b48647f0fd9d66a3a759d66575","name":"Lauren Thoman","sameAs":[]}]}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//securepubads.g.doubleclick.net' />
+<link rel='dns-prefetch' href='//static.chartbeat.com' />
+<link rel='dns-prefetch' href='//use.fontawesome.com' />
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/collider.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.12"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='wpt-twitter-feed-css'  href='https://collider.com/wp-content/plugins/wp-to-twitter/css/twitter-feed.css?ver=4.9.12' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-pagenavi-css'  href='https://collider.com/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70' type='text/css' media='all' />
+<link rel='stylesheet' id='custom-styles-css'  href='https://collider.com/wp-content/themes/collider-v3/custom-styles.css?ver=2019_08_09_01' type='text/css' media='all' />
+<link rel='stylesheet' id='collider-css'  href='https://collider.com/wp-content/themes/collider-v3/dist/css/style.css?ver=2019_08_09_01' type='text/css' media='all' />
+<link crossorigin="anonymous" rel='stylesheet' id='fontawesome-css'  href='//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css?ver=4.9.12' type='text/css' media='all' />
+<link crossorigin="anonymous" rel='stylesheet' id='collider-google-fonts-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A400%2C700&#038;ver=4.9.12' type='text/css' media='all' />
+<script type='text/javascript' async="async" src='https://securepubads.g.doubleclick.net/tag/js/gpt.js?ver=4.9.12'></script>
+<script type='text/javascript'>
+window.googletag = window.googletag || {cmd: []};  			googletag.cmd.push(function() {googletag.defineSlot('/21853491265/Collider', [[300,250],[300,600]], 'collider-ad-google-adx-sidebar-5dca72cec39d1').addService(googletag.pubads());googletag.defineSlot('/21853491265/Collider', [[970,250],[728,90]], 'collider-ad-google-adx-header-5dca72cec3a34').addService(googletag.pubads());googletag.defineSlot('/21853491265/Collider', [[728,90]], 'collider-ad-google-adx-footer-5dca72cec3a45').addService(googletag.pubads());googletag.defineSlot('/21853491265/Collider', [[300,250]], 'collider-ad-google-adx-inline-1-5dca72cec3a51').addService(googletag.pubads());googletag.defineSlot('/21853491265/Collider', [[300,250]], 'collider-ad-google-adx-inline-2-5dca72cec3a5c').addService(googletag.pubads());googletag.pubads().enableSingleRequest();		    googletag.enableServices();		  });
+</script>
+<script type='text/javascript'>
+			(function() {
+				/** CONFIGURATION START **/
+				var _sf_async_config = window._sf_async_config = (window._sf_async_config || {});
+				_sf_async_config.uid = 66011;
+				_sf_async_config.domain = 'collider.com';
+				_sf_async_config.flickerControl = false;
+				_sf_async_config.useCanonical = true;
+				_sf_async_config.useCanonicalDomain = true;
+				_sf_async_config.sections = "Entertainment,Reviews,TV";
+				_sf_async_config.authors = 'Lauren Thoman';
+				/** CONFIGURATION END **/
+				function loadChartbeat() {
+					var e = document.createElement('script');
+					var n = document.getElementsByTagName('script')[0];
+					e.type = 'text/javascript';
+					e.async = true;
+					e.src = '//static.chartbeat.com/js/chartbeat.js';;
+					n.parentNode.insertBefore(e, n);
+				}
+				loadChartbeat();
+			})();
+		
+</script>
+<script type='text/javascript' async="async" src='//static.chartbeat.com/js/chartbeat_mab.js?ver=4.9.12'></script>
+<script type='text/javascript' src='https://collider.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://collider.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://collider.com/wp-content/themes/collider-v3/js/jquery.waypoints.min.js'></script>
+<script type='text/javascript' src='https://use.fontawesome.com/releases/v5.2.0/js/all.js?ver=4.9.12'></script>
+<link rel='https://api.w.org/' href='https://collider.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://collider.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://collider.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.12" />
+<link rel='shortlink' href='https://collider.com/?p=806915' />
+<link rel="alternate" type="application/json+oembed" href="https://collider.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcollider.com%2Funbelievable-review-netflix%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://collider.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcollider.com%2Funbelievable-review-netflix%2F&#038;format=xml" />
+			<!-- NEWSROOM SCRIPT -->
+			<script>
+				window._newsroom = window._newsroom || [];
+
+				!function (e, f, u) {
+					e.async = 1;
+					e.src = u;
+					f.parentNode.insertBefore(e, f);
+				}(document.createElement('script'),
+					document.getElementsByTagName('script')[0], '//c2.taboola.com/nr/collider-collider/newsroom.js');
+				</script>
+				<!-- END NEWSROOM SCRIPT -->
+					<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+				(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+			ga('create', 'UA-1446295-1', {
+				'cookieDomain': 'auto',
+			});
+			ga('send', 'pageview');
+
+		</script>
+
+	<script type="text/javascript">
+	window._taboola = window._taboola || [];
+	_taboola.push({article:'auto'});
+	!function (e, f, u, i) {
+		if (!document.getElementById(i)){
+			e.async = 1;
+			e.src = u;
+			e.id = i;
+			f.parentNode.insertBefore(e, f);
+		}
+	}(document.createElement('script'),
+		document.getElementsByTagName('script')[0],
+		'//cdn.taboola.com/libtrc/collider-collider/loader.js',
+		'tb_loader_script');
+	if(window.performance && typeof window.performance.mark == 'function')
+		{window.performance.mark('tbl_ic');}
+</script><link rel="amphtml" href="https://collider.com/unbelievable-review-netflix/?amp"><style>
+    #footer ul.social-container a:hover, #footer ul.social-container a {
+        color:#666;
+}
+    .top-bar-social a svg {
+        font-size:1.2em;
+}
+    .svg-inline--fa {
+        vertical-align: -.2em;
+}
+</style>
+<!-- Bing Auth -->
+<meta name="msvalidate.01" content="F97A06145E9767C313B356E7E5B833F3" />
+
+
+<!-- Typekit -->
+<script src="https://use.typekit.net/cui2tsb.js"></script>
+<script>try{Typekit.load();}catch(e){}</script>
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+
+<!--[if lt IE 10]>
+<script src="https://collider.com/wp-content/themes/collider-v3/js/modernizer.dev.js" type="text/javascript"></script>
+<![endif]-->
+<!--[if lt IE 10]>
+<link rel="stylesheet" type="text/css" media="all" href="https://collider.com/wp-content/themes/collider-v3/iestyle.css" />
+<![endif]-->
+
+
+<meta name="google-site-verification" content="gsAKhpFeAT_1KIdd1PZiPoj3BdAcIipM2VNYcJKuQBU" />
+<!-- Google Newsstand  -->
+<meta name="google-site-verification" content="rtgRWlKYqmg2IwU4e9PBjtt31jXoTjotyW6iJbyqdyc" />
+
+<meta name="verify-v1" content="ag44RccQF3Xr4VqGQnxB+TOx8+rCP4SHaCwwGAtuWzc=" />
+
+
+<meta property="fb:app_id" content="190932086012" />
+
+<link rel="alternate" type="application/rss+xml" title="RSS Feed" href="//collider.com/feed/" />
+
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function()
+{n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)}
+;if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1628636477376373');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1628636477376373&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+
+<!-- FB Instant Articles -->
+<meta property="fb:pages" content="160246414365" />
+<link href="//cdn.novelty.media/css/styles.css" rel="stylesheet">
+</head>
+
+<body class="post-template-default single single-post postid-806915 single-format-standard organic entertainment all-reviews tv two-column right-sidebar">
+
+<!-- google custom search script-->
+<script>
+  (function() {
+    var cx = '005219487631012611056:j1axwmmwl-e';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+
+<!-- this is for the facebook comments at the bottom of single.php -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<!-- end FB comments -->
+
+<script>
+    window.fbAsyncInit = function() {
+        FB.init({ appId : '1678638095724206', xfbml : true, version : 'v2.6' });
+    };
+</script>
+
+
+<!-- facebook messenger overlay -->
+<div class="overlay" id="complex-overlay">
+  <div>
+    <div class="overlay-modal overlay-modal--dark">
+      <a class="overlay-modal__close">
+        <i class="fas fa-times"></i>
+      </a>
+      <div class="overlay-modal__header">
+        <i class="cmplx-icon icon-collider"></i>
+      </div>
+      <div class="overlay-modal__content modal-content">
+        <h2 class="modal-content__title">Facebook Messenger</h2>
+        <div class="modal-content__body modal-body">
+          <div class="modal-body__line">Click the button below and wait for a message from our Facebook bot in Messenger!</div>
+          <div class="modal-body__line">
+            <div class="fb-messenger-button">
+              <div class='fb-send-to-messenger'
+              data-messenger_app_id='1678638095724206'
+              data-page_id='160246414365'
+              data-ref='block_id_580fc416e4b061a942b85b75'
+              color='blue'
+              size='large' >
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+<!-- end facebook messenger overlay -->
+
+<section id="page-header">
+
+    <div id="complex-navbar">
+        <nav class="navbar navbar-default" role="navigation">
+            <div class="container">
+                
+<section class="navbar-section global">
+    <!-- Logo & Hamburger -->
+    <ul class="title-area pull-left">
+        <li class="menu-button">
+            <a href="javascript:;" class="slideout-menu-toggle" toggle-complex-menu><i class="fa-icon fas fa-bars"></i></a>
+        </li>
+        <li class="logo">
+            <a ng-href="/" href="/" target="_self" ga-link ga-category="Main Header" ga-action="Click on main logo">
+                <img id="collider-header-logo-image" src="https://collider.com/wp-content/themes/collider-v3/images/Collider_Logo_Dark.png" / alt="Collider.com">
+            </a>
+        </li>
+    </ul>
+
+
+
+    <!-- Main Navbar Links -->
+
+    <div class="menu-navbarmenu-container">
+        <ul id="menu-navbarmenu" class="link-area menu pull-left hidden-xxs">
+            <li id="nav-menu-item-389649" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-taxonomy menu-item-object-category">
+                <a href="/all-news/" class="menu-link main-menu-link" ga-link="" ga-category="Navbar" ga-action="Click on channel name in navbar">Movie News</a>
+            </li>
+            <li id="nav-menu-item-389651" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-taxonomy menu-item-object-category fancy">
+                <a href="/tv/" class="menu-link main-menu-link" ga-link="" ga-category="Navbar" ga-action="Click on channel name in navbar">TV News</a>
+            </li>
+            <li id="nav-menu-item-389653" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-taxonomy menu-item-object-category">
+                <a href="/trailers/" class="menu-link main-menu-link" ga-link="" ga-category="Navbar" ga-action="Click on channel name in navbar">Trailers</a>
+            </li>
+            <li id="nav-menu-item-movie-talk" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-taxonomy menu-item-object-category fancy">
+                <a href="/tag/netflix/" class="menu-link main-menu-link" ga-link="" ga-category="Navbar" ga-action="Click on channel name in navbar">Netflix</a>
+            </li>
+        </ul>
+    </div>
+
+
+
+        <!-- Right Nav Section -->
+    <div class="top-bar-social pull-right">
+
+        <ul class="search-container pull-right hidden-xs">
+            <li class="search-bar has-form">
+                <div class="complex-search">
+                                    </div>
+            </li>
+        </ul>
+
+        <ul class="social-container pull-right hidden-xs">
+            <li>
+                <a href="http://www.facebook.com/colliderdotcom" target="_blank" rel="nofollow" ga-link ga-category="Main Header" ga-action="Click on social links" ga-label="Facebook">
+                    <i class="fa-icon fab fa-facebook-f"></i>
+                </a>
+            </li>
+            <li>
+                <a href="http://twitter.com/collider" target="_blank" rel="nofollow" ga-link ga-category="Main Header" ga-action="Click on social links" ga-label="Twitter">
+                    <i class="fa-icon fab fa-twitter"></i>
+                </a>
+            </li>
+            <li>
+                <a href="http://www.youtube.com/collidervideos" target="_blank" rel="nofollow" ga-link ga-category="Main Header" ga-action="Click on social links" ga-label="YouTube">
+                    <i class="fa-icon fab fa-youtube-square"></i>
+                </a>
+            </li>
+            <li>
+                <a href="https://instagram.com/collidervideo/" target="_blank" rel="nofollow" ga-link ga-category="Main Header" ga-action="Click on social links" ga-label="Instagram">
+                    <i class="fa-icon fab fa-instagram"></i>
+                </a>
+            </li>
+            <li>
+                <a rel="nofollow" ga-link ga-category="Main Header" ga-action="Click on social links" ga-label="Messenger">
+                    <i class="fa-icon fab fa-facebook-messenger"></i>
+                </a>
+            </li>
+        </ul>
+    </div>
+</section>
+            </div>
+        </nav>
+    </div>
+
+    <div id="complex-menu">
+        <div class="main-menu slideout-menu" complex-main-menu>
+            <div class="overflow-wrapper">
+                <div class="scroll-wrapper">
+                    <div class="menu-search visible-xs-block">
+                                            </div>
+
+                    <!-- Site Links -->
+
+                    <div class="menu-complexmenuprimary-container">
+                        <ul id="menu-complexmenuprimary" class="section-site menu">
+                            <li id="nav-menu-item-389655" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-taxonomy menu-item-object-category">
+                                <a href="/all-news/" class="menu-link main-menu-link" ga-link="" ga-category="Channel Menu" ga-action="Click on channel name">Movie News</a>
+                            </li>
+							<li id="nav-menu-item-389657" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-taxonomy menu-item-object-category fancy">
+								<a href="/tv/" class="menu-link main-menu-link" ga-link="" ga-category="Channel Menu" ga-action="Click on channel name">TV News</a>
+							</li>
+                            <li id="nav-menu-item-389659" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-taxonomy menu-item-object-category">
+                                <a href="/trailers/" class="menu-link main-menu-link" ga-link="" ga-category="Channel Menu" ga-action="Click on channel name">Trailers</a>
+                            </li>
+							<li id="nav-menu-item-movie-talk" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="/movie-talk/" class="menu-link main-menu-link" ga-link="" ga-category="Channel Menu" ga-action="Click on channel name">Movie Talk</a>
+							</li>
+                        </ul>
+                    </div>
+
+                    <!-- Site Extras Links -->
+                    <div class="menu-section-title">More Collider</div>
+
+                    <div class="menu-complexmenuextras-container">
+                        <ul id="menu-complexmenuextras" class="section-site menu">
+                            <li id="nav-menu-item-389665" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-taxonomy menu-item-object-category"><a href="/all-reviews/" class="menu-link main-menu-link" ga-link="" ga-category="Channel Menu" ga-action="Click on channel name">Reviews</a></li>
+                            <li id="nav-menu-item-389663" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-taxonomy menu-item-object-category"><a href="/movie-clips/" class="menu-link main-menu-link" ga-link="" ga-category="Channel Menu" ga-action="Click on channel name">Movie Clips</a></li>
+                            <li id="nav-menu-item-389661" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-taxonomy menu-item-object-category"><a href="/interviews/" class="menu-link main-menu-link" ga-link="" ga-category="Channel Menu" ga-action="Click on channel name">Interviews</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Header Ad -->
+	<div id="cmn_ad_tag_head" style="margin:1em 0;" class="fw_collider">
+    <div id='collider-ad-google-adx-header-5dca72cec3a34'>
+			<script>
+				googletag.cmd.push(function() { googletag.display('collider-ad-google-adx-header-5dca72cec3a34'); 
+				});
+			</script>
+		</div>	</div>
+
+<div id="cmn_wrap">
+    <section id="welcome">
+        <header class="header">
+                            <article class="slider" data-tb-region="Featured Articles">
+                    <ul>
+                                <li data-tb-region-item>
+            <a href="https://collider.com/watchmen-episode-5-theories/" rel="bookmark" title="&#8216;Watchmen&#8217; Guide, Week 4: Questions We Have After “If You Don’t Like My Story, Write Your Own”" cat="tv">
+                <img width="171" height="160" src="https://cdn.collider.com/wp-content/uploads/2019/11/watchmen-episode-4-thumbnail-171x160.jpeg" class="attachment-post-featured size-post-featured" alt="" srcset="https://cdn.collider.com/wp-content/uploads/2019/11/watchmen-episode-4-thumbnail-171x160.jpeg 171w, https://cdn.collider.com/wp-content/uploads/2019/11/watchmen-episode-4-thumbnail-321x300.jpeg 321w, https://cdn.collider.com/wp-content/uploads/2019/11/watchmen-episode-4-thumbnail.jpeg 400w" sizes="(max-width: 171px) 100vw, 171px" title="watchmen-episode-4-thumbnail" />                <p id="slidertitle">&#8216;Watchmen&#8217; Guide, Week 4: Questions We Have After “If You Don’t Like My Story, Write&hellip;</p>
+            </a>
+        </li>
+            <li data-tb-region-item>
+            <a href="https://collider.com/green-eggs-and-ham-creator-interview-jared-stern/" rel="bookmark" title="&#8216;Green Eggs &#038; Ham&#8217; Creator Jared Stern on Adapting Dr. Seuss | Saturday Mourning Cartoons" cat="tv">
+                <img width="171" height="160" src="https://cdn.collider.com/wp-content/uploads/2019/11/green-eggs-and-ham-thumbnail-171x160.jpeg" class="attachment-post-featured size-post-featured" alt="" srcset="https://cdn.collider.com/wp-content/uploads/2019/11/green-eggs-and-ham-thumbnail-171x160.jpeg 171w, https://cdn.collider.com/wp-content/uploads/2019/11/green-eggs-and-ham-thumbnail-321x300.jpeg 321w, https://cdn.collider.com/wp-content/uploads/2019/11/green-eggs-and-ham-thumbnail.jpeg 400w" sizes="(max-width: 171px) 100vw, 171px" title="green-eggs-and-ham-thumbnail" />                <p id="slidertitle">&#8216;Green Eggs &#038; Ham&#8217; Creator Jared Stern on Adapting Dr. Seuss | Saturday Mourning Cartoons</p>
+            </a>
+        </li>
+            <li data-tb-region-item>
+            <a href="https://collider.com/upcoming-marvel-tv-shows/" rel="bookmark" title="Upcoming Marvel TV Shows: Here&#8217;s What Will Be Streaming on Disney Plus" cat="tv">
+                <img width="171" height="160" src="https://cdn.collider.com/wp-content/uploads/2019/11/tom-hiddleston-loki-thumbnail-171x160.jpg" class="attachment-post-featured size-post-featured" alt="" srcset="https://cdn.collider.com/wp-content/uploads/2019/11/tom-hiddleston-loki-thumbnail-171x160.jpg 171w, https://cdn.collider.com/wp-content/uploads/2019/11/tom-hiddleston-loki-thumbnail-321x300.jpg 321w, https://cdn.collider.com/wp-content/uploads/2019/11/tom-hiddleston-loki-thumbnail.jpg 400w" sizes="(max-width: 171px) 100vw, 171px" title="tom-hiddleston-loki-thumbnail" />                <p id="slidertitle">Upcoming Marvel TV Shows: Here&#8217;s What Will Be Streaming on Disney Plus</p>
+            </a>
+        </li>
+            <li data-tb-region-item>
+            <a href="https://collider.com/how-to-watch-disney-plus/" rel="bookmark" title="How to Watch Disney Plus: Supported Devices, Pricing Details, and More" cat="tv">
+                <img width="171" height="160" src="https://cdn.collider.com/wp-content/uploads/2019/09/disney-plus-thumbnail-171x160.jpg" class="attachment-post-featured size-post-featured" alt="" srcset="https://cdn.collider.com/wp-content/uploads/2019/09/disney-plus-thumbnail-171x160.jpg 171w, https://cdn.collider.com/wp-content/uploads/2019/09/disney-plus-thumbnail-321x300.jpg 321w, https://cdn.collider.com/wp-content/uploads/2019/09/disney-plus-thumbnail.jpg 400w" sizes="(max-width: 171px) 100vw, 171px" title="Disney+_Logo_Final" />                <p id="slidertitle">How to Watch Disney Plus: Supported Devices, Pricing Details, and More</p>
+            </a>
+        </li>
+            <li data-tb-region-item>
+            <a href="https://collider.com/rick-and-morty-season-4-review/" rel="bookmark" title="&#8216;Rick and Morty&#8217; Season 4 Premiere Review: Insane, Hilarious, and Absolutely Worth the Wait" cat="tv">
+                <img width="171" height="160" src="https://cdn.collider.com/wp-content/uploads/2019/11/rick-and-morty-season-4-thumbnail-171x160.jpeg" class="attachment-post-featured size-post-featured" alt="" srcset="https://cdn.collider.com/wp-content/uploads/2019/11/rick-and-morty-season-4-thumbnail-171x160.jpeg 171w, https://cdn.collider.com/wp-content/uploads/2019/11/rick-and-morty-season-4-thumbnail-321x300.jpeg 321w, https://cdn.collider.com/wp-content/uploads/2019/11/rick-and-morty-season-4-thumbnail.jpeg 400w" sizes="(max-width: 171px) 100vw, 171px" title="rick-and-morty-season-4-thumbnail" />                <p id="slidertitle">&#8216;Rick and Morty&#8217; Season 4 Premiere Review: Insane, Hilarious, and Absolutely Worth the Wait</p>
+            </a>
+        </li>
+                        </ul>
+                    <div class="clear"><!-- --></div>
+                </article>
+                    </header>
+
+        <!-- Header Ad -->
+				            <div id="cmn_ad_tag_head" class="fw_collider">
+            <div class="ad_placeholder" data-nm-id="banner-top"></div>
+                <!-- <script type="text/javascript">
+                    cmnUNT( '3x3', tile_num++, 0 );
+                </script> -->
+            </div>
+        
+<section class="leftpanel">
+    
+<article id="post-806915" class="post-806915 post type-post status-publish format-standard has-post-thumbnail hentry category-entertainment category-all-reviews category-tv tag-kaitlyn-dever tag-merritt-wever tag-netflix tag-review tag-toni-collette tag-unbelievable entertainment all-reviews tv">
+
+  <!-- .entry-header -->
+  <header class="entry-header">
+
+    <h1 class="entry-title">&#8216;Unbelievable&#8217; Review: Netflix&#8217;s Sensitive &#038; Stunning True Crime Series Puts Survivors First</h1>
+
+          <h3>
+        <span class="byline">by <a href="https://collider.com/author/lauren-thoman/" title="Posts by Lauren Thoman" rel="author">Lauren Thoman</a></span>&nbsp;&nbsp;&nbsp;&nbsp;
+        <span class="smltxt"><i class="far fa-clock"></i> September 13, 2019</span>
+      </h3>
+      
+  </header><!-- .entry-header -->
+
+  <!-- .entry-content -->
+  <div class="entry-content">
+
+    <div class="clear"></div>
+    
+<div class="cmplx-meta-top">
+
+    <div class='cmplx-meta cmplx-share'>
+    <a target="_blank" class="cmplx-share-link" href="http://www.facebook.com/sharer/sharer.php?m2w&s=100&p[url]=https%3A%2F%2Fcollider.com%2Funbelievable-review-netflix%2F&p[images][0]=https://cdn.collider.com/wp-content/uploads/2019/07/unbelievable-toni-collette-meritt-wever-slice.jpg&p[title]=&#8216;Unbelievable&#8217; Review: Netflix&#8217;s Sensitive &#038; Stunning True Crime Series Puts Survivors First&p[summary]=">
+        <span class="cmplx-share-icon facebook share-top">
+            <i class="fab fa-facebook-f"></i> <span class="cmplx-icon-title">SHARE</span>
+        </span>
+    </a>
+    <a target="_blank" class="cmplx-share-link" href="https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fcollider.com%2Funbelievable-review-netflix%2F&text=%26%238216%3BUnbelievable%26%238217%3B+Review%3A+Netflix%26%238217%3Bs+Sensitive+%26%23038%3B+Stunning+True+Crime+Series+Puts+Survivors+First&tw_p=tweetbutton&url=https%3A%2F%2Fcollider.com%2Funbelievable-review-netflix%2F&via=collider" >
+        <span class="cmplx-share-icon twitter share-top">
+            <i class="fab fa-twitter"></i> <span class="cmplx-icon-title">TWEET</span>
+        </span>
+    </a>
+</div>
+
+    <div class='cmplx-meta cmplx-shares'>
+		<div class="cmplx-box-total cmplx-share-count" data-url="https://collider.com/unbelievable-review-netflix/">0</div>
+		<div class="cmplx-share-icon"><i class="fas fa-share-alt"></i></div>
+	</div>
+
+	
+	<div class='cmplx-meta cmplx-comments'>
+        <div class="cmplx-box-total">
+        	<a href="https://collider.com/unbelievable-review-netflix/#disqus_thread" class="disqus-comment-count" data-disqus-identifier="806915 https://collider.com/?p=806915"></a>
+        </div>
+        <div class="cmplx-share-icon"><i class="fas fa-comment"></i></div>
+	</div>
+
+		
+</div>
+    <div class="clear"></div>
+
+    <p><img class="aligncenter wp-image-792215 size-medium" title="unbelievable-review" src="https://cdn.collider.com/wp-content/uploads/2019/07/unbelievable-toni-collette-meritt-wever-slice-600x200.jpg" alt="unbelievable-review" width="600" height="200" srcset="https://cdn.collider.com/wp-content/uploads/2019/07/unbelievable-toni-collette-meritt-wever-slice.jpg 600w, https://cdn.collider.com/wp-content/uploads/2019/07/unbelievable-toni-collette-meritt-wever-slice-500x167.jpg 500w" sizes="(max-width: 600px) 100vw, 600px" /></p>
+<p><em>Content Warning: This post contains references to and descriptions of sexual assault and rape. </em></p>
+<p>In the early hours of a March morning in 2008, an 18-year-old woman in Lynnwood, Washington, was awakened by a stranger in her apartment. Holding her at knifepoint, he tied her up, raped her for hours, photographed her, and said that if she went to the police, he would post the photographs online. Then he left.</p>
+<p>I begin my review of Netflix’s new limited series <a href="https://collider.com/tag/unbelievable/"><strong><em>Unbelievable </em></strong></a>with this harrowing account in order to make one thing as clear as possible: this really happened. Not just in the show, but in real life. It was the crime at the center of the Pulitzer Prize-winning ProPublica article “<a href="https://www.propublica.org/article/false-rape-accusations-an-unbelievable-story">An Unbelievable Story of Rape</a>,” and the This American Life episode “<a href="https://www.thisamericanlife.org/581/anatomy-of-doubt">Anatomy of Doubt</a>,” both of which served as the basis for <em>Unbelievable</em>. Both the article and the podcast state plainly, from the beginning, that whether the crime they’ll be discussing really occurred is not up for debate &#8212; it definitely did. Many individuals in the victim’s life &#8212; in every version of the story, she goes by the name of Marie &#8212; may not have believed her, but the people telling her story want us to know that they do and that we should.</p>
+<div class="ad_placeholder rightrail mt130"><div id="Collider_F_D300x600_RR-1"> </div></div><div data-index="1" id="attachment_792217" class="wp-caption feed alignright" style="max-width: 370px;"><a href="https://cdn.collider.com/wp-content/uploads/2019/07/unbelievable-kaitlyn-dever.jpg" target="_blank" rel="noopener"><img class="wp-image-792217" title="unbelievable-kaitlyn-dever" src="https://cdn.collider.com/wp-content/uploads/2019/07/unbelievable-kaitlyn-dever-600x400.jpg" alt="unbelievable-kaitlyn-dever" width="360" height="240" srcset="https://cdn.collider.com/wp-content/uploads/2019/07/unbelievable-kaitlyn-dever-600x400.jpg 600w, https://cdn.collider.com/wp-content/uploads/2019/07/unbelievable-kaitlyn-dever-768x512.jpg 768w, https://cdn.collider.com/wp-content/uploads/2019/07/unbelievable-kaitlyn-dever-765x510.jpg 765w, https://cdn.collider.com/wp-content/uploads/2019/07/unbelievable-kaitlyn-dever-450x300.jpg 450w, https://cdn.collider.com/wp-content/uploads/2019/07/unbelievable-kaitlyn-dever-900x600.jpg 900w, https://cdn.collider.com/wp-content/uploads/2019/07/unbelievable-kaitlyn-dever.jpg 1500w" sizes="(max-width: 360px) 100vw, 360px" /></a><p class="wp-caption-text feed">Image via Netflix</p></div>
+<p>The same is true of <em>Unbelievable</em>, a true-crime drama that is &#8212; somewhat ironically &#8212; built on a rock-solid foundation of belief. The first episode opens on Marie (<strong>Kaitlyn Dever</strong>) during the hours immediately following her attack, as she and her former foster mom, Judith (<strong>Elizabeth Marvel</strong>), wait for the police to arrive. Almost immediately, something feels off. Marie is asked to describe her attack over and over to a parade of strangers with notepads and cameras. Everything is very official, and we know the police and the medical personnel are “just doing their jobs,” but there’s something in the repetition and the cool sterility of the process that feels almost cruel. It’s easy to understand, watching Marie being interrogated, examined, and photographed, why so many victims of sexual assault choose not to report their attack.</p>
+<p>Still, despite all the relentless poking and prodding of Marie’s body and story, and the rising doubt from both the police and the people who are supposed to serve as her support system (by the end of the first episode, no one will believe her), <em>Unbelievable </em>makes it clear that she’s telling the truth. It’s evident in the brief flashbacks of the assault that are peppered throughout the series, in the way the camera frames Dever during moments when Marie’s story is being challenged, and in the consistency between Marie’s account and the eventual accounts of the rapist’s other victims. <em>Unbelievable</em>’s tale unfolds over a tight 385 minutes, and there’s not a single one in which we’re asked to question the veracity of Marie’s account.</p>
+<p>In episode two, the series jumps ahead three years and shifts locations to Colorado, where we meet Karen Duvall (<strong>Merritt Wever</strong>) and Grace Rasmussen (<strong>Toni Collette</strong>), based on real-life detectives Stacy Galbraith and Edna Hendershot. Duvall and Rasmussen work in different precincts but are brought together by the similarities in the rape cases they&#8217;re investigating. Duvall’s case: a 22-year-old woman named Amber (<strong>Danielle Macdonald</strong>) in Golden. Rasmussen’s: a woman in her late 50s named Sarah (<strong>Vanessa Bell Calloway</strong>) in Westminster. It’s not standard procedure for officers from different precincts to share the details of their cases, and it’s a fluke that brings these two together &#8212; Duvall’s husband works with Rasmussen, and recognized some of the details of her case in his wife’s.</p>
+<div class="ad_placeholder rightrail"><div id="Collider_F_D300x600_RR-2"> </div></div><div data-index="2" id="attachment_806934" class="wp-caption feed alignright" style="max-width: 370px;"><a href="https://cdn.collider.com/wp-content/uploads/2019/09/unbelievable-toni-collette.jpg" target="_blank" rel="noopener"><img class="wp-image-806934" title="unbelievable-toni-collette" src="https://cdn.collider.com/wp-content/uploads/2019/09/unbelievable-toni-collette-600x400.jpg" alt="unbelievable-toni-collette" width="360" height="240" srcset="https://cdn.collider.com/wp-content/uploads/2019/09/unbelievable-toni-collette-600x400.jpg 600w, https://cdn.collider.com/wp-content/uploads/2019/09/unbelievable-toni-collette-768x512.jpg 768w, https://cdn.collider.com/wp-content/uploads/2019/09/unbelievable-toni-collette-765x510.jpg 765w, https://cdn.collider.com/wp-content/uploads/2019/09/unbelievable-toni-collette-450x300.jpg 450w, https://cdn.collider.com/wp-content/uploads/2019/09/unbelievable-toni-collette-900x600.jpg 900w, https://cdn.collider.com/wp-content/uploads/2019/09/unbelievable-toni-collette.jpg 1500w" sizes="(max-width: 360px) 100vw, 360px" /></a><p class="wp-caption-text feed">Image via Netflix</p></div>
+<p>On paper, Duvall and Rasmussen don’t have much in common aside from their chosen profession. Duvall is soft-spoken and gentle while Rasmussen is direct and abrasive. Duvall is patient; Rasmussen is constantly on the move. Duvall is young and optimistic; Rasmussen is seasoned and jaded. Duvall is a person of faith; Rasmussen believes in hard work and the power of a strong drink.</p>
+<p>Yet when it comes to how they interact with the victims of their respective cases, similarities shine through. Repeatedly, they assure the women that they don’t need to explain how they’re processing their trauma or apologize for not reacting in a typically expected way. They tell them that it’s okay to not remember much, or to remember everything. To seek medical attention, or not. To want to talk about their attack, or try to put it behind them and move on.</p>
+<p>In one early scene, after we’ve watched Duvall question Amber with the gentleness and empathy that was so painfully absent from Marie’s experience, the two detectives go talk to Sarah together. Rasmussen tells Duvall not to speak, but toward the end of the interview, picking at a thread Sarah loosened with one of her answers, Duvall asks Sarah a question about her assault, while in the background, Rasmussen quietly seethes. Sarah begins to apologize, explaining that she doesn’t remember many details, and Rasmussen quickly reassures her, telling her that it’s self-defense, that it’s common, that she shouldn’t apologize for doing what she had to do in order to feel safe.</p>
+<p>Later, when the two detectives are alone, Rasmussen explains to Duvall that Sarah’s “psyche is held together by spit and a prayer,” and that being questioned about the rape by yet another stranger with a badge is going to do more harm than good. Watching the scene, realizing that even the kind, soft-spoken Duvall may have unintentionally traumatized Sarah further with her single well-intentioned question, it’s hard not to think about Marie having to describe her assault over and over, in painstaking detail, to a constantly rotating carousel of mostly male strangers who thought she was making it all up.</p>
+<p>It’s this juxtaposition that <em>Unbelievable </em>does so well, especially as Duvall and Rasmussen’s case picks up steam. The two detectives are brilliant, spinning even the barest whispers of clues into solid gold leads, but with every break in the case, we always come back to Marie.  <em>Remember</em>, the show seems to urge as we watch her struggle to come up with the five-hundred dollars to pay her court fees after she’s charged with false reporting, or pedal her bike furiously away from clusters of prying reporters wanting to know why she lied, or weep helplessly into her pillow. <em>Remember, not everyone gets a Duvall or a Rasmussen. Some have no one at all.</em></p>
+<div class="ad_placeholder rightrail"><div id="Collider_F_D300x600_RR-3"> </div></div><div data-index="3" id="attachment_792218" class="wp-caption feed alignright" style="max-width: 370px;"><a href="https://cdn.collider.com/wp-content/uploads/2019/07/unbelievable-netflix-kaitlyn-dever.jpg" target="_blank" rel="noopener"><img class="wp-image-792218" title="unbelievable-netflix-kaitlyn-dever" src="https://cdn.collider.com/wp-content/uploads/2019/07/unbelievable-netflix-kaitlyn-dever-600x300.jpg" alt="unbelievable-netflix-kaitlyn-dever" width="360" height="180" srcset="https://cdn.collider.com/wp-content/uploads/2019/07/unbelievable-netflix-kaitlyn-dever-600x300.jpg 600w, https://cdn.collider.com/wp-content/uploads/2019/07/unbelievable-netflix-kaitlyn-dever-768x384.jpg 768w, https://cdn.collider.com/wp-content/uploads/2019/07/unbelievable-netflix-kaitlyn-dever-765x383.jpg 765w, https://cdn.collider.com/wp-content/uploads/2019/07/unbelievable-netflix-kaitlyn-dever-500x250.jpg 500w, https://cdn.collider.com/wp-content/uploads/2019/07/unbelievable-netflix-kaitlyn-dever-900x450.jpg 900w, https://cdn.collider.com/wp-content/uploads/2019/07/unbelievable-netflix-kaitlyn-dever.jpg 1500w" sizes="(max-width: 360px) 100vw, 360px" /></a><p class="wp-caption-text feed">Image via Netflix</p></div>
+<p>Marie, at least, has us. <em>Unbelievable </em>makes sure of that. We can’t help her, but we can believe her, and bear witness to the many injustices she is forced to suffer. We can remember, even in moments of triumph, that she is still out there, alone.</p>
+<p>Equally hard to shake while watching <em>Unbelievable </em>is the knowledge that it is all based on a true story. If you read the ProPublica article or listen to the podcast before watching the series (I’d highly recommend both), it’s hard not to be blown away by how closely the dramatization hews to reality. Showrunner <strong>Susannah Grant</strong>, along with co-creators <strong>Michael Chabon</strong> and <strong>Ayelet Waldman </strong>have taken meticulous care to get Marie’s story right, to the point where it almost feels as though they’re attempting to personally atone for the three years when everyone else got it wrong.</p>
+<p>And <em>Unbelievable </em>gets more right than just the facts of the case. Dever more than holds her own alongside Emmy winners Wever (<strong><em>Godless</em></strong>, <strong><em>Nurse Jackie</em></strong>) and Collette (<strong><em>United States of Tara</em></strong>; Collette also has a Golden Globe and an Oscar nomination under her belt), with all three leads delivering powerhouse performances that make it feel as though they’ve been embodying these characters for eight years rather than eight episodes. And the supporting cast &#8212; which, in addition to the actresses mentioned above, also includes <strong>Annaleigh Ashford</strong>, <strong>Dale Dickey</strong>, and <strong>Brooke Smith </strong>&#8212; is wall-to-wall outstanding.</p>
+<p>Further, while the writing is definitely elevated by the quality of the cast, the script is lean and moves along at a snappy pace, striking a perfect balance between exhilarating tension and deep despair, and explaining just enough of its technical procedural elements to never leave the audience behind. (In a clever workaround of a common procedural pitfall, Rasmussen’s office is given an inexperienced intern to ask what all the jargon means, so that more experienced characters are never forced to explain it to each other for the benefit of the audience.) If there’s any area where the script gets a little repetitive, it’s in how frequently it reminds us of the importance of listening to victims, how there’s no one right way to exist as a survivor of an assault, and how healing looks different for everyone &#8212; but that’s hardly a flaw. These are messages we could all probably stand to hear a little more frequently.</p>
+<div class="ad_placeholder rightrail"><div id="Collider_F_D300x600_RR-4"> </div></div><div data-index="4" id="attachment_806933" class="wp-caption feed alignright" style="max-width: 370px;"><a href="https://cdn.collider.com/wp-content/uploads/2019/09/unbelievable-merritt-weaver.jpg" target="_blank" rel="noopener"><img class="wp-image-806933" title="unbelievable-merritt-weaver" src="https://cdn.collider.com/wp-content/uploads/2019/09/unbelievable-merritt-weaver-600x400.jpg" alt="unbelievable-merritt-weaver" width="360" height="240" srcset="https://cdn.collider.com/wp-content/uploads/2019/09/unbelievable-merritt-weaver-600x400.jpg 600w, https://cdn.collider.com/wp-content/uploads/2019/09/unbelievable-merritt-weaver-768x512.jpg 768w, https://cdn.collider.com/wp-content/uploads/2019/09/unbelievable-merritt-weaver-765x510.jpg 765w, https://cdn.collider.com/wp-content/uploads/2019/09/unbelievable-merritt-weaver-450x300.jpg 450w, https://cdn.collider.com/wp-content/uploads/2019/09/unbelievable-merritt-weaver-900x600.jpg 900w, https://cdn.collider.com/wp-content/uploads/2019/09/unbelievable-merritt-weaver.jpg 1500w" sizes="(max-width: 360px) 100vw, 360px" /></a><p class="wp-caption-text feed">Image via Netflix</p></div>
+<p>When it comes to the rapes themselves, <em>Unbelievable </em>handles its potentially traumatizing subject matter with sensitivity and grace rarely found on TV (or anywhere, for that matter). While the screener that I received did (rightfully) include a content warning at the beginning of the first episode, and the series does include a number of split-second flashes of numerous assaults, they are never gratuitous or voyeuristic and are always from the victim’s point of view. Never once does the camera linger on exploitative images of female nudity; rather, it focuses on the women’s faces, their memories of their attacker, and occasionally a fleeting shot of a hand, foot, or stomach. Later, when the photos the attacker took of his victims are discovered, we’re told that they’re difficult to look at, but we never see them. We don’t have to. This is not a series about reliving trauma, but about healing from it.</p>
+<p>★★★★★</p>
+      <div id="" class="ad_placeholder ">
+                  <div id="Collider_F_D728x90_Mid-1"></div>
+      </div>
+  
+        <script type='text/javascript'>
+            var slides = [{"slug":"kaitlyn-dever","title":"","images":[],"content":"<p>Some have said that <em>Unbelievable <\/em>feels like two shows rolled into one &#8212; half invigorating buddy cop procedural, half depressing trauma survivor character study &#8212; but to me, that seems like the whole point. We live in a world where police do amazing work, and where police inflict incredible harm. Where women are believed and championed, and women are disbelieved and vilified. Where rapists are brought to justice, and where rapists walk free.<\/p>\n<p><em>Unbelievable <\/em>holds all those truths in tension with one another, exploring them, confronting them, and revealing them in all their brilliance and ugliness. There are times when the pain that Marie\u2019s going through seems like too much, and we long for the narrative to pivot back to Colorado, back to Duvall and Rasmussen the deep satisfaction of unwavering competence. But, as <em>Unbelievable <\/em>reminds us, that\u2019s just the thing &#8212; the messiness of Marie\u2019s story and the neatness of the detectives, the world where justice is dead and the one where it is fire-eyed and thriving, have never been two different stories. They\u2019ve only ever been the same one.<\/p>\n<p><em>Watch all episodes of Unbelievable on Netflix on September 13, 2019.<\/em><\/p>\n<p>If you or someone you know has experienced sexual abuse and are in need of support, please call the National Sexual Assault Hotline at 1-800-656-HOPE or <a href=\"https:\/\/www.rainn.org\">https:\/\/www.rainn.org<\/a>\/.<\/p>\n<p><a href=\"https:\/\/cdn.collider.com\/wp-content\/uploads\/2019\/07\/unbelievable-poster.jpg\" target=\"_blank\" rel=\"noopener\"><img class=\"aligncenter wp-image-792219 size-medium\" title=\"unbelievable-poster\" src=\"https:\/\/cdn.collider.com\/wp-content\/uploads\/2019\/07\/unbelievable-poster-405x600.jpg\" alt=\"unbelievable-poster\" width=\"405\" height=\"600\" srcset=\"https:\/\/cdn.collider.com\/wp-content\/uploads\/2019\/07\/unbelievable-poster-405x600.jpg 405w, https:\/\/cdn.collider.com\/wp-content\/uploads\/2019\/07\/unbelievable-poster-768x1137.jpg 768w, https:\/\/cdn.collider.com\/wp-content\/uploads\/2019\/07\/unbelievable-poster-765x1133.jpg 765w, https:\/\/cdn.collider.com\/wp-content\/uploads\/2019\/07\/unbelievable-poster-203x300.jpg 203w, https:\/\/cdn.collider.com\/wp-content\/uploads\/2019\/07\/unbelievable-poster-456x676.jpg 456w, https:\/\/cdn.collider.com\/wp-content\/uploads\/2019\/07\/unbelievable-poster.jpg 1000w\" sizes=\"(max-width: 405px) 100vw, 405px\" \/><\/a><\/p>\n","embed":""}];
+        </script>
+
+
+
+<!-- Slideshow -->
+
+<div id="slideshow">
+<div id="kaitlyn-dever" class="slide"></div></div>
+
+<!-- Slide Template -->
+
+<script id="slide-template" type="text/x-handlebars-template">
+    {{#if title}}
+        <h2>{{title}}</h2>
+    {{/if}}
+
+    {{#if embed}}
+        <div class="slide-embed">
+            {{{embed}}}
+        </div>
+    {{else}}
+        <div class="slide-images">
+            {{#each images}}
+                <img src="{{this}}" />
+            {{/each}}
+        </div>
+    {{/if}}
+
+    {{#if content}}
+        <div class="slide-content">
+            {{{content}}}
+        </div>
+    {{/if}}
+
+    {{#if numberMod}}
+        <div id="in-content-ad-container-{{{number}}}" class="in-content-ad">
+            <div class="ad_placeholder">
+                <div id="rect-incontent-3-{{{number}}}" style="width: 300px; margin: 0 auto; margin-top: 0px!important;"></div>
+            </div>
+        </div>
+    {{/if}}
+</script>
+
+<script type="text/javascript">
+
+    jQuery(document).ready(function($) {
+        var location = window.history.location || window.location;
+        var cList = {
+
+            // compile thine handlebars template which hitherto slides shall be rendered
+            slide_template: Handlebars.compile( jQuery('#slide-template').html() ),
+            slide_hash: window.location.hash,
+            $slide: $('.slide'),
+
+            /**
+             * [init description]
+             * @return {[type]} [description]
+             */
+
+            init: function() {
+
+              // History.options.html4Mode = true;
+
+                if( cList.slide_hash ){
+                    slides[$( cList.slide_hash ).index('.slide')].number = parseInt($( cList.slide_hash ).index('.slide')) + 1;
+                    slides[$( cList.slide_hash ).index('.slide')].numberMod = !!((parseInt($( cList.slide_hash ).index('.slide')) + 1) % 2) && (slides.length >= 5);
+                    $( cList.slide_hash ).append( cList.slide_template( slides[ $( cList.slide_hash ).index('.slide') ] ) );
+                }
+
+                cList.bind_slide_load();
+                cList.bind_slide_url_update();
+                cList.bind_ad_injection();
+            },
+
+
+            /**
+            * [bind_slide_load description]
+            * @return {[type]} [description]
+            */
+
+            bind_slide_load: function() {
+                cList.$slide.one( 'inview', function(event, isInView, visiblePartX, visiblePartY ) {
+                    $this = $(this);
+                    if ( isInView && $this.text() === '' ){
+                        slides[$this.index('.slide')].number = parseInt($this.index('.slide')) + 1;
+                        slides[$this.index('.slide')].numberMod = !!((parseInt($this.index('.slide')) + 1) % 2) && (slides.length >= 5);
+                        $this.append( cList.slide_template( slides[ $this.index('.slide') ] ) );
+                    }
+                });
+            },
+
+
+            /**
+            * [bind_slide_url_update description]
+            * @return {[type]} [description]
+            */
+
+            bind_slide_url_update: function () {
+                cList.$slide.bind( 'inview', function(event, isInView, visiblePartX, visiblePartY) {
+                    if (isInView) {
+                        if (visiblePartY == 'top') {
+                            // top part of element is visible
+                            var slide_index = $( this ).index(),
+                            slide_id = $( this ).attr('id');
+
+                            cList.update_url( slide_index, slide_id );
+                        }
+                    }
+                });
+            },
+
+
+            /**
+             * [bind_ad_injection description]
+             * @return {[type]} [description]
+             */
+
+            bind_ad_injection: function() {
+
+                // $( 'article .in-content-ad' ).one( 'inview', function(  ) {
+                //     cList.inject_ad( this );
+                // });
+            },
+
+
+            /**
+            * Update URL via History.js pushState
+            * @param  {[type]} slide_index [description]
+            * @param  {[type]} slide_title [description]
+            * @return {[type]}             [description]
+            */
+
+            update_url: function ( slide_index, slide_id ) {
+                window.Complex.comScoreFireTag('csSlideChange');
+                history.pushState(null, null, '#'+slide_id);
+                cList.adpageview();
+                //*(function(window,undefined){
+
+                // Bind to StateChange Event
+                // History.Adapter.bind(window,'statechange',function(){ // Note: We are using statechange instead of popstate
+                //   var State = History.getState(); // Note: We are using History.getState() instead of event.state
+                // });
+
+                // Change our States
+                // History.pushState(null, null, '#'+slide_id ); // logs {state:1}, "State 1", "?state=1"
+                // window.location.hash = slide_id;
+                // cList.adpageview();
+
+                // })(window);
+            },
+
+            adpageview: $.throttle(250,function() {
+                registerPageView( window.location.pathname + window.location.hash );
+                // writeCaptureRefresh();
+            }),
+
+            /**
+            * [inject_ad description]
+            * @return {[type]} [description]
+            */
+            inject_ad: function ( inview_ad ) {
+                document.querySelector( inview_ad).innerHTML = '<div class="ad_placeholder"><div id="rect-incontent-1"></div></div>';
+                 // postscribe( inview_ad, '<script>cmnUNT("100x100", tile_num++);<\/script>' );
+            }
+
+        };
+
+        cList.init();
+
+    });
+
+</script>
+
+<style>
+    .slide {
+        margin: 0;
+    }
+    .slide h2 {
+        border-top: 1px solid #cccccc;
+        padding-top: 40px;
+    }
+    .slide:last-child {
+        border-bottom: none !important;
+    }
+    .slide-content {
+        margin: 30px 0;
+    }
+</style>
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"BlogPosting","headline":"&#8216;Unbelievable&#8217; Review: Netflix&#8217;s Sensitive &#038; Stunning True Crime Series Puts Survivors First","image":["https:\/\/cdn.collider.com\/wp-content\/uploads\/2019\/07\/unbelievable-toni-collette-meritt-wever-slice.jpg"],"datePublished":"2019-09-13T12:33:40+00:00","description":"Netflix delivers a stunning true crime series that always puts survivors first with 'Unbelievable', starring Toni Collette and Merritt Wever.","articleBody":"<img class=\"aligncenter wp-image-792215 size-medium\" title=\"unbelievable-review\" src=\"https:\/\/cdn.collider.com\/wp-content\/uploads\/2019\/07\/unbelievable-toni-collette-meritt-wever-slice-600x200.jpg\" alt=\"unbelievable-review\" width=\"600\" height=\"200\" \/>\r\n\r\n<em>Content Warning: This post contains references to and descriptions of sexual assault and rape.\u00a0<\/em>\r\n\r\nIn the early hours of a March morning in 2008, an 18-year-old woman in Lynnwood, Washington, was awakened by a stranger in her apartment. Holding her at knifepoint, he tied her up, raped her for hours, photographed her, and said that if she went to the police, he would post the photographs online. Then he left.\r\n\r\nI begin my review of Netflix\u2019s new limited series <a href=\"https:\/\/collider.com\/tag\/unbelievable\/\"><strong><em>Unbelievable <\/em><\/strong><\/a>with this harrowing account in order to make one thing as clear as possible: this really happened. Not just in the show, but in real life. It was the crime at the center of the Pulitzer Prize-winning ProPublica article \u201c<a href=\"https:\/\/www.propublica.org\/article\/false-rape-accusations-an-unbelievable-story\">An Unbelievable Story of Rape<\/a>,\u201d and the This American Life episode \u201c<a href=\"https:\/\/www.thisamericanlife.org\/581\/anatomy-of-doubt\">Anatomy of Doubt<\/a>,\u201d both of which served as the basis for <em>Unbelievable<\/em>. Both the article and the podcast state plainly, from the beginning, that whether the crime they\u2019ll be discussing really occurred is not up for debate -- it definitely did. Many individuals in the victim\u2019s life -- in every version of the story, she goes by the name of Marie -- may not have believed her, but the people telling her story want us to know that they do and that we should.\r\n\r\n[caption id=\"attachment_792217\" align=\"alignright\" width=\"360\"]<a href=\"https:\/\/cdn.collider.com\/wp-content\/uploads\/2019\/07\/unbelievable-kaitlyn-dever.jpg\" target=\"_blank\" rel=\"noopener\"><img class=\"wp-image-792217\" title=\"unbelievable-kaitlyn-dever\" src=\"https:\/\/cdn.collider.com\/wp-content\/uploads\/2019\/07\/unbelievable-kaitlyn-dever-600x400.jpg\" alt=\"unbelievable-kaitlyn-dever\" width=\"360\" height=\"240\" \/><\/a> Image via Netflix[\/caption]\r\n\r\nThe same is true of <em>Unbelievable<\/em>, a true-crime drama that is -- somewhat ironically -- built on a rock-solid foundation of belief. The first episode opens on Marie (<strong>Kaitlyn Dever<\/strong>) during the hours immediately following her attack, as she and her former foster mom, Judith (<strong>Elizabeth Marvel<\/strong>), wait for the police to arrive. Almost immediately, something feels off. Marie is asked to describe her attack over and over to a parade of strangers with notepads and cameras. Everything is very official, and we know the police and the medical personnel are \u201cjust doing their jobs,\u201d but there\u2019s something in the repetition and the cool sterility of the process that feels almost cruel. It\u2019s easy to understand, watching Marie being interrogated, examined, and photographed, why so many victims of sexual assault choose not to report their attack.\r\n\r\nStill, despite all the relentless poking and prodding of Marie\u2019s body and story, and the rising doubt from both the police and the people who are supposed to serve as her support system (by the end of the first episode, no one will believe her), <em>Unbelievable <\/em>makes it clear that she\u2019s telling the truth. It\u2019s evident in the brief flashbacks of the assault that are peppered throughout the series, in the way the camera frames Dever during moments when Marie\u2019s story is being challenged, and in the consistency between Marie\u2019s account and the eventual accounts of the rapist\u2019s other victims. <em>Unbelievable<\/em>\u2019s tale unfolds over a tight 385 minutes, and there\u2019s not a single one in which we\u2019re asked to question the veracity of Marie\u2019s account.\r\n\r\nIn episode two, the series jumps ahead three years and shifts locations to Colorado, where we meet Karen Duvall (<strong>Merritt Wever<\/strong>) and Grace Rasmussen (<strong>Toni Collette<\/strong>), based on real-life detectives Stacy Galbraith and Edna Hendershot. Duvall and Rasmussen work in different precincts but are brought together by the similarities in the rape cases they're investigating. Duvall\u2019s case: a 22-year-old woman named Amber (<strong>Danielle Macdonald<\/strong>) in Golden. Rasmussen\u2019s: a woman in her late 50s named Sarah (<strong>Vanessa Bell Calloway<\/strong>) in Westminster. It\u2019s not standard procedure for officers from different precincts to share the details of their cases, and it\u2019s a fluke that brings these two together -- Duvall\u2019s husband works with Rasmussen, and recognized some of the details of her case in his wife\u2019s.\r\n\r\n[caption id=\"attachment_806934\" align=\"alignright\" width=\"360\"]<a href=\"https:\/\/cdn.collider.com\/wp-content\/uploads\/2019\/09\/unbelievable-toni-collette.jpg\" target=\"_blank\" rel=\"noopener\"><img class=\"wp-image-806934\" title=\"unbelievable-toni-collette\" src=\"https:\/\/cdn.collider.com\/wp-content\/uploads\/2019\/09\/unbelievable-toni-collette-600x400.jpg\" alt=\"unbelievable-toni-collette\" width=\"360\" height=\"240\" \/><\/a> Image via Netflix[\/caption]\r\n\r\nOn paper, Duvall and Rasmussen don\u2019t have much in common aside from their chosen profession. Duvall is soft-spoken and gentle while Rasmussen is direct and abrasive. Duvall is patient; Rasmussen is constantly on the move. Duvall is young and optimistic; Rasmussen is seasoned and jaded. Duvall is a person of faith; Rasmussen believes in hard work and the power of a strong drink.\r\n\r\nYet when it comes to how they interact with the victims of their respective cases, similarities shine through. Repeatedly, they assure the women that they don\u2019t need to explain how they\u2019re processing their trauma or apologize for not reacting in a typically expected way. They tell them that it\u2019s okay to not remember much, or to remember everything. To seek medical attention, or not. To want to talk about their attack, or try to put it behind them and move on.\r\n\r\nIn one early scene, after we\u2019ve watched Duvall question Amber with the gentleness and empathy that was so painfully absent from Marie\u2019s experience, the two detectives go talk to Sarah together. Rasmussen tells Duvall not to speak, but toward the end of the interview, picking at a thread Sarah loosened with one of her answers, Duvall asks Sarah a question about her assault, while in the background, Rasmussen quietly seethes. Sarah begins to apologize, explaining that she doesn\u2019t remember many details, and Rasmussen quickly reassures her, telling her that it\u2019s self-defense, that it\u2019s common, that she shouldn\u2019t apologize for doing what she had to do in order to feel safe.\r\n\r\nLater, when the two detectives are alone, Rasmussen explains to Duvall that Sarah\u2019s \u201cpsyche is held together by spit and a prayer,\u201d and that being questioned about the rape by yet another stranger with a badge is going to do more harm than good. Watching the scene, realizing that even the kind, soft-spoken Duvall may have unintentionally traumatized Sarah further with her single well-intentioned question, it\u2019s hard not to think about Marie having to describe her assault over and over, in painstaking detail, to a constantly rotating carousel of mostly male strangers who thought she was making it all up.\r\n\r\nIt\u2019s this juxtaposition that <em>Unbelievable <\/em>does so well, especially as Duvall and Rasmussen\u2019s case picks up steam. The two detectives are brilliant, spinning even the barest whispers of clues into solid gold leads, but with every break in the case, we always come back to Marie.\u00a0 <em>Remember<\/em>, the show seems to urge as we watch her struggle to come up with the five-hundred dollars to pay her court fees after she\u2019s charged with false reporting, or pedal her bike furiously away from clusters of prying reporters wanting to know why she lied, or weep helplessly into her pillow. <em>Remember, not everyone gets a Duvall or a Rasmussen. Some have no one at all.<\/em>\r\n\r\n[caption id=\"attachment_792218\" align=\"alignright\" width=\"360\"]<a href=\"https:\/\/cdn.collider.com\/wp-content\/uploads\/2019\/07\/unbelievable-netflix-kaitlyn-dever.jpg\" target=\"_blank\" rel=\"noopener\"><img class=\"wp-image-792218\" title=\"unbelievable-netflix-kaitlyn-dever\" src=\"https:\/\/cdn.collider.com\/wp-content\/uploads\/2019\/07\/unbelievable-netflix-kaitlyn-dever-600x300.jpg\" alt=\"unbelievable-netflix-kaitlyn-dever\" width=\"360\" height=\"180\" \/><\/a> Image via Netflix[\/caption]\r\n\r\nMarie, at least, has us. <em>Unbelievable <\/em>makes sure of that. We can\u2019t help her, but we can believe her, and bear witness to the many injustices she is forced to suffer. We can remember, even in moments of triumph, that she is still out there, alone.\r\n\r\nEqually hard to shake while watching <em>Unbelievable <\/em>is the knowledge that it is all based on a true story. If you read the ProPublica article or listen to the podcast before watching the series (I\u2019d highly recommend both), it\u2019s hard not to be blown away by how closely the dramatization hews to reality. Showrunner <strong>Susannah Grant<\/strong>, along with co-creators <strong>Michael Chabon<\/strong> and <strong>Ayelet Waldman <\/strong>have taken meticulous care to get Marie\u2019s story right, to the point where it almost feels as though they\u2019re attempting to personally atone for the three years when everyone else got it wrong.\r\n\r\nAnd <em>Unbelievable <\/em>gets more right than just the facts of the case. Dever more than holds her own alongside Emmy winners Wever (<strong><em>Godless<\/em><\/strong>, <strong><em>Nurse Jackie<\/em><\/strong>) and Collette (<strong><em>United States of Tara<\/em><\/strong>; Collette also has a Golden Globe and an Oscar nomination under her belt), with all three leads delivering powerhouse performances that make it feel as though they\u2019ve been embodying these characters for eight years rather than eight episodes. And the supporting cast -- which, in addition to the actresses mentioned above, also includes <strong>Annaleigh Ashford<\/strong>, <strong>Dale Dickey<\/strong>, and <strong>Brooke Smith <\/strong>-- is wall-to-wall outstanding.\r\n\r\nFurther, while the writing is definitely elevated by the quality of the cast, the script is lean and moves along at a snappy pace, striking a perfect balance between exhilarating tension and deep despair, and explaining just enough of its technical procedural elements to never leave the audience behind. (In a clever workaround of a common procedural pitfall, Rasmussen\u2019s office is given an inexperienced intern to ask what all the jargon means, so that more experienced characters are never forced to explain it to each other for the benefit of the audience.) If there\u2019s any area where the script gets a little repetitive, it\u2019s in how frequently it reminds us of the importance of listening to victims, how there\u2019s no one right way to exist as a survivor of an assault, and how healing looks different for everyone -- but that\u2019s hardly a flaw. These are messages we could all probably stand to hear a little more frequently.\r\n\r\n[caption id=\"attachment_806933\" align=\"alignright\" width=\"360\"]<a href=\"https:\/\/cdn.collider.com\/wp-content\/uploads\/2019\/09\/unbelievable-merritt-weaver.jpg\" target=\"_blank\" rel=\"noopener\"><img class=\"wp-image-806933\" title=\"unbelievable-merritt-weaver\" src=\"https:\/\/cdn.collider.com\/wp-content\/uploads\/2019\/09\/unbelievable-merritt-weaver-600x400.jpg\" alt=\"unbelievable-merritt-weaver\" width=\"360\" height=\"240\" \/><\/a> Image via Netflix[\/caption]\r\n\r\nWhen it comes to the rapes themselves, <em>Unbelievable <\/em>handles its potentially traumatizing subject matter with sensitivity and grace rarely found on TV (or anywhere, for that matter). While the screener that I received did (rightfully) include a content warning at the beginning of the first episode, and the series does include a number of split-second flashes of numerous assaults, they are never gratuitous or voyeuristic and are always from the victim\u2019s point of view. Never once does the camera linger on exploitative images of female nudity; rather, it focuses on the women\u2019s faces, their memories of their attacker, and occasionally a fleeting shot of a hand, foot, or stomach. Later, when the photos the attacker took of his victims are discovered, we\u2019re told that they\u2019re difficult to look at, but we never see them. We don\u2019t have to. This is not a series about reliving trauma, but about healing from it.\r\n\r\n\u2605\u2605\u2605\u2605\u2605"}</script><div class="opt related-content"><div id="related-content-title">Related Content</div><ul><li><a href="https://collider.com/carnival-row-season-2-filming-begins/" alt="https://cdn.collider.com/wp-content/uploads/2019/11/carnival-row-cara-delevingne-orlando-bloom-slice-600x200.jpg">Filming Begins on 'Carnival Row' Season 2 & the Cast Is Already Teasing What's Next</a> </li> <li><a href="https://collider.com/chris-evans-marvel-martin-scorsese-controversy-scarlett-johansson-chadwick-boseman/" alt="https://cdn.collider.com/wp-content/uploads/2019/11/avengers-infinity-war-evans-johansson-slice-600x200.jpg">Chris Evans, Scarlett Johansson, & Chadwick Boseman Address Marvel/Scorsese Controversy</a> </li> <li><a href="https://collider.com/scoob-trailer-shaggy-scooby-doo/" alt="https://cdn.collider.com/wp-content/uploads/2019/11/scoob-shaggy-movie-theater-slice-600x200.jpeg">The First 'Scoob!' Trailer Gives Us an Adorable Shaggy & Scooby Origin Story</a> </li> <li><a href="https://collider.com/is-chris-evans-done-with-captain-america/" alt="https://cdn.collider.com/wp-content/uploads/2019/08/avengers-endgame-battle-slice-600x200.jpg">Chris Evans on If He’ll Return as Captain America: “It’d Be a Shame to Sour That [Ending]”</a> </li> <li><a href="https://collider.com/fantasy-island-reboot-trailer/" alt="https://cdn.collider.com/wp-content/uploads/2019/11/fantasy-island-lucy-hale-slice.png">'Fantasy Island' Trailer Reveals Blumhouse's Creepy Update on the '80s TV Show</a> </li> </ul></div>	</div>  <!-- .entry-content -->
+
+</article>
+
+
+
+<!-- Pagination and widgets -->
+
+<div id="after-post-stuff">
+
+	    <!-- Next / Previous Posts -->
+    <div class="pagealignleft">
+                        <div class="top">
+                    <a href="https://collider.com/hayley-atwell-mission-impossible-7-mission-impossible-8-female-lead/">
+                        <i class="fa fa-chevron-left"></i>
+                        <span>Previous Article</span>
+                    </a>
+                </div>
+                <div class="bottom">
+                    <a href="https://collider.com/hayley-atwell-mission-impossible-7-mission-impossible-8-female-lead/">
+                                        <span>Hayley Atwell Confirms She’s the Female Lead in the Next Two ‘Mission:&hellip;</span>
+                    </a>
+                </div>
+            </div>
+    <div class="pagealignright">
+                <div class="top">
+            <a href="https://collider.com/the-suicide-squad-cast/">
+                <span>Next Article</span>
+                <i class="fa fa-chevron-right"></i>
+            </a>
+        </div>
+        <div class="bottom">
+            <a href="https://collider.com/the-suicide-squad-cast/">
+                <span>Full ‘Suicide Squad’ Cast Revealed by Writer/Director James Gunn</span>
+                            </a>
+        </div>
+            </div>
+
+    <div class="clear"></div>
+
+
+
+<div class="cmplx-meta-bottom">
+    <div class='cmplx-meta cmplx-share'>
+    <a target="_blank" class="cmplx-share-link" href="http://www.facebook.com/sharer/sharer.php?m2w&s=100&p[url]=https%3A%2F%2Fcollider.com%2Funbelievable-review-netflix%2F&p[images][0]=https://cdn.collider.com/wp-content/uploads/2019/07/unbelievable-toni-collette-meritt-wever-slice.jpg&p[title]=&#8216;Unbelievable&#8217; Review: Netflix&#8217;s Sensitive &#038; Stunning True Crime Series Puts Survivors First&p[summary]=">
+        <span class="cmplx-share-icon facebook share-bottom">
+            <i class="fab fa-facebook-f"></i> <span class="cmplx-icon-title">SHARE</span>
+        </span>
+    </a>
+    <a target="_blank" class="cmplx-share-link" href="https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fcollider.com%2Funbelievable-review-netflix%2F&text=%26%238216%3BUnbelievable%26%238217%3B+Review%3A+Netflix%26%238217%3Bs+Sensitive+%26%23038%3B+Stunning+True+Crime+Series+Puts+Survivors+First&tw_p=tweetbutton&url=https%3A%2F%2Fcollider.com%2Funbelievable-review-netflix%2F&via=collider" >
+        <span class="cmplx-share-icon twitter share-bottom">
+            <i class="fab fa-twitter"></i> <span class="cmplx-icon-title">TWEET</span>
+        </span>
+    </a>
+    <a class="cmplx-share-link" >
+        <span class="cmplx-share-icon messenger share-bottom">
+            <i class="fab fa-facebook-messenger"></i> <span class="cmplx-icon-title">CHAT</span>
+        </span>
+    </a>
+
+</div>
+</div>
+
+    <!-- Tags -->
+    <div class="mytags">
+        <h5>Tags</h5> • <a href="https://collider.com/tag/kaitlyn-dever/" rel="tag">Kaitlyn Dever</a> • <a href="https://collider.com/tag/merritt-wever/" rel="tag">Merritt Wever</a> • <a href="https://collider.com/tag/netflix/" rel="tag">Netflix</a> • <a href="https://collider.com/tag/review/" rel="tag">Review</a> • <a href="https://collider.com/tag/toni-collette/" rel="tag">Toni Collette</a> • <a href="https://collider.com/tag/unbelievable/" rel="tag">Unbelievable</a><br>    </div>
+
+</div> <!-- #after-post-stuff -->
+
+
+<!-- In Content Suitcase Unit -->
+<div class="in-content-ad">
+    <script>
+	(function (d,s,n,id) {
+		var js, fjs = d.getElementsByTagName(s)[0];
+		if (d.getElementById(id)) return;
+		js = d.createElement(s);
+		js.id = id;
+		js.className = n;
+		js.src = "https://stream.playbuzz.com/embed/sdk.js?embedId=f9ac6d05-3c6e-4f5e-a504-bd96cca49232";
+		fjs.parentNode.insertBefore(js, fjs);
+	}(document,'script','playbuzz-stream','stream-sdk-jssdk_Collider.com'));
+</script>
+<div id="f9ac6d05-3c6e-4f5e-a504-bd96cca49232" style="margin:2em 0;"></div></div>
+
+
+
+
+<!-- Spot.IM Conversation Module -->
+
+	
+<div id="article-comments" class="article-comments-container text-center">
+	<div id="comments">
+  <script async src="https://launcher.spot.im/spot/sp_Qf5Kf2mr"
+      data-spotim-module="spotim-launcher"
+      data-post-id="806915"
+      data-post-url="https://collider.com/unbelievable-review-netflix/"
+      data-facebook-url="https://collider.com/unbelievable-review-netflix/"></script>
+	</div>
+</div>
+
+<style>
+#zergnet-widget-66067 {
+    padding-top: 20px;
+}
+</style><!-- After "Show Comments" -->
+<div id="taboola-below-article-thumbnails"></div>
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({
+    mode: 'alternating-thumbnails-a',
+    container: 'taboola-below-article-thumbnails',
+    placement: 'Below Article Thumbnails',
+    target_type: 'mix'
+  });
+</script>  <!-- Newsfeed w/ Infinite Scroll -->
+
+  <div id="latest-news" class="tv">
+    <h3 id="latest-news-header" class="heading-font archive-title">
+      <span>Television</span>
+    </h3>
+
+    <i id="infscr-loading" class="fas fa-2x fa-spin fa-circle-notch"></i>
+  </div>
+
+  <script type="text/javascript" src="/wp-content/themes/collider-v3/js/infinite-newsfeed-single.js?v=201710251625"></script>
+    <script type="text/javascript">
+    jQuery(document).ready(function($) {
+        var spinnerId = '#infscr-loading',
+        contentDiv = '#content',
+        latestNewsId = '#latest-news',
+        postIdentifier = 'article',
+        mode = 'desktop',
+        url = '/page/';
+
+                    url = '/tv/page/';
+        
+        infiniteNewsfeed(spinnerId,contentDiv,postIdentifier,latestNewsId,mode,url);
+    });
+    </script>
+
+    
+            <div class="clear"><!-- --></div>
+
+        
+            <div class="clear" style="height:15px;"></div>
+    </section>
+
+
+    <aside class="rightpanel">
+
+        <div class="rightpanel_displayonfloat">
+
+            <aside class="rightrail-ad contentad">
+              <aside id="text-26" class="widget widget_text">
+                <div id='collider-ad-google-adx-sidebar-5dca72cec39d1'>
+			<script>
+				googletag.cmd.push(function() { googletag.display('collider-ad-google-adx-sidebar-5dca72cec39d1'); 
+				});
+			</script>
+		</div>              </aside>
+            </aside>
+
+            <!-- BEST MOVIES ON NETFLIX -->
+            <aside class="rightrail-netflix">
+              <a class="netflix-link" href="/best-movies-on-netflix-streaming/"><span class="rightrail-netflix__text">BEST MOVIES ON NETFLIX</span></a>
+            </aside>
+
+            <!-- After Best Movies, Before Staff -->
+<div id="taboola-right-rail-thumbnails"></div>
+<script type="text/javascript">
+	window._taboola = window._taboola || [];
+	_taboola.push({
+		mode: 'thumbnails-a',
+		container: 'taboola-right-rail-thumbnails',
+		placement: 'Right Rail Thumbnails',
+		target_type: 'mix'
+	});
+</script>
+        </div> <!-- .rightpanel_displayonfloat -->
+
+        <!-- Our Staff -->
+        <aside class="our-staff ">
+            <aside id="text-25" class="widget widget_text">
+                <h3 class="widget-title"><span>Our Staff</span></h3>
+
+                <div class="textwidget">
+                    <ul class="staff-list">
+                      <li>
+                        <div>
+                          <a href="https://collider.com/author/steve-weintraub/" class="staff-name">Steve "Frosty" Weintraub</a>
+                        </div>
+                        <span class="staff-title">Editor in Chief</span> | <a href="http://twitter.com/colliderfrosty" target="_blank">@colliderfrosty</a>
+                      </li>
+                      <li><div><a href="https://collider.com/author/adam-chitwood/" class="staff-name">Adam Chitwood</a></div><span class="staff-title">Deputy Editor</span> | <a href="http://www.twitter.com/adamchitwood" target="_blank">@adamchitwood</a></li>
+                      <li><div><a href="https://collider.com/author/matt-goldberg/" class="staff-name">Matt Goldberg</a></div><span class="staff-title">Senior Editor, Film</span> | <a href="http://twitter.com/MattGoldberg" target="_blank">@MattGoldberg</a></li>
+                      <li><div><a href="https://collider.com/author/perri-nemiroff/" class="staff-name">Perri Nemiroff</a></div><span class="staff-title">Content Development Editor</span> | <a href="https://twitter.com/PNemiroff" target="_blank">@PNemiroff</a></li>
+                      <li><div><a href="https://collider.com/author/haleigh-foutch/" class="staff-name">Haleigh Foutch</a></div><span class="staff-title">Editor, Horror Lead</span> | <a href="https://twitter.com/HaleighFoutch" target="_blank">@HaleighFoutch</a></li>
+                      <li><div><a href="https://collider.com/author/dave-trumbore/" class="staff-name">Dave Trumbore</a></div><span class="staff-title">Editor, Animation Lead</span> | <a href="https://twitter.com/DrClawMD" target="_blank">@DrClawMD</a></li>
+                      <li>
+                        
+<div>
+  <a href="https://collider.com/author/jeff-sneider/" class="staff-name">Jeff Sneider</a>
+</div>
+<span class="staff-title">Senior Film Reporter</span> | <a href="http://twitter.com/TheInSneider" target="_blank">@TheInSneider</a>                      </li>
+                      <li><div><a href="https://collider.com/author/vinnie-mancuso/" class="staff-name">Vinnie Mancuso</a></div><span class="staff-title">Associate Editor</span> | <a href="https://twitter.com/VinnieMancuso1" target="_blank">@VinnieMancuso1</a></li>
+                      <li><div><a href="https://collider.com/author/christina-radish/" class="staff-name">Christina Radish</a></div><span class="staff-title">Staff Writer</span> | <a href="https://twitter.com/ChristinaRadish" target="_blank">@ChristinaRadish</a></li>
+                      <li>
+                        
+<div>
+  <a href="https://collider.com/author/dorian-parks/" class="staff-name">Dorian Parks</a>
+</div>
+<span class="staff-title">Social Media Manager</span> | <a href="http://twitter.com/DorianParksnRec" target="_blank">@DorianParksnRec</a>                      </li>
+                    </ul>
+                </div>
+            </aside>
+        </aside>
+
+        <div class="rightpanel-end"></div>
+    </aside>
+
+    
+    <div class="clear"><!-- --></div>
+
+  </section><!-- end of welcome section -->
+
+
+
+  <!-- Typekit Fonts -->
+  <script src="https://use.typekit.net/cui2tsb.js"></script>
+  <script>try{Typekit.load();}catch(e){}</script>
+
+</div> <!-- closing div for cmn_wrap in header -->
+
+  <div id="bottom-banner" style="width:100%;background-color:#e0e0e0e7;text-align:center;height:90px;z-index:1000001;position:fixed;bottom:0">
+    <div class="ad_placeholder" style="width:728px;height:90px;margin:0 auto;position:relative;">
+      <div id='collider-ad-google-adx-footer-5dca72cec3a45'>
+			<script>
+				googletag.cmd.push(function() { googletag.display('collider-ad-google-adx-footer-5dca72cec3a45'); 
+				});
+			</script>
+		</div>      <img id="bottom-banner-close-button" style="height:16px;width:16px;position:absolute;left:-20px;top:0;padding:2px;" src="https://collider.com/wp-content/themes/collider-v3/images/close-circle-512.png" alt="Close" />
+    </div>
+  </div>
+
+<div id='Collider_1x1_1'></div>
+
+<script>
+  function handleBottomBannerCloseClick() {
+    const bottomBannerElem = document.querySelectorAll('#bottom-banner');
+    if (bottomBannerElem && bottomBannerElem.length > 0);
+    bottomBannerElem[0].style.display = 'none';
+  }
+
+  const bottomBannerCloseElem = document.querySelectorAll('#bottom-banner-close-button');
+  if (bottomBannerCloseElem && bottomBannerCloseElem.length > 0) {
+      const bottomBannerCloseBtn = bottomBannerCloseElem[0];
+      bottomBannerCloseBtn.addEventListener('click', handleBottomBannerCloseClick, { passive: false });
+  }
+</script>
+
+  <!-- CMN BRANDED FOOTER -->
+  <footer id="footer">
+    <div class="container">
+        <div class="row">
+            <div class="left-col col-xs-12 col-md-7">
+                <div class="row">
+
+                    <div class="footer-icon logo-col col-xs-12 col-md-3">
+                        <a href="/" target="_self" ga-link ga-category="Footer" ga-action="Click on footer logo">
+                            <img id="collider-footer-logo-image"src="https://collider.com/wp-content/themes/collider-v3/images/Collider_Logo_Light.png"/ alt="Collider.com">
+                        </a>
+                    </div>
+
+                    <div class="col-md-7">
+                        <div class="row">
+                            <div class="col-xs-12">
+                                <span class="footer-link">
+                                    <a href="/about" target="_self" ga-link ga-category="Footer" ga-action="Click on footer navigation">
+                                        About Us
+                                    </a>
+                                </span>
+                                <span class="footer-link">
+                                    <a href="/contact-us" target="_self" ga-link ga-category="Footer" ga-action="Click on footer navigation">
+                                        Contact Us
+                                    </a>
+                                </span>
+                                <span class="footer-link">
+                                    <a href="/sitemap.xml" target="_self" ga-link ga-category="Footer" ga-action="Click on footer navigation">
+                                        Site Map
+                                    </a>
+                                </span>
+                                <span class="footer-link">
+                                    <a href="/collider-privacy-policy" target="_self" ga-link ga-category="Footer" ga-action="Click on footer navigation">
+                                        Privacy Policy
+                                    </a>
+                                </span>
+                                <span class="footer-link">
+                                    <a href="/terms" target="_self" ga-link ga-category="Footer" ga-action="Click on footer navigation">
+                                        Terms And Conditions
+                                    </a>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="right-col col-xs-12 col-md-4">
+
+                <div class="clearfix visible-xs-block visible-sm-block"></div>
+
+                <ul class="social-container">
+                    <li><a href="http://www.facebook.com/colliderdotcom" target="_blank" rel="nofollow" ga-link ga-category="Main Footer" ga-action="Click on social links" ga-label="Facebook"><i class="fa-icon fab fa-facebook-f"></i></a></li>
+                    <li><a href="http://twitter.com/collider" target="_blank" rel="nofollow" ga-link ga-category="Main Footer" ga-action="Click on social links" ga-label="Twitter"><i class="fa-icon fab fa-twitter"></i></a></li>
+                    <li><a href="http://www.youtube.com/collidervideos" target="_blank" rel="nofollow" ga-link ga-category="Main Footer" ga-action="Click on social links" ga-label="YouTube"><i class="fa-icon fab fa-youtube"></i></a></li>
+                    <li><a href="https://instagram.com/collidervideo/" target="_blank" rel="nofollow" ga-link ga-category="Main Footer" ga-action="Click on social links" ga-label="Instagram"><i class="fa-icon fab fa-instagram"></i></a></li>
+                </ul>
+
+            </div>
+            <div class="col-xs-12 col-md-12">
+                <div class="row">
+                    <div class="copyright-col col-xs-9 col-xs-offset-1 col-sm-8 col-sm-offset-2 center">
+                        <span class="copyright">COLLIDER participates in various affiliate marketing programs, which means COLLIDER gets paid commissions on purchases made through our links to retailer sites. Our editorial content is not influenced by any commissions we receive.</span>
+                    </div>
+                    <div class="copyright-col col-xs-12 center">
+                        <span class="copyright">&copy; 2017 Collider, Inc. All Rights Reserved.</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+  <!-- end CMN BRANDED FOOTER -->
+
+
+  <script type="text/javascript">
+  	// cmnUNT('tover', tile_num++);
+  </script>
+
+  <!-- WP Footer Scripts -->
+  <script type="text/javascript">
+	window._taboola = window._taboola || [];
+	_taboola.push({flush: true});
+</script><script type='text/javascript' src='https://collider.com/wp-content/themes/collider-v3/dist/js/collider.min.js?ver=2019_08_09_01'></script>
+<script type='text/javascript' src='https://collider.com/wp-includes/js/wp-embed.min.js?ver=4.9.12'></script>
+<script type='text/javascript' src='https://collider.com/wp-content/themes/collider-v3/js/history.js?ver=4.9.12'></script>
+<script type='text/javascript' src='https://collider.com/wp-content/themes/collider-v3/js/handlebars.js?ver=4.9.12'></script>
+<script type='text/javascript' src='https://collider.com/wp-content/themes/collider-v3/js/jquery.inview.min.js?ver=4.9.12'></script>
+<script type='text/javascript' src='https://collider.com/wp-content/themes/collider-v3/js/jquery.ba-throttle-debounce.min.js?ver=4.9.12'></script>
+
+
+
+  <!-- Google Tag Manager | DataLayer Variables -->
+  <script type="text/javascript">
+      window.Complex = window.Complex || {};
+      window.Complex.complexDataLayer = window.Complex.complexDataLayer || [];
+      window.Complex.comScoreFireTag = function(event) {
+          window.Complex.complexDataLayer.push({'event': event});
+      };
+  </script>
+
+</body>
+</html>

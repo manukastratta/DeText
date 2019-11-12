@@ -1,0 +1,2413 @@
+
+
+
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html dir="ltr" lang="en" class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html dir="ltr" lang="en" class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html dir="ltr" lang="en" class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html dir="ltr" lang="en" class="no-js">
+<!--<![endif]-->
+<head>
+	<title>Toxic Twitter - Women&#39;s Experiences of Violence and Abuse on Twitter | Amnesty International</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="format-detection" content="telephone=no">
+		<meta name="keywords" content="violence against women, twitter, violence against women online, intersectionality, women&#39;s rights," />
+			<meta name="description" content="Twitter is failing to respect women&#39;s rights online and has become a toxic place for women. Learn about how women experience violence and abuse on Twitter and what the social media company needs to do to make its platform safer for women." />
+
+		<meta name="robots" content="index,follow" />
+
+    <link rel="canonical" href="https://www.amnesty.org/en/latest/research/2018/03/online-violence-against-women-chapter-3/"/>
+
+
+	<link rel="alternate" hreflang="en" href="https://www.amnesty.org/en/latest/research/2018/03/online-violence-against-women-chapter-3/" />
+
+
+	<!--[if lte IE 8]>
+		<link rel="stylesheet" type="text/css" href="/cdn/styles/main-old-ie.css">
+	<![endif]-->
+	<!--[if gt IE 8]><!-->
+	<link rel="stylesheet" type="text/css" href="/cdn/styles/main.css?v=231f2c0233b36d3cdd4cdac59ae425d9">
+	<!--<![endif]-->
+
+	<link rel="publisher" href="https://plus.google.com/+amnesty" />
+	<link rel="apple-touch-icon" sizes="57x57" href="/cdn/images/favicons/apple-touch-icon-57x57.png" />
+	<link rel="apple-touch-icon" sizes="60x60" href="/cdn/images/favicons/apple-touch-icon-60x60.png" />
+	<link rel="apple-touch-icon" sizes="72x72" href="/cdn/images/favicons/apple-touch-icon-72x72.png" />
+	<link rel="apple-touch-icon" sizes="76x76" href="/cdn/images/favicons/apple-touch-icon-76x76.png" />
+	<link rel="apple-touch-icon" sizes="114x114" href="/cdn/images/favicons/apple-touch-icon-114x114.png" />
+	<link rel="apple-touch-icon" sizes="120x120" href="/cdn/images/favicons/apple-touch-icon-120x120.png" />
+	<link rel="apple-touch-icon" sizes="144x144" href="/cdn/images/favicons/apple-touch-icon-144x144.png" />
+	<link rel="apple-touch-icon" sizes="152x152" href="/cdn/images/favicons/apple-touch-icon-152x152.png" />
+	<link rel="apple-touch-icon" sizes="180x180" href="/cdn/images/favicons/apple-touch-icon-180x180.png" />
+	<link rel="icon" type="image/png" href="/cdn/images/favicons/favicon-32x32.png" sizes="32x32" />
+	<link rel="icon" type="image/png" href="/cdn/images/favicons/android-chrome-192x192.png" sizes="192x192" />
+	<link rel="icon" type="image/png" href="/cdn/images/favicons/favicon-96x96.png" sizes="96x96" />
+	<link rel="icon" type="image/png" href="/cdn/images/favicons/favicon-16x16.png" sizes="16x16" />
+	<link rel="manifest" href="/cdn/images/favicons/manifest.json" />
+	<link rel="shortcut icon" type="image/x-icon" href="/cdn/images/favicons/favicon.ico" />
+	<meta name="msapplication-TileColor" content="#ffff00" />
+	<meta name="msapplication-TileImage" content="/cdn/images/favicons/mstile-144x144.png" />
+	<meta name="msapplication-config" content="/cdn/images/favicons/browserconfig.xml" />
+	<meta name="theme-color" content="#ffffff" />
+	<meta property="fb:pages" content="111658128847068" />
+	<meta property="fb:pages" content="323588103454" />
+	<meta property="fb:pages" content="43880852708" />
+	<meta property="fb:pages" content="41515121987" />
+	<meta property="fb:pages" content="570175473079180" />
+	<meta name="google-site-verification" content="i3P9j8xDMO6rG8kDChvXB9keAc9X0s7zm4O56NRgj0w" />
+
+		<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="@amnesty">
+	<meta property="og:url" content="https://www.amnesty.org/en/latest/research/2018/03/online-violence-against-women-chapter-3/"/>
+	<meta property="og:title" content="Toxic Twitter - Women&#39;s Experiences of Violence and Abuse on Twitter"/>
+	<meta property="og:description" content="Twitter is failing to respect women&#39;s rights online and has become a toxic place for women. Learn about how women experience violence and abuse on Twitter and what the social media company needs to do to make its platform safer for women."/>
+		<meta name="twitter:description" content="Twitter is failing to respect women&#39;s rights online and has become a toxic place for women. Learn about how women experience violence and abuse on Twitter and what the social media company needs to do to make its platform safer for women.">
+		<meta property="og:image" content="https://www.amnesty.org:443/remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17665/245067-1.jpg?center=0.5,0.5&amp;preset=fixed_1200_630"/>
+			<meta name="twitter:image:alt" content="an illustration of online violence against women, a woman in distress">
+
+
+
+	<script type="text/javascript">
+		var appInsights=window.appInsights||function(config){
+			function i(config){t[config]=function(){var i=arguments;t.queue.push(function(){t[config].apply(t,i)})}}var t={config:config},u=document,e=window,o="script",s="AuthenticatedUserContext",h="start",c="stop",l="Track",a=l+"Event",v=l+"Page",y=u.createElement(o),r,f;y.src=config.url||"https://az416426.vo.msecnd.net/scripts/a/ai.0.js";u.getElementsByTagName(o)[0].parentNode.appendChild(y);try{t.cookie=u.cookie}catch(p){}for(t.queue=[],t.version="1.0",r=["Event","Exception","Metric","PageView","Trace","Dependency"];r.length;)i("track"+r.pop());return i("set"+s),i("clear"+s),i(h+a),i(c+a),i(h+v),i(c+v),i("flush"),config.disableExceptionTracking||(r="onerror",i("_"+r),f=e[r],e[r]=function(config,i,u,e,o){var s=f&&f(config,i,u,e,o);return s!==!0&&t["_"+r](config,i,u,e,o),s}),t
+		}({
+			instrumentationKey:"f64ab372-78cf-4e15-ab9b-c1a92b98ed1b"
+		});
+
+		window.appInsights=appInsights;
+		appInsights.trackPageView();
+	</script>
+
+	<script src="/cdn/scripts/modernizr.js" crossorigin="anonymous"></script>
+	<script>(function () { "use strict"; function t(e, t, n) { if (e.addEventListener) { e.addEventListener(t, n, false) } else if (e.attachEvent) { e.attachEvent("on" + t, n) } } function n(e) { return window.localStorage && localStorage.font_css_cache && localStorage.font_css_cache_file === e } function r() { if (!window.localStorage || !window.XMLHttpRequest) { var t = document.createElement("link"); t.href = e; t.rel = "stylesheet"; t.type = "text/css"; document.getElementsByTagName("head")[0].appendChild(t); document.cookie = "font_css_cache" } else { if (n(e)) { i(localStorage.font_css_cache) } else { var r = new XMLHttpRequest; r.open("GET", e, true); r.onreadystatechange = function () { if (r.readyState === 4 && r.status == 200) { i(r.responseText); localStorage.font_css_cache = r.responseText; localStorage.font_css_cache_file = e } }; r.send() } } } function i(e) { var t = document.createElement("style"); t.setAttribute("type", "text/css"); document.getElementsByTagName("head")[0].appendChild(t); if (t.styleSheet) { t.styleSheet.cssText = e } else { t.innerHTML = e } } var e = "/cdn/styles/webfonts.css?v=1"; if (window.localStorage && localStorage.font_css_cache || document.cookie.indexOf("font_css_cache") > -1) { r() } else { t(window, "load", r) } })()</script>
+
+
+	<!-- Start Visual Website Optimizer Asynchronous Code -->
+	<script type='text/javascript'>
+		var _vwo_code = (function () {
+			var account_id = 150776,
+				settings_tolerance = 2000,
+				library_tolerance = 2500,
+				use_existing_jquery = false,
+				// DO NOT EDIT BELOW THIS LINE
+				f = false, d = document; return { use_existing_jquery: function () { return use_existing_jquery; }, library_tolerance: function () { return library_tolerance; }, finish: function () { if (!f) { f = true; var a = d.getElementById('_vis_opt_path_hides'); if (a) a.parentNode.removeChild(a); } }, finished: function () { return f; }, load: function (a) { var b = d.createElement('script'); b.src = a; b.type = 'text/javascript'; b.innerText; b.onerror = function () { _vwo_code.finish(); }; d.getElementsByTagName('head')[0].appendChild(b); }, init: function () { settings_timer = setTimeout('_vwo_code.finish()', settings_tolerance); this.load('//dev.visualwebsiteoptimizer.com/j.php?a=' + account_id + '&u=' + encodeURIComponent(d.URL) + '&r=' + Math.random()); var a = d.createElement('style'), b = 'body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}', h = d.getElementsByTagName('head')[0]; a.setAttribute('id', '_vis_opt_path_hides'); a.setAttribute('type', 'text/css'); if (a.styleSheet) a.styleSheet.cssText = b; else a.appendChild(d.createTextNode(b)); h.appendChild(a); return settings_timer; } };
+		}()); _vwo_settings_timer = _vwo_code.init();
+	</script>
+	<!-- End Visual Website Optimizer Asynchronous Code -->
+	<!-- Hotjar Tracking Code for www.amnesty.org -->
+	<script>
+		(function (h, o, t, j, a, r) {
+			h.hj = h.hj || function () { (h.hj.q = h.hj.q || []).push(arguments) };
+			h._hjSettings = { hjid: 63448, hjsv: 5 };
+			a = o.getElementsByTagName('head')[0];
+			r = o.createElement('script'); r.async = 1;
+			r.src = t + h._hjSettings.hjid + j + h._hjSettings.hjsv;
+			a.appendChild(r);
+		})(window, document, '//static.hotjar.com/c/hotjar-', '.js?sv=');
+	</script>
+
+	<script type="application/ld+json">
+		{
+		"@context": "http://schema.org",
+		"@type": "WebSite",
+		"name": "Amnesty International",
+		"url": "https://www.amnesty.org"
+		}
+	</script>
+
+	<script>
+		function getCookieValue(a) { 
+			var b = document.cookie.match('(^|[^;]+)\\s*' + a + '\\s*=\\s*([^;]+)');
+			var r = b ? b.pop() : '';
+			var d = decodeURIComponent(r);
+			return d;
+		}
+
+		if (navigator.doNotTrack && navigator.doNotTrack === 1) {
+			window['ga-disable-UA-1665647-2'] = true;
+		}
+
+		if (document.cookie.split(';').filter(function (item) {
+			return item.trim().indexOf('CookieControl=') == 0
+		}).length) {
+			var f = getCookieValue('CookieControl');
+			var v = JSON.parse(getCookieValue('CookieControl'));
+
+			if (v.optionalCookies.analytics === "revoked") {
+				console.log('Analytics Revoked');
+				// Disable Google Analytics
+				window['ga-disable-UA-1665647-2'] = true;
+			}
+			if (v.optionalCookies.marketing === "revoked") {
+				console.log('Markerting Revoked');
+				// Disable Google Analytics
+				if (typeof fbq !== 'undefined') {
+					fbq('consent', 'revoke');
+				}
+			}
+		}
+	</script>
+
+	
+	
+
+
+</head>
+<body class="en ">
+
+
+<script src="//cc.cdn.civiccomputing.com/8/cookieControl-8.x.min.js" type="text/javascript"></script>
+<script>
+	var triggered = false;
+	var config = {
+		apiKey: 'c2d360782349a7560c1ddb4808d2d0ab27e6dc48',
+		product: 'PRO_MULTISITE',
+		position: "LEFT",
+		necessaryCookies: ['XSRF-TOKEN', 'XSRF-V'],
+		encodeCookie: true,
+		subDomains: false,
+		statement : {
+			description: 'For more information on how we use cookies, see our cookie statement.',
+			name : 'Learn more',
+			url: '/en/about-us/cookie-statement/',
+			updated : '14/08/2019'
+		},
+		text: {
+			title: 'This site uses cookies',
+			intro:'We have placed cookies on your device to help make this website better. You can use this tool to change your cookie settings. Otherwise, we&#39;ll assume you&#39;re OK to continue.',
+			necessaryTitle : ' Necessary cookies',
+			necessaryDescription : 'Some cookies are necessary for the functioning of Amnesty’s website. If you wish to restrict or block these cookies you can set your internet browser to do so, just click on the following link for further information: www.aboutcookies.org',
+			thirdPartyTitle: 'Some cookies require your attention',
+			thirdPartyDescription: 'Consent for some cookies cannot be automatically revoked. Please follow the link below to opt-out.',
+			acceptRecommended: 'ACCEPT RECOMMENDED COOKIES',
+			on: 'ON',
+			off: 'OFF',
+			accept: 'ACCEPT RECOMMENDED COOKIES',
+			settings: '',
+			closeLabel: '',
+			accessibilityAlert: ''
+		},
+		optionalCookies: [
+			{
+				name: 'analytics',
+				label: ' Analytics cookies',
+				description: 'These cookies allow us to understand how people are using our site and make improvements.',
+				cookies: ['_ga', '_gid', '_dc_gtm', '_vwo_uuid', '_hjIncludedInSample', '_hjMinimizedPolls', '_dc_gtm_UA-1665647-2', '_gat_UA-1665647-2'],
+				onAccept: function () {
+					console.log('COOKIE CONSENT GRANTED');
+					triggered = true;
+					dataLayer.push({'event' : 'cookie_consent'});
+
+					//Hotjar Tracking Code for www.amnesty.org
+					(function (h, o, t, j, a, r) {
+						h.hj = h.hj || function () { (h.hj.q = h.hj.q || []).push(arguments) };
+						h._hjSettings = { hjid: 63448, hjsv: 5 };
+						a = o.getElementsByTagName('head')[0];
+						r = o.createElement('script'); r.async = 1;
+						r.src = t + h._hjSettings.hjid + j + h._hjSettings.hjsv;
+						a.appendChild(r);
+					})(window, document, '//static.hotjar.com/c/hotjar-', '.js?sv=');
+
+				},
+				onRevoke: function () {
+
+					dataLayer.push({ 'event': 'cookie_revoke' });
+
+					// Disable Google Analytics
+					window['ga-disable-UA-1665647-2'] = true;
+					// End Google Analytics
+					fbq('consent', 'revoke');
+					console.log('COOKIE ANALYTIC CONSENT REVOKED');
+				},
+				lawfulBasis: 'legitimate interest'
+			},
+			{
+				name: 'marketing',
+				label: 'Marketing cookies',
+				description: 'We use marketing cookies to increase the relevancy of the advertising you may see.',
+				cookies: ['fr'],
+				onAccept: function () {
+					console.log('COOKIE CONSENT GRANTED');
+					if(!triggered)
+						dataLayer.push({ 'event': 'cookie_consent' });
+				},
+				onRevoke: function () {
+					if (fbq) {
+						fbq('consent', 'revoke');
+					}						
+					console.log('COOKIE MARKETING CONSENT REVOKED');
+				},
+				lawfulBasis: 'legitimate interest'
+			}
+		],
+		branding: {
+			fontFamily: '"TradeGothicLT-BoldCondTwenty", "HelveticaNeue-CondensedBold", "Franklin Gothic Medium", sans-serif',
+			fontColor: "#fff",
+			backgroundColor: '#363636',
+			toggleBackground: '#000',
+			acceptBackground: '#ffff00',
+			removeAbout: true,
+			toggleColor: '#000',
+			alertBackground: '#ffff00'
+		}
+	};
+
+	CookieControl.load(config);
+</script>
+
+	<!-- Google Tag Manager -->
+	<noscript>
+		<iframe src="//www.googletagmanager.com/ns.html?id=GTM-MH9W89" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+	</noscript>
+	<script>
+		(function (w, d, s, l, i) {
+			w[l] = w[l] || []; w[l].push({
+				'gtm.start':
+					new Date().getTime(), event: 'gtm.js'
+			}); var f = d.getElementsByTagName(s)[0],
+				j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+					'//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+		})(window, document, 'script', 'dataLayer', 'GTM-MH9W89');</script>
+	<!-- End Google Tag Manager -->
+
+
+
+
+
+	
+<a href="#maincontent" class="skip">
+	Skip To Main Content
+</a>
+
+<i class="logo-print" aria-hidden="true">
+	<div class="logo__link">
+		Amnesty International
+	</div>
+</i>
+
+<div data-header-wrapper class="header-wrap">
+
+	<header class="header header--subnav" data-header role="banner">
+
+		<div class="header__container" data-header-container>
+
+			<span class="logo h1" data-logo>
+
+				<a class="logo__link" href="/en/">
+					Amnesty International
+				</a>
+
+			</span>
+
+<div class="nav-overlay" data-nav-overlay></div>
+
+<div class="nav-btn" hidden aria-hidden="true" data-nav-btn>
+	<span class="nav-btn__lines"></span>
+	Menu
+</div>
+
+<nav class="nav" data-nav role="navigation" aria-expanded="false">
+
+	<span class="h1 visually-hidden" id="navigation">
+		Main menu
+	</span>
+
+		<div class="nav__options">
+
+			<div class="nav-options__text">
+				Main menu
+			</div>
+
+			<div class="nav-options__close" data-nav-close>
+				CLOSE
+			</div>
+
+		</div>
+			<ul class="nav-list">
+
+					<li class="nav-list__item  has-subnav">
+
+							<div class="nav-list__subnav-btn" data-subnav-btn></div>
+
+						<a class="nav-list__link  " href="/en/who-we-are/" >
+							Who We Are
+						</a>
+
+							<div class="nav-list--sub-container">
+
+								<ul class="nav-list--sub" data-subnav >
+
+										<li class="nav-list__item--sub">
+
+											<a class="nav-list__link--secondary " href="/en/who-we-are/how-were-run/">
+												How we&#39;re run
+											</a>
+
+										</li>
+										<li class="nav-list__item--sub">
+
+											<a class="nav-list__link--secondary " href="/en/who-we-are/jobs-and-internships/">
+												Jobs &amp; internships
+											</a>
+
+										</li>
+
+								</ul>
+
+							</div>
+
+					</li>
+					<li class="nav-list__item  ">
+
+
+						<a class="nav-list__link  " href="/en/what-we-do/" >
+							What We Do
+						</a>
+
+
+					</li>
+					<li class="nav-list__item  ">
+
+
+						<a class="nav-list__link  " href="/en/countries/" >
+							Countries
+						</a>
+
+
+					</li>
+					<li class="nav-list__item  has-subnav">
+
+							<div class="nav-list__subnav-btn" data-subnav-btn></div>
+
+						<a class="nav-list__link  " href="/en/get-involved/" >
+							Get Involved
+						</a>
+
+							<div class="nav-list--sub-container">
+
+								<ul class="nav-list--sub" data-subnav >
+
+										<li class="nav-list__item--sub">
+
+											<a class="nav-list__link--secondary " href="/en/get-involved/take-action/">
+												Take Action
+											</a>
+
+										</li>
+										<li class="nav-list__item--sub">
+
+											<a class="nav-list__link--secondary " href="/en/get-involved/join/">
+												Join
+											</a>
+
+										</li>
+										<li class="nav-list__item--sub">
+
+											<a class="nav-list__link--secondary " href="/en/get-involved/volunteer/">
+												Volunteer
+											</a>
+
+										</li>
+
+								</ul>
+
+							</div>
+
+					</li>
+					<li class="nav-list__item  ">
+
+
+						<a class="nav-list__link   nav-list__link--donate " href="/en/donate/" >
+							Donate now
+						</a>
+
+
+					</li>
+					<li class="nav-list__item active-subnav ">
+
+							<div class="nav-list__subnav-btn" data-subnav-btn></div>
+
+						<a class="nav-list__link is-current " href="/en/latest/"   data-nav-active-link>
+							Latest
+						</a>
+
+							<div class="nav-list--sub-container">
+
+								<ul class="nav-list--sub" data-subnav data-header-active-subnav>
+
+										<li class="nav-list__item--sub">
+
+											<a class="nav-list__link--secondary " href="/en/latest/news/">
+												News
+											</a>
+
+										</li>
+										<li class="nav-list__item--sub">
+
+											<a class="nav-list__link--secondary " href="/en/latest/campaigns/">
+												Campaigns
+											</a>
+
+										</li>
+										<li class="nav-list__item--sub">
+
+											<a class="nav-list__link--secondary " href="/en/latest/education/">
+												Education
+											</a>
+
+										</li>
+										<li class="nav-list__item--sub">
+
+											<a class="nav-list__link--secondary is-active" href="/en/latest/research/">
+												Research
+											</a>
+
+										</li>
+										<li class="nav-list__item--sub">
+
+											<a class="nav-list__link--secondary " href="/en/latest/impact/">
+												Impact
+											</a>
+
+										</li>
+
+								</ul>
+
+							</div>
+
+					</li>
+			</ul>
+</nav>
+
+
+<div class="lang-btn" hidden aria-hidden="true" data-lang-btn>en</div>
+<nav class="lang" data-lang>
+    <span class="h1 visually-hidden" id="language">Choose language</span>
+        <ul class="lang-list">
+                    <li class="lang-list__item">
+                        <a class="lang-list__link ltr" href="/languageselectorpartial/ChangeLanguage?cultureCode=fr&url=%2ffr%2flatest%2fresearch%2f2018%2f03%2fonline-violence-against-women-chapter-3%2f">fran&#231;ais</a>
+                    </li>
+                    <li class="lang-list__item">
+                        <a class="lang-list__link ltr" href="/languageselectorpartial/ChangeLanguage?cultureCode=es&url=%2fes%2flatest%2fresearch%2f2018%2f03%2fonline-violence-against-women-chapter-3%2f">espa&#241;ol</a>
+                    </li>
+                    <li class="lang-list__item">
+                        <a class="lang-list__link rtl" href="/languageselectorpartial/ChangeLanguage?cultureCode=ar&url=%2far%2flatest%2fresearch%2f2018%2f03%2fonline-violence-against-women-chapter-3%2f">العربية</a>
+                    </li>
+        </ul>
+</nav>
+
+
+
+<div class="search-btn  " hidden aria-hidden="true" data-nav-search-btn>
+    <span class="search-btn__text">
+        Search
+    </span>
+</div>
+
+
+		</div>
+
+	</header>
+
+</div>
+
+	<div id="maincontent" role="main">
+		
+
+
+<div class="image-header ">
+    <div class="responsive--bg lazyload" data-bgset="/remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17665/245067-1.jpg?center=0.5%2c0.5&amp;preset=fixed_1472_42, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17665/245067-1.jpg?center=0.5%2c0.5&amp;preset=fixed_1472_42_hi 2x [(min-width: 1272px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17665/245067-1.jpg?center=0.5%2c0.5&amp;preset=fixed_1224_52, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17665/245067-1.jpg?center=0.5%2c0.5&amp;preset=fixed_1224_52_hi 2x [(min-width: 1040px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17665/245067-1.jpg?center=0.5%2c0.5&amp;preset=fixed_1039_52, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17665/245067-1.jpg?center=0.5%2c0.5&amp;preset=fixed_1039_52_hi 2x [(min-width: 840px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17665/245067-1.jpg?center=0.5%2c0.5&amp;preset=fixed_839_52, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17665/245067-1.jpg?center=0.5%2c0.5&amp;preset=fixed_839_52_hi 2x [(min-width: 640px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17665/245067-1.jpg?center=0.5%2c0.5&amp;preset=fixed_639_72, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17665/245067-1.jpg?center=0.5%2c0.5&amp;preset=fixed_639_72_hi 2x [(min-width: 480px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17665/245067-1.jpg?center=0.5%2c0.5&amp;preset=fixed_479_102, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17665/245067-1.jpg?center=0.5%2c0.5&amp;preset=fixed_479_102_hi 2x [(min-width: 346px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17665/245067-1.jpg?center=0.5%2c0.5&amp;preset=fixed_345_102, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17665/245067-1.jpg?center=0.5%2c0.5&amp;preset=fixed_345_102_hi 2x"></div>
+    <noscript>
+        <img src="/remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17665/245067-1.jpg?center=0.5%2c0.5&amp;amp;preset=fixed_1472_42" alt="" class="responsive__img">
+    </noscript>
+    <div class="image-header__content--headline ">
+        <div class="image-headline--left">
+            <div class="image-headline__table">
+                <div class="image-headline__cell">
+                    <div class="image-headline__aligned">
+                        <h1 class="image-headline__subtitle">                            <span class="heading--tape">Toxic Twitter - Women&#39;s Experiences of Violence and Abuse on Twitter</span>
+</h1>                        
+<div class="image-headline__text"><p class="image-headline__copy">Chapter 3</p></div>                    </div>
+                </div>
+            </div>
+        </div>
+            <ul class="tags--header--md">
+                <li class="tags__item--bold"><span class="tags__icon--bold--story">Story</span></li>
+            </ul>
+    </div>
+
+
+</div>
+
+
+
+    <div class="container--full-bleed tags__container tags__container--has-no-meta">
+        <div class="grid">
+            <div class="col col--1/12--md not--sm"></div>
+            <div class="col col--5/6--md">
+                <ul class="tags--discrete--md">
+                    <li class="tags__item--bold--sm"><span class="tags__icon--bold--story">Story</span></li>
+                                            <li class="tags__item--discrete"><a class="tags__link--discrete--md" href="/en/search/?issue=1573" rel="tag">Business and Human Rights</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+
+	
+	<div class="container--full-bleed-padded">
+		<div class="grid">
+
+			<div class="col col--1/12--md">
+
+
+<div class="grid grid--left-col grid--social">
+	<div class="col col--1/1">
+		<div class="col__content--to-edge-right">
+			<div class="social-links social-links--left-col">
+				
+				<ul class="social-links__list">
+					<li class="social-links__item">
+						<h2 class="social-links__heading--no-decoration uppercase">SHARE</h2>
+					</li>
+					<li class="social-links__item">
+						<a class="social-links__link social-links__link--facebook" href="//www.facebook.com/sharer/sharer.php?u=https://www.amnesty.org/en/latest/research/2018/03/online-violence-against-women-chapter-3/" target="_blank">
+							<span class="visually-hidden">Facebook</span>
+						</a>
+					</li>
+
+
+
+					<li class="social-links__item">
+						<a class="social-links__link social-links__link--twitter" href="//twitter.com/intent/tweet?text=Twitter is failing to respect women&#39;s rights online and has become a toxic place for women. Learn about how women experience violence and abuse on Twitter and what the social media company needs to do to make its platform safer for women.&url=https://www.amnesty.org/en/latest/research/2018/03/online-violence-against-women-chapter-3/" target="_blank">
+							<span class="visually-hidden">Twitter</span>
+						</a>
+					</li>
+
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+			</div>
+			<div class="col share__story">
+<div class="container--full-bleed-padded" data-content-id="53417">
+    <div class="grid">
+        <div class="col col--1/6--md col--1/4--lg not-sm"></div>
+        <div class="col col--2/3--md col--1/2--lg">
+            <div class="col__content">
+                <h2 class="h3--caps"></h2>    
+                <div class="wysiwyg">
+                    <a name="topanchor"></a>
+<iframe frameborder="0" scrolling="no" src="https://khartzenberg.github.io/Reports-menu/index2.html" id="iFrameResizer0" width="100%" height="100px"></iframe>
+<h2 style="text-align: center;">WARNING:</h2>
+<p style="text-align: center;"><strong>This report contains descriptions of violence against women. </strong></p>
+<p> </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div><div class="container--full-bleed-padded" data-content-id="53320">
+    <div class="grid">
+        <div class="col col--1/6--md col--1/4--lg not-sm"></div>
+        <div class="col col--2/3--md col--1/2--lg">
+            <div class="col__content">
+                <h2 class="h3--caps">Violence and abuse against women on Twitter has become far too common an experience.</h2>    
+                <div class="wysiwyg">
+                    <p>Although people of all genders can experience violence and abuse online, the abuse experienced by women is often sexist or misogynistic in nature, and online threats of violence against women are often sexualized and include specific references to women’s bodies. The aim of violence and abuse is to create a hostile online environment for women with the goal of shaming, intimidating, degrading, belittling or silencing women. The women interviewed by Amnesty International have experienced a wide spectrum of violence and abuse on Twitter which have negatively impacted on their human rights.</p>
+<blockquote data-scenario="quote_text" class="quote">		<div class="quote__text" data-utm-term="QWJ1c2Ugb2">		Abuse on Twitter can include general nastiness or name calling (you b*tch, slut, c*nt). It can be more targeted harassment or can be more direct threats – which in the past I have had directed at my daughter. I’ve had my address, my tax information, as well as my phone number released.	</div>		<footer data-scenario="quote_author" class="quote__source">			Jessica Valenti, US journalist and writer		</footer></blockquote>
+<p><iframe width="649" height="365" src="https://www.youtube.com/embed/4GghIpkvK_w?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe> </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div><div class="container--full-bleed-padded" data-content-id="53321">
+    <div class="grid">
+        <div class="col col--1/6--md col--1/4--lg not-sm"></div>
+        <div class="col col--2/3--md col--1/2--lg">
+            <div class="col__content">
+                <h2 class="h3--caps">What is Violence and Abuse against Women Online?</h2>    
+                <div class="wysiwyg">
+                    <p>According to the UN Committee on the Elimination of Discrimination against Women, discrimination against women includes gender-based violence, that is, “<a href="http://www.un.org/womenwatch/daw/cedaw/recommendations/recomm.htm">violence which is directed against a woman because she is a woman or that affects women disproportionately, and, as such, is a violation of their human rights</a><em>.”</em> The Committee also states that <a href="http://tbinternet.ohchr.org/_layouts/treatybodyexternal/Download.aspx?symbolno=CEDAW/C/GC/35&amp;Lang=en">gender-based violence against women</a> includes (but is not limited to) physical, sexual, psychological or economic harm or suffering to women as well as threats of such acts.            </p>
+<p>International human rights standards emphasize that the concept of ‘violence against women’ is a form of gender-based violence. The UN uses the term ‘<a href="http://tbinternet.ohchr.org/_layouts/treatybodyexternal/Download.aspx?symbolno=CEDAW/C/GC/35&amp;Lang=en">gender-based violence against women</a>’ to explicitly recognize the gendered causes and impacts of such violence. The term gender-based violence further strengthens the understanding of such violence as a societal - not individual - problem requiring comprehensive responses. Moreover, the UN Committee on the Elimination of Discrimination against Women <a href="http://tbinternet.ohchr.org/_layouts/treatybodyexternal/Download.aspx?symbolno=CEDAW/C/GC/35&amp;Lang=en">states</a> that a woman’s right to a live free from gender-based violence is indivisible from, and interdependent on, other human rights, including the rights to freedom of expression, participation, assembly and association.</p>
+<p>Violence and abuse against women on social media, including Twitter, includes a <a href="https://www.amnesty.org/en/latest/campaigns/2017/11/what-is-online-violence-and-abuse-against-women/">variety of experiences</a> such as direct or indirect threats of physical or sexual violence, abuse targeting one or more aspects of a woman’s identity (e.g., racism, transphobia, etc.,), targeted harassment, privacy violations such as doxing – i.e. uploading private identifying information publically with the aim to cause alarm or distress, and the sharing of sexual or intimate images of a woman without her consent. Sometimes one or more forms of such violence and abuse will be used together as part of a coordinated attack against an individual which is often referred to as a ‘pile-on’. Individuals who engage in a pattern of targeted harassment against a person are often called <a href="https://www.amnesty.org/en/latest/campaigns/2017/11/what-is-online-violence-and-abuse-against-women/">‘trolls’</a>.</p>
+<p>It is important to note that violence and abuse online can take place in many different contexts. In November 2017, <a href="https://medium.com/amnesty-insights/unsocial-media-the-real-toll-of-online-abuse-against-women-37134ddab3f4">Amnesty International commissioned an online poll</a> with Ipsos MORI about women’s experiences of abuse and harassment on social media platforms across eight countries including the USA and UK. The <a href="https://www.amnesty.org/en/latest/news/2017/11/amnesty-reveals-alarming-impact-of-online-abuse-against-women/">findings</a> showed that nearly a quarter (23%) of the women surveyed across the eight countries said they had experienced online abuse or harassment at least once, including 21% of women polled in the UK and 1/3 (33%) of women polled in the US. In both countries, 59% of women who experienced abuse or harassment said the perpetrators were complete strangers.</p>
+<p>Although most of the women interviewed for Amnesty International’s research received violent and abusive tweets from strangers or people unknown to them, online violence and abuse can also be used as a tactic by current or former intimate/domestic partners of women to control t women and instil fear. A <a href="https://nnedv.org/latest_update/combating-technology-facilitated-abuse/">survey</a> conducted by the US organization <a href="https://nnedv.org/latest_update/combating-technology-facilitated-abuse/">National Network to End Domestic Violence</a> found that ‘<em>97 percent of domestic violence programs reported that abusers use technology to stalk, harass, and control victims’.</em> It also <a href="https://nnedv.org/latest_update/combating-technology-facilitated-abuse/">found</a> that 86 percent of domestic violence programs reported that victims are harassed through social media. In the UK, <a href="https://www.womensaid.org.uk/information-support/what-is-domestic-abuse/onlinesafety/">research on domestic online abuse</a> by domestic violence organization <a href="https://www.womensaid.org.uk/">Women’s Aid</a> found that 85% of respondents said the abuse they received online from a partner or ex-partner was part of a pattern of abuse they also experienced offline. Additionally, 50% of respondents <a href="https://www.womensaid.org.uk/information-support/what-is-domestic-abuse/onlinesafety/">stated</a> that the online abuse they experienced also involved direct threats to them or someone they knew. <a href="https://medium.com/amnesty-insights/unsocial-media-the-real-toll-of-online-abuse-against-women-37134ddab3f4">Of the women polled by Amnesty International</a> who experienced abuse or harassment on social media platforms, 18% of women in the UK and 23% of women in the US said that the perpetrators of the abuse were current or former partners.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div><div class="container--full-bleed-padded" data-content-id="53325">
+    <div class="grid">
+        <div class="col col--1/6--md col--1/4--lg not-sm"></div>
+        <div class="col col--2/3--md col--1/2--lg">
+            <div class="col__content">
+                <h2 class="h3--caps">The Many Forms of Violence And Abuse On Twitter</h2>    
+                <div class="wysiwyg">
+                    <p><a href="https://medium.com/amnesty-insights/unsocial-media-the-real-toll-of-online-abuse-against-women-37134ddab3f4">Amnesty International’s online poll</a> found that women have experienced a variety of abuse and harassment on social media platforms, including Twitter. Of the women polled who had experienced abuse or harassment on social media platforms - 29% of women in the USA said they had experienced threats of physical or sexual violence, with 27% experiencing such threats in the UK. Around half of women polled who experienced abuse or harassment said that the abuse included sexist or misogynistic comments (53% in the USA and 47% in the UK). </p>
+<div class="infogram-embed" data-id="_/MxW4q57DyTpnKbrhTgoC" data-type="interactive" data-title="VAW Research - The Many Forms of Violence"></div><script>!function(e,t,n,s){var i="InfogramEmbeds",o=e.getElementsByTagName(t)[0],d=/^http:/.test(e.location)?"http:":"https:";if(/^\/{2}/.test(s)&&(s=d+s),window[i]&&window[i].initialized)window[i].process&&window[i].process();else if(!e.getElementById(n)){var a=e.createElement(t);a.async=1,a.id=n,a.src=s,o.parentNode.insertBefore(a,o)}}(document,"script","infogram-async","https://e.infogram.com/js/dist/embed-loader-min.js");</script>
+<h2><em>Threats of Violence</em></h2>
+<p>Threats of violence against women online includes both direct and indirect threats that can be physical or sexual in nature. Several women who spoke to Amnesty International about their experience of violence and abuse online reported receiving threats of violence on Twitter. For example, UK women’s rights activist and writer Laura Bates has experienced multiple forms of sexually violent threats against her on Twitter. She told Amnesty,</p>
+<p><em><strong>“Online abuse began for me when I started the </strong><a href="http://everydaysexism.com/">Everyday Sexism Project</a><strong> </strong><strong>—</strong><strong> </strong><strong>before it had become particularly high-profile or I received many entries. Even at that stage, it was attracting around 200 abusive messages on the site per day. The abuse then diversified into other forums, such as Facebook and Twitter messages. These often spike if I’ve been in the media… You could be sitting at home in your living room, outside of working hours, and suddenly someone is able to send you a graphic rape threat right into the palm of your hand.”</strong></em></p>
+<p> </p>
+<figure class="figure--article">  <picture>    <!--[if IE 9]><video style="display: none;"><![endif]-->    <source data-srcset="/remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17750/toxic-tweets_laura.png?preset=proportional_639, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17750/toxic-tweets_laura.png?preset=proportional_639_hi 2x" media="(min-width: 346px)">    <source data-srcset="/remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17750/toxic-tweets_laura.png?preset=proportional_345, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17750/toxic-tweets_laura.png?preset=proportional_345_hi 2x">    <!--[if IE 9]></video><![endif]-->    <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" class="image--fullwidth lazyload print-hidden">  </picture>  <noscript>    <img src="/remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17750/toxic-tweets_laura.png?preset=proportional_639" alt="" class="image--fullwidth">  </noscript>  <img src="/remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17750/toxic-tweets_laura.png?preset=proportional_639" alt="" class="image--fullwidth print-shown">    <figcaption class="figcaption--article">Examples of abusive tweets mentioning @EverydaySexism directed to Founder of Everyday Sexism Project Laura Bates.</figcaption></figure>
+<p>UK political comedian Kate Smurthwaite told Amnesty International about a pile-on of violence and abuse against her on Twitter following a media appearance on a television debate programme. She told us,</p>
+<p><em><strong>“..After the debate he continued to be rude about me on Twitter. That reached a whole new level. In the following 48 hours, I received 165 pages of Twitter abuse. Suddenly it went insane. In that, there were four or five death threats, rape threats, and things like that.”</strong></em></p>
+<p>UK poet and actor Travis Alabanza told Amnesty International that much of the violence and abuse they experienced on Twitter was from people telling them to die. Travis explained,</p>
+<p><em><strong>“A lot of it was ‘die’. It was a mix, a lot of ‘I wish you people wouldn't exist’. ‘Go create your own world’ or ‘set up your own country’.  And ‘Die’. ‘Die’. ‘Die’. ‘Die.’ Lots of death.”</strong></em></p>
+<figure class="figure--article">  <picture>    <!--[if IE 9]><video style="display: none;"><![endif]-->    <source data-srcset="/remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17760/travis.jpg?center=0.5%2c0.5&amp;amp;preset=proportional_639, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17760/travis.jpg?center=0.5%2c0.5&amp;amp;preset=proportional_639_hi 2x" media="(min-width: 346px)">    <source data-srcset="/remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17760/travis.jpg?center=0.5%2c0.5&amp;amp;preset=proportional_345, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17760/travis.jpg?center=0.5%2c0.5&amp;amp;preset=proportional_345_hi 2x">    <!--[if IE 9]></video><![endif]-->    <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" class="image--fullwidth lazyload print-hidden">  </picture>  <noscript>    <img src="/remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17760/travis.jpg?center=0.5%2c0.5&amp;amp;preset=proportional_639" alt="" class="image--fullwidth">  </noscript>  <img src="/remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17760/travis.jpg?center=0.5%2c0.5&amp;amp;preset=proportional_639" alt="" class="image--fullwidth print-shown">    <figcaption class="figcaption--article">Example of abusive tweet mentioning UK poet and actor @travisalabanza</figcaption></figure>
+<p>UK writer Danielle Dash summed up her experience of violent threats on Twitter. She said,</p>
+<p><em><strong>“The violence is at the intersection of everything that I am – for example - ‘I’m goi</strong><strong>ng to rape you, you black b*tch’. You have the misogyny, and you have the racism and you have the sexual violence all mixed up into one delicious stew of cesspit shit.”</strong></em></p>
+<p>UK journalist Allison Morris told Amnesty International about threats she has received against herself as well as her family. She stated,</p>
+<p><em><strong>“Some of the things that have been put on Twitter about me have had people say they know where I live, I’ve had people say that they’ll be outside my work, I’ve had people not just threaten me but also say things that, you know, are clearly veiled threats against my family.”</strong></em></p>
+<p>Threats of violence and abuse online can also have a profound impact on women’s sense of safety offline. Amnesty International’s online poll found that of the women who experienced abuse or harassment online, 42% in the USA and 36% in the UK said it made them feel that their physical safety was threatened. 1 in 5 of women in the UK (20%) and over 1 in 4 (26%) in the USA said they felt their family’s safety was at risk after experiencing abuse or harassment on social media platforms.</p>
+<p>US reproductive rights activist Pamela Merritt echoed these findings. She said,</p>
+<p><em><strong>“After five years of online harassment coupled with offline harassment, I have basically reconciled with the fact that I’m prepared to die for the work I do. That might happen. If you get 200 death threats, it only takes one person who really wants to kill you.”</strong></em></p>
+<p>US journalist and writer Jessica Valenti told Amnesty International about how difficult it is to assess the seriousness of threats made against her online. She explained,</p>
+<p><em><strong>“When you’re in real life you decipher what is a real threat and what is not. Should I cross to the other side of the street, or should I tell this person to f*ck off? You can make informed decisions in that moment. You can’t do that online because you don’t know where or who that person is. Is this person a real threat or is this person a 12 year old? You have no clue.”</strong></em></p>
+<p>Women who have experienced threats of violence on social media platforms, including Twitter, also told Amnesty International about the precautionary measures they have taken to protect their families from this abuse. One woman told Amnesty that she changed her child’s last name at school so the child could not be identified as someone related to her and targeted with abuse. Another woman told Amnesty International that she turned down media appearances once her pregnancy became visible because she was terrified of any abuse or violence online targeting the baby. Her particular fear of such violence and abuse was triggered by previous threats of sexual violence towards her sister on Twitter.</p>
+<h2><em>Sexist and Misogynistic Abuse</em></h2>
+<p>Although different levels of abuse on <a href="/umbraco/amnesty.org/en/latest/research/2018/03/online-violence-against-women-chapter%208">Twitter will require different responses from the platform</a>, Amnesty International’s research has found that all forms of abuse against women can have a harmful impact on women’s rights online. Sexist and misogynistic abuse against women on Twitter was highlighted by almost every woman interviewed by Amnesty International. Such abuse includes offensive, insulting or abusive language or images directed at women on the basis of their gender and is intended to shame, intimidate or degrade women. Sexist or misogynistic abuse often includes references to negative and harmful stereotypes against women and can include gendered profanity.</p>
+<p>Politician and Former Leader of the Labour Party in Scotland Kezia Dugdale told Amnesty International about the underlying misogyny in tweets she has received,</p>
+<p><em><strong>“It’s definitely the case that I get more sexist commentary on Twitter and online than men. In Scotland the phrase would be ‘Daft wee lassie complex’. It means she doesn’t know what she’s talking about - she’s too young, too female to really understand what she’s going on about. So people will question your intelligence by referring to your gender. That’s probably the most common theme."</strong></em></p>
+<p>UK activist Alex Runswick also spoke about the variety of misogynistic abuse she has experienced on Twitter. She recounted a particular wave of abuse she received after she posted a photo of a letter that had assumed she was a man. She said,</p>
+<p><em><strong>“Because my name is Alex, I often get mis-gendered. I took a photo of the letter and put it on Twitter and said ‘Just because I’m a Director does not mean that I am male!’ and used the Everyday Sexism hashtag. And then I got, for me, an enormous amount of abuse for something I didn’t expect to be remotely controversial…It started with straightforward anti-women stuff around ‘you shouldn’t be doing politics’, ‘you should be in the kitchen’, ‘go make me a cup of tea love’…but then it quickly moved into what sort of sex acts I should be performing, my appearance and whether they ‘would or wouldn’t'"</strong></em></p>
+<p>Women also told Amnesty International that they often receive a spike in violence or abuse online following a television or media appearance. For example, UK science broadcaster, writer and educator Dr Emily Grossman told Amnesty International about a barrage of abuse she experienced on Twitter following an appearance in a TV debate. She explained to Amnesty International how she categorized the scale of abuse she received,</p>
+<p><em><strong>“There were personal attacks on me and my appearance, there was sexually abusive and aggressive language – no rape threats or death threats – but certainly people talking about their cock and slapping it around my face, what they wanted to ‘do’ to me, tearing me a new arsehole. Then there were these comments on my qualifications and my career undermining me as a scientist. There was some really awful anti-Semitism saying that Hitler was right…And there was a category of messages that seemed to be attacking me as a representative of all women – saying that women weren’t clever enough to be scientists, that we were stupid, illogical, irrational, if you can’t stand the heat get back in the kitchen, or if women aren’t succeeding blame it on their DNA. And then there were comments saying I must be a feminist and be crazy and asking why I hate men or suggesting that maybe my uncle raped me…”</strong></em></p>
+<h2><em>Other forms of identity-based abuse</em></h2>
+<p>Sometimes, online abuse focuses solely on an aspect of a person’s identity other than their gender. Under Under <a href="https://www.un.org/ruleoflaw/thematic-areas/human-rights/equality-and-non-discrimination/">international human rights legal frameworks</a>, the right to non-discrimination covers multiple protected characteristics of a person’s identity including standards to tackle discrimination against women, minorities, racial and religious discrimination and discrimination based on sexual orientation or gender identity.</p>
+<p>A 2017 <a href="http://www.stonewall.org.uk/sites/default/files/lgbt_in_britain_hate_crime.pdf">report</a> by LGBT organization <a href="http://www.stonewall.org.uk/">Stonewall</a> commissioned by YouGov surveyed more than 5000 LGBT people across England, Scotland and Wales found that 10% of LGBT people experienced homophobic, biphobic and transphobic abuse or behaviour online in the last month. This number increased to one in four trans people (26 %) who experienced transphobic abuse or behaviour online in the last month. Moreover, the <a href="http://www.stonewall.org.uk/sites/default/files/lgbt_in_britain_hate_crime.pdf">study</a> found that 23% of LGBT young people aged 18 to 24 were personally targeted online in the last month, with this number rising to 34% of trans young people. The study also found that 20% of Black, Asian, Minority, Ethnic (BAME) LGBT people experienced abuse online in the last month compared to 9% of white LGBT people. Non-binary LGBT people were found to be significantly more likely than LGBT men and women to experience personal online abuse with 26% experiencing such abuse.</p>
+<p>Additionally, a US <a href="http://www.pewresearch.org/fact-tank/2017/07/25/1-in-4-black-americans-have-faced-online-harassment-because-of-their-race-or-ethnicity/">study</a> by the Pew Research Centre on online harassment found that 59% of black internet users said they had experienced online harassment compared with 41% of white internet users and 48% of Hispanic internet users. 38% of black internet users also said they had been called offensive names. US activist Shireen Mitchell described to Amnesty International how abuse against black people on Twitter often references animal names. She described how black people will sometimes be called ‘ape’, ‘gorilla’ or ‘monkey’ as a form of racial abuse online. Similarly, UK Politician and activist Seyi Akiwowo told Amnesty International that the abuse she experienced on Twitter and other social media platforms included racial slurs like ‘n*gger’, ‘n*ggerress’, ‘negro’, references to lynching and being hanged, as well as ‘monkey’, ‘ape’ and being told to ‘die of an STI’.</p>
+<figure class="figure--article">  <picture>    <!--[if IE 9]><video style="display: none;"><![endif]-->    <source data-srcset="/remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17756/toxic-tweets_seyi.png?preset=proportional_639, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17756/toxic-tweets_seyi.png?preset=proportional_639_hi 2x" media="(min-width: 346px)">    <source data-srcset="/remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17756/toxic-tweets_seyi.png?preset=proportional_345, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17756/toxic-tweets_seyi.png?preset=proportional_345_hi 2x">    <!--[if IE 9]></video><![endif]-->    <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" class="image--fullwidth lazyload print-hidden">  </picture>  <noscript>    <img src="/remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17756/toxic-tweets_seyi.png?preset=proportional_639" alt="" class="image--fullwidth">  </noscript>  <img src="/remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17756/toxic-tweets_seyi.png?preset=proportional_639" alt="" class="image--fullwidth print-shown">    <figcaption class="figcaption--article">Examples of abusive tweets mentioning UK Politician and activist @seyiakiwowo and @DanielleDASH.</figcaption></figure>
+<p>US-born and UK-based journalist Hadley Freeman, told Amnesty International that most of the abuse she experiences on Twitter is actually anti-Semitic - but that she receives misogynistic abuse on the platform as well.  In addition, Jaclyn Friedman, a US writer and activist of Jewish descent, spoke to Amnesty International about a tide of anti-Semitic abuse she experienced on Twitter in November 2016. She said,</p>
+<p><em><strong>“I got numerous threats on Twitter threatening me with Zyclon B – that’s the gas they used to kill people in the gas chambers of the Holocaust.”</strong></em></p>
+<p>Rani Baker, a US writer and illustrator, told us about the abuse she experiences on Twitter as a trans woman on the platform. She said,</p>
+<p><em><strong>“People have made so many dehumanizing and humiliating assumptions about, references to, and descriptions of, my body, surgical results, sexual orientation and proclivities, general lifestyle and behaviours that it could fill a book. It’s shockingly common to see the most degrading descriptions of myself and my existence being bandied around by people trying to get under my skin.”</strong></em></p>
+<p>It is important to note that identity-based abuse can be used to target women from marginalized groups in different ways. A US sex worker and advocate who wished to remain anonymous, told Amnesty International that abuse on Twitter targeting sex workers often includes deliberately being ‘outed’ with a view to shaming or humiliating them. She explains,</p>
+<p><em><strong>“When dealing with a criminalized and stigmatized population being attacked by people who are not in that population; there is always a question of power…Twitter being an open space is a problem for targeted abuse against sex worker advocates. For me the fear of being outed means I couldn’t advocate effectively. Being outed is something I’ve seen over and over again on Twitter. People live in constant fear of being outed non-consensually…It’s really hard to do advocacy when you are waiting for the other shoe to drop”</strong></em></p>
+<h2><em>Doxing</em> </h2>
+<p>Abuse against women on Twitter can also include ‘doxing’ (slang for ‘docs’ or ‘documents’) which involves revealing personal or identifying documents or details about someone online without their consent. This can include personal information such as a person’s home address, real name, children’s names, phone numbers and email address. Doxing is a violation of a person’s privacy and the aim is to distress, panic and otherwise cause alarm. In the USA, Amnesty International’s online poll found that almost 1 in 3 (29%) women who experienced abuse or harassment on social media platforms had been doxed.</p>
+<p>Former UK Politician Tasmina Ahmed Sheikh told Amnesty,</p>
+<p><em><strong>“Somebody thought it was a really good idea to tweet out my home address with post code which meant the police then had to patrol my house. It was at a point where my husband and I were out and my kids were at home on their own so it was really worrying.”</strong></em></p>
+<p>US writer and activist Jaclyn Friedman told Amnesty International about the security measures she took before she published a <a href="https://womenactionmedia.org/twitter-report/">report</a> about abuse on Twitter out of fear of being doxed,</p>
+<p><em><strong>“Before we launched our Twitter </strong><a href="https://womenactionmedia.org/cms/assets/uploads/2015/05/wam-twitter-abuse-report.pdf"><strong>report</strong>,</a><strong> I got a new security system on my house. We lived in a really safe neighbourhood and I’d never thought about it before – but I didn’t want to go to bed at night and think ‘what if they dox me at 3am when I’m sleeping? It felt too vulnerable….</strong></em></p>
+<p><em><strong>…It’s time and energy and actual money that goes into making sure that I can say to Amnesty in this interview – ‘oh sure, publish my name, publish my face’. I consistently resent that…It’s absolutely a tax on women’s speech’.” </strong></em></p>
+<p>The fear of being doxed is a particular concern for women in the USA where publishing a person’s address online can lead to ‘swatting’ – which is when someone makes a fake emergency call to trigger a large police response at the target’s home. The response often includes a heavily armed SWAT (Special Weapons and Tactics) team who arrive expecting a hostile situation. For example, in January 2016, US Congresswoman Katherine Clark, who is a vocal proponent of legislation against online abuse in the USA <a href="https://www.motherjones.com/politics/2016/09/katherine-clark-fight-against-internet-trolls-gamergate/">was ‘swatted’</a> - soon after she sponsored a bill to combat swatting.</p>
+<h2><em>Sharing sexual and private images without consent</em></h2>
+<p>Sharing sexual or private images without consent is a violation of women’s right to privacy and is usually carried out by an ex-partner with the aim of distressing, humiliating or blackmailing a woman. While a woman may have initially consented to having images taken and voluntarily shared them with an individual, she may not have given that person permission to share the images more widely. It is the non-consensual aspect of this form of abuse which makes it distinct from sexually explicit content online more broadly.</p>
+<p>Of the women <a href="https://medium.com/amnesty-insights/unsocial-media-the-real-toll-of-online-abuse-against-women-37134ddab3f4">polled by IPSOS Mori for Amnesty International</a> who experienced abuse or harassment on social media platforms, 10% in the USA and 8% in the UK said that intimate images had been posted of them online without their consent.</p>
+<p>When UK journalist Vonny Moyes had private images of her shared on Twitter without her consent, she used the same platform to hold the perpetrator to account. Her response included a series of tweets <a href="https://www.mamamia.com.au/revenge-porn-journalist/">that stated</a>,</p>
+<p><em><strong>“So @*************** has just found and posted nudes of me. I would very much appreciate your help in reporting him for this.”</strong></em></p>
+<p><em><strong>“The thing is @*************** – this only works as weaponry if I accept the shaming. I did not give you those or permission to look at me.”</strong></em></p>
+<p><em><strong>“This is the reality of being a female journalist right now. People like you try to use our own bodies against us. All the time.”</strong></em></p>
+<figure class="figure--article">  <picture>    <!--[if IE 9]><video style="display: none;"><![endif]-->    <source data-srcset="/remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17758/toxic-tweets_vonny-revenge.png?preset=proportional_639, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17758/toxic-tweets_vonny-revenge.png?preset=proportional_639_hi 2x" media="(min-width: 346px)">    <source data-srcset="/remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17758/toxic-tweets_vonny-revenge.png?preset=proportional_345, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17758/toxic-tweets_vonny-revenge.png?preset=proportional_345_hi 2x">    <!--[if IE 9]></video><![endif]-->    <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" class="image--fullwidth lazyload print-hidden">  </picture>  <noscript>    <img src="/remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17758/toxic-tweets_vonny-revenge.png?preset=proportional_639" alt="" class="image--fullwidth">  </noscript>  <img src="/remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17758/toxic-tweets_vonny-revenge.png?preset=proportional_639" alt="" class="image--fullwidth print-shown">    <figcaption class="figcaption--article">Tweets by UK journalist @vonny_bravo highlighting violence and abuse online against women journalists.</figcaption></figure>
+<h2><em>Targeted Harassment</em> </h2>
+<p>Targeted harassment online involves one or more people working together to repeatedly target a woman with violence or abuse over a short or coordinated period of time with the aim of humiliating her or otherwise causing distress.</p>
+<p>Games Developer Zoe Quinn experienced what has become one of the most well-known cases of targeted harassment online. The term ‘<a href="http://www.vulture.com/2014/10/why-you-should-care-about-gamergate.html">Gamergate</a>’ was coined in 2014 following a relentless flood of online violence and abuse that she and other prominent women in the gaming industry were subjected to on multiple social media platforms, including Twitter. The extensive violence and abuse targeting Zoe began after her ex-partner posted an article about their relationship and accused her of an affair. The post was picked up on platforms like Reddit and 4Chan and resulted in a barrage of violence, abuse and harassment against her.</p>
+<p>The very nature of the Internet allows content posted on social media platforms to ‘go viral’ and be shared across platforms almost instantly - which means that violent and abusive content can be easy to share or repeat and difficult to contain. One abusive or violent tweet against an individual, for example, can quickly multiply into hundreds or thousands of abusive or violent tweets against that individual within minutes. </p>
+<p>UK actor and poet Travis Alabanza told Amnesty International about the targeted harassment they experienced in November 2017 after a tweet they posted went viral. Travis recounted,</p>
+<p><em><strong>“I tweeted before I went to bed and woke up and was like ‘why do I have 70O+ notifications on Twitter?  A few days later Twitter sent me a tweet saying ‘Congratulations your tweet is featured in the Moments!’…I’m used to Twitter traffic but something felt a bit different about this. We’re talking, I think 100 tweets per minute. There were points where you could scroll my name and you could scroll 7 or 8 times and you’d only be 3 minutes in…</strong></em></p>
+<p><em><strong>…I remember just looking at the abuse and being so shocked and just sitting there and my friends being like ‘What do you need?’ and me just saying ‘I don't know.’… A lot of the abuse was to die and much of it said ‘You're a man’. They also took photos of me and then circled parts of my face that are ‘manly’.”</strong></em></p>
+<p>Many women we spoke to emphasized that the sheer volume of violent and abusive tweets they receive on Twitter is specifically what they find so overwhelming about the platform.</p>
+<p>US writer and presenter Sally Kohn explained,</p>
+<p><em><strong>“The abuse on Twitter is sort of constant. And it’s disturbing when you recognize that is so kind of constant and normalized that you don’t even notice it anymore…I can’t find the reasonable stuff amongst the trolls, I really can’t.”</strong></em></p>
+<p>When UK Shadow Home Minister Diane Abbott told Amnesty International about the difference between offline abuse she received when she first became a Member of Parliament, and the abuse she receives on social media platforms 30 years later, she stated,</p>
+<p><em><strong>“It’s the volume of it which makes it so debilitating, so corrosive, and so upsetting. It’s the sheer volume. And the sheer level of hatred that people are showing.”</strong></em></p>
+<p> </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div><div class="image-block--plain print-hidden" data-carousel data-gallery-fullscreen data-content-id="54005">
+  <div class="carousel image-block__content--tall-ghost print-hidden">
+    <ul class="carousel__slider" data-carousel-slider>
+
+        <li class="carousel__slide" data-carousel-slide>
+          <div class="responsive--bg lazyload" data-bgset="/remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17703/diane-abuse-slide.jpg?preset=fixed_1472_42, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17703/diane-abuse-slide.jpg?preset=fixed_1472_42_hi 2x [(min-width: 1272px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17703/diane-abuse-slide.jpg?preset=fixed_1224_52, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17703/diane-abuse-slide.jpg?preset=fixed_1224_52_hi 2x [(min-width: 1040px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17703/diane-abuse-slide.jpg?preset=fixed_1039_62, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17703/diane-abuse-slide.jpg?preset=fixed_1039_62_hi 2x [(min-width: 840px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17703/diane-abuse-slide.jpg?preset=fixed_839_72, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17703/diane-abuse-slide.jpg?preset=fixed_839_72_hi 2x [(min-width: 640px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17703/diane-abuse-slide.jpg?preset=fixed_639_82, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17703/diane-abuse-slide.jpg?preset=fixed_639_82_hi 2x [(min-width: 480px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17703/diane-abuse-slide.jpg?preset=fixed_479_122, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17703/diane-abuse-slide.jpg?preset=fixed_479_122_hi 2x [(min-width: 390px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17703/diane-abuse-slide.jpg?preset=fixed_389_152, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17703/diane-abuse-slide.jpg?preset=fixed_389_152_hi 2x" data-bg-slide></div>
+          <noscript>
+            <img src="/remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17703/diane-abuse-slide.jpg?preset=fixed_1472_42" alt="" class="responsive__img">
+          </noscript>
+          <div class="carousel__slide-inner">
+          </div>
+        </li>
+        <li class="carousel__slide" data-carousel-slide>
+          <div class="responsive--bg lazyload" data-bgset="/remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17705/imani-4-slide.jpg?preset=fixed_1472_42, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17705/imani-4-slide.jpg?preset=fixed_1472_42_hi 2x [(min-width: 1272px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17705/imani-4-slide.jpg?preset=fixed_1224_52, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17705/imani-4-slide.jpg?preset=fixed_1224_52_hi 2x [(min-width: 1040px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17705/imani-4-slide.jpg?preset=fixed_1039_62, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17705/imani-4-slide.jpg?preset=fixed_1039_62_hi 2x [(min-width: 840px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17705/imani-4-slide.jpg?preset=fixed_839_72, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17705/imani-4-slide.jpg?preset=fixed_839_72_hi 2x [(min-width: 640px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17705/imani-4-slide.jpg?preset=fixed_639_82, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17705/imani-4-slide.jpg?preset=fixed_639_82_hi 2x [(min-width: 480px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17705/imani-4-slide.jpg?preset=fixed_479_122, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17705/imani-4-slide.jpg?preset=fixed_479_122_hi 2x [(min-width: 390px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17705/imani-4-slide.jpg?preset=fixed_389_152, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17705/imani-4-slide.jpg?preset=fixed_389_152_hi 2x" data-bg-slide></div>
+          <noscript>
+            <img src="/remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17705/imani-4-slide.jpg?preset=fixed_1472_42" alt="" class="responsive__img">
+          </noscript>
+          <div class="carousel__slide-inner">
+          </div>
+        </li>
+        <li class="carousel__slide" data-carousel-slide>
+          <div class="responsive--bg " data-bgset="/remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17706/imani-slide.jpg?preset=fixed_1472_42, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17706/imani-slide.jpg?preset=fixed_1472_42_hi 2x [(min-width: 1272px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17706/imani-slide.jpg?preset=fixed_1224_52, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17706/imani-slide.jpg?preset=fixed_1224_52_hi 2x [(min-width: 1040px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17706/imani-slide.jpg?preset=fixed_1039_62, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17706/imani-slide.jpg?preset=fixed_1039_62_hi 2x [(min-width: 840px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17706/imani-slide.jpg?preset=fixed_839_72, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17706/imani-slide.jpg?preset=fixed_839_72_hi 2x [(min-width: 640px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17706/imani-slide.jpg?preset=fixed_639_82, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17706/imani-slide.jpg?preset=fixed_639_82_hi 2x [(min-width: 480px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17706/imani-slide.jpg?preset=fixed_479_122, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17706/imani-slide.jpg?preset=fixed_479_122_hi 2x [(min-width: 390px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17706/imani-slide.jpg?preset=fixed_389_152, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17706/imani-slide.jpg?preset=fixed_389_152_hi 2x" data-bg-slide></div>
+          <noscript>
+            <img src="/remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17706/imani-slide.jpg?preset=fixed_1472_42" alt="" class="responsive__img">
+          </noscript>
+          <div class="carousel__slide-inner">
+          </div>
+        </li>
+        <li class="carousel__slide" data-carousel-slide>
+          <div class="responsive--bg " data-bgset="/remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17707/jaclyn-cunt-slide.jpg?preset=fixed_1472_42, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17707/jaclyn-cunt-slide.jpg?preset=fixed_1472_42_hi 2x [(min-width: 1272px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17707/jaclyn-cunt-slide.jpg?preset=fixed_1224_52, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17707/jaclyn-cunt-slide.jpg?preset=fixed_1224_52_hi 2x [(min-width: 1040px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17707/jaclyn-cunt-slide.jpg?preset=fixed_1039_62, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17707/jaclyn-cunt-slide.jpg?preset=fixed_1039_62_hi 2x [(min-width: 840px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17707/jaclyn-cunt-slide.jpg?preset=fixed_839_72, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17707/jaclyn-cunt-slide.jpg?preset=fixed_839_72_hi 2x [(min-width: 640px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17707/jaclyn-cunt-slide.jpg?preset=fixed_639_82, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17707/jaclyn-cunt-slide.jpg?preset=fixed_639_82_hi 2x [(min-width: 480px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17707/jaclyn-cunt-slide.jpg?preset=fixed_479_122, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17707/jaclyn-cunt-slide.jpg?preset=fixed_479_122_hi 2x [(min-width: 390px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17707/jaclyn-cunt-slide.jpg?preset=fixed_389_152, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17707/jaclyn-cunt-slide.jpg?preset=fixed_389_152_hi 2x" data-bg-slide></div>
+          <noscript>
+            <img src="/remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17707/jaclyn-cunt-slide.jpg?preset=fixed_1472_42" alt="" class="responsive__img">
+          </noscript>
+          <div class="carousel__slide-inner">
+          </div>
+        </li>
+        <li class="carousel__slide" data-carousel-slide>
+          <div class="responsive--bg " data-bgset="/remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17708/jessica-valenti-slide.jpg?preset=fixed_1472_42, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17708/jessica-valenti-slide.jpg?preset=fixed_1472_42_hi 2x [(min-width: 1272px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17708/jessica-valenti-slide.jpg?preset=fixed_1224_52, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17708/jessica-valenti-slide.jpg?preset=fixed_1224_52_hi 2x [(min-width: 1040px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17708/jessica-valenti-slide.jpg?preset=fixed_1039_62, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17708/jessica-valenti-slide.jpg?preset=fixed_1039_62_hi 2x [(min-width: 840px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17708/jessica-valenti-slide.jpg?preset=fixed_839_72, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17708/jessica-valenti-slide.jpg?preset=fixed_839_72_hi 2x [(min-width: 640px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17708/jessica-valenti-slide.jpg?preset=fixed_639_82, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17708/jessica-valenti-slide.jpg?preset=fixed_639_82_hi 2x [(min-width: 480px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17708/jessica-valenti-slide.jpg?preset=fixed_479_122, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17708/jessica-valenti-slide.jpg?preset=fixed_479_122_hi 2x [(min-width: 390px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17708/jessica-valenti-slide.jpg?preset=fixed_389_152, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17708/jessica-valenti-slide.jpg?preset=fixed_389_152_hi 2x" data-bg-slide></div>
+          <noscript>
+            <img src="/remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17708/jessica-valenti-slide.jpg?preset=fixed_1472_42" alt="" class="responsive__img">
+          </noscript>
+          <div class="carousel__slide-inner">
+          </div>
+        </li>
+        <li class="carousel__slide" data-carousel-slide>
+          <div class="responsive--bg " data-bgset="/remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17709/kate-dick-nose-slide.jpg?preset=fixed_1472_42, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17709/kate-dick-nose-slide.jpg?preset=fixed_1472_42_hi 2x [(min-width: 1272px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17709/kate-dick-nose-slide.jpg?preset=fixed_1224_52, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17709/kate-dick-nose-slide.jpg?preset=fixed_1224_52_hi 2x [(min-width: 1040px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17709/kate-dick-nose-slide.jpg?preset=fixed_1039_62, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17709/kate-dick-nose-slide.jpg?preset=fixed_1039_62_hi 2x [(min-width: 840px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17709/kate-dick-nose-slide.jpg?preset=fixed_839_72, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17709/kate-dick-nose-slide.jpg?preset=fixed_839_72_hi 2x [(min-width: 640px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17709/kate-dick-nose-slide.jpg?preset=fixed_639_82, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17709/kate-dick-nose-slide.jpg?preset=fixed_639_82_hi 2x [(min-width: 480px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17709/kate-dick-nose-slide.jpg?preset=fixed_479_122, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17709/kate-dick-nose-slide.jpg?preset=fixed_479_122_hi 2x [(min-width: 390px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17709/kate-dick-nose-slide.jpg?preset=fixed_389_152, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17709/kate-dick-nose-slide.jpg?preset=fixed_389_152_hi 2x" data-bg-slide></div>
+          <noscript>
+            <img src="/remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17709/kate-dick-nose-slide.jpg?preset=fixed_1472_42" alt="" class="responsive__img">
+          </noscript>
+          <div class="carousel__slide-inner">
+          </div>
+        </li>
+        <li class="carousel__slide" data-carousel-slide>
+          <div class="responsive--bg " data-bgset="/remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17710/kezia-daft-slide.jpg?preset=fixed_1472_42, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17710/kezia-daft-slide.jpg?preset=fixed_1472_42_hi 2x [(min-width: 1272px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17710/kezia-daft-slide.jpg?preset=fixed_1224_52, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17710/kezia-daft-slide.jpg?preset=fixed_1224_52_hi 2x [(min-width: 1040px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17710/kezia-daft-slide.jpg?preset=fixed_1039_62, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17710/kezia-daft-slide.jpg?preset=fixed_1039_62_hi 2x [(min-width: 840px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17710/kezia-daft-slide.jpg?preset=fixed_839_72, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17710/kezia-daft-slide.jpg?preset=fixed_839_72_hi 2x [(min-width: 640px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17710/kezia-daft-slide.jpg?preset=fixed_639_82, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17710/kezia-daft-slide.jpg?preset=fixed_639_82_hi 2x [(min-width: 480px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17710/kezia-daft-slide.jpg?preset=fixed_479_122, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17710/kezia-daft-slide.jpg?preset=fixed_479_122_hi 2x [(min-width: 390px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17710/kezia-daft-slide.jpg?preset=fixed_389_152, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17710/kezia-daft-slide.jpg?preset=fixed_389_152_hi 2x" data-bg-slide></div>
+          <noscript>
+            <img src="/remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17710/kezia-daft-slide.jpg?preset=fixed_1472_42" alt="" class="responsive__img">
+          </noscript>
+          <div class="carousel__slide-inner">
+          </div>
+        </li>
+        <li class="carousel__slide" data-carousel-slide>
+          <div class="responsive--bg " data-bgset="/remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17711/p1-nicola-sturgeon-tweet.jpg?preset=fixed_1472_42, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17711/p1-nicola-sturgeon-tweet.jpg?preset=fixed_1472_42_hi 2x [(min-width: 1272px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17711/p1-nicola-sturgeon-tweet.jpg?preset=fixed_1224_52, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17711/p1-nicola-sturgeon-tweet.jpg?preset=fixed_1224_52_hi 2x [(min-width: 1040px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17711/p1-nicola-sturgeon-tweet.jpg?preset=fixed_1039_62, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17711/p1-nicola-sturgeon-tweet.jpg?preset=fixed_1039_62_hi 2x [(min-width: 840px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17711/p1-nicola-sturgeon-tweet.jpg?preset=fixed_839_72, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17711/p1-nicola-sturgeon-tweet.jpg?preset=fixed_839_72_hi 2x [(min-width: 640px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17711/p1-nicola-sturgeon-tweet.jpg?preset=fixed_639_82, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17711/p1-nicola-sturgeon-tweet.jpg?preset=fixed_639_82_hi 2x [(min-width: 480px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17711/p1-nicola-sturgeon-tweet.jpg?preset=fixed_479_122, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17711/p1-nicola-sturgeon-tweet.jpg?preset=fixed_479_122_hi 2x [(min-width: 390px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17711/p1-nicola-sturgeon-tweet.jpg?preset=fixed_389_152, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17711/p1-nicola-sturgeon-tweet.jpg?preset=fixed_389_152_hi 2x" data-bg-slide></div>
+          <noscript>
+            <img src="/remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17711/p1-nicola-sturgeon-tweet.jpg?preset=fixed_1472_42" alt="" class="responsive__img">
+          </noscript>
+          <div class="carousel__slide-inner">
+          </div>
+        </li>
+        <li class="carousel__slide" data-carousel-slide>
+          <div class="responsive--bg " data-bgset="/remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17712/projections-2-slide.jpg?preset=fixed_1472_42, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17712/projections-2-slide.jpg?preset=fixed_1472_42_hi 2x [(min-width: 1272px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17712/projections-2-slide.jpg?preset=fixed_1224_52, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17712/projections-2-slide.jpg?preset=fixed_1224_52_hi 2x [(min-width: 1040px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17712/projections-2-slide.jpg?preset=fixed_1039_62, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17712/projections-2-slide.jpg?preset=fixed_1039_62_hi 2x [(min-width: 840px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17712/projections-2-slide.jpg?preset=fixed_839_72, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17712/projections-2-slide.jpg?preset=fixed_839_72_hi 2x [(min-width: 640px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17712/projections-2-slide.jpg?preset=fixed_639_82, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17712/projections-2-slide.jpg?preset=fixed_639_82_hi 2x [(min-width: 480px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17712/projections-2-slide.jpg?preset=fixed_479_122, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17712/projections-2-slide.jpg?preset=fixed_479_122_hi 2x [(min-width: 390px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17712/projections-2-slide.jpg?preset=fixed_389_152, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17712/projections-2-slide.jpg?preset=fixed_389_152_hi 2x" data-bg-slide></div>
+          <noscript>
+            <img src="/remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17712/projections-2-slide.jpg?preset=fixed_1472_42" alt="" class="responsive__img">
+          </noscript>
+          <div class="carousel__slide-inner">
+          </div>
+        </li>
+        <li class="carousel__slide" data-carousel-slide>
+          <div class="responsive--bg " data-bgset="/remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17713/projections-3-slide.jpg?preset=fixed_1472_42, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17713/projections-3-slide.jpg?preset=fixed_1472_42_hi 2x [(min-width: 1272px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17713/projections-3-slide.jpg?preset=fixed_1224_52, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17713/projections-3-slide.jpg?preset=fixed_1224_52_hi 2x [(min-width: 1040px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17713/projections-3-slide.jpg?preset=fixed_1039_62, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17713/projections-3-slide.jpg?preset=fixed_1039_62_hi 2x [(min-width: 840px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17713/projections-3-slide.jpg?preset=fixed_839_72, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17713/projections-3-slide.jpg?preset=fixed_839_72_hi 2x [(min-width: 640px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17713/projections-3-slide.jpg?preset=fixed_639_82, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17713/projections-3-slide.jpg?preset=fixed_639_82_hi 2x [(min-width: 480px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17713/projections-3-slide.jpg?preset=fixed_479_122, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17713/projections-3-slide.jpg?preset=fixed_479_122_hi 2x [(min-width: 390px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17713/projections-3-slide.jpg?preset=fixed_389_152, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17713/projections-3-slide.jpg?preset=fixed_389_152_hi 2x" data-bg-slide></div>
+          <noscript>
+            <img src="/remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17713/projections-3-slide.jpg?preset=fixed_1472_42" alt="" class="responsive__img">
+          </noscript>
+          <div class="carousel__slide-inner">
+          </div>
+        </li>
+        <li class="carousel__slide" data-carousel-slide>
+          <div class="responsive--bg " data-bgset="/remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17714/laura-bates-slide.jpg?preset=fixed_1472_42, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17714/laura-bates-slide.jpg?preset=fixed_1472_42_hi 2x [(min-width: 1272px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17714/laura-bates-slide.jpg?preset=fixed_1224_52, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17714/laura-bates-slide.jpg?preset=fixed_1224_52_hi 2x [(min-width: 1040px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17714/laura-bates-slide.jpg?preset=fixed_1039_62, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17714/laura-bates-slide.jpg?preset=fixed_1039_62_hi 2x [(min-width: 840px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17714/laura-bates-slide.jpg?preset=fixed_839_72, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17714/laura-bates-slide.jpg?preset=fixed_839_72_hi 2x [(min-width: 640px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17714/laura-bates-slide.jpg?preset=fixed_639_82, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17714/laura-bates-slide.jpg?preset=fixed_639_82_hi 2x [(min-width: 480px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17714/laura-bates-slide.jpg?preset=fixed_479_122, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17714/laura-bates-slide.jpg?preset=fixed_479_122_hi 2x [(min-width: 390px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17714/laura-bates-slide.jpg?preset=fixed_389_152, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17714/laura-bates-slide.jpg?preset=fixed_389_152_hi 2x" data-bg-slide></div>
+          <noscript>
+            <img src="/remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17714/laura-bates-slide.jpg?preset=fixed_1472_42" alt="" class="responsive__img">
+          </noscript>
+          <div class="carousel__slide-inner">
+          </div>
+        </li>
+        <li class="carousel__slide" data-carousel-slide>
+          <div class="responsive--bg " data-bgset="/remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17715/tasmina-muslim-slide.jpg?preset=fixed_1472_42, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17715/tasmina-muslim-slide.jpg?preset=fixed_1472_42_hi 2x [(min-width: 1272px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17715/tasmina-muslim-slide.jpg?preset=fixed_1224_52, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17715/tasmina-muslim-slide.jpg?preset=fixed_1224_52_hi 2x [(min-width: 1040px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17715/tasmina-muslim-slide.jpg?preset=fixed_1039_62, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17715/tasmina-muslim-slide.jpg?preset=fixed_1039_62_hi 2x [(min-width: 840px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17715/tasmina-muslim-slide.jpg?preset=fixed_839_72, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17715/tasmina-muslim-slide.jpg?preset=fixed_839_72_hi 2x [(min-width: 640px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17715/tasmina-muslim-slide.jpg?preset=fixed_639_82, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17715/tasmina-muslim-slide.jpg?preset=fixed_639_82_hi 2x [(min-width: 480px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17715/tasmina-muslim-slide.jpg?preset=fixed_479_122, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17715/tasmina-muslim-slide.jpg?preset=fixed_479_122_hi 2x [(min-width: 390px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17715/tasmina-muslim-slide.jpg?preset=fixed_389_152, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17715/tasmina-muslim-slide.jpg?preset=fixed_389_152_hi 2x" data-bg-slide></div>
+          <noscript>
+            <img src="/remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17715/tasmina-muslim-slide.jpg?preset=fixed_1472_42" alt="" class="responsive__img">
+          </noscript>
+          <div class="carousel__slide-inner">
+          </div>
+        </li>
+    </ul>
+  </div>
+    <div class="carousel__header" data-carousel-title>
+      <h2 class="carousel__title">Abusive Tweets</h2>
+    </div>
+  <button class="carousel__next--inline" data-carousel-next>Next</button>
+  <button class="carousel__prev--inline" data-carousel-prev>Previous</button>
+
+
+  <div class="carousel-pagination" data-carousel-pagination>
+    <ul class="carousel-pagination__list">
+          <li class="carousel-pagination__item" data-carousel-pagination-item>1</li>
+          <li class="carousel-pagination__item" data-carousel-pagination-item>2</li>
+          <li class="carousel-pagination__item" data-carousel-pagination-item>3</li>
+          <li class="carousel-pagination__item" data-carousel-pagination-item>4</li>
+          <li class="carousel-pagination__item" data-carousel-pagination-item>5</li>
+          <li class="carousel-pagination__item" data-carousel-pagination-item>6</li>
+          <li class="carousel-pagination__item" data-carousel-pagination-item>7</li>
+          <li class="carousel-pagination__item" data-carousel-pagination-item>8</li>
+          <li class="carousel-pagination__item" data-carousel-pagination-item>9</li>
+          <li class="carousel-pagination__item" data-carousel-pagination-item>10</li>
+          <li class="carousel-pagination__item" data-carousel-pagination-item>11</li>
+          <li class="carousel-pagination__item" data-carousel-pagination-item>12</li>
+    </ul>
+    <div class="carousel-pagination__label__wrapper">
+      <div class="carousel-pagination__label" data-carousel-pagination-label></div>
+    </div>
+  </div>
+</div>
+<div class="container--full-bleed-padded" data-content-id="53966">
+    <div class="grid">
+        <div class="col col--1/6--md col--1/4--lg not-sm"></div>
+        <div class="col col--2/3--md col--1/2--lg">
+            <div class="col__content">
+                <h2 class="h3--caps"></h2>    
+                <div class="wysiwyg">
+                    <iframe frameborder="0" scrolling="no" src="https://khartzenberg.github.io/Reports-menu/index2.html" id="iFrameResizer0" width="100%" height="100px"></iframe>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+	<div class="video-full-width ui--background-alt ui--border-bottom" data-content-id="53906">
+
+		<div class="ca-list print-hidden container">
+
+			<div class="grid">
+
+					<div class="col">
+
+						<h2 class="ca-list__heading">
+							Case Studies
+						</h2>
+
+					</div>
+
+
+				<div class="ca-list__itemblock clearfix">
+
+
+<article class="ca-list__item ">
+
+        <a class="search-item__content--bottom" href="/en/latest/research/2018/03/jessica-valenti-online-violence-against-women">
+            <div class="responsive--bg lazyload search-item__image-block" data-bgset="/remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17725/248355_jessica-valenti.jpg?preset=fixed_391_228, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17725/248355_jessica-valenti.jpg?preset=fixed_391_228_hi 2x [(min-width: 640px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17725/248355_jessica-valenti.jpg?preset=fixed_615_208, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17725/248355_jessica-valenti.jpg?preset=fixed_615_208_hi 2x [(min-width: 346px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17725/248355_jessica-valenti.jpg?preset=fixed_321_208, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17725/248355_jessica-valenti.jpg?preset=fixed_321_208_hi 2x"></div>
+            <noscript>
+                <img src="/remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17725/248355_jessica-valenti.jpg?preset=fixed_391_415" alt="" class="responsive__img" />
+            </noscript>
+            <div class="search-item__cell--bottom">
+                <ul class="tags--cell">
+                    <li class="tags__item--solo"><span class="tags__icon--blogarticle">Blog</span></li>
+                </ul>
+                <h1 class="search-item__title--tape">
+                    <span class="heading--tape--small">Jessica Valenti</span>
+                </h1>
+            </div>
+        </a>
+</article>
+
+<article class="ca-list__item ">
+
+        <a class="search-item__content--bottom" href="/en/latest/research/2018/03/miski-noor-online-violence-against-women">
+            <div class="responsive--bg lazyload search-item__image-block" data-bgset="/remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17718/248344_miski-noor.jpg?preset=fixed_391_228, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17718/248344_miski-noor.jpg?preset=fixed_391_228_hi 2x [(min-width: 640px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17718/248344_miski-noor.jpg?preset=fixed_615_208, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17718/248344_miski-noor.jpg?preset=fixed_615_208_hi 2x [(min-width: 346px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17718/248344_miski-noor.jpg?preset=fixed_321_208, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17718/248344_miski-noor.jpg?preset=fixed_321_208_hi 2x"></div>
+            <noscript>
+                <img src="/remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17718/248344_miski-noor.jpg?preset=fixed_391_415" alt="" class="responsive__img" />
+            </noscript>
+            <div class="search-item__cell--bottom">
+                <ul class="tags--cell">
+                    <li class="tags__item--solo"><span class="tags__icon--blogarticle">Blog</span></li>
+                </ul>
+                <h1 class="search-item__title--tape">
+                    <span class="heading--tape--small">Miski Noor</span>
+                </h1>
+            </div>
+        </a>
+</article>
+
+<article class="ca-list__item ">
+
+        <a class="search-item__content--bottom" href="/en/latest/research/2018/03/nicola-sturgeon-online-violence-against-women">
+            <div class="responsive--bg lazyload search-item__image-block" data-bgset="/remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17719/248347_nicola-sturgeon.jpg?preset=fixed_391_228, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17719/248347_nicola-sturgeon.jpg?preset=fixed_391_228_hi 2x [(min-width: 640px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17719/248347_nicola-sturgeon.jpg?preset=fixed_615_208, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17719/248347_nicola-sturgeon.jpg?preset=fixed_615_208_hi 2x [(min-width: 346px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17719/248347_nicola-sturgeon.jpg?preset=fixed_321_208, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17719/248347_nicola-sturgeon.jpg?preset=fixed_321_208_hi 2x"></div>
+            <noscript>
+                <img src="/remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17719/248347_nicola-sturgeon.jpg?preset=fixed_391_415" alt="" class="responsive__img" />
+            </noscript>
+            <div class="search-item__cell--bottom">
+                <ul class="tags--cell">
+                    <li class="tags__item--solo"><span class="tags__icon--blogarticle">Blog</span></li>
+                </ul>
+                <h1 class="search-item__title--tape">
+                    <span class="heading--tape--small">Nicola Sturgeon</span>
+                </h1>
+            </div>
+        </a>
+</article>
+
+<article class="ca-list__item ">
+
+        <a class="search-item__content--bottom" href="/en/latest/research/2018/03/zoe-quinn-online-violence-against-women">
+            <div class="responsive--bg lazyload search-item__image-block" data-bgset="/remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17723/248351_zoe-quinn.jpg?preset=fixed_391_228, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17723/248351_zoe-quinn.jpg?preset=fixed_391_228_hi 2x [(min-width: 640px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17723/248351_zoe-quinn.jpg?preset=fixed_615_208, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17723/248351_zoe-quinn.jpg?preset=fixed_615_208_hi 2x [(min-width: 346px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17723/248351_zoe-quinn.jpg?preset=fixed_321_208, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17723/248351_zoe-quinn.jpg?preset=fixed_321_208_hi 2x"></div>
+            <noscript>
+                <img src="/remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17723/248351_zoe-quinn.jpg?preset=fixed_391_415" alt="" class="responsive__img" />
+            </noscript>
+            <div class="search-item__cell--bottom">
+                <ul class="tags--cell">
+                    <li class="tags__item--solo"><span class="tags__icon--blogarticle">Blog</span></li>
+                </ul>
+                <h1 class="search-item__title--tape">
+                    <span class="heading--tape--small">Zoe Quinn</span>
+                </h1>
+            </div>
+        </a>
+</article>
+
+<article class="ca-list__item ">
+
+        <a class="search-item__content--bottom" href="/en/latest/research/2018/03/imani-gandy-online-violence-against-women">
+            <div class="responsive--bg lazyload search-item__image-block" data-bgset="/remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17717/248344_imani-gandy.jpg?preset=fixed_391_228, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17717/248344_imani-gandy.jpg?preset=fixed_391_228_hi 2x [(min-width: 640px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17717/248344_imani-gandy.jpg?preset=fixed_615_208, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17717/248344_imani-gandy.jpg?preset=fixed_615_208_hi 2x [(min-width: 346px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17717/248344_imani-gandy.jpg?preset=fixed_321_208, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17717/248344_imani-gandy.jpg?preset=fixed_321_208_hi 2x"></div>
+            <noscript>
+                <img src="/remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17717/248344_imani-gandy.jpg?preset=fixed_391_415" alt="" class="responsive__img" />
+            </noscript>
+            <div class="search-item__cell--bottom">
+                <ul class="tags--cell">
+                    <li class="tags__item--solo"><span class="tags__icon--blogarticle">Blog</span></li>
+                </ul>
+                <h1 class="search-item__title--tape">
+                    <span class="heading--tape--small">Imani Gandy</span>
+                </h1>
+            </div>
+        </a>
+</article>
+
+<article class="ca-list__item ">
+
+        <a class="search-item__content--bottom" href="/en/latest/research/2018/03/diane-abbott-online-violence-against-women">
+            <div class="responsive--bg lazyload search-item__image-block" data-bgset="/remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17721/248349_diane-abbott.jpg?preset=fixed_391_228, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17721/248349_diane-abbott.jpg?preset=fixed_391_228_hi 2x [(min-width: 640px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17721/248349_diane-abbott.jpg?preset=fixed_615_208, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17721/248349_diane-abbott.jpg?preset=fixed_615_208_hi 2x [(min-width: 346px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17721/248349_diane-abbott.jpg?preset=fixed_321_208, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17721/248349_diane-abbott.jpg?preset=fixed_321_208_hi 2x"></div>
+            <noscript>
+                <img src="/remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17721/248349_diane-abbott.jpg?preset=fixed_391_415" alt="" class="responsive__img" />
+            </noscript>
+            <div class="search-item__cell--bottom">
+                <ul class="tags--cell">
+                    <li class="tags__item--solo"><span class="tags__icon--blogarticle">Blog</span></li>
+                </ul>
+                <h1 class="search-item__title--tape">
+                    <span class="heading--tape--small">Diane Abbott</span>
+                </h1>
+            </div>
+        </a>
+</article>
+
+<article class="ca-list__item ">
+
+        <a class="search-item__content--bottom" href="/en/latest/research/2018/03/laura-bates-online-violence-against-women">
+            <div class="responsive--bg lazyload search-item__image-block" data-bgset="/remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17720/248348_laura-bates.jpg?preset=fixed_391_228, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17720/248348_laura-bates.jpg?preset=fixed_391_228_hi 2x [(min-width: 640px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17720/248348_laura-bates.jpg?preset=fixed_615_208, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17720/248348_laura-bates.jpg?preset=fixed_615_208_hi 2x [(min-width: 346px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17720/248348_laura-bates.jpg?preset=fixed_321_208, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17720/248348_laura-bates.jpg?preset=fixed_321_208_hi 2x"></div>
+            <noscript>
+                <img src="/remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17720/248348_laura-bates.jpg?preset=fixed_391_415" alt="" class="responsive__img" />
+            </noscript>
+            <div class="search-item__cell--bottom">
+                <ul class="tags--cell">
+                    <li class="tags__item--solo"><span class="tags__icon--blogarticle">Blog</span></li>
+                </ul>
+                <h1 class="search-item__title--tape">
+                    <span class="heading--tape--small">Laura Bates</span>
+                </h1>
+            </div>
+        </a>
+</article>
+
+<article class="ca-list__item ">
+
+        <a class="search-item__content--bottom" href="/en/latest/research/2018/03/ruth-davidson-online-violence-against-women">
+            <div class="responsive--bg lazyload search-item__image-block" data-bgset="/remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17722/248350_ruth-davidson.jpg?preset=fixed_391_228, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17722/248350_ruth-davidson.jpg?preset=fixed_391_228_hi 2x [(min-width: 640px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17722/248350_ruth-davidson.jpg?preset=fixed_615_208, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17722/248350_ruth-davidson.jpg?preset=fixed_615_208_hi 2x [(min-width: 346px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17722/248350_ruth-davidson.jpg?preset=fixed_321_208, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17722/248350_ruth-davidson.jpg?preset=fixed_321_208_hi 2x"></div>
+            <noscript>
+                <img src="/remote.axd/aineupstrmediaprd.blob.core.windows.net/media/17722/248350_ruth-davidson.jpg?preset=fixed_391_415" alt="" class="responsive__img" />
+            </noscript>
+            <div class="search-item__cell--bottom">
+                <ul class="tags--cell">
+                    <li class="tags__item--solo"><span class="tags__icon--blogarticle">Blog</span></li>
+                </ul>
+                <h1 class="search-item__title--tape">
+                    <span class="heading--tape--small">Ruth Davidson</span>
+                </h1>
+            </div>
+        </a>
+</article>
+
+				</div>
+
+			</div>
+
+		</div>
+
+	</div>
+
+<div class="related-content container--full-bleed print-hidden">
+
+		<h1 class="related-content__title">
+			Related content
+		</h1>
+
+	<div class="related-content__grids">
+
+		<section class="grid">
+
+
+
+				<article class="search-item--1/2">
+
+						<a class="search-item__content--bottom" href="/en/latest/campaigns/2019/10/eritrea-repression-past-and-present/">
+
+								<div class="responsive--bg lazyload search-item__image-block" data-bgset="/remote.axd/aineupstrmediaprd.blob.core.windows.net/media/21733/header.jpg?center=0.5%2c0.5&amp;preset=fixed_607_360, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/21733/header.jpg?center=0.5%2c0.5&amp;preset=fixed_607_360_hi 2x [(min-width: 840px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/21733/header.jpg?center=0.5%2c0.5&amp;preset=fixed_391_360, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/21733/header.jpg?center=0.5%2c0.5&amp;preset=fixed_391_360_hi 2x [(min-width: 640px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/21733/header.jpg?center=0.5%2c0.5&amp;preset=fixed_639_240, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/21733/header.jpg?center=0.5%2c0.5&amp;preset=fixed_639_240_hi 2x [(min-width: 346px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/21733/header.jpg?center=0.5%2c0.5&amp;preset=fixed_345_240, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/21733/header.jpg?center=0.5%2c0.5&amp;preset=fixed_345_240_hi 2x"></div>
+								<noscript>
+									<img src="/remote.axd/aineupstrmediaprd.blob.core.windows.net/media/21733/header.jpg?center=0.5%2c0.5&amp;amp;preset=fixed_607_360" alt="" class="responsive__img">
+								</noscript>
+
+							<div class="search-item__cell--bottom">
+
+								<ul class="tags--cell">
+
+									<li class="tags__item--solo">
+										<span class="tags__icon--story">
+											Campaigns
+										</span>
+									</li>
+
+								</ul>
+
+								<h1 class="search-item__title--tape">
+									<span class="heading--tape--small">
+										Eritrea: Repression past and present  
+									</span>
+								</h1>
+
+							</div>
+
+						</a>
+
+				</article>
+				<article class="search-item--1/2">
+
+						<a class="search-item__content--bottom" href="/en/latest/news/2019/11/russia-emir-usein-kuku-and-five-co-defendants-from-occupied-crimea-slapped-with-long-sentences/">
+
+								<div class="responsive--bg lazyload search-item__image-block" data-bgset="/remote.axd/aineupstrmediaprd.blob.core.windows.net/media/21981/244833.jpg?center=0.34387351778656128%2c0.31166666666666665&amp;preset=fixed_607_360, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/21981/244833.jpg?center=0.34387351778656128%2c0.31166666666666665&amp;preset=fixed_607_360_hi 2x [(min-width: 840px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/21981/244833.jpg?center=0.34387351778656128%2c0.31166666666666665&amp;preset=fixed_391_360, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/21981/244833.jpg?center=0.34387351778656128%2c0.31166666666666665&amp;preset=fixed_391_360_hi 2x [(min-width: 640px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/21981/244833.jpg?center=0.34387351778656128%2c0.31166666666666665&amp;preset=fixed_639_240, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/21981/244833.jpg?center=0.34387351778656128%2c0.31166666666666665&amp;preset=fixed_639_240_hi 2x [(min-width: 346px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/21981/244833.jpg?center=0.34387351778656128%2c0.31166666666666665&amp;preset=fixed_345_240, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/21981/244833.jpg?center=0.34387351778656128%2c0.31166666666666665&amp;preset=fixed_345_240_hi 2x"></div>
+								<noscript>
+									<img src="/remote.axd/aineupstrmediaprd.blob.core.windows.net/media/21981/244833.jpg?center=0.34387351778656128%2c0.31166666666666665&amp;amp;preset=fixed_607_360" alt="" class="responsive__img">
+								</noscript>
+
+							<div class="search-item__cell--bottom">
+
+								<ul class="tags--cell">
+
+									<li class="tags__item--solo">
+										<span class="tags__icon--news">
+											News
+										</span>
+									</li>
+
+								</ul>
+
+								<h1 class="search-item__title--tape">
+									<span class="heading--tape--small">
+										Russia: Emir-Usein Kuku and five co-defendants from occupied Crimea slapped with long sentences
+									</span>
+								</h1>
+
+							</div>
+
+						</a>
+
+				</article>
+				<article class="search-item--1/3">
+
+						<a class="search-item__content--bottom" href="/en/latest/news/2019/11/turkey-farcical-criminal-charges-against-students-who-celebrated-pride-must-be-dropped/">
+
+								<div class="responsive--bg lazyload search-item__image-block" data-bgset="/remote.axd/aineupstrmediaprd.blob.core.windows.net/media/20931/turkeylgbti.jpg?center=0.5%2c0.5&amp;preset=fixed_401_360, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/20931/turkeylgbti.jpg?center=0.5%2c0.5&amp;preset=fixed_401_360_hi 2x [(min-width: 840px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/20931/turkeylgbti.jpg?center=0.5%2c0.5&amp;preset=fixed_791_240, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/20931/turkeylgbti.jpg?center=0.5%2c0.5&amp;preset=fixed_791_240_hi 2x [(min-width: 640px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/20931/turkeylgbti.jpg?center=0.5%2c0.5&amp;preset=fixed_639_240, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/20931/turkeylgbti.jpg?center=0.5%2c0.5&amp;preset=fixed_639_240_hi 2x [(min-width: 346px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/20931/turkeylgbti.jpg?center=0.5%2c0.5&amp;preset=fixed_345_240, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/20931/turkeylgbti.jpg?center=0.5%2c0.5&amp;preset=fixed_345_240_hi 2x"></div>
+								<noscript>
+									<img src="/remote.axd/aineupstrmediaprd.blob.core.windows.net/media/20931/turkeylgbti.jpg?center=0.5%2c0.5&amp;amp;preset=fixed_401_360" alt="" class="responsive__img">
+								</noscript>
+
+							<div class="search-item__cell--bottom">
+
+								<ul class="tags--cell">
+
+									<li class="tags__item--solo">
+										<span class="tags__icon--news">
+											News
+										</span>
+									</li>
+
+								</ul>
+
+								<h1 class="search-item__title--tape">
+									<span class="heading--tape--small">
+										Turkey: Farcical criminal charges against students who celebrated Pride must be dropped
+									</span>
+								</h1>
+
+							</div>
+
+						</a>
+
+				</article>
+				<article class="search-item--1/3">
+
+						<a class="search-item__content--bottom" href="/en/latest/news/2019/11/iraq-rein-in-security-forces-to-prevent-a-bloodbath/">
+
+								<div class="responsive--bg lazyload search-item__image-block" data-bgset="/remote.axd/aineupstrmediaprd.blob.core.windows.net/media/21978/267162.jpg?center=0.5%2c0.5&amp;preset=fixed_401_360, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/21978/267162.jpg?center=0.5%2c0.5&amp;preset=fixed_401_360_hi 2x [(min-width: 840px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/21978/267162.jpg?center=0.5%2c0.5&amp;preset=fixed_791_240, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/21978/267162.jpg?center=0.5%2c0.5&amp;preset=fixed_791_240_hi 2x [(min-width: 640px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/21978/267162.jpg?center=0.5%2c0.5&amp;preset=fixed_639_240, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/21978/267162.jpg?center=0.5%2c0.5&amp;preset=fixed_639_240_hi 2x [(min-width: 346px)] | /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/21978/267162.jpg?center=0.5%2c0.5&amp;preset=fixed_345_240, /remote.axd/aineupstrmediaprd.blob.core.windows.net/media/21978/267162.jpg?center=0.5%2c0.5&amp;preset=fixed_345_240_hi 2x"></div>
+								<noscript>
+									<img src="/remote.axd/aineupstrmediaprd.blob.core.windows.net/media/21978/267162.jpg?center=0.5%2c0.5&amp;amp;preset=fixed_401_360" alt="" class="responsive__img">
+								</noscript>
+
+							<div class="search-item__cell--bottom">
+
+								<ul class="tags--cell">
+
+									<li class="tags__item--solo">
+										<span class="tags__icon--news">
+											News
+										</span>
+									</li>
+
+								</ul>
+
+								<h1 class="search-item__title--tape">
+									<span class="heading--tape--small">
+										Iraq: Rein in security forces to prevent a bloodbath
+									</span>
+								</h1>
+
+							</div>
+
+						</a>
+
+				</article>
+				<article class="search-item--1/3">
+
+						<a class="search-item__content search-item__content--padded" href="/en/documents/afr16/1349/2019/en/">
+
+							<div class="search-item__cell">
+
+								<ul class="tags--cell">
+
+									<li class="tags__item--solo">
+										<span class="tags__icon--report">
+											Campaigns
+										</span>
+									</li>
+
+								</ul>
+
+								<h1 class="search-item__title--huge">
+									Burundi: Journalists detained for doing their job: Iwacu Five
+								</h1>
+
+							</div>
+
+						</a>
+
+				</article>
+
+		</section>
+
+			<div class="grid">
+
+				<div class="col col--1/3--lg"></div>
+
+				<div class="col col--1/3--lg">
+
+					<div class="related-content__more">
+						<a href="/en/search/?issue=1573&amp;issue=1600&amp;issue=1618" class="btn-secondary--md--fullwidth">
+							View All
+						</a>
+					</div>
+
+				</div>
+
+			</div>
+
+	</div>
+
+</div>
+			</div>
+
+		</div>
+	</div>
+
+
+	</div>
+
+<footer class="footer print-hidden">
+
+	<div class="footer__container">
+
+		<div class="grid">
+
+			<div class="footer__col" data-footer-group>
+
+				<ul class="footer-list">
+
+					<li class="footer-list__item">
+
+						<a href="#" class="footer-list__link footer-list__link--title" data-footer-group-title>
+							ABOUT US
+						</a>
+
+						<ul class="footer-list--sub">
+
+
+
+
+
+									<li class="footer-list__item print-hidden">
+										<a href="/en/about-us/contact/" target="" class="footer-list__link footer-list__link--item">
+											Contact Us
+										</a>
+									</li>
+									<li class="footer-list__item print-hidden">
+										<a href="/en/about-us/how-were-run/" target="" class="footer-list__link footer-list__link--item">
+											How We&#39;re Run
+										</a>
+									</li>
+									<li class="footer-list__item print-hidden">
+										<a href="/en/about-us/how-were-run/modern-slavery-act-transparency-statement/" target="" class="footer-list__link footer-list__link--item">
+											Modern Slavery Act Statement
+										</a>
+									</li>
+									<li class="footer-list__item print-hidden">
+										<a href="/en/about-us/how-were-run/finances-and-pay/" target="" class="footer-list__link footer-list__link--item">
+											Finances and Pay
+										</a>
+									</li>
+									<li class="footer-list__item print-hidden">
+										<a href="/en/about-us/how-were-run/structure-and-people/" target="" class="footer-list__link footer-list__link--item">
+											Structure and People
+										</a>
+									</li>
+
+						</ul>
+
+					</li>
+
+				</ul>
+
+			</div>
+
+			<div class="footer__col" data-footer-group>
+
+				<ul class="footer-list">
+
+					<li class="footer-list__item">
+
+						<a href="#" class="footer-list__link footer-list__link--title" data-footer-group-title>
+							RESOURCES
+						</a>
+
+							<ul class="footer-list--sub">
+
+									<li class="footer-list__item">
+										<a href="/en/media-centre/" target="" class="footer-list__link footer-list__link--item">
+											Media Centre
+										</a>
+									</li>
+									<li class="footer-list__item">
+										<a href="/en/wire-magazine/" target="" class="footer-list__link footer-list__link--item">
+											Wire Magazine
+										</a>
+									</li>
+									<li class="footer-list__item">
+										<a href="/en/latest/research/2018/02/annual-report-201718/" target="" class="footer-list__link footer-list__link--item">
+											Annual Report 2017/2018
+										</a>
+									</li>
+									<li class="footer-list__item">
+										<a href="/en/human-rights-education/" target="" class="footer-list__link footer-list__link--item">
+											Human Rights Education
+										</a>
+									</li>
+									<li class="footer-list__item">
+										<a href="https://www.edx.org/school/amnesty-internationalx" target="_blank" class="footer-list__link footer-list__link--item">
+											Human Rights Courses
+										</a>
+									</li>
+
+							</ul>
+
+					</li>
+
+				</ul>
+
+			</div>
+
+			<div class="footer__col" data-footer-group>
+
+				<ul class="footer-list">
+
+					<li class="footer-list__item">
+
+						<a href="#" class="footer-list__link footer-list__link--title" data-footer-group-title>
+							GET INVOLVED
+						</a>
+
+							<ul class="footer-list--sub">
+
+									<li class="footer-list__item">
+										<a href="/en/get-involved/join/" target="" class="footer-list__link footer-list__link--item">
+											Join
+										</a>
+									</li>
+									<li class="footer-list__item">
+										<a href="/en/get-involved/take-action/" target="" class="footer-list__link footer-list__link--item">
+											Take Action
+										</a>
+									</li>
+									<li class="footer-list__item">
+										<a href="/en/get-involved/volunteer/" target="" class="footer-list__link footer-list__link--item">
+											Volunteer
+										</a>
+									</li>
+
+							</ul>
+
+					</li>
+
+				</ul>
+
+			</div>
+
+			<div class="footer__col" data-footer-group>
+
+				<ul class="footer-list">
+
+					<li class="footer-list__item">
+
+						<a href="#" class="footer-list__link footer-list__link--title" data-footer-group-title>
+							LATEST
+						</a>
+
+							<ul class="footer-list--sub">
+
+									<li class="footer-list__item">
+										<a href="/en/latest/news/" target="" class="footer-list__link footer-list__link--item">
+											News
+										</a>
+									</li>
+									<li class="footer-list__item">
+										<a href="/en/latest/campaigns/" target="" class="footer-list__link footer-list__link--item">
+											Campaigns
+										</a>
+									</li>
+									<li class="footer-list__item">
+										<a href="/en/latest/research/" target="" class="footer-list__link footer-list__link--item">
+											Research
+										</a>
+									</li>
+
+							</ul>
+
+					</li>
+
+				</ul>
+
+			</div>
+
+			<div class="footer__col--1/3 print-hidden" data-footer-group>
+
+				<ul class="footer-list">
+
+					<li class="footer-list__item">
+
+						<a href="#" class="footer-list__link footer-list__link--title" data-footer-group-title>
+							WORK WITH US
+						</a>
+
+						<ul class="footer-list--sub">
+
+							<li class="footer-list__item">
+
+								<p class="footer-list__copy">
+									If you are talented and passionate about human rights then Amnesty International wants to hear from you.
+								</p>
+
+									<a href="#" class="footer-list__btn" target="">
+										JOBS &amp; INTERNSHIPS
+									</a>
+
+							</li>
+
+						</ul>
+
+					</li>
+
+				</ul>
+
+			</div>
+
+		</div>
+
+		<div class="grid footer__bottom">
+
+			<div class="footer__col--right">
+
+				<ul class="social-list print-hidden">
+
+						<li class="social-list__item">
+							<a href="https://www.facebook.com/amnestyglobal" class="social-list__link--facebook">
+								Like us on Facebook
+							</a>
+						</li>
+
+						<li class="social-list__item">
+							<a href="https://twitter.com/amnesty" class="social-list__link--twitter">
+								Follow us on Twitter
+							</a>
+						</li>
+
+						<li class="social-list__item">
+							<a href="https://www.youtube.com/user/AmnestyInternational" class="social-list__link--youtube">
+								Subscribe to us on YouTube
+							</a>
+						</li>
+
+
+						<li class="social-list__item">
+							<a href="https://instagram.com/amnesty" class="social-list__link--instagram">
+								Follow us on Instagram
+							</a>
+						</li>
+
+				</ul>
+
+			</div>
+
+			<div class="footer__col--left">
+
+				<p class="footer-legal">
+
+
+
+						<a href="/en/about-us/privacy-policy/" class="footer-legal__link" target="">
+							Privacy Policy
+						</a>
+							&nbsp;&nbsp;|&nbsp;&nbsp;
+						<a href="/en/about-us/cookie-statement/" class="footer-legal__link" target="">
+							Cookie Statement
+						</a>
+							&nbsp;&nbsp;|&nbsp;&nbsp;
+						<a href="/en/about-us/permissions/" class="footer-legal__link" target="">
+							Permissions
+						</a>
+							&nbsp;&nbsp;|&nbsp;&nbsp;
+						<a href="/en/about-us/refunds-of-donations/" class="footer-legal__link" target="">
+							Refunds of donations
+						</a>
+
+				</p>
+
+				<p class="footer-copyright">&copy; 2019 Amnesty International</p>
+
+			</div>
+
+		</div>
+
+	</div>
+
+</footer>
+
+
+	<div class="overlay print-hidden" data-overlay>
+		<div class="overlay__content" data-overlay-content></div>
+	</div>
+
+	<div class="overlay" data-page-overlay></div>
+	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDsPXB88DaBsdnKwqgsiMb8vsxHYbMKQK0">
+	</script>
+
+	<script src="/cdn/scripts/main.js?v=231f2c0233b36d3cdd4cdac59ae425d9" crossorigin="anonymous"></script>
+
+	
+	
+
+
+<script type="text/template" data-overlay-template="join">
+
+	<div class="overlay__modal donate-overlay">
+
+		<div class="overlay__modal-inner" data-overlay-content-inner>
+
+			<h1 class="h2 heading--in-padded">
+				JOIN NOW
+			</h1>
+
+			<p class="h5">
+				Please confirm your country and we will take you to the right join page
+			</p>
+
+			
+
+				<div class="custom-select">
+
+					<select data-overlay-country>
+
+						<option value="">
+							Select a country
+						</option>
+
+							<option value="internal">
+								Afghanistan
+							</option>
+							<option value="internal">
+								Albania
+							</option>
+							<option value="http://www.amnestyalgerie.org/Inscription/formulaire.html">
+								Algeria
+							</option>
+							<option value="internal">
+								American Samoa
+							</option>
+							<option value="internal">
+								Andorra
+							</option>
+							<option value="internal">
+								Angola
+							</option>
+							<option value="internal">
+								Anguilla
+							</option>
+							<option value="internal">
+								Antigua and Barbuda
+							</option>
+							<option value="internal">
+								Antilles
+							</option>
+							<option value="http://amnistia.org.ar/participa/">
+								Argentina
+							</option>
+							<option value="internal">
+								Armenia
+							</option>
+							<option value="https://support.amnesty.org.au/member.php?p=member">
+								Australia
+							</option>
+							<option value="https://www.amnesty.at/de/">
+								Austria
+							</option>
+							<option value="internal">
+								Azerbaijan
+							</option>
+							<option value="internal">
+								Bahamas
+							</option>
+							<option value="internal">
+								Bahrain
+							</option>
+							<option value="internal">
+								Bangladesh
+							</option>
+							<option value="internal">
+								Barbados
+							</option>
+							<option value="internal">
+								Belarus
+							</option>
+							<option value="http://www.amnesty.be">
+								Belgium
+							</option>
+							<option value="internal">
+								Belize
+							</option>
+							<option value="http://amnestybenin.org/">
+								Benin
+							</option>
+							<option value="http://www.amnestybermuda.org">
+								Bermuda
+							</option>
+							<option value="internal">
+								Bhutan
+							</option>
+							<option value="internal">
+								Bolivia
+							</option>
+							<option value="internal">
+								Bosnia and Herzegovina
+							</option>
+							<option value="internal">
+								Botswana
+							</option>
+							<option value="https://anistia.org.br/junte-se-a-nos/">
+								Brazil
+							</option>
+							<option value="internal">
+								Brunei Darussalam
+							</option>
+							<option value="internal">
+								Bulgaria
+							</option>
+							<option value="internal">
+								Burkina Faso
+							</option>
+							<option value="internal">
+								Burundi
+							</option>
+							<option value="internal">
+								Cambodia
+							</option>
+							<option value="internal">
+								Cameroon
+							</option>
+							<option value="https://www.amnesty.ca/get-involved">
+								Canada
+							</option>
+							<option value="internal">
+								Cape Verde
+							</option>
+							<option value="internal">
+								Cayman Islands
+							</option>
+							<option value="internal">
+								Central African Republic
+							</option>
+							<option value="internal">
+								Chad
+							</option>
+							<option value="http://amnistia.cl/actua/form-ciberactivista/">
+								Chile
+							</option>
+							<option value="internal">
+								China
+							</option>
+							<option value="internal">
+								Colombia
+							</option>
+							<option value="internal">
+								Comoros
+							</option>
+							<option value="internal">
+								Congo
+							</option>
+							<option value="internal">
+								Cook Islands
+							</option>
+							<option value="internal">
+								Costa Rica
+							</option>
+							<option value="internal">
+								Cote d&#39;Ivoire
+							</option>
+							<option value="internal">
+								Croatia
+							</option>
+							<option value="internal">
+								Cuba
+							</option>
+							<option value="internal">
+								Cyprus
+							</option>
+							<option value="http://www.amnesty.cz/">
+								Czech Republic
+							</option>
+							<option value="internal">
+								Democratic Republic of the Congo
+							</option>
+							<option value="https://amnesty.dk/stoet/bliv-medlem-af-amnesty">
+								Denmark
+							</option>
+							<option value="internal">
+								Djibouti
+							</option>
+							<option value="internal">
+								Dominica
+							</option>
+							<option value="internal">
+								Dominican Republic
+							</option>
+							<option value="internal">
+								Ecuador
+							</option>
+							<option value="internal">
+								Egypt
+							</option>
+							<option value="internal">
+								El Salvador
+							</option>
+							<option value="internal">
+								Equatorial Guinea
+							</option>
+							<option value="internal">
+								Eritrea
+							</option>
+							<option value="internal">
+								Estonia
+							</option>
+							<option value="internal">
+								Eswatini
+							</option>
+							<option value="internal">
+								Ethiopia
+							</option>
+							<option value="internal">
+								Falkland Islands
+							</option>
+							<option value="http://www.amnesty.fo/">
+								Faroe Islands
+							</option>
+							<option value="internal">
+								Fiji
+							</option>
+							<option value="https://www.amnesty.fi/osallistu/">
+								Finland
+							</option>
+							<option value="https://www.amnesty.fr/devenir-membre">
+								France
+							</option>
+							<option value="internal">
+								French Guiana
+							</option>
+							<option value="internal">
+								French Polynesia
+							</option>
+							<option value="internal">
+								Gabon
+							</option>
+							<option value="internal">
+								Gambia
+							</option>
+							<option value="internal">
+								Georgia
+							</option>
+							<option value="https://www.amnesty.de/form/membership">
+								Germany
+							</option>
+							<option value="http://amnestyghana.org/">
+								Ghana
+							</option>
+							<option value="internal">
+								Gibraltar
+							</option>
+							<option value="https://www.amnesty.gr/member">
+								Greece
+							</option>
+							<option value="internal">
+								Greenland
+							</option>
+							<option value="internal">
+								Grenada
+							</option>
+							<option value="internal">
+								Guadeloupe
+							</option>
+							<option value="internal">
+								Guam
+							</option>
+							<option value="internal">
+								Guatemala
+							</option>
+							<option value="internal">
+								Guinea
+							</option>
+							<option value="internal">
+								Guinea-Bissau
+							</option>
+							<option value="internal">
+								Guyana
+							</option>
+							<option value="internal">
+								Haiti
+							</option>
+							<option value="internal">
+								Honduras
+							</option>
+							<option value="https://www.amnesty.org.hk/get-involved/become_our_member/">
+								Hong Kong
+							</option>
+							<option value="http://www.amnesty.hu/legy-tagunk">
+								Hungary
+							</option>
+							<option value="https://www.amnesty.is/taktu-thatt/gerast-felagi/">
+								Iceland
+							</option>
+							<option value="https://www.amnesty.org.in/action/">
+								India
+							</option>
+							<option value="https://www.amnestyindonesia.org">
+								Indonesia
+							</option>
+							<option value="internal">
+								Iran
+							</option>
+							<option value="internal">
+								Iraq
+							</option>
+							<option value="https://www.amnesty.ie/get-involved/become-a-member/">
+								Ireland
+							</option>
+							<option value="https://s.amnesty.org.il/index.php?c_id=1&amp;ref=5">
+								Israel and Occupied Palestinian Territories
+							</option>
+							<option value="https://www.amnesty.it/entra-in-azione/">
+								Italy
+							</option>
+							<option value="internal">
+								Jamaica
+							</option>
+							<option value="http://www.amnesty.or.jp/get-involved/membership/">
+								Japan
+							</option>
+							<option value="internal">
+								Jordan
+							</option>
+							<option value="internal">
+								Kazakhstan
+							</option>
+							<option value="http://www.amnestykenya.org/members/user/register">
+								Kenya
+							</option>
+							<option value="internal">
+								Kiribati
+							</option>
+							<option value="internal">
+								Kuwait
+							</option>
+							<option value="internal">
+								Kyrgyzstan
+							</option>
+							<option value="internal">
+								Laos
+							</option>
+							<option value="internal">
+								Latvia
+							</option>
+							<option value="internal">
+								Lebanon
+							</option>
+							<option value="internal">
+								Lesotho
+							</option>
+							<option value="internal">
+								Liberia
+							</option>
+							<option value="internal">
+								Libya
+							</option>
+							<option value="internal">
+								Liechtenstein
+							</option>
+							<option value="internal">
+								Lithuania
+							</option>
+							<option value="https://www.amnesty.lu/devenez-membre/">
+								Luxembourg
+							</option>
+							<option value="internal">
+								Macao
+							</option>
+							<option value="internal">
+								Madagascar
+							</option>
+							<option value="internal">
+								Malawi
+							</option>
+							<option value="http://www.amnesty.my/join-us/">
+								Malaysia
+							</option>
+							<option value="internal">
+								Maldives
+							</option>
+							<option value="http://www.amnestymali.org/devenir-membre">
+								Mali
+							</option>
+							<option value="internal">
+								Malta
+							</option>
+							<option value="internal">
+								Marshall Islands
+							</option>
+							<option value="internal">
+								Martinique
+							</option>
+							<option value="internal">
+								Mauritania
+							</option>
+							<option value="internal">
+								Mauritius
+							</option>
+							<option value="http://www.amnistia.org.mx/">
+								Mexico
+							</option>
+							<option value="internal">
+								Micronesia
+							</option>
+							<option value="http://www.amnesty.md/">
+								Moldova
+							</option>
+							<option value="internal">
+								Monaco
+							</option>
+							<option value="http://www.amnesty.mn/">
+								Mongolia
+							</option>
+							<option value="internal">
+								Montenegro
+							</option>
+							<option value="internal">
+								Montserrat
+							</option>
+							<option value="http://amnesty.ma/public/index.php/cms/article/4">
+								Morocco and Western Sahara
+							</option>
+							<option value="internal">
+								Mozambique
+							</option>
+							<option value="internal">
+								Myanmar
+							</option>
+							<option value="internal">
+								Namibia
+							</option>
+							<option value="internal">
+								Nauru
+							</option>
+							<option value="http://www.amnestynepal.org/membership/">
+								Nepal
+							</option>
+							<option value="https://www.amnesty.nl/doemee">
+								Netherlands
+							</option>
+							<option value="internal">
+								New Caledonia
+							</option>
+							<option value="https://www.amnesty.org.nz/join">
+								New Zealand
+							</option>
+							<option value="internal">
+								Nicaragua
+							</option>
+							<option value="internal">
+								Niger
+							</option>
+							<option value="internal">
+								Nigeria
+							</option>
+							<option value="internal">
+								Niue
+							</option>
+							<option value="internal">
+								North Korea
+							</option>
+							<option value="internal">
+								North Macedonia 
+							</option>
+							<option value="https://amnesty.no/for-aktivister/bli-medlem">
+								Norway
+							</option>
+							<option value="internal">
+								Oman
+							</option>
+							<option value="internal">
+								Pakistan
+							</option>
+							<option value="internal">
+								Palau
+							</option>
+							<option value="internal">
+								Palestine (State of)
+							</option>
+							<option value="internal">
+								Panama
+							</option>
+							<option value="internal">
+								Papua New Guinea
+							</option>
+							<option value="http://amnesty.org.py/actua/activismo/">
+								Paraguay
+							</option>
+							<option value="http://www.amnistia.org.pe/actua/">
+								Peru
+							</option>
+							<option value="http://www.amnesty.org.ph/join-us/">
+								Philippines
+							</option>
+							<option value="internal">
+								Pitcairn Islands
+							</option>
+							<option value="https://amnesty.org.pl/">
+								Poland
+							</option>
+							<option value="http://amnistia.pt/index.php/2-uncategorised/2529-torne-se-membro">
+								Portugal
+							</option>
+							<option value="http://www.amnistiapr.org/">
+								Puerto Rico
+							</option>
+							<option value="internal">
+								Qatar
+							</option>
+							<option value="internal">
+								Reunion
+							</option>
+							<option value="internal">
+								Romania
+							</option>
+							<option value="https://amnesty.org.ru/volunteer/">
+								Russian Federation
+							</option>
+							<option value="internal">
+								Rwanda
+							</option>
+							<option value="internal">
+								Saint Kitts and Nevis
+							</option>
+							<option value="internal">
+								Saint Lucia
+							</option>
+							<option value="internal">
+								Saint Vincent and the Grenadines
+							</option>
+							<option value="internal">
+								Samoa
+							</option>
+							<option value="internal">
+								San Marino
+							</option>
+							<option value="internal">
+								Sao Tome and Principe
+							</option>
+							<option value="internal">
+								Saudi Arabia
+							</option>
+							<option value="http://www.amnesty.sn/">
+								Senegal
+							</option>
+							<option value="internal">
+								Serbia
+							</option>
+							<option value="internal">
+								Seychelles
+							</option>
+							<option value="internal">
+								Sierra Leone
+							</option>
+							<option value="internal">
+								Singapore
+							</option>
+							<option value="http://www.amnesty.sk/pridajte-sa/">
+								Slovakia
+							</option>
+							<option value="http://www.amnesty.si/vclanite-se.html">
+								Slovenia
+							</option>
+							<option value="internal">
+								Solomon Islands
+							</option>
+							<option value="internal">
+								Somalia
+							</option>
+							<option value="http://amnesty.org.za/join-us/">
+								South Africa
+							</option>
+							<option value="https://amnesty.or.kr/involved/">
+								South Korea
+							</option>
+							<option value="internal">
+								South Sudan
+							</option>
+							<option value="https://crm.es.amnesty.org/unete-a-amnistia/?origen=web">
+								Spain
+							</option>
+							<option value="internal">
+								Sri Lanka
+							</option>
+							<option value="internal">
+								Sudan
+							</option>
+							<option value="internal">
+								Suriname
+							</option>
+							<option value="https://www.amnesty.se/engagera-dig/bli-medlem/">
+								Sweden
+							</option>
+							<option value="https://www.amnesty.ch/de/spenden/mitglied-werden">
+								Switzerland
+							</option>
+							<option value="internal">
+								Syria
+							</option>
+							<option value="https://www.amnesty.tw/support/member">
+								Taiwan
+							</option>
+							<option value="internal">
+								Tajikistan
+							</option>
+							<option value="internal">
+								Tanzania
+							</option>
+							<option value="https://www.amnesty.or.th/get-involved/become-member">
+								Thailand
+							</option>
+							<option value="internal">
+								Timor-Leste
+							</option>
+							<option value="http://www.amnesty.tg/">
+								Togo
+							</option>
+							<option value="internal">
+								Tonga
+							</option>
+							<option value="internal">
+								Trinidad and Tobago
+							</option>
+							<option value="http://www.amnesty-tunisie.org/blogs/adherer/">
+								Tunisia
+							</option>
+							<option value="http://amnesty.org.tr/">
+								Turkey
+							</option>
+							<option value="internal">
+								Turkmenistan
+							</option>
+							<option value="internal">
+								Turks and Caicos Islands
+							</option>
+							<option value="internal">
+								Tuvalu
+							</option>
+							<option value="internal">
+								Uganda
+							</option>
+							<option value="http://amnesty.org.ua/join/">
+								Ukraine
+							</option>
+							<option value="internal">
+								United Arab Emirates
+							</option>
+							<option value="https://www.amnesty.org.uk/giving/join/adult">
+								United Kingdom
+							</option>
+							<option value="http://www.amnestyusa.org/">
+								United States of America
+							</option>
+							<option value="https://amnistia.org.uy/unite/">
+								Uruguay
+							</option>
+							<option value="internal">
+								Uzbekistan
+							</option>
+							<option value="internal">
+								Vanuatu
+							</option>
+							<option value="internal">
+								Vatican
+							</option>
+							<option value="https://www.amnistia.org/">
+								Venezuela
+							</option>
+							<option value="internal">
+								Viet Nam
+							</option>
+							<option value="internal">
+								Virgin Islands (UK)
+							</option>
+							<option value="internal">
+								Virgin Islands (US)
+							</option>
+							<option value="internal">
+								Yemen
+							</option>
+							<option value="internal">
+								Zambia
+							</option>
+							<option value="http://amnesty.org.zw/index.php/be-involved/join-amnesty">
+								Zimbabwe
+							</option>
+
+					</select>
+
+				</div>
+
+			<a class="donate-overlay__button donate-overlay__button--submit" data-overlay-button="https://www.amnesty.org/en/get-involved/join-form/" href="https://www.amnesty.org/en/get-involved/join-form/">
+				JOIN NOW
+			</a>
+
+			<p class="donate-overlay__next-step" data-overlay-next-step-external>
+				<small>
+					You will complete your membership application on the local website.
+				</small>
+			</p>
+
+			<p class="donate-overlay__next-step" data-overlay-next-step-internal>
+				<small>
+					Your country does not currently have an Amnesty office, so your membership application will be made through our global website.
+				</small>
+			</p>
+
+			<a href="#" class="overlay__close" data-overlay-close>
+				CLOSE
+			</a>
+
+		</div>
+	</div>
+
+</script>
+
+
+	<script type="text/template" data-loading-template>
+		<img src="/cdn/images/layout/loading.gif" width="32" height="32" alt="" class="loading-icon" />
+	</script>
+
+
+
+<form action="/en/search/">
+
+
+<div class="search-box  " data-search-box>
+    <div class="container--full-bleed">
+        <section class="search-box-inner clearfix" data-tab-container>
+            <div class="search-box__tabs">
+                <div class="grid">
+                    <div class="col col--1/2">
+                        <button class="search-box-tab search-box-tab--quick-search tabs--active-button" type="button" data-tab-button="quick-search">Quick Search</button>
+                    </div>
+                    <div class="col col--no-padding col--1/2">
+                        <button class="search-box-tab search-box-tab--advanced-search " type="button" data-tab-button="advanced-search">Advanced Search</button>
+                    </div>
+                </div>
+            </div>
+
+            <div class="search-box__form-container col">
+                <div class="col col--1/4--lg not--sm"></div>
+
+                <div class="site-search site-search--quick tabs--active-target" aria-hidden="false" data-tab-target="quick-search" data-tab-target-active>
+                    <input class="site-search__input" data-nav-search-input placeholder="What are you looking for?" type="text" name="q" />
+                    <button class="site-search__submit" type="submit" data-nav-search-submit-btn>Search</button>
+                </div>
+
+                <div class="site-search site-search--advanced " aria-hidden="true" data-tab-target="advanced-search" >
+
+                    <div class="grid">
+                        <section class="col input-block">
+                            <label class="input-block__label" for="search-advanced--keyword">Keywords or Title</label>
+                            <input class="input-block__field" data-search-input-adv-input placeholder="e.g. &quot;Death Penalty&quot;" id="search-advanced--keyword" type="text" name="q" />
+                        </section>
+
+                        <section class="col input-block">
+                            <label class="input-block__label" for="search-advanced--ai-index">Amnesty Index Number</label>
+                            <input class="input-block__field" pattern="^[a-zA-Z]{3}\s[0-9]{2,4}\/[0-9]{2,4}\/[0-9]{4}$" placeholder="e.g. &quot;AMR 27/2755/2015&quot;" id="search-advanced--ai-index" type="text" name="ref" title="e.g. &quot;AMR 27/2755/2015&quot;" data-search-input-index-number />
+                        </section>
+
+                        <section class="col col--1/2--md input-block">
+                            <label class="input-block__label" for="search-advanced--year">Date (year)</label>
+                            <input class="input-block__field" placeholder="e.g. &quot;1961&quot;" id="search-advanced--year" type="text" name="year" data-search-input-year />
+                        </section>
+
+                        <section class="col col--1/2--md input-block">
+                            <label class="input-block__label" for="search-advanced--language">Language</label>
+<div class="custom-select">
+    <select name="lang" id="search-advanced--language" data-search-input-language>
+                <option value="en" selected>English</option>
+                <option value="es" >espa&#241;ol</option>
+                <option value="fr" >fran&#231;ais</option>
+                <option value="ar" >العربية</option>
+                <option value="ru" >русский</option>
+                <option value="pt" >portugu&#234;s</option>
+                <option value="id" >Indonesia</option>
+                <option value="zh" >中文</option>
+                <option value="fa" >فارسى</option>
+                <option value="pl" >polski</option>
+                <option value="tr" >T&#252;rk&#231;e</option>
+                <option value="it" >italiano</option>
+                <option value="ko" >한국어</option>
+                <option value="he" >עברית</option>
+                <option value="ro" >rom&#226;nă</option>
+                <option value="uk" >українська</option>
+                <option value="de" >Deutsch</option>
+                <option value="ja" >日本語</option>
+                <option value="sl" >slovenščina</option>
+                <option value="si" >සිංහල</option>
+                <option value="sq" >shqip</option>
+                <option value="ta" >தமிழ்</option>
+                <option value="th" >ไทย</option>
+                <option value="sr" >srpski</option>
+                <option value="cs" >čeština</option>
+                <option value="el" >Ελληνικά</option>
+                <option value="ne" >नेपाली</option>
+                <option value="ms" >Bahasa Melayu</option>
+                <option value="hu" >magyar</option>
+                <option value="bg" >български</option>
+                <option value="nl" >Nederlands</option>
+                <option value="uz" >o‘zbek</option>
+                <option value="km" >ភាសាខ្មែរ</option>
+                <option value="da" >dansk</option>
+                <option value="mn" >Монгол&#160;хэл</option>
+                <option value="sk" >slovenčina</option>
+                <option value="tg" >Тоҷикӣ</option>
+                <option value="az" >azərbaycan dili</option>
+                <option value="bn" >বাংলা</option>
+                <option value="bs" >bosanski</option>
+                <option value="ky" >Кыргыз</option>
+                <option value="vi" >Ti&#234;́ng Việt</option>
+                <option value="am" >አማርኛ</option>
+                <option value="kk" >қазақ тілі</option>
+                <option value="pa" >ਪੰਜਾਬੀ</option>
+                <option value="ps" >پښتو</option>
+                <option value="ur" >اُردو</option>
+                <option value="be" >Беларуская</option>
+                <option value="et" >eesti</option>
+                <option value="hy" >Հայերեն</option>
+                <option value="ka" >ქართული</option>
+                <option value="mk" >македонски</option>
+                <option value="ml" >മലയാളം</option>
+                <option value="sv" >svenska</option>
+                <option value="sw" >Kiswahili</option>
+                <option value="ug" >ئۇيغۇرچە</option>
+                <option value="zu" >isiZulu</option>
+
+    </select>
+</div>
+
+                        </section>
+
+                        <section class="col input-block">
+                            <input type="hidden" name="adv" value="1">
+                            <button class="input-block__submit--full-width" type="submit" data-search-submit-advanced>Search</button>
+                        </section>
+
+                    </div>
+                </div>
+
+            </div>
+        </section>
+    </div>
+</div>
+
+</form>
+	<script type="text/javascript">
+		setTimeout(function () {
+			var a = document.createElement("script");
+			var b = document.getElementsByTagName("script")[0];
+			a.src = document.location.protocol + "//script.crazyegg.com/pages/scripts/0032/7104.js?" + Math.floor(new Date().getTime() / 3600000);
+			a.async = true; a.type = "text/javascript"; b.parentNode.insertBefore(a, b)
+		}, 1);
+	</script>
+
+<div class="cookies print-hidden" data-cookies>
+	<div class="cookies__container">
+		<div class="cookies__wrapper">
+
+			<div class="cookies__message--wrapper">
+				<p class="cookies__message">
+					<strong>Your choice regarding cookies on this site</strong>
+					We have placed cookies on your device to help make this website better. You can use this tool to change your cookie settings. Otherwise, we&#39;ll assume you&#39;re OK to continue.
+				</p>
+			</div>
+			
+
+			<div class="cookies__form--wrapper">
+				
+				<form action="/cookiemessage/hide" class="cookies__form" method="POST" data-cookie-form>
+					<input type="submit" class="cookies__btn" value="ACCEPT"/>
+				</form>
+
+				<div class="cookies__form">
+					<button data-cookie-form-settings class="cookies__btn--alt">SETTINGS</button>
+				</div>
+			</div>
+
+		</div>
+	
+	</div>
+</div>
+
+
+</body>
+</html>
