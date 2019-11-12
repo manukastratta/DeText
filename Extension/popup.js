@@ -1,3 +1,10 @@
+// // To print the html to the screen
+// chrome.runtime.onMessage.addListener(function(request, sender) {
+//   if (request.action == "getSource") {
+//     message.innerText = request.source;
+//   }
+// });
+
 //Injects script into tab to extract HTML
 function onWindowLoad() {
   const message = document.querySelector('#message');
