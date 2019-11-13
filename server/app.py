@@ -18,7 +18,7 @@ def output():
             print(text)
             # Return sends a JSON back to the extension – format {key: value, key_2: value, ... key_n: value}
             return {
-                "text": text
+                "trigger": True
             }
 
         # # For testing purposes, make request to server from browser to compare with request to server from extension

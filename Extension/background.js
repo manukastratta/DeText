@@ -6,12 +6,9 @@ chrome.runtime.onMessage.addListener(function(request, sender) {
 
       $.post("http://127.0.0.1:5000/", {html:request.source},
         function (response) {
-          alert(response.text)
-          // window.confirm("Warning: this website may contain content that could be disturbing for some users");
-          chrome.runtime.sendMessage({
-              action: "contentWarning",
-              source: "hello"
-          });
+          if (response.trigger === 1) {
+              window.confirm("Warning: this website may contain content that could be disturbing for some users. \n(TW: Sexual Content)");
+          }
       });
   }
 });
