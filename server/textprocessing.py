@@ -13,7 +13,7 @@ def tag_visible(element):
 
 
 # Processes HTML input into text-only output
-def text_from_html(body):
+def text_from_html(body):  # TODO:Split by Paragraphs
     soup = BeautifulSoup(body, 'html.parser')
     texts = soup.findAll(text=True)
     visible_texts = filter(tag_visible, texts)  # Filters out non-visible segments
