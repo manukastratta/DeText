@@ -1,0 +1,39 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Wood - Wikipedia</title>
+
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Wood rootpage-Wood skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+<div id="mw-indicator-pp-default" class="mw-indicator"><a href="/wiki/Wikipedia:Protection_policy#semi" title="This article is semi-protected."><img alt="Page semi-protected" src="//upload.wikimedia.org/wikipedia/en/thumb/1/1b/Semi-protection-shackle.svg/20px-Semi-protection-shackle.svg.png" decoding="async" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/1b/Semi-protection-shackle.svg/30px-Semi-protection-shackle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/1b/Semi-protection-shackle.svg/40px-Semi-protection-shackle.svg.png 2x" data-file-width="512" data-file-height="512" /></a></div>
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Wood</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">For small forests, see <a href="/wiki/Woodland" title="Woodland">Woodland</a>. For wood as a commodity, see <a href="/wiki/Timber" class="mw-redirect" title="Timber">timber</a>. For other uses, see <a href="/wiki/Wood_(disambiguation)" class="mw-disambig" title="Wood (disambiguation)">Wood (disambiguation)</a>.</div>
+
+<p><b>Wood</b> is a porous and fibrous structural tissue found in the <a href="/wiki/Plant_stem" title="Plant stem">stems</a> and roots of <a href="/wiki/Tree" title="Tree">trees</a> and other <a href="/wiki/Woody_plant" title="Woody plant">woody plants</a>. It is an <a href="/wiki/Organic_material" class="mw-redirect" title="Organic material">organic material</a> - a natural <a href="/wiki/Composite_material" title="Composite material">composite</a> of <a href="/wiki/Cellulose" title="Cellulose">cellulose</a> fibers that are strong in tension and embedded in a <a href="https://en.wiktionary.org/wiki/matrix" class="extiw" title="wikt:matrix">matrix</a> of <a href="/wiki/Lignin" title="Lignin">lignin</a> that resists compression. Wood is sometimes defined as only the secondary <a href="/wiki/Xylem" title="Xylem">xylem</a> in the stems of trees,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> or it is defined more broadly to include the same type of tissue elsewhere such as in the roots of trees or shrubs.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (April 2012)">citation needed</span></a></i>&#93;</sup> In a living tree it performs a support function, enabling woody plants to grow large or to stand up by themselves. It also conveys water and <a href="/wiki/Nutrient" title="Nutrient">nutrients</a> between the <a href="/wiki/Leaf" title="Leaf">leaves</a>, other growing tissues, and the roots. Wood may also refer to other plant materials with comparable properties, and to material engineered from wood, or wood chips or fiber.
+</p><p>Wood has been used for thousands of years for <a href="/wiki/Fuel" title="Fuel">fuel</a>, as a <a href="/wiki/Construction_material" class="mw-redirect" title="Construction material">construction material</a>, for making <a href="/wiki/Tool" title="Tool">tools</a> and <a href="/wiki/Weapon" title="Weapon">weapons</a>, <a href="/wiki/Furniture" title="Furniture">furniture</a> and <a href="/wiki/Paper" title="Paper">paper</a>. More recently it emerged as a feedstock for the production of purified cellulose and its derivatives, such as <a href="/wiki/Cellophane" title="Cellophane">cellophane</a> and <a href="/wiki/Cellulose_acetate#production" title="Cellulose acetate">cellulose acetate</a>.
+</p><p>As of 2005, the growing stock of <a href="/wiki/Forest" title="Forest">forests</a> worldwide was about 434 billion cubic meters, 47% of which was commercial.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> As an abundant, <a href="/wiki/Carbon-neutral" class="mw-redirect" title="Carbon-neutral">carbon-neutral</a> renewable resource, woody materials have been of intense interest as a source of renewable energy. In 1991 approximately 3.5 billion cubic meters of wood were harvested. Dominant uses were for furniture and building construction.<sup id="cite_ref-Ullmann_3-0" class="reference"><a href="#cite_note-Ullmann-3">&#91;3&#93;</a></sup>
+</p>
+
+
+</body>
+</html>

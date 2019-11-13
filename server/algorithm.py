@@ -99,12 +99,12 @@ def parse_website_content(html):
     return should_display_warning(p_content_data)
 
 
-p = "This is a random paragraph. Contains words sex rape assault and also cry cry cry scream scared"
-bee = "The life cycle of a bee, be it a solitary or social species, involves the laying of an egg, the development through several moults of a legless larva, a pupation stage during which the insect undergoes complete metamorphosis, followed by the emergence of a winged adult. Most solitary bees and bumble bees in temperate climates overwinter as adults or pupae and emerge in spring when increasing numbers of flowering plants come into bloom. The males usually emerge first and search for females with which to mate. The sex of a bee is determined by whether or not the egg is fertilised; after mating, a female stores the sperm, and determines which sex is required at the time each individual egg is laid, fertilised eggs producing female offspring and unfertilised eggs, males. Tropical bees may have several generations in a year and no diapause stage."
-negative = "<p>This is just a normal paragraph that should not be flagged. <\p>"
-positive = "<p>This is a paragraph that has some words like sex and rape and cry and scream and scared so flag me. <\p>"
-
-print(parse_website_content(positive))
+# p = "This is a random paragraph. Contains words sex rape assault and also cry cry cry scream scared"
+# bee = "The life cycle of a bee, be it a solitary or social species, involves the laying of an egg, the development through several moults of a legless larva, a pupation stage during which the insect undergoes complete metamorphosis, followed by the emergence of a winged adult. Most solitary bees and bumble bees in temperate climates overwinter as adults or pupae and emerge in spring when increasing numbers of flowering plants come into bloom. The males usually emerge first and search for females with which to mate. The sex of a bee is determined by whether or not the egg is fertilised; after mating, a female stores the sperm, and determines which sex is required at the time each individual egg is laid, fertilised eggs producing female offspring and unfertilised eggs, males. Tropical bees may have several generations in a year and no diapause stage."
+# negative = "<p>This is just a normal paragraph that should not be flagged. <\p>"
+# positive = "<p>This is a paragraph that has some words like sex and rape and cry and scream and scared so flag me. <\p>"
+#
+# print(parse_website_content(positive))
 
 
 
