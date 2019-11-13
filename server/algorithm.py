@@ -59,7 +59,7 @@ def analyze_sentiment(paragraph):
     - relevant paragraphs: >= 2 (size of data array)
     - negative sentiment analysis on >=1 paragraph
 """
-def should_display_warning(p_content_data):
+def should_display_warning(p_content_data, nTotalP):
     total_explicit = 0
     total_implicit = 0
     negative_sentiment = False
@@ -74,7 +74,7 @@ def should_display_warning(p_content_data):
     print("total_implicit: ", total_implicit)
     print("negative_sentiment: ", negative_sentiment)
     print("relevant_paragraphs: ", relevant_paragraphs)
-    if total_explicit >= 2 and total_implicit >=2 and relevant_paragraphs >= 1 and negative_sentiment:
+    if total_explicit >= 2 and total_implicit >=2 and relevant_paragraphs/nTotalP >= 0.2 and negative_sentiment:
         return True
     else:
         return False
@@ -96,7 +96,7 @@ def parse_website_content(html):
             print("p_data: ", p_data)
             p_content_data.append(p_data)
 
-    return should_display_warning(p_content_data)
+    return should_display_warning(p_content_data, len(clean_paragraphs))
 
 
 # p = "This is a random paragraph. Contains words sex rape assault and also cry cry cry scream scared"
