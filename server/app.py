@@ -1,7 +1,6 @@
 from flask import Flask, render_template, flash, request, redirect
 import textprocessing
 
-
 app = Flask(__name__)
 
 # Handles requests made to server

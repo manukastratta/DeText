@@ -1,6 +1,7 @@
 import getLists
 import textprocessing
 
+
 TRAINING_SET_SIZE = 12
 NO_WARNINGS = 1
 
@@ -11,20 +12,6 @@ def readFile(fileName):
     for x in f:
         data += x
     return data
-
-# def tag_visible(element):
-#     if element.parent.name in ['style', 'script', 'head', 'title', 'meta', '[document]']:
-#         return False
-#     if isinstance(element, Comment):
-#         return False
-#     return True
-#
-# # Processes HTML input into text-only output
-# def text_from_html(body):
-#     soup = BeautifulSoup(body, 'html.parser')
-#     texts = soup.findAll(text=True)
-#     visible_texts = filter(tag_visible, texts)  # Filters out non-visible segments
-#     return " ".join(text.strip() for text in visible_texts)
 
 
 def getRawTextFromTrainingSet():
@@ -83,8 +70,6 @@ def test_function():
     # Parse text files and extract clean html without tags
     raw_training_set, names = getRawTextFromTrainingSet()
     clean_training_set = getCleanText(raw_training_set)
-    # print(clean_training_set)
-    # return
 
     shouldDisplayContentWarning(clean_training_set[12])
 

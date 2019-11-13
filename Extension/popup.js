@@ -17,34 +17,6 @@ function onWindowLoad() {
       message.innerText = 'There was an error injecting script : \n' + chrome.runtime.lastError.message;
     }
   });
-  // chrome.tabs.executeScript(null, {file: "background.js"})
 }
 
 window.onload = onWindowLoad;
-
-
-// listen for a message from the background.js script
-if (!chrome.runtime.onMessage.hasListener(appListener)) {
-    chrome.runtime.onMessage.addListener(appListener);
-    // console.log("event heard around the world")
-}
-
-// listen for a response from the background.js script
-function appListener(request, sender) {
-  console.log("heard request", request.action)
-     if (request.action == "contentWarning") {
-        message.innerText = request.source;
-     }
-}
-// async function serverResponse() {
-//   console.log("yes")
-//   const response = await fetch('http://127.0.0.1:5000/');
-//   console.log("response recieved")
-//   const myJson = await response.json();
-//   console.log(JSON.stringify(myJson));
-// }
-// $(function() {
-//     $('#name').keyup(function() {
-//         $('#greet').text('Hello ' + $('#name').val());
-//     })
-// })
