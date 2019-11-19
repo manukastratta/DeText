@@ -1,7 +1,9 @@
 import getLists
 import textprocessing
 from bs4 import BeautifulSoup
-from bs4.element import Comment
+from nltk.tokenize import word_tokenize
+from nltk.corpus import stopwords
+from nltk.tokenize import RegexpTokenizer
 
 # Explicit and implicit lists
 EXPLICIT_LIST = getLists.getExplicitList()
@@ -35,11 +37,15 @@ def contains_explicit(paragraph):
 
 # Returns list of implicit words present in paragraph
 def contains_implicit(paragraph):
-    paragraph_words = list(paragraph.split(" "))
-    paragraph_words = [x.lower() for x in paragraph_words] # lower case everything
-    # TODO: remove punctuation
+    tokenized_words = word_tokenize(paragraph)
+    stop_words = set(stopwords.words("english"))
+    filtered_words = []
+    for w in tokenized_words:
+        if w not in stop_words:
+            filtered_words.append(w)
+    filtered_words = [word.lower() for word in filtered_words if word.isalpha()]
     found = []
-    for word in paragraph_words:
+    for word in filtered_words:
         if word in IMPLICIT_LIST:
             found.append(word)
     return found
@@ -104,6 +110,10 @@ def parse_website_content(html):
 
 
 ''' BELOW: for testing purposes '''
+
+sample_text = "<p>Hello my name is Manuka. This is, an example, just for the sake of an example. I want to see if, the punctuation, is correctly removed and whether, all my words! are!!! still here?!<\p>"
+parse_website_content(sample_text)
+
 
 # TRAINING_SET_SIZE = 12
 # NO_WARNINGS = 1
