@@ -1,13 +1,14 @@
-// // To print the html to the screen
-// chrome.runtime.onMessage.addListener(function(request, sender) {
-//   if (request.action == "getSource") {
-//     message.innerText = request.source;
-//   }
-// });
 
 
-//Injects script into tab to extract HTML
+//scanForContent()
+scanForContent2()
+
 function scanForContent() {
+    document.write('Hello world')
+}
+
+// IS BEING CALLED!
+function scanForContent2() {
   const message = document.querySelector('#message');
 
   chrome.tabs.executeScript(null, {
@@ -19,5 +20,3 @@ function scanForContent() {
     }
   });
 }
-
-window.onload = scanForContent;
