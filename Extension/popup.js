@@ -5,8 +5,16 @@
 //   }
 // });
 
+
+chrome.tabs.onUpdated.addListener( function (tabId, changeInfo, tab) {
+  if (changeInfo.status == 'complete') {
+    scanForContent();
+
+  }
+})
+
 //Injects script into tab to extract HTML
-function onWindowLoad() {
+function scanForContent() {
   const message = document.querySelector('#message');
 
   chrome.tabs.executeScript(null, {
@@ -19,4 +27,4 @@ function onWindowLoad() {
   });
 }
 
-window.onload = onWindowLoad;
+window.onload = scanForContent;
