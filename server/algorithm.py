@@ -77,17 +77,18 @@ def analyze_sentiment(paragraph):
     - relevant paragraphs: >= 2 (size of data array)
     - negative sentiment analysis on >=1 paragraph
 """
-def should_display_warning(p_content_data, nTotalP):
-    total_explicit = 0
-    total_implicit = 0
-    negative_sentiment = False
+def should_display_warning(p_content_data, nTotalP, total_explicit_article):
+    total_explicit_in_p = 0
+    total_implicit_in_p = 0
+    polarized_sentiment = False
     relevant_paragraphs = len(p_content_data)
 
     for data in p_content_data:
-        total_explicit += data[0] # Adds count of explicit words
-        total_implicit += data[1] # Adds count of implicit words
-        if data[2] < 0.5 and data[2] != 0: # Checks for sentiment value
-            negative_sentiment = True
+        total_explicit_in_p += data[0] # Adds count of explicit words
+        total_implicit_in_p += data[1] # Adds count of implicit words
+        #if data[2] < 0.5 and data[2] != 0: # Checks for sentiment value
+        if not (-0.05 < data[2] < 0.05): # Checks for polarized sentiment value
+            polarized_sentiment = True
     # print("total_explicit: ", total_explicit)
     # print("total_implicit: ", total_implicit)
     # print("negative_sentiment: ", negative_sentiment)
@@ -95,7 +96,7 @@ def should_display_warning(p_content_data, nTotalP):
     # print("relevant_paragraphs/totalP: ", relevant_paragraphs/nTotalP)
 
     #if total_explicit >= 2 and total_implicit >=2 and relevant_paragraphs/nTotalP >= 0.2 and negative_sentiment:
-    if total_explicit >= 2 and total_implicit >= 2 and relevant_paragraphs >= 2 and negative_sentiment:
+    if total_explicit_in_p >= 2 and total_implicit_in_p >= 2 and relevant_paragraphs >= 2 and polarized_sentiment or total_explicit_article >= 5:
         return True
     else:
         return False
@@ -104,8 +105,10 @@ def should_display_warning(p_content_data, nTotalP):
 def parse_website_content(html):
     clean_paragraphs = get_clean_paragraphs(html)
     p_content_data = [] # will store num of EXplicit, IMplicit, and sentiment for each relevant paragraph
+    total_explicit_article = []
     for p in clean_paragraphs:
         explicit_present, implicit_present = contains_keywords(p)
+        for x in explicit_present: total_explicit_article.append(x)
         if len(explicit_present) >= 1 and len(implicit_present) >= 1:  # TODO: tweak if necessary
             sentiment = analyze_sentiment(p)
             p_data = [len(explicit_present), len(implicit_present), sentiment]
@@ -113,8 +116,8 @@ def parse_website_content(html):
             # print("p_data: ", p_data)
             # print("explicit_present: ", explicit_present)
             # print("implicit_present: ", implicit_present)
-
-    return should_display_warning(p_content_data, len(clean_paragraphs))
+    print("total explicit article: ", total_explicit_article)
+    return should_display_warning(p_content_data, len(clean_paragraphs), len(total_explicit_article))
 
 
 
