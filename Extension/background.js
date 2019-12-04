@@ -13,6 +13,8 @@ chrome.runtime.onMessage.addListener(function(request, sender) {
   }
 });
 
+
+
 ////Injects script into tab to extract HTML
 //function scanForContent() {
 //  const message = document.querySelector('#message');
