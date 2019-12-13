@@ -18,8 +18,10 @@
     },
     "content_scripts": [
       {
-        "matches": ["https://en.wikipedia.org/*"], // "matches": ["<all_urls>"]
-        "js": ["testing.js"] // "getPagesSource.js"
+        "matches": ["<all_urls>"],
+        "js": ["testing.js"],
+        "run_at": "document_start",
+        "all_frames": true
       }
     ],
     "permissions": [

@@ -1,4 +1,4 @@
-// // To print the html to the screen
+// // To print the html to the screen, testing purposes
 // chrome.runtime.onMessage.addListener(function(request, sender) {
 //   if (request.action == "getSource") {
 //     message.innerText = request.source;
