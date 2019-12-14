@@ -1,5 +1,7 @@
 import xlrd 
 
+# Parses through excel sheet and extracts data
+# Returns list of words and phrases
 def getList(fileName):
     raw_list = []
     wb = xlrd.open_workbook(fileName) 
