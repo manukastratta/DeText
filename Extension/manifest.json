@@ -12,7 +12,6 @@
         "default_icon": "images/logo/icon-48x48.png",
         "default_popup": "popup.html"
     },
-    "options_page": "options.html",
     "background": {
         "scripts": ["jquery-3.4.1.min.js","background.js"]
     },
