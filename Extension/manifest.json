@@ -14,7 +14,7 @@
     },
     "options_page": "options.html",
     "background": {
-        "scripts": ["background.js"]
+        "scripts": ["jquery-3.4.1.min.js","background.js"]
     },
     "content_scripts": [
       {
