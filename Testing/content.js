@@ -105,7 +105,8 @@ button.onclick=function(){
   if(!isBlurred) {
     //document.body.classList.add("is-blurred");
     isBlurred = true;
-    //$('body').not("#loading").css("filter","blur(3px)");
+    $("body > *").not("body > .Modal").css("filter","blur(3px)");
+    //$('body').not('.Modal').css("filter","blur(3px)");
     showModalContent();
   }
 }
@@ -139,5 +140,6 @@ btnClose=document.getElementById("closeModal");
 btnClose.onclick= function(){
   document.body.classList.remove("is-blurred");
   isBlurred = false;
+  $("body > *").not("body > .Modal").css("filter","none");
   hideModalContent();
 }
