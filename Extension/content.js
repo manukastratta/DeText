@@ -1,4 +1,3 @@
-//Extracts HTML from tab, returns HTML as string
 function DOMtoString(document_root) {
     var html = '',
         node = document_root.firstChild;
@@ -26,7 +25,12 @@ function DOMtoString(document_root) {
     return html;
 }
 
+var docHTML = DOMtoString(document)
+//console.log("CONTENT SCRIPT RUNNING")
+//console.log("http://127.0.0.1:5000/");
+
+// send message to background.js
 chrome.runtime.sendMessage({
     action: "getSource",
-    source: DOMtoString(document)
+    source: docHTML
 });

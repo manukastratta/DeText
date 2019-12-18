@@ -13,9 +13,6 @@ def output():
 
         # Handles POST request (from extension)
         if request.method == "POST":
-            # request.values.get('html') — this accesses the HTML data sent by extension
-            # text = textprocessing.text_from_html(request.values.get('html'))
-
             # Return sends a JSON back to the extension – format {key: value, key_2: value, ... key_n: value}
             return {
                 "trigger": algorithm.parse_website_content(request.values.get('html'))
