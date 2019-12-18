@@ -6,13 +6,21 @@ console.log("Chrome extension ready to go!")
 
 function injectStyles() {
   // Injecting css style is-blurred to html of page
-  var styleBlurred = document.createElement('style');
-    styleBlurred.innerHTML = `
-    .is-blurred {
-      filter: blur(1px);
+  // var styleBlurred = document.createElement('style');
+  //   styleBlurred.innerHTML = `
+  //   .is-blurred {
+  //     filter: blur(1px);
+  //   }
+  //   `;
+  // document.head.appendChild(styleBlurred);
+
+  var styleNoBlur = document.createElement('style');
+    styleNoBlur.innerHTML = `
+    .no-blurr {
+      filter: none;
     }
     `;
-  document.head.appendChild(styleBlurred);
+  document.head.appendChild(styleNoBlur);
 
   var styleModal = document.createElement('style');
     styleModal.innerHTML = `
@@ -67,12 +75,24 @@ function injectStyles() {
     `;
   document.head.appendChild(styleClose);
 
+//   body > *:not(#loading) {
+//   filter: blur(3px);
+// }
+
+
 }
 
-injectStyles()
+//injectStyles()
 
 // Button for testing. Open the modal.
-var page = document.getElementById("main");
+// var page = document.getElementById("body");
+// if(!page) {
+//   page = document.getElementById("main");
+// }
+// if(!page) {
+//   page = document.getElementById("html");
+// }
+var page = document.body;
 var button = document.createElement("button");
 var text = document.createTextNode("TEST BUTTON");
 button.appendChild(text);
@@ -83,17 +103,18 @@ var isBlurred = false;
 
 button.onclick=function(){
   if(!isBlurred) {
-    document.body.classList.add("is-blurred");
+    //document.body.classList.add("is-blurred");
     isBlurred = true;
+    //$('body').not("#loading").css("filter","blur(3px)");
     showModalContent();
   }
 }
 
 // Creating modal div
 var modalDiv = document.createElement('div');
-modalDiv.className = 'Modal is-hidden is-visuallyHidden';
+modalDiv.className = 'Modal no-blurr is-hidden is-visuallyHidden';
 modalDiv.innerHTML = `
-  <div class="Modal-content">
+  <div class="Modal-content no-blurr">
       <span id="closeModal" class="Close">&times;</span>
       <h2><img src="icon-48x48.png" alt="" /> DeText Warning</h2>
       <h3>This website may contain content related to sexual
