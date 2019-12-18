@@ -19,7 +19,8 @@
     "content_scripts": [
       {
         "matches": ["<all_urls>"],
-        "js": ["jquery-3.4.1.min.js", "content.js"]  // "getPagesSource.js", "jquery-3.4.1.min.js"
+        "js": ["jquery-3.4.1.min.js", "content.js"], // modal.js
+        "css": ["jquery-3.4.1.min.js", "modal-style.css"]
       }
     ],
     "permissions": [

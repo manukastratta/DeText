@@ -1,0 +1,58 @@
+/* body > *:not(.Modal) {
+  filter: blur(1px);
+} */
+
+.is-blurred {
+  filter: blur(5px);
+}
+
+/* Overlay */
+
+/* The background behind the pop up. */
+.Modal {
+  display: block;
+  position: fixed;
+  left: 0;
+  top: 0;
+  z-index: 9999;
+  width: 100%;
+  height: 100%;
+  padding-top: 100px;
+  background-color: rgba(0, 100, 0, 0.4);
+  overflow: auto;
+  transition: all 0.5s linear;
+}
+
+/* The pop up, foreground. */
+.Modal-content {
+  background-color: white;
+  margin: auto;
+  padding: 20px;
+  border-radius: 4px;
+  max-width: 350px;
+  height: 200px;
+}
+
+/* TODO: what do these 3 lines do? */
+
+/* .ModalOpen { overflow: hidden; }
+in js: ,
+    container.parentElement.className="ModalOpen" */
+
+.is-hidden { display: none; }
+
+.is-visuallyHidden { opacity: 0; }
+
+/* The Close Button */
+
+.Close {
+  color: black;
+  float: right;
+  font-size: 16px;
+}
+
+.Close:hover, .Close:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}

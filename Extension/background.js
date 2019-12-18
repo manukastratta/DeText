@@ -8,11 +8,25 @@ chrome.runtime.onMessage.addListener(function(request, sender) {
         function (response) {
         // If decision to display content warning is positive
           if (response.trigger) {
-              window.confirm("Warning: this website may contain content related to sexual violence that could be disturbing for some users.");
+              //window.confirm("Warning: this website may contain content related to sexual violence that could be disturbing for some users.");
+              requestToShowModal();
           }
       });
   }
 });
+
+
+function requestToShowModal() {
+  chrome.tabs.executeScript(null, {
+    file: "modal.js"
+  }, function() {
+    // If you try and inject into an extensions page or the webstore/NTP you'll get an error
+    if (chrome.runtime.lastError) {
+      message.innerText = 'There was an error injecting script : \n' + chrome.runtime.lastError.message;
+    }
+  });
+}
+
 
 
 //////Injects script into tab to extract HTML

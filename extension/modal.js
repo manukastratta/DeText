@@ -93,23 +93,23 @@ function injectStyles() {
 //   page = document.getElementById("html");
 // }
 var page = document.body;
-var button = document.createElement("button");
-var text = document.createTextNode("TEST BUTTON");
-button.appendChild(text);
-page.appendChild(button);
+// var button = document.createElement("button");
+// var text = document.createTextNode("TEST BUTTON");
+// button.appendChild(text);
+// page.appendChild(button);
 
 // Initially, page is not blurred
 var isBlurred = false;
 
-button.onclick=function(){
-  if(!isBlurred) {
-    //document.body.classList.add("is-blurred");
-    isBlurred = true;
-    $("body > *").not("body > .Modal").css("filter","blur(3px)");
-    //$('body').not('.Modal').css("filter","blur(3px)");
-    showModalContent();
-  }
-}
+// button.onclick=function(){
+//   if(!isBlurred) {
+//     //document.body.classList.add("is-blurred");
+//     isBlurred = true;
+//     $("body > *").not("body > .Modal").css("filter","blur(3px)");
+//     //$('body').not('.Modal').css("filter","blur(3px)");
+//     showModalContent();
+//   }
+// }
 
 // Creating modal div
 var modalDiv = document.createElement('div');
@@ -143,3 +143,7 @@ btnClose.onclick= function(){
   $("body > *").not("body > .Modal").css("filter","none");
   hideModalContent();
 }
+
+
+$("body > *").not("body > .Modal").css("filter","blur(3px)");
+showModalContent();
