@@ -1,4 +1,4 @@
-console.log("Chrome extension ready to go!")
+//console.log("Chrome extension ready to go!")
 // var myDiv=document.createElement("myDiv");
 // document.body.appendChild(myDiv);
 // myDiv.innerText="TEST123";
@@ -99,7 +99,7 @@ var page = document.body;
 // page.appendChild(button);
 
 // Initially, page is not blurred
-var isBlurred = false;
+//var isBlurred = false;
 
 // button.onclick=function(){
 //   if(!isBlurred) {
@@ -117,8 +117,8 @@ modalDiv.className = 'Modal no-blurr is-hidden is-visuallyHidden';
 modalDiv.innerHTML = `
   <div class="Modal-content no-blurr">
       <span id="closeModal" class="Close">&times;</span>
-      <h2><img src="icon-48x48.png" alt="" /> DeText Warning</h2>
-      <h3>This website may contain content related to sexual
+      <h2 id = "DeTextTitle">DeText Warning</h2>
+      <h3 id = "DeTextMessage">This website may contain content related to sexual
           violence that could be disturbing for some users.</h3>
   </div>
 `;

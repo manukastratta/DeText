@@ -6,6 +6,28 @@
   filter: blur(5px);
 }
 
+#DeTextTitle {
+  color: #00cc66;
+  font-size: 30px;
+  font-family: knowledge-medium, sans-serif;
+  font-weight: bold;
+  text-align: center;
+  line-height: 1.8;
+  text-transform: capitalize;
+  font-style: normal;
+}
+
+#DeTextMessage {
+  color: #00cc66;
+  font-size: 20px;
+  font-family: knowledge-medium, sans-serif;
+  font-weight: bold;
+  text-align: center;
+  line-height: 1.0;
+  text-transform: capitalize;
+  font-style: normal;
+}
+
 /* Overlay */
 
 /* The background behind the pop up. */
@@ -19,7 +41,7 @@
   height: 100%;
   padding-top: 100px;
   background-color: rgba(0, 100, 0, 0.4);
-  overflow: auto;
+
   transition: all 0.5s linear;
 }
 
@@ -27,9 +49,9 @@
 .Modal-content {
   background-color: white;
   margin: auto;
-  padding: 20px;
+  padding: 10px;
   border-radius: 4px;
-  max-width: 350px;
+  width: 350px;
   height: 200px;
 }
 
