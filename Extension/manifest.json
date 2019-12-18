@@ -14,14 +14,12 @@
     },
     "options_page": "options.html",
     "background": {
-        "scripts": ["background.js"]
+        "scripts": ["jquery-3.4.1.min.js","background.js"]
     },
     "content_scripts": [
       {
-        "matches": ["*://*/*"], // "matches": ["<all_urls>"]
-        "js": ["testing.js", "jquery-3.4.1.min.js"], // ",getPagesSource.js"
-        "run_at": "document_start",
-        "all_frames": true
+        "matches": ["<all_urls>"],
+        "js": ["jquery-3.4.1.min.js", "content.js"]  // "getPagesSource.js", "jquery-3.4.1.min.js"
       }
     ],
     "permissions": [
