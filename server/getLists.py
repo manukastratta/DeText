@@ -13,11 +13,11 @@ def getList(fileName):
     return raw_list
      
 def getImplicitList():
-    implicit_list = getList("../trainingSets/implicit.xlsx")
+    implicit_list = getList("./trainingSets/implicit.xlsx")
     implicit_list = list(set(implicit_list))  # remove duplicates
     return implicit_list
 
 def getExplicitList():
-    explicit_list = getList("../trainingSets/explicit.xlsx")
+    explicit_list = getList("./trainingSets/explicit.xlsx")
     explicit_list = list(set(explicit_list))  # remove duplicates
     return explicit_list

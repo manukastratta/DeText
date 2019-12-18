@@ -1,5 +1,10 @@
 import getLists, textprocessing
 from bs4 import BeautifulSoup
+
+import nltk
+nltk.download('punkt')
+nltk.download('stopwords')
+
 from nltk.tokenize import word_tokenize, RegexpTokenizer
 from nltk.corpus import stopwords
 from textblob import TextBlob
@@ -7,6 +12,7 @@ from textblob import TextBlob
 # Explicit and implicit lists
 EXPLICIT_LIST = getLists.getExplicitList()
 IMPLICIT_LIST = getLists.getImplicitList()
+
 
 
 def readFile(fileName):

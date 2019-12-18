@@ -1,5 +1,8 @@
+# -*- coding: utf-8 -*-
+
 from flask import Flask, render_template, flash, request, redirect
 import algorithm
+import os
 
 app = Flask(__name__)
 
@@ -13,7 +16,7 @@ def output():
 
         # Handles POST request (from extension)
         if request.method == "POST":
-            # Return sends a JSON back to the extension – format {key: value, key_2: value, ... key_n: value}
+            # Return sends a JSON back to the extension
             return {
                 "trigger": algorithm.parse_website_content(request.values.get('html'))
             }
@@ -25,9 +28,11 @@ def output():
 
     # In case of server error
     except Exception as e:
-        return flash(e)
+        print("ERRPR")
+        print(e)
+        return "Error"
 
 
 # Starts server
 if __name__ == "__main__":
-    app.run()
+    app.run(debug=True, host='0.0.0.0', port=int(os.environ.get('PORT', 5000)))

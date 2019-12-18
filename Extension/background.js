@@ -4,7 +4,7 @@ chrome.runtime.onMessage.addListener(function(request, sender) {
       // message.innerText = request.source;
       //console.log("RECEIVED MESSAGE")
 
-      $.post("http://127.0.0.1:5000/", {html:request.source},
+      $.post("http://stark-meadow-27357.herokuapp.com/", {html:request.source},
         function (response) {
         // If decision to display content warning is positive
           if (response.trigger) {
