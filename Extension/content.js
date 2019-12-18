@@ -27,7 +27,6 @@ function DOMtoString(document_root) {
 
 var docHTML = DOMtoString(document)
 //console.log("CONTENT SCRIPT RUNNING")
-//console.log("http://127.0.0.1:5000/");
 
 // send message to background.js
 chrome.runtime.sendMessage({
