@@ -13,30 +13,10 @@ def output():
 
         # Handles POST request (from extension)
         if request.method == "POST":
-            print("getting POST request!!!")
-            # request.values.get('html') — this accesses the HTML data sent by extension
-            # text = textprocessing.text_from_html(request.values.get('html'))
-
-            algo_response = algorithm.parse_website_content(request.values.get('html'))
-            print("ALGO RESPONSE IS: ", algo_response)
-
-            if(algo_response):
-                print("returning 1")
-                return {
-                    "trigger": '1'
-                }
-            else:
-                print("returning 0")
-                return {
-                    "trigger": '0'
-                }
-
-
-
             # Return sends a JSON back to the extension – format {key: value, key_2: value, ... key_n: value}
-            # return {
-            #     "trigger": algorithm.parse_website_content(request.values.get('html'))
-            # }
+            return {
+                "trigger": algorithm.parse_website_content(request.values.get('html'))
+            }
 
         # # For testing purposes, make request to server from browser to compare with request to server from extension
         # elif request.method == "GET":
