@@ -110,8 +110,7 @@ def should_display_warning(p_content_data, nTotalP, total_explicit_article):
         total_implicit_in_p += data[1] # Adds count of implicit words
         if not (-0.05 < data[2] < 0.05): # Checks for polarized sentiment value
             polarized_sentiment = True
-
-    if total_explicit_in_p >= 2 and total_implicit_in_p >= 2 and relevant_paragraphs >= 2\
+    if total_explicit_in_p >= 2 and total_implicit_in_p >= 2 and relevant_paragraphs >= 2 \
             and polarized_sentiment or total_explicit_article >= 5:
         return True
     else:
